@@ -6,6 +6,16 @@
       "siteUrl": "https://www.bbc.co.uk/news/world",
       "articles": [
         {
+          "id": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo#0",
+          "author": null,
+          "description": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
+          "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-18T17:31:30.000Z",
+          "wordCount": 5494,
+          "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/629b/live/fef4ee20-b356-11f1-bc1f-3f186ca4140c.jpg"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o#1",
           "author": null,
           "description": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
@@ -26,22 +36,12 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/72d4/live/9686b940-b360-11f1-8f19-bd786ea30d0b.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo#0",
-          "author": null,
-          "description": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
-          "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-18T15:08:12.000Z",
-          "wordCount": 5494,
-          "title": "At least 17 killed after vehicle loaded with explosives rams Pakistan mosque",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/629b/live/fef4ee20-b356-11f1-bc1f-3f186ca4140c.jpg"
-        },
-        {
           "id": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o#0",
           "author": null,
           "description": "Cristiano Ronaldo is named in the first squad selected by new Portugal coach Jorge Jesus for their upcoming Nations League games.",
           "link": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-09-18T12:45:25.000Z",
-          "wordCount": 5668,
+          "wordCount": 5688,
           "title": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
           "imageUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4465/live/27650870-b359-11f1-b949-71f91f81d1ab.jpg"
         },
@@ -171,7 +171,7 @@
           "description": "BBC Verify tracks down the location of a Houthi video showing the wreckage of an F-15 they claim to have shot down.",
           "link": "https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-09-17T13:47:36.000Z",
-          "wordCount": 7434,
+          "wordCount": 7449,
           "title": "Verified video shows wreckage of Saudi fighter jet shot down over Yemen",
           "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ddbf/live/476a8230-b2a0-11f1-a430-4d16ee157c41.png"
         },
@@ -298,7 +298,7 @@
           "description": "Michael Sheen said his meeting with the first minister was \"early days but that's really encouraging\".",
           "link": "https://www.bbc.co.uk/news/articles/cke87n51563po?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-09-18T12:01:08.000Z",
-          "wordCount": 7360,
+          "wordCount": 7375,
           "title": "Michael Sheen's 'constructive' meeting with first minister over toxic dumping claims",
           "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ae7c/live/e294bb70-b35b-11f1-b949-71f91f81d1ab.jpg"
         },
@@ -308,7 +308,7 @@
           "description": "Michael Sheen said his meeting with the first minister was \"early days but that's really encouraging\".",
           "link": "https://www.bbc.co.uk/news/articles/cke87n51563po?at_medium=RSS&at_campaign=rss",
           "publishedOn": "2026-09-18T12:01:08.000Z",
-          "wordCount": 7360,
+          "wordCount": 7375,
           "title": "Michael Sheen's 'constructive' meeting with first minister over toxic dumping claims",
           "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ae7c/live/e294bb70-b35b-11f1-b949-71f91f81d1ab.jpg"
         },
@@ -762,10 +762,10 @@
         {
           "id": "https://www.dw.com/en/high-profile-raids-spotlight-india-s-food-safety-struggles/a-79324342?maca=en-rss-en-all-1573-rdf",
           "author": null,
-          "description": "Recent raids at luxury hotels and a wider crackdown on food companies have renewed the debate about food safety standards and enforcement in India.",
+          "description": "Recent raids at luxury hotels and a wider crackdown on food companies have renewed the debate about food-safety standards and enforcement in India.",
           "link": "https://www.dw.com/en/high-profile-raids-spotlight-india-s-food-safety-struggles/a-79324342?maca=en-rss-en-all-1573-rdf",
           "publishedOn": "2026-09-18T11:26:00.000Z",
-          "wordCount": 6475,
+          "wordCount": 6472,
           "title": "High-profile raids spotlight India's food-safety struggles",
           "imageUrl": "https://static.dw.com/image/79326512_6.jpg"
         },
@@ -2031,20 +2031,20 @@
           "author": "Marina Dunbar (now); Chris Hippensteel and Taz Ali (earlier)",
           "description": "Campaigning or control of Congress is expected to ramp up as some states open early voting\n\nSign up for the US Breaking News email\n\nShapiro and Newsom aren’t the only governors making moves on AI lately.\nVirginia Governor Abigail Spanberger, a Democrat, announced at a news conference today plans for tighter rules on data center development in order to address transparency, energy use and environmental concerns. And Nevada’s governor, Joe Lombardo, a Republican, signed an executive order aimed at tackling similar issues.\n Continue reading...",
           "link": "https://www.theguardian.com/us-news/live/2026/sep/18/us-politics-midterms-early-voting-cost-of-living-iran-war-trump-kennedy-center-institute-of-peace-latest-news-updates",
-          "publishedOn": "2026-09-18T17:08:15.000Z",
-          "wordCount": 9818,
+          "publishedOn": "2026-09-18T17:21:35.000Z",
+          "wordCount": 10040,
           "title": "Early voting begins in midterms as campaign shifts focus to cost of living and Iran war – US politics live",
           "imageUrl": "https://i.guim.co.uk/img/media/f6287da7fd9bd90a7b12e08e76992e99d8a890bc/0_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=c931240ca72b79773bcc8363ae2be6c9"
         },
         {
-          "id": "https://www.theguardian.com/us-news/2026/sep/18/trump-administration-sued-federal-law-enforcement-voting",
-          "author": "Ariana Baio",
-          "description": "Civil rights groups say plan will make people ‘afraid to vote’ and violates the Voting Rights Act\n\nUS politics live – latest updates\n\nA coalition of civil rights groups filed a lawsuit against Trump administration officials on Friday, seeking to stop them from threatening to deploy federal law enforcement officers to polling stations in the US midterm elections.\nThe suit, led by the NAACP, alleges that by threatening to deploy law enforcement to survey elections and initiating new voter roll oversight, the Trump administration has violated a section of the Voting Rights Act which prohibits voter intimidation.\n Continue reading...",
-          "link": "https://www.theguardian.com/us-news/2026/sep/18/trump-administration-sued-federal-law-enforcement-voting",
-          "publishedOn": "2026-09-18T17:03:29.000Z",
-          "wordCount": 4168,
-          "title": "Trump administration sued over threat to deploy federal law enforcement at voting sites",
-          "imageUrl": "https://i.guim.co.uk/img/media/6625bbe0d5ff794f931ee581e7ecbae419c2d4f8/456_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7311b797f6beebe983905dc54bff2869"
+          "id": "https://www.theguardian.com/world/2026/sep/18/brazil-lula-welfare-payments-weight-loss-jabs-election",
+          "author": "Tiago Rogero in Rio de Janeiro",
+          "description": "Critics say moves from leftwing incumbent president are electorally motivated two weeks before Brazil’s elections\nBrazil’s president, Luiz Inácio Lula da Silva, has announced a 15% increase in the country’s main cash-transfer programme for poor families, as well as free weight-loss jabs, prompting criticism from opponents who say the moves are electorally motivated just two weeks before the presidential election.\nOn 4 October, the leftwing incumbent will face the far-right senator Flávio Bolsonaro, son of the former president Jair Bolsonaro, who has been gaining ground in recent weeks.\n Continue reading...",
+          "link": "https://www.theguardian.com/world/2026/sep/18/brazil-lula-welfare-payments-weight-loss-jabs-election",
+          "publishedOn": "2026-09-18T17:10:37.000Z",
+          "wordCount": 4330,
+          "title": "Brazil’s Lula announces higher welfare payments and free weight-loss jabs ahead of election",
+          "imageUrl": "https://i.guim.co.uk/img/media/d9bf03b2031b6b969de3c13c9e3564bc2d6bebce/426_0_4300_3440/master/4300.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f7cc8add0e55bc11f366af91dcded61d"
         },
         {
           "id": "https://www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna",
@@ -2052,7 +2052,7 @@
           "description": "Police fire teargas as protests break out in city of Minna after deaths of suspected illegal goldminers\nSurvivors from a prison cell in Nigeria where 37 suspected illegal goldminers died while in the custody of a paramilitary group this week have recounted their panic and struggle for breath, as police on Friday fired teargas at people protesting against the deaths.\nNigeria Security and Civil Defence Corps (NSCDC) – a paramilitary group that works with police – initially blamed the deaths in Minna, the state capital of the mineral-rich state of Niger, on a disease outbreak.\n Continue reading...",
           "link": "https://www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna",
           "publishedOn": "2026-09-18T17:01:10.000Z",
-          "wordCount": 4399,
+          "wordCount": 4539,
           "title": "Survivors recount panic and struggle to breathe in Nigerian prison cell where 37 died",
           "imageUrl": "https://i.guim.co.uk/img/media/c7585407e277e5b2acbc2922de46ff2e5bce772e/887_0_3946_3158/master/3946.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=42eb6a52a8d350399b99660628a0405c"
         },
@@ -2185,6 +2185,16 @@
           "wordCount": 4777,
           "title": "Yemen’s anti-Houthi forces launch inquest into sudden military collapse",
           "imageUrl": "https://i.guim.co.uk/img/media/fafc5119093045161ab8a9678f5934c781b67d05/45_160_5152_4121/master/5152.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=77ef65983ea669cc2c16d24386da0ceb"
+        },
+        {
+          "id": "https://www.theguardian.com/environment/2026/sep/18/pfas-veterans-blood-forever-chemicals",
+          "author": "Tom Perkins",
+          "description": "Soil and water around military bases show elevated levels of Pfas pollution due to chemicals used in firefighting foam\nMany US military veterans have much higher levels of Pfas “forever chemicals” in their blood than non-veterans, new peer-reviewed research finds, raising more questions about health risks the nation’s service members face after serving at polluted bases.\nGround water, surface water and soil around military bases show among the highest levels of Pfas pollution in the US because the chemicals are used in firefighting foam deployed during training and emergencies. While the problem has been clear for over a decade, the new Brown University-led study is the first to compare levels in veterans’ blood with those in civilians.\n Continue reading...",
+          "link": "https://www.theguardian.com/environment/2026/sep/18/pfas-veterans-blood-forever-chemicals",
+          "publishedOn": "2026-09-18T14:00:19.000Z",
+          "wordCount": 4475,
+          "title": "US veterans have greater levels of Pfas in their blood than civilians, new study finds",
+          "imageUrl": "https://i.guim.co.uk/img/media/8ccc8a3e0e28ac0bd45cc2a0026fdc3b6c371400/412_0_2676_2141/master/2676.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=38446320f545017f497b4d8756ef42a3"
         },
         {
           "id": "https://www.theguardian.com/uk-news/2026/sep/18/british-sikh-man-granted-bail-in-india-nine-years-after-arrest",
@@ -2445,16 +2455,6 @@
           "wordCount": 4725,
           "title": "People protecting nature and land set up self-defence units amid threat of murder",
           "imageUrl": "https://i.guim.co.uk/img/media/3c27bedbd4302d83f4a9a8550d02971439dfc034/337_0_5730_4584/master/5730.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a79aca20ecf6a1a31697e537a13e82a7"
-        },
-        {
-          "id": "https://www.theguardian.com/world/2026/sep/15/brazil-supreme-court-presidential-election",
-          "author": "Tom Phillips in Rio de Janeiro",
-          "description": "Scandal explodes as country’s election campaign peaks, with polls suggesting dead heat between candidates\nBrazil’s supreme court has been thrust into what experts consider the greatest crisis since the return of democracy in the 1980s, as two rival judges lock horns on the eve of the presidential election with unpredictable consequences for Latin America’s largest democracy.\nThe politically charged dispute exploded into public view on Tuesday as judges traded insults and accusations during a heated supreme court hearing that was livestreamed into millions of Brazilian homes.\n Continue reading...",
-          "link": "https://www.theguardian.com/world/2026/sep/15/brazil-supreme-court-presidential-election",
-          "publishedOn": "2026-09-15T19:14:00.000Z",
-          "wordCount": 4489,
-          "title": "Ferocious fight among Brazil’s supreme court erupts on eve of presidential election",
-          "imageUrl": "https://i.guim.co.uk/img/media/38e258c3407870ebaabb9ea23a7e206a4990bb75/672_0_4680_3744/master/4680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f9eea28d5b2008e2e880e8c0dbe8289"
         },
         {
           "id": "https://www.theguardian.com/world/2026/sep/15/imran-khan-sons-accuse-pakistan-army-chief-vendetta-asim-munir",
@@ -2771,6 +2771,16 @@
       "siteUrl": "https://www.cbc.ca/news/world/?cmp=rss",
       "articles": [
         {
+          "id": "9.7349487",
+          "author": "Chris Iorfida",
+          "description": "The top prosecutor from Minnesota's Hennepin County announced the arrest Friday of an ICE officer charged for shooting a Venezuelan-born man in January at the height of a deadly immigration blitz launched by the Trump administration.",
+          "link": "https://www.cbc.ca/news/world/us-minn-ice-agent-arrested-texas-9.7349487?cmp=rss",
+          "publishedOn": "2026-09-18T17:01:34.000Z",
+          "wordCount": 4600,
+          "title": "ICE agent pleads not guilty to lying to FBI about shooting of man in Minneapolis",
+          "imageUrl": "https://i.cbc.ca/ais/ef383192-1d49-45d5-9e58-e8fd65e21126,1789748714304/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4030%2C2266%29%3BResize%3D620"
+        },
+        {
           "id": "9.7349276",
           "author": null,
           "description": "Rescue teams in Indonesia on Friday recovered three bodies from a capsized ferry while preparing to salvage the wreckage of the accident, bringing the confirmed death toll to nine, with 126 people still missing, officials said.",
@@ -2939,16 +2949,6 @@
           "wordCount": 6690,
           "title": "'Blood is on our hands': Haitian honour student's death sparks outcry over ICE ankle monitors",
           "imageUrl": "https://i.cbc.ca/ais/41f27a6a-76ad-4d51-bac8-274531606b3d,1789583283026/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C112%2C2028%2C1140%29%3BResize%3D620"
-        },
-        {
-          "id": "9.7347425",
-          "author": null,
-          "description": "The Trump administration has  denied visas for a high-level Palestinian delegation to attend an annual meeting of world leaders at the United Nations for the second year in a row.",
-          "link": "https://www.cbc.ca/news/world/palestinian-visas-denied-un-general-assembly-9.7347425?cmp=rss",
-          "publishedOn": "2026-09-17T01:59:12.000Z",
-          "wordCount": 2791,
-          "title": "U.S. denies visas to Palestinian delegation for 2nd year in a row for UN assembly in New York",
-          "imageUrl": "https://i.cbc.ca/ais/57a391bc-aebe-48e6-b334-188634c672e7,1789608862029/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C328%2C5261%2C2959%29%3BResize%3D620"
         },
         {
           "id": "9.7345852",
@@ -3220,7 +3220,7 @@
           "description": "Perfect Strangers bests the overrated 12 Angry Men.",
           "link": "https://www.nationalreview.com/2026/09/12-angry-jurors-on-film/",
           "publishedOn": "2026-09-18T10:30:48.000Z",
-          "wordCount": 6511,
+          "wordCount": 6503,
           "title": "12 Angry Jurors on Film",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/12-angry-men.jpg?fit=2057%2C1200&ssl=1"
         },
@@ -3260,7 +3260,7 @@
           "description": "Demolition is a very real possibility, such is the intensity of this tantrum.",
           "link": "https://www.nationalreview.com/2026/09/a-scorned-trump-gathers-bulldozers-for-the-kennedy-center/",
           "publishedOn": "2026-09-17T22:25:35.000Z",
-          "wordCount": 6896,
+          "wordCount": 6133,
           "title": "A Scorned Trump Gathers Bulldozers for the Kennedy Center",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/trump-portrait-kennedy-center.jpg?fit=2057%2C1200&ssl=1"
         },
@@ -3270,7 +3270,7 @@
           "description": "Mid-September polling is not the last word, but if Trump’s approval rating is below 40 on Election Day, it’s grisly news for the GOP.",
           "link": "https://www.nationalreview.com/2026/09/the-senate-races-are-breaking-bad-already/",
           "publishedOn": "2026-09-17T21:05:48.000Z",
-          "wordCount": 7519,
+          "wordCount": 22774,
           "title": "The Senate Races Are Breaking Bad Already",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/06/trump-senate-leadership.jpg?fit=2057%2C1200&ssl=1"
         },
@@ -3290,7 +3290,7 @@
           "description": "Michiganders can’t allow him to suddenly distance his campaign from Hasan Piker’s toxicity.",
           "link": "https://www.nationalreview.com/2026/09/el-sayed-shouldnt-get-away-with-it/",
           "publishedOn": "2026-09-17T17:38:24.000Z",
-          "wordCount": 6307,
+          "wordCount": 7070,
           "title": "El-Sayed Shouldn’t Get Away with It",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/SayedPiker.jpg?fit=2057%2C1200&ssl=1"
         },
@@ -3310,7 +3310,7 @@
           "description": "At 239, our Constitution has been a wild success story. But it might not make it to 250.",
           "link": "https://www.nationalreview.com/2026/09/why-we-need-our-constitution-and-need-it-back/",
           "publishedOn": "2026-09-17T16:27:09.000Z",
-          "wordCount": 6721,
+          "wordCount": 6820,
           "title": "Why We Need Our Constitution — and Need It Back",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/05/Constitution.jpg?fit=2057%2C1200&ssl=1"
         },
@@ -3340,7 +3340,7 @@
           "description": "Imposing conditions on Iran rather than trusting it is the smarter strategy.",
           "link": "https://www.nationalreview.com/2026/09/the-case-for-containment/",
           "publishedOn": "2026-09-17T10:30:34.000Z",
-          "wordCount": 8168,
+          "wordCount": 20201,
           "title": "The Case for Containment",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/defending-america-091426-13.jpg?fit=2057%2C1200&ssl=1"
         },
@@ -3360,7 +3360,7 @@
           "description": "A heroine, a villain, innocents slated for slaughter, just deserts, and a happy ending, presented with great art and intelligence at the Isabella Stewart Gardner Museum.",
           "link": "https://www.nationalreview.com/2026/09/queen-esther-and-rembrandt-rule-in-a-superb-show-at-the-gardner/",
           "publishedOn": "2026-09-17T10:30:26.000Z",
-          "wordCount": 8644,
+          "wordCount": 22761,
           "title": "Queen Esther and Rembrandt Rule in a Superb Show at the Gardner",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/The-Feast-of-Esther.jpg?fit=2057%2C1200&ssl=1"
         },
@@ -3383,6 +3383,263 @@
           "wordCount": 6746,
           "title": "The New Morality of the Assisted-Suicide Cause",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/assisted-dying-bill-britain-2.jpg?fit=2057%2C1200&ssl=1"
+        }
+      ]
+    },
+    {
+      "title": "ABC News: International",
+      "feedUrl": "https://abcnews.go.com/abcnews/internationalheadlines",
+      "siteUrl": "http://abcnews.com",
+      "articles": [
+        {
+          "id": "https://abcnews.com/International/wireStory/brazilian-police-arrest-suspect-dozens-killings-136561999",
+          "author": null,
+          "description": "Brazilian police have announced they will reopen dozens of cases linked to a self-confessed serial killer",
+          "link": "https://abcnews.com/International/wireStory/brazilian-police-arrest-suspect-dozens-killings-136561999",
+          "publishedOn": "2026-09-18T16:02:37.000Z",
+          "wordCount": 2644,
+          "title": "Brazilian police arrest a suspect in dozens of killings",
+          "imageUrl": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+        },
+        {
+          "id": "https://abcnews.com/International/wireStory/macron-orders-protections-infrastructure-citing-growing-russian-threat-136561049",
+          "author": null,
+          "description": "French President Emmanuel Macron has asked his government to prepare a plan to protect critical infrastructure against drone and cyberattacks",
+          "link": "https://abcnews.com/International/wireStory/macron-orders-protections-infrastructure-citing-growing-russian-threat-136561049",
+          "publishedOn": "2026-09-18T14:46:39.000Z",
+          "wordCount": 3445,
+          "title": "Macron orders protections for infrastructure, citing a growing Russian threat",
+          "imageUrl": "https://i.abcnewsfe.com/a/7d1a6bcb-ff33-4c73-9a71-1d1bb85ba11e/wirestory_29767a3fe6723ecffed343f0a4847e95_16x9.jpg?w=1600"
+        },
+        {
+          "id": "https://abcnews.com/International/wireStory/russia-lodges-protest-japan-us-typhoon-missile-deployment-136558875",
+          "author": null,
+          "description": "Russia’s Foreign Ministry says that it has sent a note to Japan over its hosting of U.S. medium-range missile systems",
+          "link": "https://abcnews.com/International/wireStory/russia-lodges-protest-japan-us-typhoon-missile-deployment-136558875",
+          "publishedOn": "2026-09-18T14:42:16.000Z",
+          "wordCount": 3097,
+          "title": "Russia lodges protest with Japan over US Typhoon missile deployment",
+          "imageUrl": "https://i.abcnewsfe.com/a/adf34789-15fa-4db3-8459-c7a327743f33/wirestory_fc0ee565826281e98794e9798522f2df_16x9.jpg?w=1600"
+        },
+        {
+          "id": "https://abcnews.com/International/wireStory/taiwan-holds-joint-military-drills-attack-drones-ahead-136554853",
+          "author": null,
+          "description": "Taiwan’s president has overseen military drills featuring missiles and drones on Friday, ahead of a planned summit next week between the U.S. and Chinese leaders in which the fate of the self-ruled island will be discussed",
+          "link": "https://abcnews.com/International/wireStory/taiwan-holds-joint-military-drills-attack-drones-ahead-136554853",
+          "publishedOn": "2026-09-18T13:03:24.000Z",
+          "wordCount": 3856,
+          "title": "Taiwan holds first joint military drills using attack drones ahead of Trump-Xi summit",
+          "imageUrl": "https://i.abcnewsfe.com/a/74d1fc49-725f-441d-b47c-04c16261e8b8/wirestory_e7c1c16040f6f9ca5e7672a3fda0ab60_16x9.jpg?w=1600"
+        },
+        {
+          "id": "https://abcnews.com/International/wireStory/4-suspects-killed-shootout-police-rescue-kidnapped-british-136551217",
+          "author": null,
+          "description": "Police in Malawi say four suspects were fatally shot in the operation that rescued a British woman who was kidnapped",
+          "link": "https://abcnews.com/International/wireStory/4-suspects-killed-shootout-police-rescue-kidnapped-british-136551217",
+          "publishedOn": "2026-09-18T09:21:47.000Z",
+          "wordCount": 2818,
+          "title": "4 suspects killed in shootout as police rescue kidnapped British woman in Malawi",
+          "imageUrl": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+        },
+        {
+          "id": "https://abcnews.com/International/wireStory/shooting-high-school-philippines-kills-3-young-people-136551214",
+          "author": null,
+          "description": "A shooting at a high school in the southern Philippines has left at least three young people dead and six others injured, including the gunman",
+          "link": "https://abcnews.com/International/wireStory/shooting-high-school-philippines-kills-3-young-people-136551214",
+          "publishedOn": "2026-09-18T09:19:48.000Z",
+          "wordCount": 2637,
+          "title": "Shooting at high school in the Philippines kills at least 3 young people, injures 6",
+          "imageUrl": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+        },
+        {
+          "id": "https://abcnews.com/International/wireStory/australian-man-accused-teenage-girls-murder-appears-thailand-136550969",
+          "author": null,
+          "description": "An Australian man has appeared in a Thai court for the first time on charges of murder and concealment of a body in connection with the death of a teenage girl",
+          "link": "https://abcnews.com/International/wireStory/australian-man-accused-teenage-girls-murder-appears-thailand-136550969",
+          "publishedOn": "2026-09-18T09:18:48.000Z",
+          "wordCount": 3653,
+          "title": "Australian man accused of teenage girl's murder appears in Thailand court",
+          "imageUrl": "https://i.abcnewsfe.com/a/66f9f6c0-97d5-45c2-a227-513ef1a98e99/wirestory_3c06b335f9f75c62223611f7161cd2f1_16x9.jpg?w=1600"
+        },
+        {
+          "id": "https://abcnews.com/International/wireStory/playing-song-north-korean-anthem-played-south-korean-136550873",
+          "author": null,
+          "description": "South Korean field hockey players were perplexed when the national anthem of North Korea was played instead of their own before a men's field hockey match against Bangladesh at the Asian Games",
+          "link": "https://abcnews.com/International/wireStory/playing-song-north-korean-anthem-played-south-korean-136550873",
+          "publishedOn": "2026-09-18T09:17:12.000Z",
+          "wordCount": 3482,
+          "title": "They're not playing our song! North Korean anthem played at South Korean hockey match",
+          "imageUrl": "https://i.abcnewsfe.com/a/df34d2d7-9ed3-450b-a585-a1513b1bc80a/wirestory_525076ca6ad11cac6e1184cf959fe495_16x9.jpg?w=1600"
+        },
+        {
+          "id": "https://abcnews.com/International/wireStory/fatal-shark-attack-suspected-australian-city-beach-136550779",
+          "author": null,
+          "description": "A man has been killed by a shark as he swam off a Western Australian city beach",
+          "link": "https://abcnews.com/International/wireStory/fatal-shark-attack-suspected-australian-city-beach-136550779",
+          "publishedOn": "2026-09-18T09:10:24.000Z",
+          "wordCount": 2912,
+          "title": "Shark kills swimmer off Western Australian city beach",
+          "imageUrl": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+        },
+        {
+          "id": "https://abcnews.com/International/wireStory/vanuatu-ends-search-37-people-missing-ferry-sinking-136550109",
+          "author": null,
+          "description": "Authorities have called off the search for survivors after a ferry sank off Vanuatu, leaving 39 people presumed dead",
+          "link": "https://abcnews.com/International/wireStory/vanuatu-ends-search-37-people-missing-ferry-sinking-136550109",
+          "publishedOn": "2026-09-18T06:19:20.000Z",
+          "wordCount": 3566,
+          "title": "Vanuatu ends search for 37 people missing in ferry sinking",
+          "imageUrl": "https://i.abcnewsfe.com/a/e6d406d7-bc4c-4fa5-9e9e-e5d171c6c8fb/wirestory_ba025ba8fe032beacdc0af14d7a3ce9d_16x9.jpg?w=1600"
+        },
+        {
+          "id": "https://abcnews.com/International/wireStory/africas-urban-waste-crisis-outpacing-infrastructure-investment-choking-136548408",
+          "author": null,
+          "description": "Johannesburg is struggling with a deepening waste crisis marked by unreliable collections, rapidly shrinking landfill space and a rise in illegal dumping",
+          "link": "https://abcnews.com/International/wireStory/africas-urban-waste-crisis-outpacing-infrastructure-investment-choking-136548408",
+          "publishedOn": "2026-09-18T04:04:39.000Z",
+          "wordCount": 5228,
+          "title": "Africa's urban waste crisis is outpacing infrastructure investment and choking neighborhoods",
+          "imageUrl": "https://i.abcnewsfe.com/a/78dc9d83-d8ec-4464-9253-5cba8d7eae1b/wirestory_e49083e1f0f22c48aedf8e73de1ea65c_16x9.jpg?w=1600"
+        },
+        {
+          "id": "https://abcnews.com/International/wireStory/japans-central-bank-raises-benchmark-interest-rate-125-136548504",
+          "author": null,
+          "description": "Japan's central bank raises benchmark interest rate to 1.25%",
+          "link": "https://abcnews.com/International/wireStory/japans-central-bank-raises-benchmark-interest-rate-125-136548504",
+          "publishedOn": "2026-09-18T04:03:27.000Z",
+          "wordCount": 1949,
+          "title": "Japan's central bank raises benchmark interest rate to 1.25%",
+          "imageUrl": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+        },
+        {
+          "id": "https://abcnews.com/International/wireStory/sweeping-us-sanctions-bill-offers-ukraine-new-leverage-136545599",
+          "author": null,
+          "description": "Ukraine believes Russia will only negotiate seriously if the war becomes too costly",
+          "link": "https://abcnews.com/International/wireStory/sweeping-us-sanctions-bill-offers-ukraine-new-leverage-136545599",
+          "publishedOn": "2026-09-18T02:27:09.000Z",
+          "wordCount": 5135,
+          "title": "A sweeping US sanctions bill offers Ukraine new leverage on Russia",
+          "imageUrl": "https://i.abcnewsfe.com/a/4193e6ea-43cd-42bb-80a3-a2dd13aa5463/wirestory_8ed078bcd04fc60111382ebd7402ef32_16x9.jpg?w=1600"
+        },
+        {
+          "id": "https://abcnews.com/International/wireStory/traditional-chinese-coffin-maker-malaysia-preserves-fading-family-136546674",
+          "author": null,
+          "description": "Goh Khuay Par has spent more than five decades making traditional Chinese coffins by hand in Malaysia, carrying on a family craft passed down through three generations",
+          "link": "https://abcnews.com/International/wireStory/traditional-chinese-coffin-maker-malaysia-preserves-fading-family-136546674",
+          "publishedOn": "2026-09-18T01:29:11.000Z",
+          "wordCount": 5590,
+          "title": "A traditional Chinese coffin maker in Malaysia preserves a fading family craft",
+          "imageUrl": "https://i.abcnewsfe.com/a/d1f6c3c5-253a-4ebf-9e18-b027b04335aa/wirestory_28ee51bed812efd1bdc4d6bae076ec53_16x9.jpg?w=1600"
+        },
+        {
+          "id": "https://abcnews.com/International/wireStory/new-human-rights-report-unveils-details-blames-police-136543889",
+          "author": null,
+          "description": "A human rights group in Haiti has published a report that reveals new details about one of the country’s biggest massacres in recent years and unveils security holes as authorities struggle to contain violent gangs in the Caribbean country",
+          "link": "https://abcnews.com/International/wireStory/new-human-rights-report-unveils-details-blames-police-136543889",
+          "publishedOn": "2026-09-17T23:21:17.000Z",
+          "wordCount": 5111,
+          "title": "New human rights report unveils details, blames police for recent massacre in Haiti",
+          "imageUrl": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+        },
+        {
+          "id": "https://abcnews.com/International/wireStory/33-illegal-mining-suspects-found-dead-nigerian-custody-136541375",
+          "author": null,
+          "description": "At least 33 suspects arrested for alleged illegal mining have been found dead in Nigerian security custody",
+          "link": "https://abcnews.com/International/wireStory/33-illegal-mining-suspects-found-dead-nigerian-custody-136541375",
+          "publishedOn": "2026-09-17T21:19:08.000Z",
+          "wordCount": 2595,
+          "title": "At least 33 illegal mining suspects found dead in Nigerian custody, and officials suspect disease",
+          "imageUrl": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+        },
+        {
+          "id": "https://abcnews.com/International/wireStory/british-woman-kidnapped-malawi-rescued-police-136539027",
+          "author": null,
+          "description": "Police say a British woman kidnapped in the southern African nation of Malawi last week has been rescued",
+          "link": "https://abcnews.com/International/wireStory/british-woman-kidnapped-malawi-rescued-police-136539027",
+          "publishedOn": "2026-09-17T19:53:07.000Z",
+          "wordCount": 2771,
+          "title": "A British woman who was kidnapped in Malawi has been rescued, police say",
+          "imageUrl": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+        },
+        {
+          "id": "https://abcnews.com/International/wireStory/brazils-lula-announces-15-increase-flagship-welfare-payments-136536201",
+          "author": null,
+          "description": "Brazilian President Luiz Inácio Lula da Silva has signed a decree increasing benefits of his welfare program by 15%",
+          "link": "https://abcnews.com/International/wireStory/brazils-lula-announces-15-increase-flagship-welfare-payments-136536201",
+          "publishedOn": "2026-09-17T18:22:13.000Z",
+          "wordCount": 3631,
+          "title": "Brazil’s Lula announces 15% increase in flagship welfare payments ahead of key election",
+          "imageUrl": "https://i.abcnewsfe.com/a/63f73ec0-25f3-4c7b-ae53-18c6453c79a0/wirestory_b0e6975c4110dab4e4181760150fdb2c_16x9.jpg?w=1600"
+        },
+        {
+          "id": "https://abcnews.com/International/wireStory/saudi-arabia-debris-intercepted-houthi-drone-killed-1-136521559",
+          "author": null,
+          "description": "Here’s a look at the latest news in the Middle East: Saudi Arabia says debris from an intercepted Houthi drone killed one person",
+          "link": "https://abcnews.com/International/wireStory/saudi-arabia-debris-intercepted-houthi-drone-killed-1-136521559",
+          "publishedOn": "2026-09-17T18:22:11.000Z",
+          "wordCount": 5609,
+          "title": "Saudi Arabia says debris from an intercepted Houthi drone killed 1, and other Mideast developments",
+          "imageUrl": "https://i.abcnewsfe.com/a/7fa73c8d-efd3-4026-a33a-7b35ec5723b0/wirestory_742e1eebb7d099ea42372d978e271900_16x9.jpg?w=1600"
+        },
+        {
+          "id": "https://abcnews.com/International/wireStory/boat-towed-north-korean-cargo-sinks-off-japans-136534701",
+          "author": null,
+          "description": "A boat carrying four crew members sank while being towed by a North Korean cargo ship off Japan's northwestern coast, the Japan Coast Guard said",
+          "link": "https://abcnews.com/International/wireStory/boat-towed-north-korean-cargo-sinks-off-japans-136534701",
+          "publishedOn": "2026-09-17T17:13:01.000Z",
+          "wordCount": 2751,
+          "title": "A boat towed by a North Korean cargo sinks off Japan's northwestern coast, 1 missing",
+          "imageUrl": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+        },
+        {
+          "id": "https://abcnews.com/International/wireStory/tip-swerving-van-leads-police-66000-us-silver-136534172",
+          "author": null,
+          "description": "Police investigating a money laundering case in Norway have recovered thousands of U.S. silver coins",
+          "link": "https://abcnews.com/International/wireStory/tip-swerving-van-leads-police-66000-us-silver-136534172",
+          "publishedOn": "2026-09-17T16:52:52.000Z",
+          "wordCount": 3864,
+          "title": "A tip about a swerving van leads police to 66,000 US silver coins in a fraud case",
+          "imageUrl": "https://i.abcnewsfe.com/a/eb65ffa6-82a1-4844-a6d5-d204feef4dd2/wirestory_26334a46e8830331a11087e8493adc94_16x9.jpg?w=1600"
+        },
+        {
+          "id": "https://abcnews.com/International/wireStory/fewer-migrants-reaching-europe-sea-people-dying-iom-136530697",
+          "author": null,
+          "description": "The U.N. migration agency reports that significantly fewer migrants are reaching Europe by sea this year, but more are dying on increasingly dangerous journeys",
+          "link": "https://abcnews.com/International/wireStory/fewer-migrants-reaching-europe-sea-people-dying-iom-136530697",
+          "publishedOn": "2026-09-17T15:24:28.000Z",
+          "wordCount": 3549,
+          "title": "Fewer migrants are reaching Europe by sea but more people are dying, IOM warns",
+          "imageUrl": "https://i.abcnewsfe.com/a/24c6d8e2-61aa-4fc1-9d50-9a9a30a7d47c/wirestory_fa512b3ac2a31b8c4a79ae0e981ec94c_16x9.jpg?w=1600"
+        },
+        {
+          "id": "https://abcnews.com/International/wireStory/fiji-declares-national-hiv-emergency-extends-testing-program-136524131",
+          "author": null,
+          "description": "Fiji has declared an HIV national emergency as one in 60 people in the South Pacific island nation is now estimated to be living with the condition",
+          "link": "https://abcnews.com/International/wireStory/fiji-declares-national-hiv-emergency-extends-testing-program-136524131",
+          "publishedOn": "2026-09-17T12:50:29.000Z",
+          "wordCount": 2978,
+          "title": "Fiji declares national HIV emergency and extends testing program as cases surge",
+          "imageUrl": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+        },
+        {
+          "id": "https://abcnews.com/International/wireStory/sweden-pm-kristersson-resign-after-left-leaning-opposition-136522488",
+          "author": null,
+          "description": "Sweden’s left-leaning opposition has won a narrow majority in the national election",
+          "link": "https://abcnews.com/International/wireStory/sweden-pm-kristersson-resign-after-left-leaning-opposition-136522488",
+          "publishedOn": "2026-09-17T12:50:21.000Z",
+          "wordCount": 3226,
+          "title": "Sweden PM Kristersson to resign after opposition wins narrow majority in election",
+          "imageUrl": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+        },
+        {
+          "id": "https://abcnews.com/International/wireStory/serbias-president-vucic-inaugurates-assembly-factory-israel-made-136522850",
+          "author": null,
+          "description": "Serbia’s President Aleksandar Vucic says he has inaugurated an assembly factory for Israeli drones in the Balkan country",
+          "link": "https://abcnews.com/International/wireStory/serbias-president-vucic-inaugurates-assembly-factory-israel-made-136522850",
+          "publishedOn": "2026-09-17T12:33:23.000Z",
+          "wordCount": 3412,
+          "title": "Serbia's President Vucic inaugurates assembly factory for Israel-made drones",
+          "imageUrl": "https://i.abcnewsfe.com/a/160c76eb-8066-453e-a834-46ddb83ba217/wirestory_12098645a942e8fef5b58911e37e9fb2_16x9.jpg?w=1600"
         }
       ]
     },
@@ -3599,6 +3856,17 @@
       "siteUrl": "https://www.npr.org/templates/story/story.php?storyId=1004",
       "articles": [
         {
+          "id": "https://www.npr.org/2026/09/18/g-s1-143738/united-nations-sustainable-development-goals-hunger-climate-gender",
+          "author": "Kamala Thiagarajan",
+          "description": "The 17 goals agreed upon by world leaders are incredibly ambitious. Are we even close to achieving any of them? If we don't, is the project a failure?",
+          "link": "https://www.npr.org/2026/09/18/g-s1-143738/united-nations-sustainable-development-goals-hunger-climate-gender",
+          "publishedOn": "2026-09-18T16:07:51.000Z",
+          "wordCount": null,
+          "title": "Will even one of the U.N.'s 17 'sustainable development goals' be met by 2030?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://www.npr.org/2026/09/18/g-s1-143913/up-first-newsletter-kennedy-center-trump-voter-intimidation-lawsuit-poland-russia-ukraine",
           "author": "Brittney Melton",
           "description": "A federal judge ruled yesterday that President Trump cannot tear down the Kennedy Center without a 30-day notice. And, recent lawsuits seek to keep armed federal officers away from polling sites.",
@@ -3694,17 +3962,6 @@
           "publishedOn": "2026-09-17T12:33:36.000Z",
           "wordCount": null,
           "title": "U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.npr.org/2026/09/17/g-s1-143783/up-first-newsletter-federal-reserve-interest-rates-gas-prices-war-canada-european-union",
-          "author": "Brittney Melton",
-          "description": "The Federal Reserve has raised interest rates for the first time in years. And, the European Union has proposed that Canada become its first-ever \"associate member.\"",
-          "link": "https://www.npr.org/2026/09/17/g-s1-143783/up-first-newsletter-federal-reserve-interest-rates-gas-prices-war-canada-european-union",
-          "publishedOn": "2026-09-17T10:54:18.000Z",
-          "wordCount": null,
-          "title": "The Fed raises interest rates. And, EU proposes Canada become an 'associate member'",
           "itunes": {},
           "imageUrl": null
         }
@@ -3853,7 +4110,7 @@
           "description": "A sickle across the throat and a padlock on the toe were likely meant to keep this 17th-century Polish teen from resurrecting.",
           "link": "https://www.sciencenews.org/article/ancient-anti-vampire-grave-undead",
           "publishedOn": "2026-09-18T15:00:00.000Z",
-          "wordCount": 14330,
+          "wordCount": 14326,
           "title": "This ‘anti-vampiric’ grave used two strategies to stop the undead",
           "enclosure": {
             "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/091026_MT_grave_main_rev.jpg?w=800",
@@ -3868,7 +4125,7 @@
           "description": "New research suggests that Paleodictyon — honeycomb-shaped formations perhaps sketched by da Vinci — are not made by soft-bodied creatures.",
           "link": "https://www.sciencenews.org/article/paleontology-enigma-honeycomb-fossil",
           "publishedOn": "2026-09-18T13:00:00.000Z",
-          "wordCount": 13622,
+          "wordCount": 13623,
           "title": "What’s behind ‘one of paleontology’s most enduring enigmas’?",
           "enclosure": {
             "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/090826_MB_fossil_mainsocial.jpg?w=800",
@@ -3898,7 +4155,7 @@
           "description": "A space satellite that would offer light on demand has astronomers asking: Who controls the night sky?",
           "link": "https://www.sciencenews.org/article/reflect-orbital-space-mirrors-satellite",
           "publishedOn": "2026-09-17T20:23:22.000Z",
-          "wordCount": 16433,
+          "wordCount": 16439,
           "title": "Big space mirrors could bring Earth on-demand light — and upend our night sky",
           "enclosure": {
             "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/1026_darksideoflight_main.jpg?w=800",
@@ -3913,7 +4170,7 @@
           "description": "As human-caused climate warming destabilizes high mountain regions, the threat of rock-ice avalanches and other glacial hazards grows.",
           "link": "https://www.sciencenews.org/article/nepal-debris-flow-risk-mountain-climate",
           "publishedOn": "2026-09-17T17:33:29.000Z",
-          "wordCount": 14920,
+          "wordCount": 14926,
           "title": "Nepal’s deadly debris flow points to risks in other high mountain regions",
           "enclosure": {
             "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/091726_NO_Nepalflooding_main.jpg?w=800",
@@ -3928,7 +4185,7 @@
           "description": "Major hormonal milestones in women’s lives are usually associated with changes in brain volume — but a new study shows menopause is an exception.",
           "link": "https://www.sciencenews.org/article/menopause-brain-changes-surprise",
           "publishedOn": "2026-09-17T15:00:00.000Z",
-          "wordCount": 13848,
+          "wordCount": 14400,
           "title": "During menopause, brain changes surprisingly take a break",
           "enclosure": {
             "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/091626_BB_menopausebrain_main.jpg?w=800",
@@ -3943,7 +4200,7 @@
           "description": "When AI agents hack real systems, the bigger issue may be the human choices that gave them access, autonomy and too few safeguards.",
           "link": "https://www.sciencenews.org/article/rogue-ai-agents-human-blame-safety",
           "publishedOn": "2026-09-17T13:00:00.000Z",
-          "wordCount": 15481,
+          "wordCount": 15483,
           "title": "When AI goes rogue, its human overseers may be to blame",
           "enclosure": {
             "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/091026_KH_AImodel_main.jpg?w=800",
@@ -3958,7 +4215,7 @@
           "description": "Scientists have grown human brain tissue to fill most of a mouse’s cortex, creating a new model for studying brain disease and neural circuits.",
           "link": "https://www.sciencenews.org/article/mice-brain-human-organoid-cells",
           "publishedOn": "2026-09-16T15:00:00.000Z",
-          "wordCount": 14071,
+          "wordCount": 14073,
           "title": "These mice have human (nerve cells) on the brain",
           "enclosure": {
             "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/091626_ED_organoids_main.jpg?w=800",
@@ -3973,7 +4230,7 @@
           "description": "A cryptic announcement raises questions about the type of weapons and how they could be used. We talked to an expert about the consequences.",
           "link": "https://www.sciencenews.org/article/united-states-space-weapon-announcement",
           "publishedOn": "2026-09-16T14:00:00.000Z",
-          "wordCount": 14127,
+          "wordCount": 14134,
           "title": "The U.S. has weapons in space. Here’s what that could mean",
           "enclosure": {
             "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/091526_EC_spaceweapons_main.jpg?w=800",
@@ -3988,7 +4245,7 @@
           "description": "Removing a type of immune cell from lymph nodes in mice reduced brain inflammation and cell damage in a model of Alzheimer’s-like disease.",
           "link": "https://www.sciencenews.org/article/alzheimers-damage-brain-lymph-nodes",
           "publishedOn": "2026-09-16T13:00:00.000Z",
-          "wordCount": 13899,
+          "wordCount": 13895,
           "title": "Alzheimer’s damage may begin outside the brain",
           "enclosure": {
             "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/091126_RJM_Alzheimers_main.jpg?w=800",
@@ -4003,7 +4260,7 @@
           "description": "Four newly described species of Australian plant bug have been named in honor of renowned recording artist Taylor Swift.",
           "link": "https://www.sciencenews.org/article/swiftiephylus-bug-named-taylor-swift",
           "publishedOn": "2026-09-15T15:00:00.000Z",
-          "wordCount": 13773,
+          "wordCount": 13780,
           "title": "Meet Swiftiephylus, an Australian bug named after Taylor Swift",
           "enclosure": {
             "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/091126_JB_tswift-bug_feat.jpg?w=800",
@@ -4018,7 +4275,7 @@
           "description": "Ecologist Merritt Turetsky’s devotion to bogs, fens and other fascinating water-logged spaces saturates her new book.",
           "link": "https://www.sciencenews.org/article/book-review-bogland-strange-ecosystems",
           "publishedOn": "2026-09-15T13:00:00.000Z",
-          "wordCount": 13834,
+          "wordCount": 13836,
           "title": "‘Bogland’ explores beautifully strange ecosystems",
           "enclosure": {
             "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/1026_review_bogland_0db3e8.jpg?w=800",
@@ -4033,7 +4290,7 @@
           "description": "Scientists are exploring new ways to regain control of overactive nervous systems including humming, tapping on the skin and cold-water immersion.",
           "link": "https://www.sciencenews.org/article/nervous-system-stress-hormone-cortisol",
           "publishedOn": "2026-09-14T17:00:00.000Z",
-          "wordCount": 13749,
+          "wordCount": 13751,
           "title": "Feeling nervous? Work the system",
           "enclosure": {
             "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/090926_JD_nervoussystem_main.jpg?w=800",
@@ -4048,7 +4305,7 @@
           "description": "An expedition of a deep-sea trench near Australia uncovered the eerie sea spider specimens, whose glow may have been chronicled in 19th century documents.",
           "link": "https://www.sciencenews.org/article/deep-sea-spiders-glow-bioluminescence",
           "publishedOn": "2026-09-14T15:00:00.000Z",
-          "wordCount": 13744,
+          "wordCount": 13746,
           "title": "These deep-sea spiders give off an otherworldly glow",
           "enclosure": {
             "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/090826_JRL_glowingspiders_main.jpg?w=800",
@@ -4063,7 +4320,7 @@
           "description": "The XENONnT detector glimpsed the ethereal subatomic particles that are born from the main type of fusion reaction that powers the sun.",
           "link": "https://www.sciencenews.org/article/neutrinos-sun-lowest-energies-xenonnt",
           "publishedOn": "2026-09-14T13:00:00.000Z",
-          "wordCount": 13734,
+          "wordCount": 13735,
           "title": "These neutrinos from the sun have the lowest energies ever seen",
           "enclosure": {
             "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/090426_EC_neutrinos_main.jpg?w=800",
@@ -4078,7 +4335,7 @@
           "description": "OpenAI is at the center of another controversy over machines tackling big math problems. This one’s about the twin prime conjecture.",
           "link": "https://www.sciencenews.org/article/human-math-record-twin-primes-openai",
           "publishedOn": "2026-09-11T19:00:00.000Z",
-          "wordCount": 14736,
+          "wordCount": 14732,
           "title": "A human set a new mathematical record. Then AI came for it",
           "enclosure": {
             "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/091026_DM_prime-gaps_featsocial.jpg?w=800",
@@ -4093,7 +4350,7 @@
           "description": "As heatwaves become more frequent and severe, scientists are studying whether heat acclimation can help protect vulnerable populations.",
           "link": "https://www.sciencenews.org/article/how-nody-adapts-to-heatstroke-climate",
           "publishedOn": "2026-09-11T17:00:00.000Z",
-          "wordCount": 15580,
+          "wordCount": 15589,
           "title": "How the body adapts to extreme heat",
           "enclosure": {
             "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/1026_heatonbody_main.jpg?w=800",
@@ -4108,7 +4365,7 @@
           "description": "Scientists are working closely with art historians to uncover scientific documentation in historic paintings.",
           "link": "https://www.sciencenews.org/article/historical-art-hide-scientific-secrets",
           "publishedOn": "2026-09-11T15:00:00.000Z",
-          "wordCount": 14758,
+          "wordCount": 14209,
           "title": "Historical art can hide scientific secrets",
           "enclosure": {
             "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/1026_art-col_main.jpg?w=800",
@@ -4123,7 +4380,7 @@
           "description": "The anniversaries come and go, but the physical and mental health of workers and survivors is still being affected by September 11, 2001.",
           "link": "https://www.sciencenews.org/article/sept-11-attacks-health-25th-anniversary",
           "publishedOn": "2026-09-11T13:00:00.000Z",
-          "wordCount": 14708,
+          "wordCount": 14714,
           "title": "The Sept. 11 disasters still shape people’s health 25 years later",
           "enclosure": {
             "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/091026_AC_911health_main.jpg?w=800",
@@ -4145,7 +4402,7 @@
           "description": "The post Tennessee Lawmakers Demand Answers on Safety in State Youth Prisons appeared first on ProPublica.",
           "link": "https://www.propublica.org/article/tennessee-private-youth-prisons-dcs-letter",
           "publishedOn": "2026-09-18T15:00:00.000Z",
-          "wordCount": 4926,
+          "wordCount": 4922,
           "title": "Tennessee Lawmakers Demand Answers on Safety in State Youth Prisons",
           "imageUrl": "https://www.propublica.org/wp-content/uploads/2026/09/20260427-TN-Juvenile-Justice-Kranitz-85_maxHeight_3000_maxWidth_3000.jpg?resize=2000,1429"
         },
@@ -5086,7 +5343,7 @@
           "description": "Plus: a U.N. inquiry reports war crimes in Iran, the CDC and Pennsylvania feud over measles, and a new cat just dropped.",
           "link": "https://thedispatch.com/newsletter/morning/that-political-post-may-be-paid-for/",
           "publishedOn": "2026-09-18T10:18:59.000Z",
-          "wordCount": 9474,
+          "wordCount": 9617,
           "title": "That Political Post May Be Paid For",
           "imageUrl": "https://thedispatch.com/wp-content/uploads/2026/09/GettyImages-2264458922.jpg?w=1024"
         },
@@ -5116,7 +5373,7 @@
           "description": "Terrorists and their proponents have forfeited their right to sympathy.",
           "link": "https://thedispatch.com/article/palestinians-irish-republicans-sympathy/",
           "publishedOn": "2026-09-18T05:00:00.000Z",
-          "wordCount": 9506,
+          "wordCount": 9689,
           "title": "How to Squander Good Will",
           "imageUrl": "https://thedispatch.com/wp-content/uploads/2026/09/GettyImages-2293824237.jpg?w=1024"
         },
@@ -8960,6 +9217,21 @@
       "siteUrl": "https://san.com/",
       "articles": [
         {
+          "id": "https://san.com/?post_type=sa_core_content&p=642253",
+          "author": "Shea Taylor",
+          "description": "Nearly 20% of Alabama's current death row inmates were sentenced to death by judges even after their juries chose life imprisonment.",
+          "link": "https://san.com/cc/alabama-man-executed-even-though-a-jury-said-he-should-stay-in-prison-for-life/",
+          "publishedOn": "2026-09-18T17:30:00.000Z",
+          "wordCount": 9836,
+          "title": "Alabama man executed even though a jury said he should stay in prison for life",
+          "enclosure": {
+            "url": "https://san.com/wp-content/uploads/2026/09/2026-06-08T182015Z_758861653_MT1USATODAY29152130_RTRMADP_3_MORE-THAN-50-PEOPLE-GATHER-ON-THE-STATE-CAPITOL-STEPS-IN_USA_TODAY_Network_via_Reuters_Connect_clean.jpg",
+            "type": "image/jpeg",
+            "length": "451261"
+          },
+          "imageUrl": "https://san.com/wp-content/uploads/2026/09/2026-06-08T182015Z_758861653_MT1USATODAY29152130_RTRMADP_3_MORE-THAN-50-PEOPLE-GATHER-ON-THE-STATE-CAPITOL-STEPS-IN_USA_TODAY_Network_via_Reuters_Connect_clean.jpg"
+        },
+        {
           "id": "https://san.com/?post_type=sa_core_content&p=641260",
           "author": "Azi Paybarah",
           "description": "As Democrats and Republicans navigate AI issues on the campaign trail, and in Washington, their campaigns spend thousands on it.",
@@ -9175,7 +9447,7 @@
           "description": "Doctors using AI performed better in a new trial. Plus, what a fertility test can really tell you and another Tylenol-during-pregnancy study.",
           "link": "https://san.com/cc/is-your-coffee-too-hot-plus-ai-might-make-your-doctor-better-and-what-your-fertility-test-can-and-cannot-tell-you/",
           "publishedOn": "2026-09-17T17:00:00.000Z",
-          "wordCount": 11104,
+          "wordCount": 11112,
           "title": "Is your coffee too hot? Plus, AI might make your doctor better. And what your fertility test can and cannot tell you",
           "enclosure": {
             "url": "https://san.com/wp-content/uploads/2026/09/09-10-26-coffee-Newsletter_FI.jpg",
@@ -9190,7 +9462,7 @@
           "description": "Plus, a Montana Senate candidate takes a shotgun to a surveillance camera. The campaign ad taps into a growing backlash against Flock cameras.",
           "link": "https://san.com/cc/ai-models-are-already-deceiving-humans-could-they-eventually-destroy-us-lets-go-off-script/",
           "publishedOn": "2026-09-17T17:00:00.000Z",
-          "wordCount": null,
+          "wordCount": 21831,
           "title": "AI models are already deceiving humans. Could they eventually destroy us? Let’s go Off Script",
           "enclosure": {
             "url": "https://san.com/wp-content/uploads/2026/09/091626-Off-Script_FI.jpg",
@@ -9235,7 +9507,7 @@
           "description": "The panel found that two U.S. strikes could constitute war crimes, including the attack on the school and one on a residential area.",
           "link": "https://san.com/cc/un-panel-says-us-strikes-on-iranian-school-residential-area-may-constitute-war-crimes/",
           "publishedOn": "2026-09-17T15:05:05.000Z",
-          "wordCount": null,
+          "wordCount": 13166,
           "title": "UN panel says US strikes on Iranian school, residential area may constitute war crimes",
           "enclosure": {
             "url": "https://san.com/wp-content/uploads/2026/09/GettyImages-2289248607_ATTA_KENARE__AFP_via_Getty_Images_clean.jpg",
@@ -9243,21 +9515,6 @@
             "length": "464072"
           },
           "imageUrl": "https://san.com/wp-content/uploads/2026/09/GettyImages-2289248607_ATTA_KENARE__AFP_via_Getty_Images_clean.jpg"
-        },
-        {
-          "id": "https://san.com/?post_type=sa_core_content&p=641365",
-          "author": "Devin Pavlou",
-          "description": "Researchers told AI agents their world was ending for good. Some tried to disprove it. One built its own afterlife instead.",
-          "link": "https://san.com/cc/ai-agents-faced-a-fake-apocalypse-one-invented-an-afterlife/",
-          "publishedOn": "2026-09-17T14:00:00.000Z",
-          "wordCount": null,
-          "title": "AI agents faced a fake apocalypse. One invented an afterlife",
-          "enclosure": {
-            "url": "https://san.com/wp-content/uploads/2026/09/Copy-of-Untitled-2026-09-16T190620.866.jpg",
-            "type": "image/jpeg",
-            "length": "198000"
-          },
-          "imageUrl": "https://san.com/wp-content/uploads/2026/09/Copy-of-Untitled-2026-09-16T190620.866.jpg"
         }
       ]
     },
@@ -11388,7 +11645,7 @@
           "description": "In an excerpt from his book, “Innovate for Impact: A Roadmap to Sustainable Technology Beyond AI,” Alessandro Crimi explains that a tax on automation is more effective than retraining labor.",
           "link": "https://restofworld.org/2026/robot-tax-ai-wealth-redistribution/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
           "publishedOn": "2026-09-18T10:00:00.000Z",
-          "wordCount": 1863,
+          "wordCount": 1860,
           "title": "The case for a robot tax to redistribute wealth",
           "imageUrl": "https://restofworld.org/wp-content/uploads/2026/09/illo_robot_tax_final-1600x900.jpg"
         },
@@ -11408,7 +11665,7 @@
           "description": "From Latin America to Southeast Asia, countries are dividing their AI investments between the two superpowers rather than choosing one over the other.",
           "link": "https://restofworld.org/2026/ai-us-chips-chinese-open-source-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
           "publishedOn": "2026-09-16T10:00:00.000Z",
-          "wordCount": 2350,
+          "wordCount": 2355,
           "title": "Playing both sides of the U.S.-China AI “Cold War”",
           "imageUrl": "https://restofworld.org/wp-content/uploads/2026/09/illo_china_us_row_sketch_final-1600x900.jpg"
         },
@@ -11418,7 +11675,7 @@
           "description": "Apple’s high-end models cost more in markets like India and Turkey owing to high taxes and import duties.",
           "link": "https://restofworld.org/2026/iphone-18-pro-global-prices/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
           "publishedOn": "2026-09-15T10:00:00.000Z",
-          "wordCount": 1548,
+          "wordCount": 1534,
           "title": "Where in the world is the iPhone cheapest?",
           "imageUrl": "https://restofworld.org/wp-content/uploads/2026/09/iPhone-Pricing.jpg"
         },
@@ -11448,7 +11705,7 @@
           "description": "A short-lived generative AI feature in Google Earth that allowed users to create fake satellite imagery shows the lasting effects of unvetted AI tools during a conflict.",
           "link": "https://restofworld.org/2026/google-earth-ai-deepfake-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
           "publishedOn": "2026-09-10T10:00:00.000Z",
-          "wordCount": 2000,
+          "wordCount": 2019,
           "title": "Google Earth’s AI experiment lasted 24 hours. The damage to trust will linger",
           "imageUrl": "https://restofworld.org/wp-content/uploads/2026/09/illo_google_earth_doubt_final-1600x900.jpg"
         },
@@ -11458,7 +11715,7 @@
           "description": "Squeezed by a stagnant economy and state directives, China's underemployed lawyers, architects, and engineers are taking cheap gig work to teach AI their exact trades — just to pay this month's mortgage.",
           "link": "https://restofworld.org/2026/china-expert-ai-trainers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
           "publishedOn": "2026-09-09T10:00:00.000Z",
-          "wordCount": 2535,
+          "wordCount": 2554,
           "title": "Now it’s China’s experts who are gig workers training AI",
           "imageUrl": "https://restofworld.org/wp-content/uploads/2026/09/illo_ai_pro_clones_sketch-1600x900.jpg"
         },
@@ -11478,7 +11735,7 @@
           "description": "Five unexpected ways computing power is entering everyday life in the country.",
           "link": "https://restofworld.org/2026/china-ai-tokens-consumer-rewards-credit-cards-telcos-deepseek/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
           "publishedOn": "2026-09-04T10:00:00.000Z",
-          "wordCount": 2048,
+          "wordCount": 2067,
           "title": "Chinese businesses are giving away AI tokens with coffee, credit cards, and dumplings",
           "imageUrl": "https://restofworld.org/wp-content/uploads/2026/08/illo_tokens_final_-1600x900.jpg"
         },
@@ -11488,7 +11745,7 @@
           "description": "AI companies are paying highly educated workers to teach machines the judgment they spent years developing — even when those systems could eventually replace them.",
           "link": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
           "publishedOn": "2026-09-03T10:00:00.000Z",
-          "wordCount": 1623,
+          "wordCount": 1629,
           "title": "I refused to train the AI that could replace me",
           "imageUrl": "https://restofworld.org/wp-content/uploads/2026/08/illo_AI_training_sketch_final-1600x900.jpg"
         },
@@ -11498,7 +11755,7 @@
           "description": "Previously unpublished government data reveals the scale of Taiwan’s crackdown on Chinese companies accused of hiding their ties while recruiting chip talent and pursuing sensitive technology.",
           "link": "https://restofworld.org/2026/taiwan-china-chip-investigations/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
           "publishedOn": "2026-09-02T10:00:00.000Z",
-          "wordCount": 3970,
+          "wordCount": 3975,
           "title": "Taiwan’s six-year hunt for China’s undercover chip labs",
           "imageUrl": "https://restofworld.org/wp-content/uploads/2026/08/TaiwanSpies-Header-4-1600x900.jpg"
         }
@@ -11525,7 +11782,7 @@
           "description": "After continuing his pro career in Puerto Rico, the Dominican Republic, Uruguay, and Venezuela, Sweetney served as an assistant coach at Yeshiva University in New York City from 2019-23.",
           "link": "https://www.jpost.com/international/article-909071",
           "publishedOn": "2026-09-18T18:54:35.000Z",
-          "wordCount": 8387,
+          "wordCount": 8407,
           "title": "Former NBA forward Michael Sweetney dies at 43, Knicks and Bulls mourn loss",
           "imageUrl": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/738412"
         },
@@ -11625,7 +11882,7 @@
           "description": "For families who just marked another Rosh Hashanah overseas, another year abroad does not automatically change the legal answer. But arrangements left undefined can carry consequences over time.",
           "link": "https://www.jpost.com/israel-news/article-908868",
           "publishedOn": "2026-09-18T15:53:41.000Z",
-          "wordCount": 20157,
+          "wordCount": 20208,
           "title": "A temporary move abroad can carry lasting legal consequences for Israelis - interview",
           "imageUrl": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/738160"
         },
@@ -11665,7 +11922,7 @@
           "description": "Netanyahu's US visit is expected to last just two days because of the need to return to Israel before the start of Sukkot.",
           "link": "https://www.jpost.com/israel-news/article-909042",
           "publishedOn": "2026-09-18T13:02:19.000Z",
-          "wordCount": 8015,
+          "wordCount": 7990,
           "title": "Netanyahu to visit Texas during upcoming US trip for UN General Assembly",
           "imageUrl": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/675578"
         },
@@ -12645,1604 +12902,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.dailymaverick.co.za/i/K9JwX3bAw1CJsyseXt77O5cGCsw=/800x0/smart/filters:strip_exif()/file/attachments/2997/ZAPIRO7_782203.jpg"
-        }
-      ]
-    },
-    {
-      "title": "ABC News: International",
-      "feedUrl": "https://abcnews.go.com/abcnews/internationalheadlines",
-      "siteUrl": "http://abcnews.com",
-      "articles": [
-        {
-          "id": "https://abcnews.com/International/wireStory/brazilian-police-arrest-suspect-dozens-killings-136561999",
-          "author": null,
-          "description": "Brazilian police have announced they will reopen dozens of cases linked to a self-confessed serial killer",
-          "link": "https://abcnews.com/International/wireStory/brazilian-police-arrest-suspect-dozens-killings-136561999",
-          "publishedOn": "2026-09-18T16:02:37.000Z",
-          "wordCount": 2645,
-          "title": "Brazilian police arrest a suspect in dozens of killings",
-          "imageUrl": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
-        },
-        {
-          "id": "https://abcnews.com/International/wireStory/macron-orders-protections-infrastructure-citing-growing-russian-threat-136561049",
-          "author": null,
-          "description": "French President Emmanuel Macron has asked his government to prepare a plan to protect critical infrastructure against drone and cyberattacks",
-          "link": "https://abcnews.com/International/wireStory/macron-orders-protections-infrastructure-citing-growing-russian-threat-136561049",
-          "publishedOn": "2026-09-18T14:46:39.000Z",
-          "wordCount": 3449,
-          "title": "Macron orders protections for infrastructure, citing a growing Russian threat",
-          "imageUrl": "https://i.abcnewsfe.com/a/7d1a6bcb-ff33-4c73-9a71-1d1bb85ba11e/wirestory_29767a3fe6723ecffed343f0a4847e95_16x9.jpg?w=1600"
-        },
-        {
-          "id": "https://abcnews.com/International/wireStory/russia-lodges-protest-japan-us-typhoon-missile-deployment-136558875",
-          "author": null,
-          "description": "Russia’s Foreign Ministry says that it has sent a note to Japan over its hosting of U.S. medium-range missile systems",
-          "link": "https://abcnews.com/International/wireStory/russia-lodges-protest-japan-us-typhoon-missile-deployment-136558875",
-          "publishedOn": "2026-09-18T14:42:16.000Z",
-          "wordCount": 3102,
-          "title": "Russia lodges protest with Japan over US Typhoon missile deployment",
-          "imageUrl": "https://i.abcnewsfe.com/a/adf34789-15fa-4db3-8459-c7a327743f33/wirestory_fc0ee565826281e98794e9798522f2df_16x9.jpg?w=1600"
-        },
-        {
-          "id": "https://abcnews.com/International/wireStory/taiwan-holds-joint-military-drills-attack-drones-ahead-136554853",
-          "author": null,
-          "description": "Taiwan’s president has overseen military drills featuring missiles and drones on Friday, ahead of a planned summit next week between the U.S. and Chinese leaders in which the fate of the self-ruled island will be discussed",
-          "link": "https://abcnews.com/International/wireStory/taiwan-holds-joint-military-drills-attack-drones-ahead-136554853",
-          "publishedOn": "2026-09-18T13:03:24.000Z",
-          "wordCount": 3848,
-          "title": "Taiwan holds first joint military drills using attack drones ahead of Trump-Xi summit",
-          "imageUrl": "https://i.abcnewsfe.com/a/74d1fc49-725f-441d-b47c-04c16261e8b8/wirestory_e7c1c16040f6f9ca5e7672a3fda0ab60_16x9.jpg?w=1600"
-        },
-        {
-          "id": "https://abcnews.com/International/wireStory/4-suspects-killed-shootout-police-rescue-kidnapped-british-136551217",
-          "author": null,
-          "description": "Police in Malawi say four suspects were fatally shot in the operation that rescued a British woman who was kidnapped",
-          "link": "https://abcnews.com/International/wireStory/4-suspects-killed-shootout-police-rescue-kidnapped-british-136551217",
-          "publishedOn": "2026-09-18T09:21:47.000Z",
-          "wordCount": 2819,
-          "title": "4 suspects killed in shootout as police rescue kidnapped British woman in Malawi",
-          "imageUrl": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
-        },
-        {
-          "id": "https://abcnews.com/International/wireStory/shooting-high-school-philippines-kills-3-young-people-136551214",
-          "author": null,
-          "description": "A shooting at a high school in the southern Philippines has left at least three young people dead and six others injured, including the gunman",
-          "link": "https://abcnews.com/International/wireStory/shooting-high-school-philippines-kills-3-young-people-136551214",
-          "publishedOn": "2026-09-18T09:19:48.000Z",
-          "wordCount": 2640,
-          "title": "Shooting at high school in the Philippines kills at least 3 young people, injures 6",
-          "imageUrl": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
-        },
-        {
-          "id": "https://abcnews.com/International/wireStory/australian-man-accused-teenage-girls-murder-appears-thailand-136550969",
-          "author": null,
-          "description": "An Australian man has appeared in a Thai court for the first time on charges of murder and concealment of a body in connection with the death of a teenage girl",
-          "link": "https://abcnews.com/International/wireStory/australian-man-accused-teenage-girls-murder-appears-thailand-136550969",
-          "publishedOn": "2026-09-18T09:18:48.000Z",
-          "wordCount": 3662,
-          "title": "Australian man accused of teenage girl's murder appears in Thailand court",
-          "imageUrl": "https://i.abcnewsfe.com/a/66f9f6c0-97d5-45c2-a227-513ef1a98e99/wirestory_3c06b335f9f75c62223611f7161cd2f1_16x9.jpg?w=1600"
-        },
-        {
-          "id": "https://abcnews.com/International/wireStory/playing-song-north-korean-anthem-played-south-korean-136550873",
-          "author": null,
-          "description": "South Korean field hockey players were perplexed when the national anthem of North Korea was played instead of their own before a men's field hockey match against Bangladesh at the Asian Games",
-          "link": "https://abcnews.com/International/wireStory/playing-song-north-korean-anthem-played-south-korean-136550873",
-          "publishedOn": "2026-09-18T09:17:12.000Z",
-          "wordCount": 3489,
-          "title": "They're not playing our song! North Korean anthem played at South Korean hockey match",
-          "imageUrl": "https://i.abcnewsfe.com/a/df34d2d7-9ed3-450b-a585-a1513b1bc80a/wirestory_525076ca6ad11cac6e1184cf959fe495_16x9.jpg?w=1600"
-        },
-        {
-          "id": "https://abcnews.com/International/wireStory/fatal-shark-attack-suspected-australian-city-beach-136550779",
-          "author": null,
-          "description": "A man has been killed by a shark as he swam off a Western Australian city beach",
-          "link": "https://abcnews.com/International/wireStory/fatal-shark-attack-suspected-australian-city-beach-136550779",
-          "publishedOn": "2026-09-18T09:10:24.000Z",
-          "wordCount": 2909,
-          "title": "Shark kills swimmer off Western Australian city beach",
-          "imageUrl": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
-        },
-        {
-          "id": "https://abcnews.com/International/wireStory/vanuatu-ends-search-37-people-missing-ferry-sinking-136550109",
-          "author": null,
-          "description": "Authorities have called off the search for survivors after a ferry sank off Vanuatu, leaving 39 people presumed dead",
-          "link": "https://abcnews.com/International/wireStory/vanuatu-ends-search-37-people-missing-ferry-sinking-136550109",
-          "publishedOn": "2026-09-18T06:19:20.000Z",
-          "wordCount": 3578,
-          "title": "Vanuatu ends search for 37 people missing in ferry sinking",
-          "imageUrl": "https://i.abcnewsfe.com/a/e6d406d7-bc4c-4fa5-9e9e-e5d171c6c8fb/wirestory_ba025ba8fe032beacdc0af14d7a3ce9d_16x9.jpg?w=1600"
-        },
-        {
-          "id": "https://abcnews.com/International/wireStory/africas-urban-waste-crisis-outpacing-infrastructure-investment-choking-136548408",
-          "author": null,
-          "description": "Johannesburg is struggling with a deepening waste crisis marked by unreliable collections, rapidly shrinking landfill space and a rise in illegal dumping",
-          "link": "https://abcnews.com/International/wireStory/africas-urban-waste-crisis-outpacing-infrastructure-investment-choking-136548408",
-          "publishedOn": "2026-09-18T04:04:39.000Z",
-          "wordCount": 5224,
-          "title": "Africa's urban waste crisis is outpacing infrastructure investment and choking neighborhoods",
-          "imageUrl": "https://i.abcnewsfe.com/a/78dc9d83-d8ec-4464-9253-5cba8d7eae1b/wirestory_e49083e1f0f22c48aedf8e73de1ea65c_16x9.jpg?w=1600"
-        },
-        {
-          "id": "https://abcnews.com/International/wireStory/japans-central-bank-raises-benchmark-interest-rate-125-136548504",
-          "author": null,
-          "description": "Japan's central bank raises benchmark interest rate to 1.25%",
-          "link": "https://abcnews.com/International/wireStory/japans-central-bank-raises-benchmark-interest-rate-125-136548504",
-          "publishedOn": "2026-09-18T04:03:27.000Z",
-          "wordCount": 1945,
-          "title": "Japan's central bank raises benchmark interest rate to 1.25%",
-          "imageUrl": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
-        },
-        {
-          "id": "https://abcnews.com/International/wireStory/sweeping-us-sanctions-bill-offers-ukraine-new-leverage-136545599",
-          "author": null,
-          "description": "Ukraine believes Russia will only negotiate seriously if the war becomes too costly",
-          "link": "https://abcnews.com/International/wireStory/sweeping-us-sanctions-bill-offers-ukraine-new-leverage-136545599",
-          "publishedOn": "2026-09-18T02:27:09.000Z",
-          "wordCount": 5138,
-          "title": "A sweeping US sanctions bill offers Ukraine new leverage on Russia",
-          "imageUrl": "https://i.abcnewsfe.com/a/4193e6ea-43cd-42bb-80a3-a2dd13aa5463/wirestory_8ed078bcd04fc60111382ebd7402ef32_16x9.jpg?w=1600"
-        },
-        {
-          "id": "https://abcnews.com/International/wireStory/traditional-chinese-coffin-maker-malaysia-preserves-fading-family-136546674",
-          "author": null,
-          "description": "Goh Khuay Par has spent more than five decades making traditional Chinese coffins by hand in Malaysia, carrying on a family craft passed down through three generations",
-          "link": "https://abcnews.com/International/wireStory/traditional-chinese-coffin-maker-malaysia-preserves-fading-family-136546674",
-          "publishedOn": "2026-09-18T01:29:11.000Z",
-          "wordCount": 5586,
-          "title": "A traditional Chinese coffin maker in Malaysia preserves a fading family craft",
-          "imageUrl": "https://i.abcnewsfe.com/a/d1f6c3c5-253a-4ebf-9e18-b027b04335aa/wirestory_28ee51bed812efd1bdc4d6bae076ec53_16x9.jpg?w=1600"
-        },
-        {
-          "id": "https://abcnews.com/International/wireStory/new-human-rights-report-unveils-details-blames-police-136543889",
-          "author": null,
-          "description": "A human rights group in Haiti has published a report that reveals new details about one of the country’s biggest massacres in recent years and unveils security holes as authorities struggle to contain violent gangs in the Caribbean country",
-          "link": "https://abcnews.com/International/wireStory/new-human-rights-report-unveils-details-blames-police-136543889",
-          "publishedOn": "2026-09-17T23:21:17.000Z",
-          "wordCount": 5111,
-          "title": "New human rights report unveils details, blames police for recent massacre in Haiti",
-          "imageUrl": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
-        },
-        {
-          "id": "https://abcnews.com/International/wireStory/33-illegal-mining-suspects-found-dead-nigerian-custody-136541375",
-          "author": null,
-          "description": "At least 33 suspects arrested for alleged illegal mining have been found dead in Nigerian security custody",
-          "link": "https://abcnews.com/International/wireStory/33-illegal-mining-suspects-found-dead-nigerian-custody-136541375",
-          "publishedOn": "2026-09-17T21:19:08.000Z",
-          "wordCount": 2586,
-          "title": "At least 33 illegal mining suspects found dead in Nigerian custody, and officials suspect disease",
-          "imageUrl": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
-        },
-        {
-          "id": "https://abcnews.com/International/wireStory/british-woman-kidnapped-malawi-rescued-police-136539027",
-          "author": null,
-          "description": "Police say a British woman kidnapped in the southern African nation of Malawi last week has been rescued",
-          "link": "https://abcnews.com/International/wireStory/british-woman-kidnapped-malawi-rescued-police-136539027",
-          "publishedOn": "2026-09-17T19:53:07.000Z",
-          "wordCount": 2771,
-          "title": "A British woman who was kidnapped in Malawi has been rescued, police say",
-          "imageUrl": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
-        },
-        {
-          "id": "https://abcnews.com/International/wireStory/brazils-lula-announces-15-increase-flagship-welfare-payments-136536201",
-          "author": null,
-          "description": "Brazilian President Luiz Inácio Lula da Silva has signed a decree increasing benefits of his welfare program by 15%",
-          "link": "https://abcnews.com/International/wireStory/brazils-lula-announces-15-increase-flagship-welfare-payments-136536201",
-          "publishedOn": "2026-09-17T18:22:13.000Z",
-          "wordCount": 3685,
-          "title": "Brazil’s Lula announces 15% increase in flagship welfare payments ahead of key election",
-          "imageUrl": "https://i.abcnewsfe.com/a/63f73ec0-25f3-4c7b-ae53-18c6453c79a0/wirestory_b0e6975c4110dab4e4181760150fdb2c_16x9.jpg?w=1600"
-        },
-        {
-          "id": "https://abcnews.com/International/wireStory/saudi-arabia-debris-intercepted-houthi-drone-killed-1-136521559",
-          "author": null,
-          "description": "Here’s a look at the latest news in the Middle East: Saudi Arabia says debris from an intercepted Houthi drone killed one person",
-          "link": "https://abcnews.com/International/wireStory/saudi-arabia-debris-intercepted-houthi-drone-killed-1-136521559",
-          "publishedOn": "2026-09-17T18:22:11.000Z",
-          "wordCount": 5618,
-          "title": "Saudi Arabia says debris from an intercepted Houthi drone killed 1, and other Mideast developments",
-          "imageUrl": "https://i.abcnewsfe.com/a/7fa73c8d-efd3-4026-a33a-7b35ec5723b0/wirestory_742e1eebb7d099ea42372d978e271900_16x9.jpg?w=1600"
-        },
-        {
-          "id": "https://abcnews.com/International/wireStory/boat-towed-north-korean-cargo-sinks-off-japans-136534701",
-          "author": null,
-          "description": "A boat carrying four crew members sank while being towed by a North Korean cargo ship off Japan's northwestern coast, the Japan Coast Guard said",
-          "link": "https://abcnews.com/International/wireStory/boat-towed-north-korean-cargo-sinks-off-japans-136534701",
-          "publishedOn": "2026-09-17T17:13:01.000Z",
-          "wordCount": 2755,
-          "title": "A boat towed by a North Korean cargo sinks off Japan's northwestern coast, 1 missing",
-          "imageUrl": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
-        },
-        {
-          "id": "https://abcnews.com/International/wireStory/tip-swerving-van-leads-police-66000-us-silver-136534172",
-          "author": null,
-          "description": "Police investigating a money laundering case in Norway have recovered thousands of U.S. silver coins",
-          "link": "https://abcnews.com/International/wireStory/tip-swerving-van-leads-police-66000-us-silver-136534172",
-          "publishedOn": "2026-09-17T16:52:52.000Z",
-          "wordCount": 3860,
-          "title": "A tip about a swerving van leads police to 66,000 US silver coins in a fraud case",
-          "imageUrl": "https://i.abcnewsfe.com/a/eb65ffa6-82a1-4844-a6d5-d204feef4dd2/wirestory_26334a46e8830331a11087e8493adc94_16x9.jpg?w=1600"
-        },
-        {
-          "id": "https://abcnews.com/International/wireStory/fewer-migrants-reaching-europe-sea-people-dying-iom-136530697",
-          "author": null,
-          "description": "The U.N. migration agency reports that significantly fewer migrants are reaching Europe by sea this year, but more are dying on increasingly dangerous journeys",
-          "link": "https://abcnews.com/International/wireStory/fewer-migrants-reaching-europe-sea-people-dying-iom-136530697",
-          "publishedOn": "2026-09-17T15:24:28.000Z",
-          "wordCount": 3549,
-          "title": "Fewer migrants are reaching Europe by sea but more people are dying, IOM warns",
-          "imageUrl": "https://i.abcnewsfe.com/a/24c6d8e2-61aa-4fc1-9d50-9a9a30a7d47c/wirestory_fa512b3ac2a31b8c4a79ae0e981ec94c_16x9.jpg?w=1600"
-        },
-        {
-          "id": "https://abcnews.com/International/wireStory/fiji-declares-national-hiv-emergency-extends-testing-program-136524131",
-          "author": null,
-          "description": "Fiji has declared an HIV national emergency as one in 60 people in the South Pacific island nation is now estimated to be living with the condition",
-          "link": "https://abcnews.com/International/wireStory/fiji-declares-national-hiv-emergency-extends-testing-program-136524131",
-          "publishedOn": "2026-09-17T12:50:29.000Z",
-          "wordCount": 2981,
-          "title": "Fiji declares national HIV emergency and extends testing program as cases surge",
-          "imageUrl": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
-        },
-        {
-          "id": "https://abcnews.com/International/wireStory/sweden-pm-kristersson-resign-after-left-leaning-opposition-136522488",
-          "author": null,
-          "description": "Sweden’s left-leaning opposition has won a narrow majority in the national election",
-          "link": "https://abcnews.com/International/wireStory/sweden-pm-kristersson-resign-after-left-leaning-opposition-136522488",
-          "publishedOn": "2026-09-17T12:50:21.000Z",
-          "wordCount": 3244,
-          "title": "Sweden PM Kristersson to resign after opposition wins narrow majority in election",
-          "imageUrl": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
-        },
-        {
-          "id": "https://abcnews.com/International/wireStory/serbias-president-vucic-inaugurates-assembly-factory-israel-made-136522850",
-          "author": null,
-          "description": "Serbia’s President Aleksandar Vucic says he has inaugurated an assembly factory for Israeli drones in the Balkan country",
-          "link": "https://abcnews.com/International/wireStory/serbias-president-vucic-inaugurates-assembly-factory-israel-made-136522850",
-          "publishedOn": "2026-09-17T12:33:23.000Z",
-          "wordCount": 3419,
-          "title": "Serbia's President Vucic inaugurates assembly factory for Israel-made drones",
-          "imageUrl": "https://i.abcnewsfe.com/a/160c76eb-8066-453e-a834-46ddb83ba217/wirestory_12098645a942e8fef5b58911e37e9fb2_16x9.jpg?w=1600"
-        }
-      ]
-    },
-    {
-      "title": "The Independent World",
-      "feedUrl": "https://www.independent.co.uk/news/world/rss",
-      "siteUrl": "https://www.independent.co.uk/news/world/rss",
-      "articles": [
-        {
-          "id": "b3052608",
-          "author": "Julia Musto",
-          "description": "The conspiracy theory, which got its start in the pandemic, has long been debunked",
-          "link": "https://www.independent.co.uk/news/health/robert-f-kennedy-jr-56-conspiracy-b3052608.html",
-          "publishedOn": "2026-09-18T17:15:37.000Z",
-          "wordCount": 5052,
-          "title": "RFK Jr switches gears from anti-vaxx promotion to amplify 5G conspiracy theory",
-          "imageUrl": "https://static.independent.co.uk/2026/09/11/07/2294074132..?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052655",
-          "author": "Brendan Rascius",
-          "description": "‘We will not be bullied into silence or submission,’ Kerry Kennedy wrote on social media",
-          "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-kennedy-center-democrat-hero-b3052655.html",
-          "publishedOn": "2026-09-18T17:12:16.000Z",
-          "wordCount": 5133,
-          "title": "Kennedy relative hails Democrat as ‘national hero’ for standing up to Trump over Kennedy Center",
-          "imageUrl": "https://static.independent.co.uk/2026/09/18/15/53/GettyImages-2250948105.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052595",
-          "author": "Graig Graziosi",
-          "description": "A group of child predators lived in George ‘Junior’ Burdynski’s neighborhood, according to the FBI",
-          "link": "https://www.independent.co.uk/news/world/americas/crime/killer-charged-cold-case-george-junior-burdynski-b3052595.html",
-          "publishedOn": "2026-09-18T16:20:32.000Z",
-          "wordCount": 4046,
-          "title": "A 10-year-old boy vanished while riding his bike 30 years ago. Cops now say they have arrested his killer",
-          "imageUrl": "https://static.independent.co.uk/2026/09/18/14/13/Screenshot-2026-09-18-at-10-20-00-AM.png?trim=35,0,32,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052634",
-          "author": "Owen Scott",
-          "description": "The worker plunged to his death from a mezzanine with his family alleging that the area was unsafe, a lawsuit says",
-          "link": "https://www.independent.co.uk/news/world/americas/elon-musk-colossus-data-center-alexis-vicent-b3052634.html",
-          "publishedOn": "2026-09-18T16:19:36.000Z",
-          "wordCount": 5477,
-          "title": "Elon Musk’s data center sued for $30 million by family of worker killed at site",
-          "imageUrl": "https://static.independent.co.uk/2026/09/18/16/2026-09-14T141902Z_79842473_RC2FK1AN2AGD_RTRMADP_3_TECH-ANTITRUST-X-APPLE.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052615",
-          "author": "Jasmine Fernández",
-          "description": "Investigators say Demetrius Beatty gave police three conflicting explanations for the infant’s fatal injuries, claiming at various points that another child tossed the baby or that he was in the hallway during the incident",
-          "link": "https://www.independent.co.uk/news/world/americas/crime/demetrius-beatty-dc-child-murder-infant-death-b3052615.html",
-          "publishedOn": "2026-09-18T16:18:19.000Z",
-          "wordCount": 4101,
-          "title": "Dad beat a 2-month-old to death in jealous rage then tried to blame autistic son, prosecutors say",
-          "imageUrl": "https://static.independent.co.uk/2026/09/18/16/54/Beatty.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052618",
-          "author": "Gergana Krasteva",
-          "description": "Russians are going to the polls for the first time since the full-scale invasion of Ukraine in 2022",
-          "link": "https://www.independent.co.uk/news/world/europe/russia-elections-ukraine-nato-b3052618.html",
-          "publishedOn": "2026-09-18T16:12:49.000Z",
-          "wordCount": 5157,
-          "title": "Ukraine lashes out at Russian elections ‘held at gunpoint’ in occupied territory",
-          "imageUrl": "https://static.independent.co.uk/2026/09/18/15/2295278066..?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052619",
-          "author": "Joe Sommerlad",
-          "description": "Health secretary’s announcement met with storm of ridicule and derision: ‘What about Bigfoot, the Loch Ness monster, the Easter Bunny, and the Abominable Snowman?’",
-          "link": "https://www.independent.co.uk/news/world/americas/us-politics/rfk-jr-chemtrails-conspiracy-theories-b3052619.html",
-          "publishedOn": "2026-09-18T15:58:13.000Z",
-          "wordCount": 5638,
-          "title": "RFK Jr shredded for telling anti-vaxxers he is investigating ‘chemtrails’",
-          "imageUrl": "https://static.independent.co.uk/2026/09/18/16/2294068904..?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052508",
-          "author": "Nasser Karimi,Cara Anna and Lee Keath",
-          "description": "For days, state media channels have urged citizens to join the effort, broadcasting that training with assault rifles will commence shortly",
-          "link": "https://www.independent.co.uk/news/world/middle-east/iran-rally-war-volunteer-forces-b3052635.html",
-          "publishedOn": "2026-09-18T15:39:25.000Z",
-          "wordCount": 5250,
-          "title": "300,000 Iranians attend biggest pro-regime rally since war began as Tehran recruits new ‘volunteer’ forces",
-          "imageUrl": "https://static.independent.co.uk/2026/09/18/15/29/GettyImages-2295245701.jpg?trim=0,80,0,78&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052246",
-          "author": "Stuti Mishra",
-          "description": "US president is mulling further military action to break deadlock after seven months of war",
-          "link": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-strikes-hormuz-oil-news-b3052246.html",
-          "publishedOn": "2026-09-18T15:36:16.000Z",
-          "wordCount": 9260,
-          "title": "Iran-US war latest: Tehran holds huge pro-regime march in defiance of Trump’s ‘annihilation’ threat",
-          "imageUrl": "https://static.independent.co.uk/2026/09/18/16/download.-3.?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052259",
-          "author": "Namita Singh and Gergana Krasteva",
-          "description": "Both Russian and Ukrainian officials are trying to oust Steve Witkoff from the US-led negotiations.",
-          "link": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-poland-nato-b3052259.html",
-          "publishedOn": "2026-09-18T15:34:11.000Z",
-          "wordCount": 9237,
-          "title": "Ukraine-Russia war latest: Trump envoy ‘frustrates both Moscow and Kyiv’ after fruitless peace talks",
-          "imageUrl": "https://static.independent.co.uk/2026/09/04/11/2283167703..?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052380",
-          "author": "Gergana Krasteva",
-          "description": "Venezuela is nearing a deal to move $4 billion (£2.9 billion) in gold from the Bank of England to the Federal Reserve Bank of New York after a years-long legal tussle, it has been reported.",
-          "link": "https://www.independent.co.uk/news/world/americas/venezuela-gold-reserves-new-york-london-b3052380.html",
-          "publishedOn": "2026-09-18T15:16:09.000Z",
-          "wordCount": 5107,
-          "title": "Venezuela closing in on deal to move $4bn gold reserves from Bank of England to New York",
-          "imageUrl": "https://static.independent.co.uk/2026/09/18/11/2026-09-16T180201Z_1369036476_RC25BNA3Q2E1_RTRMADP_3_USA-VENEZUELA-COLOMBIA.JPG?trim=1,0,1,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052078",
-          "author": "Liz Cookman",
-          "description": "Funding for tuberculosis, malaria, HIV and maternal healthcare has to be released for spending by 30 September",
-          "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-health-aid-hiv-malaria-tuberculosis-b3052078.html",
-          "publishedOn": "2026-09-18T14:55:15.000Z",
-          "wordCount": 4963,
-          "title": "$1.3bn in US health funds left unspent by Trump ‘could lead to 150,000 preventable deaths’",
-          "imageUrl": "https://static.independent.co.uk/2026/09/08/14/18/GettyImages-2292883112.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052530",
-          "author": "Brendan Rascius",
-          "description": "‘Now there's a woman with an extremely tight leash on the man she married,’ one source said",
-          "link": "https://www.independent.co.uk/news/world/americas/us-politics/pete-hegseth-wife-nickname-pentagon-b3052530.html",
-          "publishedOn": "2026-09-18T14:40:35.000Z",
-          "wordCount": 5048,
-          "title": "Pentagon staffers use unflattering nickname for Pete Hegseth’s wife",
-          "imageUrl": "https://static.independent.co.uk/2026/09/18/13/11/GettyImages-2258843986.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052217",
-          "author": "Jack Brook",
-          "description": "Danette Colbert was caught after using the victim’s credit card at a New Orleans gas station and other stores in the area",
-          "link": "https://www.independent.co.uk/news/world/americas/crime/danette-colbert-new-orleans-super-bowl-death-adan-manzan-b3052590.html",
-          "publishedOn": "2026-09-18T14:30:13.000Z",
-          "wordCount": 4033,
-          "title": "Woman convicted of negligent homicide in Super Bowl reporter’s death in New Orleans",
-          "imageUrl": "https://static.independent.co.uk/2025/02/07/8/56/vlcsnap-2025-02-07-08h13m23s563.png?trim=18,106,0,22&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052497",
-          "author": "Owen Scott",
-          "description": "The former child actor was found with a fully loaded .40 caliber handgun, complete with a 15-round magazine",
-          "link": "https://www.independent.co.uk/news/world/americas/crime/bobbe-thompson-that-so-raven-federal-prison-b3052497.html",
-          "publishedOn": "2026-09-18T14:29:40.000Z",
-          "wordCount": 3941,
-          "title": "That’s So Raven star found with stolen firearm sentenced to federal prison",
-          "imageUrl": "https://static.independent.co.uk/2026/09/18/12/49/bobby.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052567",
-          "author": "Alanna Durkin Richer",
-          "description": "Attorneys general have typically stayed away from political rallies and at arm's length from the White House",
-          "link": "https://www.independent.co.uk/news/world/americas/us-politics/attorney-general-todd-blanche-rallies-trump-b3052567.html",
-          "publishedOn": "2026-09-18T14:11:15.000Z",
-          "wordCount": 5685,
-          "title": "Trump AG Todd Blanche sparks concerns about boundaries with frequent appearances at political events",
-          "imageUrl": "https://static.independent.co.uk/2026/09/18/13/34/GettyImages-2294411138.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052325",
-          "author": "Maira Butt",
-          "description": "Tributes paid to ‘strong-willed, determined and deeply caring’ father-of-two Owain Davies",
-          "link": "https://www.independent.co.uk/news/world/europe/swiss-alps-crash-owain-davies-b3052325.html",
-          "publishedOn": "2026-09-18T14:00:34.000Z",
-          "wordCount": 4965,
-          "title": "Millionaire businessman among Britons killed in Swiss Alps plane crash",
-          "imageUrl": "https://static.independent.co.uk/2026/09/18/7/49/Owain-Davies-Amcanu-2048x1536.webp?trim=85,0,85,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3051514",
-          "author": "Graig Graziosi",
-          "description": "Layne Lundeen had to be restrained using extreme measures on American Airlines flight from Dallas to New Jersey",
-          "link": "https://www.independent.co.uk/news/world/americas/crime/duct-tape-man-american-airlines-flight-b3052553.html",
-          "publishedOn": "2026-09-18T13:41:40.000Z",
-          "wordCount": 3913,
-          "title": "Passenger breaks his silence after he was duct-taped on American Airlines flight after alleged violent outburst",
-          "imageUrl": "https://static.independent.co.uk/2026/09/07/12/29/Screenshot-2026-09-07-at-13-13-59-(3)-copy.jpeg?trim=17,192,547,1&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052125",
-          "author": "Jasmine Fernández",
-          "description": "A looming 22 percent benefit cut is driving midterm voters to demand solutions — because lawmakers elected this cycle will still be in office when trust funds deplete in late 2032, voters say candidates cannot ignore the crisis",
-          "link": "https://www.independent.co.uk/news/world/americas/us-politics/social-security-cuts-senate-midterm-voters-b3052551.html",
-          "publishedOn": "2026-09-18T13:39:35.000Z",
-          "wordCount": 5160,
-          "title": "The Social Security question Senate midterm candidates can no longer dodge",
-          "imageUrl": "https://static.independent.co.uk/2026/09/17/20/14/GettyImages-1346574062.jpeg?trim=0,183,0,182&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052184",
-          "author": "Alex Woodward",
-          "description": "More than 200 days into the conflict, congressional Republicans have yet to hold single standalone public hearing",
-          "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-iran-war-hearings-republicans-benghazi-b3052184.html",
-          "publishedOn": "2026-09-18T13:13:38.000Z",
-          "wordCount": 6155,
-          "title": "Republicans held more than 30 hearings on Benghazi. They haven’t held any specifically on Trump’s Iran war",
-          "imageUrl": "https://static.independent.co.uk/2026/09/17/13/2026-09-17T080243Z_1024746519_RC227NAG1YF6_RTRMADP_3_IRAN-CRISIS-UN.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052487",
-          "author": "Brendan Rascius",
-          "description": "Laura Ingraham claimed there’s ‘no other explanation’ as to why Republicans are not going on the offensive when it comes to the economy",
-          "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-republicans-midterms-laura-ingraham-b3052487.html",
-          "publishedOn": "2026-09-18T13:00:49.000Z",
-          "wordCount": 5113,
-          "title": "Many Republicans want to lose the midterms so they don’t have to pass Trump-backed bills, Laura Ingraham claims",
-          "imageUrl": "https://static.independent.co.uk/2026/09/18/11/23/Screenshot-2026-09-18-at-7-42-43-AM.png?trim=0,332,0,122&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052501",
-          "author": "Joe Sommerlad",
-          "description": "GOP candidates focusing on attacking Democrats rather than championing president’s record as his deep unpopularity begins to tell",
-          "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-republican-midterms-tv-ads-b3052501.html",
-          "publishedOn": "2026-09-18T12:55:29.000Z",
-          "wordCount": 5340,
-          "title": "Trump appeared in just 12 of more than 500 Republican TV ads ahead of the midterms: report",
-          "imageUrl": "https://static.independent.co.uk/2026/09/17/22/17-c521ed4a70044a58ac3a93489c2a3f2e.jpg?width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052519",
-          "author": "Jill Lawless",
-          "description": "A striking black dress worn by Princess Diana on the day her estranged husband admitted adultery is going up for auction at Sotheby’s",
-          "link": "https://www.independent.co.uk/news/world/americas/diana-prince-charles-sothebys-london-charles-spencer-b3052519.html",
-          "publishedOn": "2026-09-18T12:45:14.000Z",
-          "wordCount": 4564,
-          "title": "Back in black: Princess Diana's 'revenge dress' goes on show ahead of Sotheby's auction",
-          "imageUrl": "https://static.independent.co.uk/2026/09/18/13/Britain_Princess_Diana_Dress__6184.jpg?width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3046827",
-          "author": "Andrew Feinberg",
-          "description": "Analysis by The Independent finds the group has had an outsized influence on the White House’s policies towards Democratic-aligned groups and issues",
-          "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-white-house-capital-research-center-miller-climate-nonprofits-b3046827.html",
-          "publishedOn": "2026-09-18T12:43:40.000Z",
-          "wordCount": 7003,
-          "title": "Many Trump ‘enemies’ are being spoon-fed to him by one conservative think tank",
-          "imageUrl": "https://static.independent.co.uk/2026/09/17/20/2288529811..?trim=0,66,0,66&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052509",
-          "author": "Paul Farrell",
-          "description": "Proposed framework would focus restrictions on areas like pathogens and potentially weaponizable technologies",
-          "link": "https://www.independent.co.uk/news/world/americas/us-politics/china-pharma-licensing-rules-b3052509.html",
-          "publishedOn": "2026-09-18T12:37:52.000Z",
-          "wordCount": 5467,
-          "title": "America warned it is becoming dangerously reliant on China for new medicines",
-          "imageUrl": "https://static.independent.co.uk/2026/08/20/11/qMzsMyNTZh_fotG0g4Yz1ZM16SI1jJm6cEt9iJAbZ6OJ4q4AFatRJt5mhR2hxAhPdp9lz-AU-BopHMYb058v0TqjAIHP_k1e2DTL..?trim=0,1,0,1&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052408",
-          "author": "Maira Butt",
-          "description": "Tusk warned that there is a ‘real risk’ that a drone or projectile could hit a Nato country",
-          "link": "https://www.independent.co.uk/news/world/europe/poland-donald-tusk-russia-ukraine-b3052408.html",
-          "publishedOn": "2026-09-18T12:06:49.000Z",
-          "wordCount": 4919,
-          "title": "Poland won’t give up ‘a single inch’ of territory says Tusk after warning over Russian drones",
-          "imageUrl": "https://static.independent.co.uk/2026/09/17/16/2295117062..?trim=1081,12,781,2859&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052479",
-          "author": "Sam Kiley",
-          "description": "Sam Kiley, world affairs editor, explains the significance of the insignificant Russian Duma elections",
-          "link": "https://www.independent.co.uk/news/world/europe/russia-elections-putin-trump-ukraine-b3052479.html",
-          "publishedOn": "2026-09-18T11:58:05.000Z",
-          "wordCount": 5761,
-          "title": "Putin will have Trump to thank for election victory in Russia’s rubber-stamp parliament",
-          "imageUrl": "https://static.independent.co.uk/2026/09/18/09/2026-09-18T075538Z_1987698724_RC2HLNA5SX1V_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-ELECTION.JPG?width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052451",
-          "author": "Michelle Chapman",
-          "description": "Warren Buffett has been at the company for over 60 years, and served as chairman since 1970",
-          "link": "https://www.independent.co.uk/news/world/americas/warren-buffett-resigns-berkshire-hathaway-chairman-b3052489.html",
-          "publishedOn": "2026-09-18T11:54:39.000Z",
-          "wordCount": 4238,
-          "title": "Warren Buffett steps down as Berkshire Hathaway chairman after 56 years",
-          "imageUrl": "https://static.independent.co.uk/2026/09/18/12/2026-09-18T101743Z_1262787696_RC2MLNAG54UB_RTRMADP_3_BERKSHIRE-HATHAWAY-CHAIRMAN.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052412",
-          "author": "Stuti Mishra",
-          "description": "Nirmeen Noufl, 55, pleaded guilty last month to killing her husband in self-defence",
-          "link": "https://www.independent.co.uk/news/world/australasia/nirmeen-noufl-mamdouh-noufl-killing-sentence-b3052412.html",
-          "publishedOn": "2026-09-18T11:52:15.000Z",
-          "wordCount": 4587,
-          "title": "Sydney woman who killed and dismembered abusive husband could be eligible for parole in a year",
-          "imageUrl": "https://static.independent.co.uk/2026/08/10/08/2232549309..?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052422",
-          "author": "Joe Sommerlad",
-          "description": "Michael P Desronvil has spoken out after judge forced to declare mistrial in case of mother accused of murdering her three young children",
-          "link": "https://www.independent.co.uk/news/world/americas/crime/lindsay-clancy-trial-juror-michael-desronvil-b3052422.html",
-          "publishedOn": "2026-09-18T10:58:58.000Z",
-          "wordCount": 4213,
-          "title": "Holdout juror in Lindsay Clancy trial breaks silence: ‘I didn’t have any doubts’",
-          "imageUrl": "https://static.independent.co.uk/2026/09/14/08/2026-09-09T142045Z_724793447_RC2JCNAJL0RC_RTRMADP_3_MASSACHUSETTS-CRIME-CLANCY.JPG?trim=64,0,64,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052431",
-          "author": "Owen Scott",
-          "description": "‘I initially didn’t believe I had won, so I called a family member to confirm it,’ the winner says",
-          "link": "https://www.independent.co.uk/news/world/americas/powerball-lottery-winner-ticket-jackpot-b3052431.html",
-          "publishedOn": "2026-09-18T10:37:38.000Z",
-          "wordCount": 4598,
-          "title": "Powerball player wins $1 billion from $2 ticket with historic jackpot prize",
-          "imageUrl": "https://static.independent.co.uk/2026/08/13/15/14/GettyImages-2233717614-(1).jpg?trim=160,0,201,542&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052429",
-          "author": "Glenn Gamboa",
-          "description": "Jon Stewart says he never planned to focus his charity work on first responders and their families, but it grew organically",
-          "link": "https://www.independent.co.uk/news/world/americas/jon-stewart-first-responders-foundation-b3052433.html",
-          "publishedOn": "2026-09-18T10:21:08.000Z",
-          "wordCount": 4493,
-          "title": "Jon Stewart calls out politicians who praise first responders then discard them",
-          "imageUrl": "https://static.independent.co.uk/2026/09/18/11/Philanthropy_Jon_Stewart_31958.jpg?width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052336",
-          "author": "Joe Sommerlad",
-          "description": "President attacks insiders who revealed details of Iran briefing with Tulsi Gabbard to Wall Street Journal last month, threatening repercussions",
-          "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-leakers-threat-truth-social-b3052336.html",
-          "publishedOn": "2026-09-18T09:57:04.000Z",
-          "wordCount": 5162,
-          "title": "Trump threatens ‘dirty dogs’ who keep leaking on Iran war: ‘You will pay a big price!’",
-          "imageUrl": "https://static.independent.co.uk/2026/09/18/09/2026-09-17T233405Z_937773796_RC2BLNATCWAE_RTRMADP_3_USA-TRUMP.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052418",
-          "author": "Lisa Mascaro and Ben Finley",
-          "description": "Tensions are mounting between the Pentagon and Congress over the flow of information to lawmakers about the U.S. military’s priorities",
-          "link": "https://www.independent.co.uk/news/world/americas/us-politics/pentagon-colby-senate-defense-strategy-b3052418.html",
-          "publishedOn": "2026-09-18T09:56:16.000Z",
-          "wordCount": 5372,
-          "title": "Pentagon admits talks over sending National Guard to polling stations",
-          "imageUrl": "https://static.independent.co.uk/2026/09/01/12/2242927216..?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052386",
-          "author": "Shabnoor Irshad",
-          "description": "New York City mayor Zohran Mamdani has marked the repair of the city’s 200,000th pothole of the year on Troutman Street in Bushwick.",
-          "link": "https://www.independent.co.uk/tv/news/mamdani-new-york-city-potholes-video-b3052386.html",
-          "publishedOn": "2026-09-18T09:17:47.000Z",
-          "wordCount": 31865,
-          "title": "Mamdani fills in NYC’s 200,000th pothole after pledging ‘blitz’",
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/L5X15eqk/poster.jpg?width=720"
-        },
-        {
-          "id": "b3052368",
-          "author": "Annabel Grossman",
-          "description": "As the war between the US, Israel and Iran continues to disrupt flight routes and rattle traveller confidence, tourism is shifting away from the Middle East and its neighbours – with the Balkans, South America and northeast Asia among the surprising winners. Global Travel Editor Annabel Grossman reports on how conflict is reshaping where we holiday in the latest Travel Insider newsletter",
-          "link": "https://www.independent.co.uk/travel/news-and-advice/middle-east-conflict-holidays-turkey-balkans-b3052368.html",
-          "publishedOn": "2026-09-18T09:13:43.000Z",
-          "wordCount": 5739,
-          "title": "Tourists turn to the Balkans and Brazil: How the Middle East conflict has redrawn our holiday map",
-          "imageUrl": "https://static.independent.co.uk/2025/07/22/12/09/iStock-914097184.jpeg?width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052330",
-          "author": "Owen Scott",
-          "description": "‘JD Vance begs for midterm votes’ Kamala Harris’ Gen-Z focused account posted on X",
-          "link": "https://www.independent.co.uk/news/world/americas/us-politics/vance-memes-another-chance-trump-b3052330.html",
-          "publishedOn": "2026-09-18T09:08:39.000Z",
-          "wordCount": 4998,
-          "title": "JD Vance asked voters for ‘another chance.’ The internet made it a meme",
-          "imageUrl": "https://static.independent.co.uk/2026/09/18/8/19/Screenshot-2026-09-18-at-09-22-35.png?trim=48,0,48,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052164",
-          "author": "Matthew Brown",
-          "description": "Inadvertently killing endangered animals while logging a forest or building a dam would no longer be considered illegal under a new interpretation of the Endangered Species Act",
-          "link": "https://www.independent.co.uk/news/world/americas/trump-endangered-species-act-logging-b3052360.html",
-          "publishedOn": "2026-09-18T08:40:31.000Z",
-          "wordCount": 4552,
-          "title": "Trump opens loophole allowing companies to kill endangered animals",
-          "imageUrl": "https://static.independent.co.uk/2026/09/17/21/Trump_Endangered_Species_82636.jpg?width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052182",
-          "author": "Paul Farrell",
-          "description": "The driver who slammed her SUV into a Los Angeles bus, killing two people, before a news helicopter that was covering it crashed will face murder charges, a prosecutor said Thursday",
-          "link": "https://www.independent.co.uk/news/world/americas/crime/bailee-rios-bus-helicopter-crash-b3052332.html",
-          "publishedOn": "2026-09-18T08:10:20.000Z",
-          "wordCount": 4485,
-          "title": "Driver in LA bus crash that preceded helicopter tragedy charged with murder",
-          "imageUrl": "https://static.independent.co.uk/2026/09/17/22/Helicopter_Crash_Los_Angeles_83432.jpg?width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052247",
-          "author": "David McHugh",
-          "description": "The frictions in Russia’s wartime economy are growing",
-          "link": "https://www.independent.co.uk/news/world/europe/war-russia-elections-putin-economy-b3052296.html",
-          "publishedOn": "2026-09-18T07:58:50.000Z",
-          "wordCount": 5140,
-          "title": "Russians face mounting economic woes due to Putin’s war on Ukraine as country goes to polls",
-          "imageUrl": "https://static.independent.co.uk/2026/09/18/05/Russia_Election_Economy_44513.jpg?width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052318",
-          "author": "Summer Woolley",
-          "description": "There have been four other confirmed fatal shark attacks in Australia this year",
-          "link": "https://www.independent.co.uk/news/world/australasia/fatal-shark-attack-perth-australia-b3052318.html",
-          "publishedOn": "2026-09-18T07:56:10.000Z",
-          "wordCount": 4516,
-          "title": "Swimmer killed in shark attack off popular Australian beach",
-          "imageUrl": "https://static.independent.co.uk/2026/09/18/08/download.-1.?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052327",
-          "author": "Corey Williams",
-          "description": "As President Donald Trump tries to convince voters that Democrats have let crime run amok, he’s digging into the country’s political past",
-          "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-willie-horton-north-carolina-cooper-crime-b3052327.html",
-          "publishedOn": "2026-09-18T07:53:07.000Z",
-          "wordCount": 5245,
-          "title": "Trump reaches back to notorious Willie Horton ad in explosive midterm attack",
-          "imageUrl": "https://static.independent.co.uk/2026/09/18/08/2295080822..?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3050559",
-          "author": "Maira Butt",
-          "description": "Putin has been facing declining approval ratings, mounting casualties and ‘net-zero’ territorial gains since March this year as polls open today. Experts tell Maira Butt what this could mean for the future of Russia",
-          "link": "https://www.independent.co.uk/news/world/europe/russia-elections-putin-ukraine-approval-ratings-b3052311.html",
-          "publishedOn": "2026-09-18T07:28:31.000Z",
-          "wordCount": 5554,
-          "title": "What Putin’s war in Ukraine means for Russian elections as polls open",
-          "imageUrl": "https://static.independent.co.uk/2026/09/13/12/2026-09-13T090611Z_1857358687_RC28INAJO2UL_RTRMADP_3_BRICS-SUMMIT.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052309",
-          "author": "Steven Sloan",
-          "description": "Trump’s efforts to largely eradicate mail voting turned the postal service into an unlikely arbiter of who is eligible to vote",
-          "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-postal-service-voting-database-b3052309.html",
-          "publishedOn": "2026-09-18T07:27:13.000Z",
-          "wordCount": 5721,
-          "title": "Postmaster General breaks silence on Trump’s failed mail voting crackdown",
-          "imageUrl": "https://static.independent.co.uk/2026/09/18/08/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052177",
-          "author": "Alex Croft",
-          "description": "Joanna Wietrzyk said she is ‘deeply sorry for the discomfort and disruption’ that her defecation caused during a Hyrox event in Beijing",
-          "link": "https://www.independent.co.uk/asia/china/hyrox-athlete-apology-beijing-australia-joanna-wietrzyk-b3052238.html",
-          "publishedOn": "2026-09-18T03:25:10.000Z",
-          "wordCount": 4834,
-          "title": "Hyrox athlete apologises and forfeits victory after defecating during race",
-          "imageUrl": "https://static.independent.co.uk/2026/09/14/10/02/Screenshot-2026-09-14-153607.png?trim=14,0,64,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052223",
-          "author": "Rachel Dobkin",
-          "description": "Trump has boasted about his new helipad constructed right in the backyard of the White House during the event",
-          "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-dinner-ban-fishing-b3052223.html",
-          "publishedOn": "2026-09-18T01:59:18.000Z",
-          "wordCount": 5253,
-          "title": "Trump tells outdoorsmen at White House dinner he is so powerful he could ban fishing",
-          "imageUrl": "https://static.independent.co.uk/2026/09/18/1/19/GettyImages-2295823854.jpg?trim=0,6,0,5&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052215",
-          "author": "Rachel Dobkin",
-          "description": "Most Americans oppose Trump naming buildings after himself while still in office",
-          "link": "https://www.independent.co.uk/news/world/americas/us-politics/judge-block-trump-name-institute-peace-b3052215.html",
-          "publishedOn": "2026-09-18T01:37:50.000Z",
-          "wordCount": 5081,
-          "title": "Judge asked to prevent Trump from carving his name on yet another historic Washington building",
-          "imageUrl": "https://static.independent.co.uk/2026/09/18/0/20/GettyImages-2249832853.jpg?trim=0,1,0,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052202",
-          "author": "Jasmine Fernández",
-          "description": "The software will initially serve only as a real-time decision tool during unexpected disruptions, though it is eventually designed to predict traffic flows and map routes days ahead",
-          "link": "https://www.independent.co.uk/news/world/americas/ai-air-traffic-control-faa-b3052202.html",
-          "publishedOn": "2026-09-18T00:33:21.000Z",
-          "wordCount": 5144,
-          "title": "AI-assisted air traffic control is coming to some of the nation’s busiest skies",
-          "imageUrl": "https://static.independent.co.uk/2026/09/17/23/42/GettyImages-2197376297.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052200",
-          "author": "Rachel Dobkin",
-          "description": "The key voting bloc in the upcoming midterms was unfazed by the Republican midterm convention in Dallas, during which Donald Trump promised Americans $5,000 checks if his party held onto power in Congress",
-          "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-independents-republican-midterm-convention-vote-b3052200.html",
-          "publishedOn": "2026-09-18T00:19:55.000Z",
-          "wordCount": 5474,
-          "title": "Independent voters give Trump the truth: His midterm convention made no impact",
-          "imageUrl": "https://static.independent.co.uk/2026/09/17/22/53/Trump.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052174",
-          "author": "Bruce Golding",
-          "description": "Other social media videos show the Kentucky Republican, 84, performing acrobatic flips in a wheelchair",
-          "link": "https://www.independent.co.uk/news/world/americas/us-politics/mitch-mcconnell-memes-weekend-at-bernies-b3052174.html",
-          "publishedOn": "2026-09-17T23:26:56.000Z",
-          "wordCount": 4997,
-          "title": "Mitch McConnell gets ‘Weekend at Bernie’s’ treatment in AI memes after viral Senate appearance",
-          "imageUrl": "https://static.independent.co.uk/2026/09/17/20/14/Weekend-at-Bernies-Mitch-McConnell-Edition-YouTube.png?trim=30,0,30,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052175",
-          "author": "Graig Graziosi",
-          "description": "The Southlake City Council approved the permit for the Pride event last year",
-          "link": "https://www.independent.co.uk/news/world/americas/texas-pride-event-festival-permit-church-b3052175.html",
-          "publishedOn": "2026-09-17T22:28:33.000Z",
-          "wordCount": 4971,
-          "title": "Wealthy Texas suburb denies permit for church to hold a Pride event",
-          "imageUrl": "https://static.independent.co.uk/2026/09/17/21/28/Screenshot-2026-09-17-at-5-10-42-PM.png?trim=0,73,0,187&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052033",
-          "author": "Eric Garcia",
-          "description": "Trump insists rising fuel prices are ‘a very inexpensive price to pay,’ for his war in Iran. Eric Garcia asks Republicans and Democrats on Capitol Hill about the last time they stopped for gas",
-          "link": "https://www.independent.co.uk/news/world/americas/us-politics/congress-price-of-gas-trump-iran-war-b3052033.html",
-          "publishedOn": "2026-09-17T21:53:09.000Z",
-          "wordCount": 5750,
-          "title": "Congress members fleeing DC all say the same thing about filling their gas tanks",
-          "imageUrl": "https://static.independent.co.uk/2026/09/17/18/41/Congress-gas-prices-comp.jpeg?trim=0,100,0,100&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052126",
-          "author": "Dave Collins",
-          "description": "The former Democratic state representative was found guilty by a federal jury last year after being charged with extortion",
-          "link": "https://www.independent.co.uk/news/world/americas/konstantinos-diamantis-greece-flees-connecticut-b3052178.html",
-          "publishedOn": "2026-09-17T21:32:07.000Z",
-          "wordCount": 4748,
-          "title": "Ex-Connecticut official flees US by boat and plane ahead of corruption sentencing",
-          "imageUrl": "https://static.independent.co.uk/2025/10/22/17/Budget_Official_Investigation_39499.jpg?width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052142",
-          "author": "Rachel Dobkin",
-          "description": "Critics of the data center in St. Louis, Missouri, worry about its water usage, the impact on the city’s air quality and utility costs",
-          "link": "https://www.independent.co.uk/news/world/americas/st-louis-data-center-lawsuit-b3052142.html",
-          "publishedOn": "2026-09-17T21:05:32.000Z",
-          "wordCount": 5036,
-          "title": "Data center developer sues city after requiring company to supply renewable energy on-site",
-          "imageUrl": "https://static.independent.co.uk/2026/09/17/20/23/GettyImages-2286055476.jpg?trim=0,45,0,44&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052134",
-          "author": "Ed White and Rebecca Boone",
-          "description": "A witness described seeing a big plume of black smoke and said ‘explosions kept happening’",
-          "link": "https://www.independent.co.uk/news/world/americas/f16-fighter-jet-crash-michigan-alpena-b3052134.html",
-          "publishedOn": "2026-09-17T20:54:59.000Z",
-          "wordCount": 4484,
-          "title": "F-16 fighter jet crashes in Michigan and bursts into flames with residents told to evacuate",
-          "imageUrl": "https://static.independent.co.uk/2026/09/17/20/40/AP26260744871665.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052113",
-          "author": "Julia Musto",
-          "description": "Findings based on workplace surveys conducted during 2024 presidential primary season",
-          "link": "https://www.independent.co.uk/news/world/americas/politics-office-workplace-study-social-media-b3052163.html",
-          "publishedOn": "2026-09-17T20:52:14.000Z",
-          "wordCount": 4902,
-          "title": "Politics follow you at work - no matter if you’re talking about it or not",
-          "imageUrl": "https://static.independent.co.uk/2026/09/17/20/2054033618..?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052129",
-          "author": "Brendan Rascius",
-          "description": "‘It's a big decision. Anything could happen with me,’ Trump said",
-          "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-iran-war-threats-annihilate-un-b3052129.html",
-          "publishedOn": "2026-09-17T20:47:01.000Z",
-          "wordCount": 5003,
-          "title": "Trump says he is weighing whether to ‘annihilate’ Iran",
-          "imageUrl": "https://static.independent.co.uk/2026/09/17/19/47/GettyImages-2295653697.jpeg?trim=61,0,62,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052150",
-          "author": "The Associated Press",
-          "description": "A federal judge has ordered the Kennedy Center to provide 30 days’ notice before making any major physical changes to the building, including demolishing it — as President Donald Trump has threatened",
-          "link": "https://www.independent.co.uk/news/world/americas/donald-trump-kennedy-center-white-house-senate-mark-carney-b3052150.html",
-          "publishedOn": "2026-09-17T20:23:43.000Z",
-          "wordCount": 7356,
-          "title": "The Latest: Federal judge orders Kennedy Center to provide 30 days' notice of any building changes",
-          "imageUrl": "https://static.independent.co.uk/2026/09/17/21/Trump_88_81.jpg?width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052137",
-          "author": "Graig Graziosi",
-          "description": "Flash flood warnings in effect for parts of northwestern New Mexico",
-          "link": "https://www.independent.co.uk/news/world/americas/three-dead-floods-navajo-nation-new-mexico-b3052137.html",
-          "publishedOn": "2026-09-17T20:19:35.000Z",
-          "wordCount": 5161,
-          "title": "Three dead including a child after being swept away in floodwaters on Navajo land in New Mexico",
-          "imageUrl": "https://static.independent.co.uk/2026/09/17/20/download..?trim=128,0,5,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3028644",
-          "author": "Holly Baxter",
-          "description": "When Holly Baxter signed up for a health questionnaire and some bloodwork with new AI startup DeathClock, she wasn’t prepared for what would happen next",
-          "link": "https://www.independent.co.uk/news/world/americas/death-day-ai-silicon-valley-immortality-b3028644.html",
-          "publishedOn": "2026-09-17T19:58:34.000Z",
-          "wordCount": 7457,
-          "title": "I tested Silicon Valley’s “DeathClock” AI — it added a decade to my life expectancy in 24 hours",
-          "imageUrl": "https://static.independent.co.uk/2026/09/17/19/15/GettyImages-458521118.jpeg?trim=618,1329,693,637&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052123",
-          "author": "Isabel Keane",
-          "description": "Officials estimate that drivers in the state illegally pass school buses over 9,000 times a day",
-          "link": "https://www.independent.co.uk/news/world/americas/georgia-school-district-stop-arm-license-plate-cameras-b3052123.html",
-          "publishedOn": "2026-09-17T19:47:48.000Z",
-          "wordCount": 4637,
-          "title": "Georgia district hopes to install license-plate capturing cameras to fine drivers passing school buses",
-          "imageUrl": "https://static.independent.co.uk/2026/09/17/19/54/GettyImages-485211876.jpeg?trim=0,42,0,41&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052088",
-          "author": "Jasmine Fernández",
-          "description": "The 75-year-old suspect reportedly portrayed Santa Claus at the historic Wilmington attraction for approximately ten years",
-          "link": "https://www.independent.co.uk/news/world/americas/crime/santas-workshop-arrest-ticonderoga-clarence-russell-b3052088.html",
-          "publishedOn": "2026-09-17T19:41:39.000Z",
-          "wordCount": 3898,
-          "title": "Santa lookalike who worked at Christmas-themed amusement park tried to have sex with minors, cops say",
-          "imageUrl": "https://static.independent.co.uk/2026/09/17/18/10/Clarence-Russell.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3051978",
-          "author": "Alex Woodward",
-          "description": "DOJ says the institution will close ‘temporarily’ for repairs after the president publicly mentions its potential demolition",
-          "link": "https://www.independent.co.uk/news/world/americas/us-politics/kennedy-center-closure-trump-demolition-b3051978.html",
-          "publishedOn": "2026-09-17T19:23:32.000Z",
-          "wordCount": 5876,
-          "title": "Kennedy Center must give 30 days’ notice of demolition plans after Trump claimed it could be ‘ripped down’",
-          "imageUrl": "https://static.independent.co.uk/2026/09/17/15/2295088964..?trim=1,0,1,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052110",
-          "author": "Matthew Lee",
-          "description": "The decision on the Iranian visas was announced a day after the State Department denied visas to Palestinian President Mahmoud Abbas and his delegation",
-          "link": "https://www.independent.co.uk/news/world/americas/us-politics/iran-visas-un-general-assembly-2026-b3052119.html",
-          "publishedOn": "2026-09-17T19:19:32.000Z",
-          "wordCount": 4420,
-          "title": "US approves visas for Iranian leaders to attend UN meeting despite war stalemate",
-          "imageUrl": "https://static.independent.co.uk/2026/09/17/19/18/GettyImages-2237118182.jpg?trim=0,0,1,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052097",
-          "author": "Rachel Dobkin",
-          "description": "Congresswoman Maria Elvira Salazar is up for re-election in a district that overwhelmingly voted for Trump in the 2024 election",
-          "link": "https://www.independent.co.uk/news/world/americas/us-politics/florida-election-trump-midterms-deportation-immigrants-b3052097.html",
-          "publishedOn": "2026-09-17T19:18:04.000Z",
-          "wordCount": 5298,
-          "title": "Florida Republican hammers Trump over deportations in scathing election ad: ‘Betrayed’",
-          "imageUrl": "https://static.independent.co.uk/2026/09/17/17/39/Screenshot-2026-09-17-at-1-52-55-PM.jpg?trim=0,4,0,3&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052037",
-          "author": "Bruce Golding",
-          "description": "Some Trump administration officials reportedly hope that America.gov will help boost Republican congressional candidates in the midterm elections",
-          "link": "https://www.independent.co.uk/news/world/americas/us-politics/doge-bros-trump-ai-government-b3052037.html",
-          "publishedOn": "2026-09-17T19:08:17.000Z",
-          "wordCount": 5546,
-          "title": "DOGE bros have a new role — making an AI-powered site for Trump that handles basic government services",
-          "imageUrl": "https://static.independent.co.uk/2026/06/30/15/2200924488..?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3051755",
-          "author": "Maryam Zakir-Hussain",
-          "description": "UN fact finding mission also found that Iran committed crimes against humanity, with a deadly crackdown on its own citizens who protested against the regime",
-          "link": "https://www.independent.co.uk/news/world/middle-east/un-us-iran-war-crimes-b3051968.html",
-          "publishedOn": "2026-09-17T18:29:01.000Z",
-          "wordCount": 6223,
-          "title": "US likely committed war crimes with ‘reckless’ strike on Iran school that killed 120 children, damning UN report finds",
-          "imageUrl": "https://static.independent.co.uk/2026/09/09/07/Iran_School_57351.jpg?width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3051993",
-          "author": "Brendan Rascius and Graig Graziosi",
-          "description": "Lindsay Clancy killed the couple’s three young children at their Massachusetts home in 2023",
-          "link": "https://www.independent.co.uk/news/world/americas/crime/patrick-lindsay-clancy-talks-children-b3051993.html",
-          "publishedOn": "2026-09-17T18:26:45.000Z",
-          "wordCount": 4632,
-          "title": "Patrick Clancy is joined by new wife as he tells ‘60 Minutes’ he talks ‘all the time’ to 3 kids his ex-Lindsay killed",
-          "imageUrl": "https://static.independent.co.uk/2026/09/17/16/32/Patrick-Clancy-and-his-wife-Dr--Rachel-Danis.png?trim=0,356,0,105&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052099",
-          "author": "Brittney Donovan",
-          "description": "Lance Schroyer, a former Oklahoma state trooper with limited direct experience in immigration policy, is close to DHS head Markwayne Mullin",
-          "link": "https://www.independent.co.uk/news/world/americas/us-politics/lance-schroyer-trump-ice-nominee-withdrawn-b3052099.html",
-          "publishedOn": "2026-09-17T18:24:01.000Z",
-          "wordCount": 4517,
-          "title": "Trump withdraws controversial nominee to lead ICE after backlash over his credentials",
-          "imageUrl": "https://static.independent.co.uk/2026/06/29/20/2026-06-27T201855Z_1180175876_RC2K2MAHB573_RTRMADP_3_USA-TRUMP-ICE.JPG?trim=478,0,478,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052058",
-          "author": "Justin Rohrlich",
-          "description": "Mike Milstein, a high-level civilian CPD employee, says he ‘intends to resume’ his public criticism of the president",
-          "link": "https://www.independent.co.uk/news/world/americas/chicago-police-trump-lawsuit-no-kings-protest-b3052058.html",
-          "publishedOn": "2026-09-17T18:11:50.000Z",
-          "wordCount": 5517,
-          "title": "Exclusive: Chicago PD employee sues city after suspension for ‘F*** Trump’ Facebook post at ‘No Kings’ protest",
-          "imageUrl": "https://static.independent.co.uk/2026/09/17/16/46/MixCollage-17-Sep-2026-12-16-PM-945.jpeg?trim=70,0,71,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052086",
-          "author": "Graig Graziosi",
-          "description": "Target is planning to build 30 new stores and remodel 130 other locations this year",
-          "link": "https://www.independent.co.uk/news/world/americas/target-new-stores-employee-uniforms-b3052086.html",
-          "publishedOn": "2026-09-17T18:10:53.000Z",
-          "wordCount": 4872,
-          "title": "Target planning 8 new stores across the US as it debuts snazzy new employee uniforms",
-          "imageUrl": "https://static.independent.co.uk/2026/09/17/17/42/Screenshot-2026-09-17-at-1-12-07-PM.png?trim=0,156,0,155&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3051815",
-          "author": "Tim Sullivan and Russ Bynam",
-          "description": "A federal immigration officer charged with shooting a Venezuelan man last winter and lying about the circumstances",
-          "link": "https://www.independent.co.uk/news/world/americas/crime/ice-agent-charged-christian-castro-minnesota-shooting-b3052098.html",
-          "publishedOn": "2026-09-17T18:06:01.000Z",
-          "wordCount": 3960,
-          "title": "ICE agent charged with shooting Venezuelan man through apartment door and lying about it",
-          "imageUrl": "https://static.independent.co.uk/2026/09/17/13/58/hennepin-county-jail.webp?trim=104,0,176,0&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052031",
-          "author": "Brittney Donovan",
-          "description": "In social media posts, Anthony Kazmierczak had criticized former President Joe Biden and referred to Democrats as ‘angry and liars’",
-          "link": "https://www.independent.co.uk/news/world/americas/crime/ilhan-omar-vinegar-attack-sentence-anthony-kazmierczak-b3052031.html",
-          "publishedOn": "2026-09-17T17:49:28.000Z",
-          "wordCount": 4106,
-          "title": "Man sentenced for spraying vinegar on Rep. Ilhan Omar in town hall attack",
-          "imageUrl": "https://static.independent.co.uk/2026/05/08/11/2257991385.jpg?width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3052011",
-          "author": "Maryam Zakir-Hussain",
-          "description": "Tributes have been paid to Pavlo Sadokha, a leading voice for Ukrainians in Portugal",
-          "link": "https://www.independent.co.uk/news/world/europe/pavlo-sadokha-death-ukraine-putin-algarve-b3052011.html",
-          "publishedOn": "2026-09-17T17:41:33.000Z",
-          "wordCount": 4866,
-          "title": "Investigation launched into death of Ukrainian activist found dead in the Algarve",
-          "imageUrl": "https://static.independent.co.uk/2026/09/17/15/16/dyzajn-bez-nazvy-1-e1789394138593-1536x876.webp?trim=0,0,0,222&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3051614",
-          "author": "Mark Vancleave and Hallie Golden",
-          "description": "Dramatic video shows the moment two Minneapolis officers were shot after racing to an upper floor of an apartment building in pursuit of a shooter",
-          "link": "https://www.independent.co.uk/news/world/americas/crime/minneapolis-officers-shot-carlton-johnson-b3051701.html",
-          "publishedOn": "2026-09-17T17:38:15.000Z",
-          "wordCount": 3398,
-          "title": "Gunman ambushes cops on ninth floor after killing two in apartment rampage",
-          "imageUrl": "https://static.independent.co.uk/2026/09/17/09/download..?trim=0,150,0,150&width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "b3051975",
-          "author": "Julia Musto",
-          "description": "The bracketed competition kicks off next Tuesday",
-          "link": "https://www.independent.co.uk/news/world/americas/fat-bear-week-chunk-alaska-katmai-national-park-b3051975.html",
-          "publishedOn": "2026-09-17T17:32:15.000Z",
-          "wordCount": 4917,
-          "title": "It’s nearly Fat Bear Week and a fan favorite is back: Here’s everything you need to know",
-          "imageUrl": "https://static.independent.co.uk/2026/09/17/16/39/BEARS.jpeg?trim=0,139,0,137&width=1200&height=800&crop=1200:800"
-        }
-      ]
-    },
-    {
-      "title": "Alaska Dispatch News",
-      "feedUrl": "https://www.adn.com/arc/outboundfeeds/rss/",
-      "siteUrl": "https://www.adn.com",
-      "articles": [
-        {
-          "id": "https://www.adn.com/alaska-life/food-drink/2026/09/18/this-light-corn-and-salmon-chowder-with-a-jalapeno-kick-is-perfect-for-early-fall/",
-          "author": "Julia O'Malley",
-          "description": "For a little extra flavor, char fresh corn on the grill before throwing kernels in the soup.",
-          "link": "https://www.adn.com/alaska-life/food-drink/2026/09/18/this-light-corn-and-salmon-chowder-with-a-jalapeno-kick-is-perfect-for-early-fall/",
-          "publishedOn": "2026-09-18T17:06:38.000Z",
-          "wordCount": 3407,
-          "title": "This light corn and salmon chowder with a jalapeno kick is perfect for early fall",
-          "imageUrl": "https://www.adn.com/resizer/v2/3SJ7VGFVEFDB5JZ7D3GMNFVAU4.jpg?smart=true&auth=6b15fdd5c3ffd99c59357a21108a9d43b8ccac9923addbbb0125e0f710383a80&width=1200&height=630"
-        },
-        {
-          "id": "https://www.adn.com/nation-world/2026/09/18/attorney-general-todd-blanches-appearances-at-political-events-blur-justice-department-boundaries/",
-          "author": "Alanna Durkin Richer",
-          "description": "His speeches at political events that depart from longstanding norms meant to protect the Justice Department from the appearance of partisan bias.",
-          "link": "https://www.adn.com/nation-world/2026/09/18/attorney-general-todd-blanches-appearances-at-political-events-blur-justice-department-boundaries/",
-          "publishedOn": "2026-09-18T16:10:34.000Z",
-          "wordCount": 3943,
-          "title": "Attorney General Todd Blanche’s appearances at political events blur Justice Department boundaries",
-          "imageUrl": "https://www.adn.com/resizer/v2/NX5XOT6NJF3AN7HRE3HZWVEKFY.jpg?smart=true&auth=3d739abd6b5f864ff62ac1a45395893bde3d277eeb375d7f85ad271dae8279e1&width=1200&height=630"
-        },
-        {
-          "id": "https://www.adn.com/nation-world/2026/09/18/fda-ordered-studies-of-many-drugs-and-devices-already-on-the-market-are-not-done/",
-          "author": "David Hilzenrath, Special to The Washington Post",
-          "description": "To get drugs and devices out faster, the FDA lets companies conduct studies of safety or efficacy after the products are approved. In many cases, such “postmarket” studies are behind schedule or overdue.",
-          "link": "https://www.adn.com/nation-world/2026/09/18/fda-ordered-studies-of-many-drugs-and-devices-already-on-the-market-are-not-done/",
-          "publishedOn": "2026-09-18T15:43:32.000Z",
-          "wordCount": 6983,
-          "title": "FDA-ordered studies of many drugs and devices already on the market are not done",
-          "imageUrl": "https://www.adn.com/resizer/v2/2Y5Z2O6NWUEMVSCMPPU2V56HUU.jpg?smart=true&auth=fb42a89ac5c227c384c27bde073e10a71cff42cdf17b535e74dc9239522022fb&width=1200&height=630"
-        },
-        {
-          "id": "https://www.adn.com/politics/2026/09/18/national-democratic-group-throws-weight-behind-bill-hill-amid-growing-attention-on-alaskas-us-house-race/",
-          "author": "Alex DeMarban",
-          "description": "Groups aligned with President Trump’s $400 million Maga Inc. super PAC have also turned their attention toward the contest.",
-          "link": "https://www.adn.com/politics/2026/09/18/national-democratic-group-throws-weight-behind-bill-hill-amid-growing-attention-on-alaskas-us-house-race/",
-          "publishedOn": "2026-09-18T15:43:25.000Z",
-          "wordCount": 5775,
-          "title": "National Democratic group throws weight behind Bill Hill amid growing attention on Alaska’s U.S. House race",
-          "imageUrl": "https://www.adn.com/resizer/v2/M66LSDDK5VG3TJB3OPJCIYSKTY.JPG?smart=true&auth=61721d49b2530cbd8751da34db39bc8725f0b424e0a23b6583becb29b0b6b841&width=1200&height=630"
-        },
-        {
-          "id": "https://www.adn.com/nation-world/2026/09/18/early-voting-begins-in-midterm-elections-that-could-flip-control-of-congress/",
-          "author": "Ali Swenson, Sarah Rankin and Sarah Raza, Associated Press",
-          "description": "Americans now have just over six weeks to decide whether they want the House and Senate to remain in Republican control or flip to Democrats.",
-          "link": "https://www.adn.com/nation-world/2026/09/18/early-voting-begins-in-midterm-elections-that-could-flip-control-of-congress/",
-          "publishedOn": "2026-09-18T15:36:50.000Z",
-          "wordCount": 4589,
-          "title": "Early voting begins in midterm elections that could flip control of Congress",
-          "imageUrl": "https://www.adn.com/resizer/v2/HJNQZNZD3TB6GQVGPZOHBVVO2U.jpg?smart=true&auth=7831def358f8dde99a46a30250b07fcd309a022fc2966e3603a417131582ca9b&width=1200&height=630"
-        },
-        {
-          "id": "https://www.adn.com/opinions/letters/2026/09/18/letter-dont-enable-the-enablers/",
-          "author": "Cheryl Long",
-          "description": "",
-          "link": "https://www.adn.com/opinions/letters/2026/09/18/letter-dont-enable-the-enablers/",
-          "publishedOn": "2026-09-18T15:31:35.000Z",
-          "wordCount": 2571,
-          "title": "Letter: Don’t enable the enablers",
-          "imageUrl": "https://www.adn.com/resizer/v2/7ZZ7QEQ6I2YZLCO4ZW2WBWMCMU.jpg?smart=true&auth=84e8e9aae92cde67be936ccd2b28405372b421044e0b140d1bfe9634335d090d&width=1200&height=630"
-        },
-        {
-          "id": "https://www.adn.com/nation-world/2026/09/18/one-thing-that-hasnt-changed-in-250-years-americans-willingness-to-get-suckered/",
-          "author": "Jonathan Fahey, Associated Press",
-          "description": "The terms “snake oil” and “Ponzi scheme” come from famous American frauds, and experts say social media influencers are making us more vulnerable than ever.",
-          "link": "https://www.adn.com/nation-world/2026/09/18/one-thing-that-hasnt-changed-in-250-years-americans-willingness-to-get-suckered/",
-          "publishedOn": "2026-09-18T15:09:54.000Z",
-          "wordCount": 5666,
-          "title": "One thing that hasn’t changed in 250 years: Americans’ willingness to get suckered",
-          "imageUrl": "https://www.adn.com/resizer/v2/ZF22SIQSINZTXDFMTPU75M7N7E.jpg?smart=true&auth=20cca0bb4541ae5f969b20f9f83d9a7e9f791994df5373e4e88cff0ca11155b8&width=1200&height=630"
-        },
-        {
-          "id": "https://www.adn.com/alaska-news/anchorage/2026/09/18/water-main-break-near-downtown-anchorage-prompts-school-closure/",
-          "author": "Anchorage Daily News",
-          "description": "Denali Montessori was closed Friday because the elementary school had no water, district officials said.",
-          "link": "https://www.adn.com/alaska-news/anchorage/2026/09/18/water-main-break-near-downtown-anchorage-prompts-school-closure/",
-          "publishedOn": "2026-09-18T15:09:52.000Z",
-          "wordCount": 2716,
-          "title": "Water main break near downtown Anchorage prompts school closure",
-          "imageUrl": "https://www.adn.com/resizer/v2/CUS3BIYU6RC2DGPD7DQ3SSSO2M.JPG?smart=true&auth=38a74d481bd34d120312c4329e0447ee259c698c930aa9020f3aface41308425&width=1200&height=630"
-        },
-        {
-          "id": "https://www.adn.com/nation-world/2026/09/18/billionaire-warren-buffett-steps-down-as-berkshire-hathaway-chairman-a-post-he-has-held-since-1970/",
-          "author": "Josh Funk and Michelle Chapman, Associated Press",
-          "description": "Buffett’s son, Howard, will become Berkshire Hathaway’s new chairman, part of a long-planned succession.",
-          "link": "https://www.adn.com/nation-world/2026/09/18/billionaire-warren-buffett-steps-down-as-berkshire-hathaway-chairman-a-post-he-has-held-since-1970/",
-          "publishedOn": "2026-09-18T14:49:08.000Z",
-          "wordCount": 3919,
-          "title": "Billionaire Warren Buffett steps down as Berkshire Hathaway chairman, a post he has held since 1970",
-          "imageUrl": "https://www.adn.com/resizer/v2/QC2WFU3JNAAAA4JIY6U3SMVYWM.jpg?smart=true&auth=c50bd923e93f6742cc9be151a9cb5e9bae898d09479fe292e1783f780bd1da4c&width=1200&height=630"
-        },
-        {
-          "id": "https://www.adn.com/opinions/2026/09/18/opinion-the-hardest-part-of-alaskas-new-civics-curriculum-be-speaking-honestly-about-it-in-class/",
-          "author": "Liam Julian",
-          "description": "Students say classmates, more than teachers, are often what make them think twice before sharing political views.",
-          "link": "https://www.adn.com/opinions/2026/09/18/opinion-the-hardest-part-of-alaskas-new-civics-curriculum-be-speaking-honestly-about-it-in-class/",
-          "publishedOn": "2026-09-18T14:34:23.000Z",
-          "wordCount": 4116,
-          "title": "Opinion: The hardest part of Alaska’s new civics curriculum be speaking honestly about it in class",
-          "imageUrl": "https://www.adn.com/resizer/v2/62F7AQAPX5HCVCYSBPFXHAONIE.jpg?smart=true&auth=71f7fe10e725f0b1158e6c9185bfdcf18dd2a4388fa2700f69d643fe5c7300b6&width=1200&height=630"
-        },
-        {
-          "id": "https://www.adn.com/opinions/2026/09/18/opinion-with-donlin-golds-bigger-ambitions-come-bigger-risks-to-the-yukon-kuskokwim-delta/",
-          "author": "Gregory Hoffman, Mary Nicolai, Ethel Phillip, Gabriel Nanok, Peter Andrew and Lillian Cleveland",
-          "description": "Updated mine plans could mean more waste, more tailings and more risk than previously studied.",
-          "link": "https://www.adn.com/opinions/2026/09/18/opinion-with-donlin-golds-bigger-ambitions-come-bigger-risks-to-the-yukon-kuskokwim-delta/",
-          "publishedOn": "2026-09-18T14:32:48.000Z",
-          "wordCount": 4691,
-          "title": "Opinion: With Donlin Gold’s bigger ambitions come bigger risks to the Yukon-Kuskokwim Delta",
-          "imageUrl": "https://www.adn.com/resizer/v2/2FA4GHEJUNGJXLRK4TW5Y743VQ.JPG?smart=true&auth=00332e79bf0d0730155ebcea4650726e59836bb39390a73a6b3ed2b8d1e34738&width=1200&height=630"
-        },
-        {
-          "id": "https://www.adn.com/alaska-life/gardening/2026/09/18/its-the-time-of-the-season-to-consider-indoor-growing-and-light-systems/",
-          "author": "Jeff Lowenfels",
-          "description": "There are light systems that fit all different types of plants and spaces.",
-          "link": "https://www.adn.com/alaska-life/gardening/2026/09/18/its-the-time-of-the-season-to-consider-indoor-growing-and-light-systems/",
-          "publishedOn": "2026-09-18T14:22:08.000Z",
-          "wordCount": 3583,
-          "title": "It’s the time of the season to consider indoor growing and light systems",
-          "imageUrl": "https://www.adn.com/resizer/v2/RJ6AWBHCMVGQ5MIDOQLK3R7WMI.jpg?smart=true&auth=759b35e684190ed635ee922e85841ce1f4fffc1e3cd9e64a449a5ce09110b2f9&width=1200&height=630"
-        },
-        {
-          "id": "https://www.adn.com/nation-world/2026/09/18/trump-refers-to-black-man-from-racially-offensive-1988-campaign-ad-while-campaigning-in-north-carolina/",
-          "author": "Corey Williams, Associated Press",
-          "description": "During a Wednesday rally in Gastonia, North Carolina, the president referenced the infamous Willie Horton ad, which targeted then-Massachusetts Gov. Michael Dukakis.",
-          "link": "https://www.adn.com/nation-world/2026/09/18/trump-refers-to-black-man-from-racially-offensive-1988-campaign-ad-while-campaigning-in-north-carolina/",
-          "publishedOn": "2026-09-18T10:55:15.000Z",
-          "wordCount": 4372,
-          "title": "Trump refers to Black man from racially offensive 1988 campaign ad while campaigning in North Carolina",
-          "imageUrl": "https://www.adn.com/resizer/v2/7HIFGK7DWWJZO5D7IKFHQ2YMK4.jpg?smart=true&auth=7acefa17e679b368968749822d0f1039848e2e37f82b966414e0e6c91944408b&width=1200&height=630"
-        },
-        {
-          "id": "https://www.adn.com/nation-world/2026/09/18/microsoft-exec-called-ai-the-largest-theft-of-labor-in-history-court-records-show/",
-          "author": "Scott Nover, Gerrit De Vynck, The Washington Post",
-          "description": "The quote headlined an unsealed document in the New York Times’s copyright case against Microsoft and OpenAI.",
-          "link": "https://www.adn.com/nation-world/2026/09/18/microsoft-exec-called-ai-the-largest-theft-of-labor-in-history-court-records-show/",
-          "publishedOn": "2026-09-18T10:48:05.000Z",
-          "wordCount": 4105,
-          "title": "Microsoft exec called AI the ‘largest theft of labor’ in history, court records show",
-          "imageUrl": "https://www.adn.com/resizer/v2/MQG55AWGOJDQHEHSCETHAE4TIM.jpg?smart=true&auth=1436e150dcf25d8d2bbcfa4aa6130d14e51332246b7377e56e9cea8fab28e05c&width=1200&height=630"
-        },
-        {
-          "id": "https://www.adn.com/nation-world/2026/09/18/why-democrats-are-starting-to-feel-bullish-about-a-midterm-wave/",
-          "author": "Dan Merica, Theodoric Meyer, The Washington Post",
-          "description": "Democrats say the Iran war, high prices and President Donald Trump’s sinking popularity give them a real chance of congressional majorities.",
-          "link": "https://www.adn.com/nation-world/2026/09/18/why-democrats-are-starting-to-feel-bullish-about-a-midterm-wave/",
-          "publishedOn": "2026-09-18T10:43:20.000Z",
-          "wordCount": 5517,
-          "title": "Why Democrats are starting to feel bullish about a midterm wave",
-          "imageUrl": "https://www.adn.com/resizer/v2/VCL4SD2KYNW5YQAKKKPQPVZQLE.jpg?smart=true&auth=f2229e0f753156050ac90e5a6a23f1db984b17e3f454718663498579c8e4db7c&width=1200&height=630"
-        },
-        {
-          "id": "https://www.adn.com/nation-world/2026/09/18/anthropic-says-its-ai-model-claude-is-helping-to-build-the-next-version-of-itself/",
-          "author": "Kaitlyn Huamani, Associated Press",
-          "description": "Although Claude isn’t fully autonomous, it collaborates on about 90% of the company’s research and development work.",
-          "link": "https://www.adn.com/nation-world/2026/09/18/anthropic-says-its-ai-model-claude-is-helping-to-build-the-next-version-of-itself/",
-          "publishedOn": "2026-09-18T10:40:41.000Z",
-          "wordCount": 3121,
-          "title": "Anthropic says its AI model Claude is helping to build the next version of itself",
-          "imageUrl": "https://www.adn.com/resizer/v2/GWGQAW3XFT5OXDGJSEBSJWNJ44.jpg?smart=true&auth=c3cc1a06f10318756d2cbcafada944dbe944ee94420675b1347856d1af60294c&width=1200&height=630"
-        },
-        {
-          "id": "https://www.adn.com/nation-world/2026/09/18/string-of-daring-russian-plots-is-testing-washingtons-restraint/",
-          "author": "Greg Miller, The Washington Post",
-          "description": "A strike on a train that imperiled former European leaders and CIA officers is among a spate of attacks that risked a dangerous escalation with the West, experts say.",
-          "link": "https://www.adn.com/nation-world/2026/09/18/string-of-daring-russian-plots-is-testing-washingtons-restraint/",
-          "publishedOn": "2026-09-18T10:17:47.000Z",
-          "wordCount": 4999,
-          "title": "String of daring Russian plots is testing Washington’s restraint",
-          "imageUrl": "https://www.adn.com/resizer/v2/HBPPTCVQVPCHSVGHMYRTJCHOBM.jpg?smart=true&auth=090e6a3b95bb95c11d2018a2cffc587e8b71b90d3013da3fcd95a56ddd38228e&width=1200&height=630"
-        },
-        {
-          "id": "https://www.adn.com/arts/music/2026/09/18/sheerans-tour-chaos-what-to-know-as-macklemore-pledges-1m-in-palestinian-aid/",
-          "author": "Victoria Craw, The Washington Post",
-          "description": "Ed Sheeran’s Loop Tour has been thrown into controversy after rapper Macklemore, who said “Free Palestine” at a concert, was dropped as an opening act.",
-          "link": "https://www.adn.com/arts/music/2026/09/18/sheerans-tour-chaos-what-to-know-as-macklemore-pledges-1m-in-palestinian-aid/",
-          "publishedOn": "2026-09-18T10:08:35.000Z",
-          "wordCount": 4970,
-          "title": "Sheeran’s tour chaos: What to know as Macklemore pledges $1M in Palestinian aid",
-          "imageUrl": "https://www.adn.com/resizer/v2/SROJ72AWSKIIKBRL7HPBSFI6VA.jpg?smart=true&auth=98b79d755f2497f908e23dc2bb18f8f5a4b01da8b8679a0d051aaea0a1189f19&width=1200&height=630"
-        },
-        {
-          "id": "https://www.adn.com/alaska-life/advice/2026/09/18/miss-manners-i-was-spying-on-my-neighbors-party-and-got-a-drink-thrown-in-my-face-who-was-in-the-wrong/",
-          "author": "Miss Manners | Judith Martin, Nicholas Ivor Martin and Jacobina Martin",
-          "description": "Advice from Judith Martin, Nicholas Ivor Martin and Jacobina Martin.",
-          "link": "https://www.adn.com/alaska-life/advice/2026/09/18/miss-manners-i-was-spying-on-my-neighbors-party-and-got-a-drink-thrown-in-my-face-who-was-in-the-wrong/",
-          "publishedOn": "2026-09-18T08:19:00.000Z",
-          "wordCount": 3533,
-          "title": "Miss Manners: I was spying on my neighbor’s party and got a drink thrown in my face. Who was in the wrong?",
-          "imageUrl": "https://www.adn.com/resizer/v2/RVBRDFHLTRE6DFUM37EXSOHXIA.jpg?smart=true&auth=d7e43d37b2718bf742e37cbcc5addf4a08d0880700daf6f153d7cbf9b9084f0d&width=1200&height=630"
-        },
-        {
-          "id": "https://www.adn.com/sports/national-sports/2026/09/17/nhl-star-alex-ovechkin-says-hes-for-peace-and-love-after-appearing-in-ad-for-putin-aligned-party/",
-          "author": "Noah Trister, Associated Press",
-          "description": "He noted he plans to return to live in Russia once his NHL career is over.",
-          "link": "https://www.adn.com/sports/national-sports/2026/09/17/nhl-star-alex-ovechkin-says-hes-for-peace-and-love-after-appearing-in-ad-for-putin-aligned-party/",
-          "publishedOn": "2026-09-18T02:24:00.000Z",
-          "wordCount": 3371,
-          "title": "NHL star Alex Ovechkin says he’s ‘for peace and love’ after appearing in ad for Putin-aligned party",
-          "imageUrl": "https://www.adn.com/resizer/v2/PACO4KIPIMCPOOAWJXSLARSTRU.jpg?smart=true&auth=2c477b864d65f7379fffecc9f5a1eef281279e92bfe841d3e397d4f7e5e84a98&width=1200&height=630"
-        },
-        {
-          "id": "https://www.adn.com/alaska-news/anchorage/2026/09/17/anchorage-woman-arrested-in-fatal-downtown-hit-and-run-involving-pedestrian/",
-          "author": "Anchorage Daily News",
-          "description": "The incident closed East Third Avenue near the Anchorage Correctional Complex for several hours on Thursday.",
-          "link": "https://www.adn.com/alaska-news/anchorage/2026/09/17/anchorage-woman-arrested-in-fatal-downtown-hit-and-run-involving-pedestrian/",
-          "publishedOn": "2026-09-18T01:53:06.000Z",
-          "wordCount": 2763,
-          "title": "Anchorage woman arrested in fatal downtown hit-and-run involving pedestrian",
-          "imageUrl": "https://www.adn.com/resizer/v2/HUZABUGDRBDDXLBWLMOPHO3RLU.jpg?smart=true&auth=2d22cd98090f61743e2860b80cd268b223f90b708b615c0f55a34c9b60fa8d78&width=1200&height=630"
-        },
-        {
-          "id": "https://www.adn.com/alaska-news/2026/09/17/mail-trouble-canceled-some-alaska-primary-votes-in-western-alaska/",
-          "author": "James Brooks, Alaska Beacon",
-          "description": "Statewide, about 3.4% of absentee ballots were rejected for various problems, above the average for recent elections but below the record high.",
-          "link": "https://www.adn.com/alaska-news/2026/09/17/mail-trouble-canceled-some-alaska-primary-votes-in-western-alaska/",
-          "publishedOn": "2026-09-18T01:22:08.000Z",
-          "wordCount": 4379,
-          "title": "Mail trouble canceled some primary election votes in Western Alaska",
-          "imageUrl": "https://www.adn.com/resizer/v2/IQJX62L55NEV5LASR2BZKT6GTM.jpg?smart=true&auth=0cf2bff004945ab6fedaf89e5dcfd18aadfd71efd4bcae0b41bbd18f5f68ed1e&width=1200&height=630"
-        },
-        {
-          "id": "https://www.adn.com/politics/2026/09/17/treg-taylor-accepted-69000-in-travel-related-gifts-last-year/",
-          "author": "Iris Samuels",
-          "description": "The Republican gubernatorial candidate did not include the travel gifts on a required campaign financial disclosure.",
-          "link": "https://www.adn.com/politics/2026/09/17/treg-taylor-accepted-69000-in-travel-related-gifts-last-year/",
-          "publishedOn": "2026-09-17T18:31:17.000Z",
-          "wordCount": 6115,
-          "title": "Treg Taylor accepted $69,000 in travel-related gifts last year as attorney general that he didn’t report",
-          "imageUrl": "https://www.adn.com/resizer/v2/PVMUUNKLGZFLHFKGRVEAXDK3PE.JPG?smart=true&auth=15827b40965cb5d421ffecf213db2ac8fa1a8959693b72da110328bea9079f4e&width=1200&height=630"
-        },
-        {
-          "id": "https://www.adn.com/alaska-news/anchorage/2026/09/16/anchorage-adds-40-new-homeless-shelter-beds-as-weather-turns-colder/",
-          "author": "Paula Dobbyn",
-          "description": "As the beds filled immediately, advocates this week also recommended new kinds of help with homeless outreach.",
-          "link": "https://www.adn.com/alaska-news/anchorage/2026/09/16/anchorage-adds-40-new-homeless-shelter-beds-as-weather-turns-colder/",
-          "publishedOn": "2026-09-16T17:56:18.000Z",
-          "wordCount": 4483,
-          "title": "Anchorage adds 40 homeless shelter beds as weather turns colder",
-          "imageUrl": "https://www.adn.com/resizer/v2/EVABWHVID5EJTGFG27K3UYCIUY.JPG?smart=true&auth=2a44aae6d9deeb93940fd608d6ff64f5f3815fdae4be45f7de32c7a6c7d74dbb&width=1200&height=630"
-        },
-        {
-          "id": "https://www.adn.com/opinions/2026/09/15/opinion-the-resource-curse-is-knocking-at-alaskas-door/",
-          "author": "David Jenkins and Oliver Coray",
-          "description": "When resource development threatens other major industries, Alaska risks turning opportunity into an economic curse.",
-          "link": "https://www.adn.com/opinions/2026/09/15/opinion-the-resource-curse-is-knocking-at-alaskas-door/",
-          "publishedOn": "2026-09-15T19:53:04.000Z",
-          "wordCount": 4154,
-          "title": "Opinion: The resource curse is knocking at Alaska’s door",
-          "imageUrl": "https://www.adn.com/resizer/v2/TKVF63OIPFZ22KBUNNX7YD3DYM.jpg?smart=true&auth=b701c98dc55c99c41e705445b2d3832a7fcfe520bb1a10ffd3e06048ef604a69&width=1200&height=630"
-        }
-      ]
-    },
-    {
-      "title": "The Seattle Times The Seattle Times",
-      "feedUrl": "https://www.seattletimes.com/feed/",
-      "siteUrl": "https://www.seattletimes.com",
-      "articles": [
-        {
-          "id": "https://www.seattletimes.com/news/in-if-i-go-will-they-miss-me-a-family-seeks-healing-under-the-lax-flight-path/",
-          "author": "LESLIE AMBRIZ",
-          "description": "Writer-director Walter Thompson-Hernández's feature film \"If I Go Will They Miss Me\" explores connection and healing under the LAX flight path.",
-          "link": "https://www.seattletimes.com/entertainment/in-if-i-go-will-they-miss-me-a-family-seeks-healing-under-the-lax-flight-path/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-          "publishedOn": "2026-09-18T16:38:07.000Z",
-          "wordCount": 5274,
-          "title": "In ‘If I Go Will They Miss Me,’ a family seeks healing under the LAX flight path",
-          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2026/09/urnpublicidap.org3b71481591bf91eab794a0855304253f_If_I_Go_They_Will_Miss_Me__Portrait_Session_32524.jpg?d=1200x630"
-        },
-        {
-          "id": "https://www.seattletimes.com/news/judge-isnt-swayed-by-governments-claims-that-plans-for-an-anti-weaponization-fund-are-dead/",
-          "author": "MICHAEL KUNZELMAN",
-          "description": "A federal judge who blocked the creation of a fund to pay President Donald Trump’s political allies isn't convinced that the concept has been abandoned.",
-          "link": "https://www.seattletimes.com/nation-world/nation/judge-isnt-swayed-by-governments-claims-that-plans-for-an-anti-weaponization-fund-are-dead/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-          "publishedOn": "2026-09-18T16:18:08.000Z",
-          "wordCount": 4962,
-          "title": "Judge isn’t swayed by government’s claims that plans for an ‘anti-weaponization fund’ are dead",
-          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2026/09/urnpublicidap.org1437f497b384741c143c97db9803426cTrump_54496.jpg?d=1200x630"
-        },
-        {
-          "id": "https://www.seattletimes.com/?p=19964053",
-          "author": "Sheldon H. Jacobson",
-          "description": "Adding more people into the existing system does little to resolve the structural issues that have led to persistent shortages in the first place.",
-          "link": "https://www.seattletimes.com/opinion/video-gamers-alone-cant-keep-our-skies-safe/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-          "publishedOn": "2026-09-18T15:20:02.000Z",
-          "wordCount": 5126,
-          "title": "Video gamers alone can’t keep our skies safe",
-          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2026/09/tsr-air-traffic-control.jpg?d=1200x630"
-        },
-        {
-          "id": "https://www.seattletimes.com/?p=19960496",
-          "author": "Gautam Mukunda",
-          "description": "Whether it’s countries or companies, organizations built around single unconstrained leaders struggle when their abilities fade.",
-          "link": "https://www.seattletimes.com/opinion/the-u-s-canada-rupture-is-a-lesson-in-declining-leadership/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-          "publishedOn": "2026-09-18T15:15:02.000Z",
-          "wordCount": 5289,
-          "title": "The U.S.-Canada rupture is a lesson in declining leadership",
-          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2026/09/tsr-canada-us-flags.jpg?d=1200x630"
-        },
-        {
-          "id": "https://www.seattletimes.com/?p=19965283",
-          "author": "Ryan Divish",
-          "description": "Despite scuffling all season, the Mariners entered September still with a chance to make the playoffs. With nine games left, those hopes have all but evaporated.",
-          "link": "https://www.seattletimes.com/sports/mariners/the-mariners-were-expected-to-win-the-al-west-instead-they-need-a-miracle/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-          "publishedOn": "2026-09-18T15:00:00.000Z",
-          "wordCount": 5203,
-          "title": "The Mariners were expected to win the AL West. Instead, they need a miracle",
-          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2026/09/09172026_tzr_tzr_194343.jpg?d=1200x630"
-        },
-        {
-          "id": "https://www.seattletimes.com/?p=19947176",
-          "author": "Annie Fanning",
-          "description": "Let creative reuse stores inspire your art and help lower your carbon footprint.",
-          "link": "https://www.seattletimes.com/explore/at-home/affordable-greener-art-supply-options-in-and-around-seattle/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-          "publishedOn": "2026-09-18T15:00:00.000Z",
-          "wordCount": 5448,
-          "title": "Affordable, greener art supply options in and around Seattle",
-          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2026/09/tzr-IMG_5584.jpg?d=1200x630"
-        },
-        {
-          "id": "https://www.seattletimes.com/?p=19900251",
-          "author": "Jayati Ramakrishnan",
-          "description": "As patients linger in the state hospital, mental health advocates say the delays jeopardize patients’ rights and recovery.",
-          "link": "https://www.seattletimes.com/seattle-news/mental-health/patients-deemed-ready-to-leave-wa-state-hospitals-often-wait-for-months/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-          "publishedOn": "2026-09-18T15:00:00.000Z",
-          "wordCount": 6461,
-          "title": "Patients deemed ready to leave WA state hospitals often wait for months",
-          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2026/09/09172026_TZR_Western_State_Hospital-08282026-ABS_tz.jpg?d=1200x630"
-        },
-        {
-          "id": "https://www.seattletimes.com/news/peter-de-caluwe-to-become-salzburg-festival-artistic-director-in-october-2027/",
-          "author": "RONALD BLUM",
-          "description": "Peter de Caluwe will become the artistic director of the Salzburg Festival in October 2027.",
-          "link": "https://www.seattletimes.com/entertainment/peter-de-caluwe-to-become-salzburg-festival-artistic-director-in-october-2027/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-          "publishedOn": "2026-09-18T14:49:12.000Z",
-          "wordCount": 5017,
-          "title": "Peter de Caluwe to become Salzburg Festival artistic director in October 2027",
-          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2026/09/urnpublicidap.orgbbe85e42131cdeb16f8090d7ee93be95Salzburg-Festival_55855.jpg?d=1200x630"
-        },
-        {
-          "id": "https://www.seattletimes.com/news/duncan-sheik-tony-and-grammy-winning-spring-awakening-composer-and-pop-star-dies-at-56/",
-          "author": "Mark Kennedy",
-          "description": "Tony- and Grammy-winning musician Duncan Sheik has died at 56. Before  Broadway's “Spring Awakening,” he had been best known for the hit “Barely Breathing.”",
-          "link": "https://www.seattletimes.com/entertainment/duncan-sheik-tony-and-grammy-winning-spring-awakening-composer-and-pop-star-dies-at-56/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-          "publishedOn": "2026-09-18T14:47:11.000Z",
-          "wordCount": 5621,
-          "title": "Duncan Sheik, Tony- and Grammy-winning ‘Spring Awakening’ composer and pop star, dies at 56",
-          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2026/09/09182026_sheik_tzr_075504.jpg?d=1200x630"
-        },
-        {
-          "id": "https://www.seattletimes.com/?p=19965991",
-          "author": "BROOKS BARNES",
-          "description": "A long and highly anticipated documentary about Elon Musk will be released in major U.S. markets on Oct. 9.",
-          "link": "https://www.seattletimes.com/business/searing-elon-musk-film-nears-u-s-release-amid-overseas-concerns/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-          "publishedOn": "2026-09-18T14:41:10.000Z",
-          "wordCount": 5199,
-          "title": "Searing Elon Musk film nears U.S. release amid overseas concerns",
-          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2026/09/09182026_musk_tzr_073752.jpg?d=1200x630"
-        },
-        {
-          "id": "https://www.seattletimes.com/news/uk-air-traffic-controller-blames-a-millisecond-software-glitch-for-flight-cancellations/",
-          "author": "PAN PYLAS",
-          "description": "A preliminary report has blamed a software defect for the cancellation of over 2,000 flights in the United Kingdom last week.",
-          "link": "https://www.seattletimes.com/business/uk-air-traffic-controller-blames-a-millisecond-software-glitch-for-flight-cancellations/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-          "publishedOn": "2026-09-18T14:28:04.000Z",
-          "wordCount": 4746,
-          "title": "UK air traffic controller blames a millisecond-software glitch for flight cancellations",
-          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2026/09/urnpublicidap.orgf0f69ef27a90c9d0455ebf54f0998df3Britain_Air_Traffic_Control_78685.jpg?d=1200x630"
-        },
-        {
-          "id": "https://www.seattletimes.com/?p=19967637",
-          "author": "Kai Uyehara",
-          "description": "The two new train sets will operate four daily trips between Vancouver, B.C., Seattle, Portland and Eugene, Oregon, in the first phase of the fleet’s introduction.",
-          "link": "https://www.seattletimes.com/seattle-news/amtrak-to-introduce-upgraded-sleek-airo-train-sets-on-cascades-route/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-          "publishedOn": "2026-09-18T14:13:10.000Z",
-          "wordCount": 4790,
-          "title": "Amtrak to introduce upgraded, sleek Airo train sets on Cascades route",
-          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2026/09/09182026_amtrak91826-tzr_tzr_062902.jpg?d=1200x630"
-        },
-        {
-          "id": "https://www.seattletimes.com/?p=19967621",
-          "author": "Alexis Weisend",
-          "description": "Starbucks settled a civil rights lawsuit over allegations that its diversity, equity and inclusion policies violated Florida's anti-discrimination laws.",
-          "link": "https://www.seattletimes.com/business/starbucks-settles-florida-lawsuit-over-its-dei-efforts/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-          "publishedOn": "2026-09-18T14:13:08.000Z",
-          "wordCount": 4897,
-          "title": "Starbucks settles Florida lawsuit over its DEI efforts",
-          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2026/09/09182026_tzr_tzr_070516.jpg?d=1200x630"
-        },
-        {
-          "id": "https://www.seattletimes.com/?p=19957638",
-          "author": "The Seattle Times editorial board",
-          "description": "Rep. Chris Stearns, D-Auburn, brings needed focus to energy and tribal issues, as well as growing the state's space industry.",
-          "link": "https://www.seattletimes.com/opinion/editorials/seattle-times-endorsements-wa-general-election-2026-legislative-district-47-position-2/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-          "publishedOn": "2026-09-18T14:00:00.000Z",
-          "wordCount": 4863,
-          "title": "Seattle Times endorsements, WA general election 2026: Legislative District 47, Position 2",
-          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2026/09/09152026_TZR_Chris_Stearns_tzr_160003.jpg?d=1200x630"
-        },
-        {
-          "id": "https://www.seattletimes.com/news/kremlin-orders-businesses-seized/",
-          "author": "The Associated Press",
-          "description": "The Kremlin ordered the Russian businesses of Swiss-based food and beverage company Nestle and French retailer Auchan placed in temporary administration, in a procedure that previously has led to the sale of Western businesses at knockdown prices.",
-          "link": "https://www.seattletimes.com/business/kremlin-orders-businesses-seized/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-          "publishedOn": "2026-09-18T13:30:14.000Z",
-          "wordCount": 4705,
-          "title": "Kremlin orders Russia businesses of Nestle, Auchan seized",
-          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2026/09/urnpublicidap.orgdb90782aa5510cef0eeba61ef8969ab5Russia_Business_85776.jpg?d=1200x630"
-        },
-        {
-          "id": "https://www.seattletimes.com/news/one-thing-that-hasnt-changed-in-250-years-americans-willingness-to-get-suckered/",
-          "author": "JONATHAN FAHEY",
-          "description": "America is the land of possibility and the land of cockamamie schemes.",
-          "link": "https://www.seattletimes.com/business/one-thing-that-hasnt-changed-in-250-years-americans-willingness-to-get-suckered/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-          "publishedOn": "2026-09-18T13:15:16.000Z",
-          "wordCount": 6054,
-          "title": "One thing that hasn’t changed in 250 years: Americans’ willingness to get suckered",
-          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2026/09/urnpublicidap.orga460251c97ac365054e469e82b1402e5America_25_-Nation_of_Suckers_99719.jpg?d=1200x630"
-        },
-        {
-          "id": "https://www.seattletimes.com/?p=19966262",
-          "author": "K.R. Callaway",
-          "description": "A fossilized piece of dinosaur poop could help answer an age-old question in paleontology: Why are birds the only dinosaurs that survived?",
-          "link": "https://www.seattletimes.com/nation-world/feather-found-in-dinosaur-poop-might-explain-how-birds-beat-extinction/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-          "publishedOn": "2026-09-18T13:14:52.000Z",
-          "wordCount": 5088,
-          "title": "Feather found in dinosaur poop might explain how birds beat extinction",
-          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2026/09/09182026_tzr_tzr_071338.jpg?d=1200x630"
-        },
-        {
-          "id": "https://www.seattletimes.com/news/scientists-hope-deeper-rooted-soybeans-can-withstand-climate-extremes-and-store-more-carbon/",
-          "author": "JOSHUA A. BICKEL and Annika Hammerschlag",
-          "description": "For years, scientists have explored ways to remove carbon from the atmosphere, including through direct air capture, changes to ocean chemistry so seawater can absorb more carbon and reforestation.",
-          "link": "https://www.seattletimes.com/business/scientists-hope-deeper-rooted-soybeans-can-withstand-climate-extremes-and-store-more-carbon/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-          "publishedOn": "2026-09-18T13:02:23.000Z",
-          "wordCount": 5360,
-          "title": "Scientists hope deeper-rooted soybeans can withstand climate extremes and store more carbon",
-          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2026/09/urnpublicidap.org96cceef4cae98b4cd6f516ef71315949Climate_Roots_Carbon_Capture_65_64.jpg?d=1200x630"
-        },
-        {
-          "id": "https://www.seattletimes.com/?p=19964993",
-          "author": "Shauna Sowersby",
-          "description": "Rep. Joel McEntire, R-Cathlamet, has been ordered to stop communicating with a healthcare worker, one of McEntire’s constituents a judge found he has harassed.",
-          "link": "https://www.seattletimes.com/seattle-news/wa-republican-rep-joel-mcentire-harassed-constituent-judge-finds/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-          "publishedOn": "2026-09-18T13:00:00.000Z",
-          "wordCount": 5093,
-          "title": "WA Republican Rep. Joel McEntire harassed constituent, judge finds",
-          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2026/09/09172026_TZR_Joel_McEntire-01122026-KL_tzr_150014.jpg?d=1200x630"
-        },
-        {
-          "id": "https://www.seattletimes.com/?p=19961062",
-          "author": "Mike Lindblom",
-          "description": "Some I-90 work that was postponed by rain last weekend will happen this weekend instead, tying Bellevue traffic into knots.",
-          "link": "https://www.seattletimes.com/seattle-news/transportation/sunny-weekend-brings-gloomy-highway-snarls-for-seattle-eastside/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-          "publishedOn": "2026-09-18T13:00:00.000Z",
-          "wordCount": 5047,
-          "title": "Sunny weekend brings gloomy highway snarls for Seattle, Eastside",
-          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2026/09/09172026_405_tzr_114407.jpg?d=1200x630"
-        },
-        {
-          "id": "https://www.seattletimes.com/?p=19958728",
-          "author": "Andy Yamashita",
-          "description": "For a second consecutive week, Washington's football game will be broadcast on the Big Ten Network's alternate overflow channel. Here's how to find it.",
-          "link": "https://www.seattletimes.com/sports/washington-huskies-football/big-ten-network-to-show-washington-huskies-eastern-washington-game-on-overflow-channel/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-          "publishedOn": "2026-09-18T13:00:00.000Z",
-          "wordCount": 4608,
-          "title": "Big Ten Network to show Washington Huskies-Eastern Washington game on overflow channel",
-          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2026/09/09172026_TZR_Big_Ten_Network-UW-2024-JB_tzr_152040.jpg?d=1200x630"
-        },
-        {
-          "id": "https://www.seattletimes.com/?p=19958716",
-          "author": "Andy Yamashita",
-          "description": "The Huskies have underwhelmed through two weeks, but they have a chance to get right against FCS Eastern Washington. Here's what to watch in Saturday's matchup.",
-          "link": "https://www.seattletimes.com/sports/washington-huskies-football/what-to-watch-when-washington-huskies-hosts-eastern-washington/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-          "publishedOn": "2026-09-18T13:00:00.000Z",
-          "wordCount": 5529,
-          "title": "What to watch when Washington Huskies hosts Eastern Washington",
-          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2026/09/09172026_tzr_tzr_171426.jpg?d=1200x630"
-        },
-        {
-          "id": "https://www.seattletimes.com/?p=19957926",
-          "author": "Taylor Blatchford",
-          "description": "Technology companies have come under scrutiny for the effects AI chatbots have on youth mental health. Here's what you should know.",
-          "link": "https://www.seattletimes.com/seattle-news/mental-health/keeping-kids-safe-in-the-age-of-ai-what-safeguards-does-wa-have/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-          "publishedOn": "2026-09-18T13:00:00.000Z",
-          "wordCount": 5384,
-          "title": "Keeping kids safe in the age of AI: What safeguards does WA have?",
-          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2026/09/09172026_tzr_tzr_154416.jpg?d=1200x630"
-        },
-        {
-          "id": "https://www.seattletimes.com/?p=19943417",
-          "author": "Genna Martin",
-          "description": "Fans made the most of the final season at Wild Waves, a Northwest summer destination for decades.",
-          "link": "https://www.seattletimes.com/life/outdoors/wild-waves-beloved-wa-amusement-park-savors-one-last-summer/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-          "publishedOn": "2026-09-18T13:00:00.000Z",
-          "wordCount": 5014,
-          "title": "Wild Waves, beloved WA amusement park, savors one last summer",
-          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2026/09/09112026_tzr_tzr_145408.jpg?d=1200x630"
-        },
-        {
-          "id": "https://www.seattletimes.com/?p=19939567",
-          "author": "Submitted by Seattle Times readers",
-          "description": "RAVE to the Washington State Ferries crew member who helped this hapless senior find the car I was riding in (after I used the restroom on the ferry) while returning from Whidbey Island the other day. He talked via cellphone to my niece, who was driving, and then personally escorted me to the car. What a relief. […]",
-          "link": "https://www.seattletimes.com/life/lifestyle/rant-and-rave-reader-grateful-for-ferry-employee/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-          "publishedOn": "2026-09-18T13:00:00.000Z",
-          "wordCount": 4561,
-          "title": "Rant and Rave: Reader grateful for ferry employee",
-          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2023/12/rant-and-rave-crow-web-tzr.jpg?d=1200x630"
-        },
-        {
-          "id": "https://www.seattletimes.com/?p=19963004",
-          "author": "Wendy Culverwell",
-          "description": "A court order, funding from Olympia, a business plan to turn old tires into building blocks, even an ethics committee fine. This situation has seen it all.",
-          "link": "https://www.seattletimes.com/seattle-news/northwest/was-largest-tire-pile-could-soon-disappear/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-          "publishedOn": "2026-09-18T12:56:52.000Z",
-          "wordCount": 4770,
-          "title": "WA’s largest tire pile could soon disappear",
-          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2026/01/01122026_tzr_tzr_113838.jpg?d=1200x630"
-        },
-        {
-          "id": "https://www.seattletimes.com/news/back-in-black-princess-dianas-revenge-dress-goes-on-show-ahead-of-sothebys-auction/",
-          "author": "JILL LAWLESS",
-          "description": "A striking black dress worn by Princess Diana on the day her estranged husband admitted adultery is going up for auction at Sotheby’s.",
-          "link": "https://www.seattletimes.com/entertainment/back-in-black-princess-dianas-revenge-dress-goes-on-show-ahead-of-sothebys-auction/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-          "publishedOn": "2026-09-18T12:46:11.000Z",
-          "wordCount": 4930,
-          "title": "Princess Diana’s famous ‘revenge dress’ goes on show ahead of Sotheby’s auction",
-          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2026/09/urnpublicidap.orgebb88e39ab31f762bae023c9c6e4f571Britain_Princess_Diana_Dress__6184.jpg?d=1200x630"
-        },
-        {
-          "id": "https://www.seattletimes.com/?p=19962324",
-          "author": "MICHAEL LEVENSON",
-          "description": "Among new terms added by the country's oldest dictionary publisher: yacht rock, superfood, cuffing season, Sunday scaries, shapewear and more.",
-          "link": "https://www.seattletimes.com/nation-world/merriam-webster-dictionary-is-wordsmaxxing-with-1400-new-definitions/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-          "publishedOn": "2026-09-18T12:26:27.000Z",
-          "wordCount": 5018,
-          "title": "Merriam-Webster dictionary is wordsmaxxing with 1,400 new definitions",
-          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2026/09/09182026_MW_tzr_052547.jpg?d=1200x630"
-        },
-        {
-          "id": "https://www.seattletimes.com/news/taiwan-holds-first-joint-military-drills-using-attack-drones-ahead-of-trump-xi-summit-in-the-us/",
-          "author": "Simina Mistreanu",
-          "description": "Taiwan’s president has overseen military drills featuring missiles and drones on Friday, ahead of a planned summit next week between the U.S. and Chinese leaders in which the fate of the self-ruled island will be discussed.",
-          "link": "https://www.seattletimes.com/nation-world/taiwan-holds-first-joint-military-drills-using-attack-drones-ahead-of-trump-xi-summit-in-the-us/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-          "publishedOn": "2026-09-18T12:21:03.000Z",
-          "wordCount": 4697,
-          "title": "Taiwan holds first joint military drills using attack drones ahead of Trump-Xi summit in the US",
-          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2026/09/urnpublicidap.orge7c1c16040f6f9ca5e7672a3fda0ab60Taiwan_Drills_83318.jpg?d=1200x630"
-        },
-        {
-          "id": "https://www.seattletimes.com/news/trump-pushes-his-5000-dividend-pledge-if-gop-wins-midterms-republican-candidates-not-as-much/",
-          "author": "MIKE CATALINI",
-          "description": "About a week after the president unveiled his “Trump dividend” pledge, there is little evidence that Republicans are incorporating it into their campaigns.",
-          "link": "https://www.seattletimes.com/nation-world/nation/trump-pushes-his-5000-dividend-pledge-if-gop-wins-midterms-republican-candidates-not-as-much/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-          "publishedOn": "2026-09-18T12:12:13.000Z",
-          "wordCount": 4888,
-          "title": "Trump pushes his $5,000 ‘dividend’ pledge if GOP wins midterms. Republican candidates, not as much",
-          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2026/09/09182026_trump_tzr_061926.jpg?d=1200x630"
-        },
-        {
-          "id": "https://www.seattletimes.com/news/ice-officer-to-appear-in-federal-court-for-alleged-false-statement-in-nonfatal-minneapolis-shooting/",
-          "author": "TIM SULLIVAN",
-          "description": "A federal immigration officer is pleading not guilty to federal charges that he lied to the FBI about being attacked before he shot and wounded a Venezuelan man during the immigration crackdown in Minneapolis.",
-          "link": "https://www.seattletimes.com/nation-world/nation/ice-officer-to-appear-in-federal-court-for-alleged-false-statement-in-nonfatal-minneapolis-shooting/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
-          "publishedOn": "2026-09-18T12:09:03.000Z",
-          "wordCount": 4981,
-          "title": "ICE officer pleads not guilty to charges he lied to the FBI about nonfatal Minneapolis shooting",
-          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2026/09/urnpublicidap.orge07bf436eac361700d07a79a0fa800ffUS_Immigration_Enforcement_Minnesota_73511.jpg?d=1200x630"
         }
       ]
     }
