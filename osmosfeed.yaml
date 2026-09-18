@@ -5,7 +5,11 @@
 
 # cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  - href: https://feeds.bbci.co.uk/news/world/rss.xml
+  - href: https://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+  - href: https://rss.dw.com/rdf/rss-en-all
+  - href: https://www.theguardian.com/world/rss
+  - href: https://www.theguardian.com/environment/rss
+  - href: https://rss.cbc.ca/lineup/world.xml
+  - href: https://feeds.arstechnica.com/arstechnica/index
+  - href: https://www.nationalreview.com/feed/
