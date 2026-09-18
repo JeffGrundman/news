@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>urn:2026-09-18T16:29:29.233Z</id>
+    <title>osmos::feed</title>
+    <updated>2026-09-18T16:29:29.233Z</updated>
+    <generator>osmosfeed 1.15.1</generator>
+    <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Migrate a Legacy Monolith Incrementally Without a Big-Bang Rewrite]]></title>
+        <id>6aac7747d406d7c207351312</id>
+        <link href="https://www.freecodecamp.org/news/migrate-legacy-monolith-incrementally/"/>
+        <updated>2026-09-17T23:27:03.000Z</updated>
+        <summary type="html"><![CDATA[Large legacy migrations often fail long before the final cutover. The failure usually starts when the migration is framed as a single event. Move the application. Move the database. Move all the users]]></summary>
+        <author>
+            <name>Hugo Teijiz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hands-On Evolution of Deep Learning – Geoffrey Hinton’s AI Legacy]]></title>
+        <id>6aac2aabd02a5d838577063a</id>
+        <link href="https://www.freecodecamp.org/news/hands-on-evolution-of-deep-learning-geoffrey-hinton-s-ai-legacy/"/>
+        <updated>2026-09-17T18:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Geoffrey Hinton is known as the "the Godfather of AI". We just published a course on the freeCodeCamp.org YouTube channel that will help you master modern neural networks by recreating the groundbreak]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn How to Deploy, Secure, and Automate Full-Stack Web Apps]]></title>
+        <id>6aaab59285cf18b4c5072002</id>
+        <link href="https://www.freecodecamp.org/news/learn-how-to-deploy-secure-and-automate-full-stack-web-apps/"/>
+        <updated>2026-09-16T15:28:18.000Z</updated>
+        <summary type="html"><![CDATA[Taking a web application from local development to a live, secure production environment can be daunting if you've never looked under the hood. We just published a comprehensive course on the freeCode]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Treating CSS Container Queries Like Traditional Media Queries]]></title>
+        <id>https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/</id>
+        <link href="https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/"/>
+        <updated>2026-09-16T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write a Linux Kernel Module That Actually Builds]]></title>
+        <id>6aa9b46181fb07630380c2e8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-a-linux-kernel-module-that-actually-builds/"/>
+        <updated>2026-09-15T21:10:57.000Z</updated>
+        <summary type="html"><![CDATA[A Linux kernel module is a small piece of code that can be loaded into the running kernel without rebuilding the entire kernel. That sounds simple enough, but even a minimal module produces a surprisi]]></summary>
+        <author>
+            <name>Chris Roy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 7 Essential Parts of Your Online Presence]]></title>
+        <id>6aa9b393e892e731e337e0e3</id>
+        <link href="https://www.freecodecamp.org/news/the-7-essential-parts-of-your-online-presence/"/>
+        <updated>2026-09-15T21:07:31.000Z</updated>
+        <summary type="html"><![CDATA[Your online presence often gives potential employers, clients, partners, and recruiters their first impression of you. It's likely what they see before they ever meet you. They search your name, read]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Endpoint Data Loss Prevention Strategy for Your Development Team]]></title>
+        <id>6aa9b28d96b8eb1b8b1475f0</id>
+        <link href="https://www.freecodecamp.org/news/build-an-endpoint-data-loss-prevention-strategy-for-your-dev-team/"/>
+        <updated>2026-09-15T21:03:09.000Z</updated>
+        <summary type="html"><![CDATA[A developer's laptop holds more sensitive data than most people realize: API keys, database credentials, staging environment secrets, and sometimes entire copies of production data pulled down "just f]]></summary>
+        <author>
+            <name>Alex Tray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's New in macOS 27 for Developers?]]></title>
+        <id>6aa9b21e85e19ac0f866ed24</id>
+        <link href="https://www.freecodecamp.org/news/whats-new-in-macos-27-for-developers/"/>
+        <updated>2026-09-15T21:01:18.000Z</updated>
+        <summary type="html"><![CDATA[macOS 27 Golden Gate is here. Apple released it September 14, 2026, as a free upgrade for every Mac that can run it. I'll show you what actually changes for developers in macOS 27, how to upgrade with]]></summary>
+        <author>
+            <name>Daniel Kehoe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How WebRTC Scales: Signaling, NAT Traversal, and the Mesh/SFU/MCU Tradeoff]]></title>
+        <id>6aa96af3f2afbe5bd755abd1</id>
+        <link href="https://www.freecodecamp.org/news/how-webrtc-scales-signaling-nat-traversal-and-the-mesh-sfu-mcu-tradeoff/"/>
+        <updated>2026-09-15T15:57:39.000Z</updated>
+        <summary type="html"><![CDATA[Web Real-Time Communication (or WebRTC) is the open standard browsers use to send audio, video, and data straight to each other. There's no plugin or native app, nothing beyond an API that every brows]]></summary>
+        <author>
+            <name>Karan Pratap Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Catch Security Vulnerabilities in Code Before They Reach Your Pull Requests]]></title>
+        <id>6aa873c5c1f02b411d54db2f</id>
+        <link href="https://www.freecodecamp.org/news/catch-security-vulnerabilities-code-pull-requests/"/>
+        <updated>2026-09-14T22:23:01.000Z</updated>
+        <summary type="html"><![CDATA[Security reviews are most effective when developers receive feedback while the code is still fresh in their minds. Waiting until a pull request, CI build, or penetration test to find exposed credentia]]></summary>
+        <author>
+            <name>Umair Mirza</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Differential Testing During a Legacy Migration]]></title>
+        <id>6aa8200e59dfce663a0e73bd</id>
+        <link href="https://www.freecodecamp.org/news/differential-testing-legacy-migration/"/>
+        <updated>2026-09-14T16:25:50.000Z</updated>
+        <summary type="html"><![CDATA[The most dangerous moment in a legacy migration isn't necessarily when you start writing the new implementation. It's when the new implementation looks finished. The code compiles, the tests pass, the]]></summary>
+        <author>
+            <name>Hugo Teijiz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building A UX ROI Case That Survives The Boardroom]]></title>
+        <id>https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/</id>
+        <link href="https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/"/>
+        <updated>2026-09-11T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Alex Williams)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Death Of The Button: Why The Best Interface Is No Interface]]></title>
+        <id>https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/</id>
+        <link href="https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/"/>
+        <updated>2026-09-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Carrie Webster)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let’s Use the Emergent CSS random() Function in all the Browsers]]></title>
+        <id>https://css-tricks.com/?p=396630</id>
+        <link href="https://css-tricks.com/css-random-function-polyfill/"/>
+        <updated>2026-08-31T15:12:19.000Z</updated>
+        <summary type="html"><![CDATA[The journey to create a polyfill for the upcoming CSS random() function that works in all browsers.
+Let’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Lee Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More]]></title>
+        <id>https://css-tricks.com/?p=396738</id>
+        <link href="https://css-tricks.com/whats-important-18/"/>
+        <updated>2026-08-31T14:08:55.000Z</updated>
+        <summary type="html"><![CDATA[Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last couple of weeks or so.
+What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Many Faces Of September (2026 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/</id>
+        <link href="https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/"/>
+        <updated>2026-08-31T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Web Widgets Using the Document Picture-in-Picture API]]></title>
+        <id>https://css-tricks.com/?p=395259</id>
+        <link href="https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/"/>
+        <updated>2026-08-27T14:41:06.000Z</updated>
+        <summary type="html"><![CDATA[The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it.
+Creating Web Widgets Using the Document Picture-in-Picture API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[animation-trigger]]></title>
+        <id>https://css-tricks.com/?page_id=394713</id>
+        <link href="https://css-tricks.com/almanac/properties/a/animation-trigger/"/>
+        <updated>2026-08-26T15:38:41.000Z</updated>
+        <summary type="html"><![CDATA[The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs.
+animation-trigger originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Saleh Mubashar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions]]></title>
+        <id>https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/</id>
+        <link href="https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/"/>
+        <updated>2026-08-26T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Meriem Benhabiles)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MicroLighter: Syntax Highlighter]]></title>
+        <id>https://css-tricks.com/?p=396665</id>
+        <link href="https://css-tricks.com/microlighter-syntax-highlighter/"/>
+        <updated>2026-08-25T14:10:34.000Z</updated>
+        <summary type="html"><![CDATA[Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave.
+MicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Your Website Should Never Stop Changing]]></title>
+        <id>https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/</id>
+        <link href="https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/"/>
+        <updated>2026-08-25T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Every website peaks on launch day and slowly drifts from there, not because it breaks, but because nobody has time to keep it current. Autonomous websites, continuously optimized by agents after launch, aim to change that. Pierre Burgy shares what they learned building for full website autonomy and the deeper design problem they uncovered along the way.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Pierre Burgy)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress PHP-Only Block Registration]]></title>
+        <id>https://css-tricks.com/?p=395401</id>
+        <link href="https://css-tricks.com/wordpress-php-block-registration/"/>
+        <updated>2026-08-24T13:54:02.000Z</updated>
+        <summary type="html"><![CDATA[Seven and half years after blocks arrived in Core, WordPress introduces a way to build blocks without React annd build pipelines. All you need is PHP.
+WordPress PHP-Only Block Registration originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Fränk Klein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resolved: CSS Class Prefix Selector]]></title>
+        <id>https://css-tricks.com/?p=396644</id>
+        <link href="https://css-tricks.com/resolved-css-class-prefix-selector/"/>
+        <updated>2026-08-21T15:13:03.000Z</updated>
+        <summary type="html"><![CDATA[A newly resolved proposal would allow us to select classes that are a prefix for variations with a wildcard, like .prefix-*.
+Resolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Timing Charts: A Blueprint For SMIL Animations]]></title>
+        <id>https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/</id>
+        <link href="https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/"/>
+        <updated>2026-08-20T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Johan Grobler)</name>
+        </author>
+    </entry>
+</feed>
