@@ -283,6 +283,26 @@
       "siteUrl": "https://www.bbc.co.uk/news/science_and_environment",
       "articles": [
         {
+          "id": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo#0",
+          "author": null,
+          "description": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
+          "link": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-23T08:05:30.000Z",
+          "wordCount": 6064,
+          "title": "UK economy will grow by less than expected next year, OECD says",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a8c/live/e0daf3a0-b723-11f1-8d21-19ad84e0e822.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo#3",
+          "author": null,
+          "description": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
+          "link": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-23T08:05:30.000Z",
+          "wordCount": 6064,
+          "title": "UK economy will grow by less than expected next year, OECD says",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a8c/live/e0daf3a0-b723-11f1-8d21-19ad84e0e822.jpg"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/articles/ckjw58n5dnepo#1",
           "author": null,
           "description": "The zoo near Canterbury says glutinous snails started laying eggs on their way to Kent.",
@@ -493,16 +513,6 @@
           "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4dca/live/8e772c30-b301-11f1-a430-4d16ee157c41.jpg"
         },
         {
-          "id": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro#0",
-          "author": null,
-          "description": "A spotted wildcat long mistaken for relatives has been identified as a new species in Bolivia.",
-          "link": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-17T23:15:55.000Z",
-          "wordCount": 8097,
-          "title": "New wild cat species discovered - with only one known living member",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a267/live/b9315260-b357-11f1-b1d1-571ed4d7ff2c.png"
-        },
-        {
           "id": "https://www.bbc.co.uk/sounds/play/w3ct9785#4",
           "author": null,
           "description": "Might the UK and US joining their AI forces help solve nuclear fusion?",
@@ -521,16 +531,6 @@
           "wordCount": 9315,
           "title": "Nepal to use new flood study to claim millions from UN climate disaster fund",
           "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7364/live/ed40ce00-b249-11f1-a45e-d7e94b0e7f98.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c607lxnvn7r4o#3",
-          "author": null,
-          "description": "The government's climate advisers say Heathrow's third runway cannot be approved under current climate policies.",
-          "link": "https://www.bbc.co.uk/news/articles/c607lxnvn7r4o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-16T00:05:51.000Z",
-          "wordCount": 8416,
-          "title": "Third Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/af1f/live/e6dc9eb0-b134-11f1-a430-4d16ee157c41.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/videos/cmn07yjqg5rwo#2",
@@ -765,7 +765,7 @@
           "description": "Mixed martial arts has made its debut at the Asian Games this week. It takes the sport closer to the Olympics but there are doubts about the next step, and the influence of the popular and lucrative UFC.",
           "link": "https://www.dw.com/en/could-we-see-mma-at-the-olympics/a-79369605?maca=en-rss-en-all-1573-rdf",
           "publishedOn": "2026-09-22T12:14:00.000Z",
-          "wordCount": 7237,
+          "wordCount": 7453,
           "title": "Could we see MMA at the Olympics?",
           "imageUrl": "https://static.dw.com/image/79370879_6.jpg"
         },
@@ -815,7 +815,7 @@
           "description": "Donald Trump said he had to decide whether he would make a deal with Iran or \"annihilate the Islamic Republic\" in his speech at the UN General Assembly. Follow live.",
           "link": "https://www.dw.com/en/unga-trump-and-world-leaders-discuss-global-conflicts/live-79366211?maca=en-rss-en-all-1573-rdf",
           "publishedOn": "2026-09-22T08:55:00.000Z",
-          "wordCount": 15003,
+          "wordCount": 15020,
           "title": "UNGA: Trump and world leaders discuss global conflicts",
           "imageUrl": "https://static.dw.com/image/79377493_6.jpg"
         },
@@ -1997,6 +1997,56 @@
       "siteUrl": "https://www.theguardian.com/world",
       "articles": [
         {
+          "id": "https://www.theguardian.com/politics/live/2026/sep/23/andy-burnham-labour-anti-disinformation-uk-politics-latest-news-updates",
+          "author": "Andrew Sparrow",
+          "description": "Wes Streeting told GB News: ‘We’re not interested in policing domestic political dissent’ \nGood morning. Andy Burnham delivered his speech to the United Nations in what felt like the middle of the night in UK time and he announced that he is setting up what he is calling a National Centre for Information Defence.\nBurnham said this was necessary because “over the last decade we have given too much ground to those who want to run a negative, corrosive narrative about life in Britain, which bears no resemblance to reality”.\nIn recent years we have seen an industrial-scale assault by hostile actors on the information environment in the UK and that of many of our allies.\nRussian agencies have used every means at their disposal to spread lies and disinformation and prey on people’s fears.\nOne of the great things about Britain, and one of the things that I have a responsibility to defend, is the freedom and democracy that we all enjoy.\nAnd that includes the freedom to disagree, the freedom for people to challenge their government, to challenge government policy, to criticise robustly what we are doing and then to have the opportunity to choose a different government.\nWe’re not interested in policing domestic political dissent.\n Continue reading...",
+          "link": "https://www.theguardian.com/politics/live/2026/sep/23/andy-burnham-labour-anti-disinformation-uk-politics-latest-news-updates",
+          "publishedOn": "2026-09-23T08:09:23.000Z",
+          "wordCount": 4582,
+          "title": "PM’s new anti-disinformation unit won’t target ‘domestic political dissent’, defence secretary says – UK politics live",
+          "imageUrl": "https://i.guim.co.uk/img/media/b5d9ea285f2d6785092c66c5a78adfdd4bb3748a/904_0_4520_3616/master/4520.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=a6346fc5053cdb237bb478fd1a3fea03"
+        },
+        {
+          "id": "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates",
+          "author": "Jakub Krupa",
+          "description": "Second day of UNGA in New York will feature speeches by European leaders, while Trump and Xi will meet later\nSmoke ⁠was ⁠seen rising ​in the centre ⁠of Ukrainian ⁠capital ​Kyiv ‌after ‌a ‌Russian drone attack this morning, Reuters reported.\nMore on that when we have it.\n Continue reading...",
+          "link": "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates",
+          "publishedOn": "2026-09-23T08:05:04.000Z",
+          "wordCount": 4307,
+          "title": "Zelenskyy to present Ukraine’s case to UN general assembly – live",
+          "imageUrl": "https://i.guim.co.uk/img/media/9fb6ab00a28c834e266e1658a85ef9996e54e989/1466_599_4250_3400/master/4250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=0c9b41ee75b318d1f6e87bf2d7ae39a0"
+        },
+        {
+          "id": "https://www.theguardian.com/society/2026/sep/23/nhs-england-ghost-patient-policy-wrongly-removing-vulnerable-people",
+          "author": "Tobi Thomas Health and inequalities correspondent",
+          "description": "NHS England initiative to reduce cut-off period to three months ‘disproportionately affecting’ most deprived areas\nAn NHS policy to remove “ghost patients” from GP lists is inadvertently leaving some of the poorest people in England without vital healthcare, analysis has found.\nUnder previous NHS rules, inactive patients at risk of being removed from their GP practice were given six months to respond to outreach. But under NHS England’s accelerated list validation timeline, introduced last October, patients now have only three months to reply.\n Continue reading...",
+          "link": "https://www.theguardian.com/society/2026/sep/23/nhs-england-ghost-patient-policy-wrongly-removing-vulnerable-people",
+          "publishedOn": "2026-09-23T08:00:18.000Z",
+          "wordCount": 4307,
+          "title": "‘Ghost patient’ policy wrongly removing at-risk people from GP lists, doctors say",
+          "imageUrl": "https://i.guim.co.uk/img/media/9657de262d0f4d03d987ec3d7268c211348473f7/675_0_2884_2308/master/2884.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bf623c757a77995eec50f8c9dbc0d798"
+        },
+        {
+          "id": "https://www.theguardian.com/australia-news/live/2026/sep/23/anthony-albanese-un-assembly-ai-social-media-labor-coalition-abc-four-corners-ntwnfb",
+          "author": "Achol Arok and Ima Caldwell",
+          "description": "This blog is now closed\n\nGet our breaking news email, free app or daily news podcast\n\nAndrew Bragg, the shadow housing minister, said he believes in “big debates” about housing after pushing his new proposal yesterday to allow people to use their superannuation as collateral to get a home loan.\nThe policy hasn’t been adopted by the opposition, and leader Angus Taylor said yesterday it wasn’t Coalition policy.\nWe’re a great country, and we should be able to have big debates, as we had in the 80s and 90s about national savings and housing and the like, which led, in fact, to the super guarantee. …\nIt’s very important that we look to calibrate the retirement and housing and superannuation systems to make sure that they’re getting the best outcomes for the Australian people.\n Continue reading...",
+          "link": "https://www.theguardian.com/australia-news/live/2026/sep/23/anthony-albanese-un-assembly-ai-social-media-labor-coalition-abc-four-corners-ntwnfb",
+          "publishedOn": "2026-09-23T08:00:11.000Z",
+          "wordCount": 9587,
+          "title": "Shoebridge says US submission on online safety laws an ‘extraordinary intervention’ – as it happened",
+          "imageUrl": "https://i.guim.co.uk/img/media/98b753eeb5a84fba3fbb814a3c6f5daef51d18f4/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=9872f2b9d923f976c6df5a7b06d3dc6c"
+        },
+        {
+          "id": "https://www.theguardian.com/politics/2026/sep/23/uk-raf-military-squadron-protect-satellites-in-space",
+          "author": "Ben Quinn Political Correspondent",
+          "description": "New RAF unit will warn of incoming missile attacks, and support offensive and defensive operations\nA new military unit dedicated to defending satellites, protecting services people need on earth and potentially supporting offensive operations is being launched by the UK.\nThe No III Space Effects Squadron will be announced on Wednesday, with the defence secretary, Wes Streeting, warning that Britain needs to “keep pace in the new space race”.\n Continue reading...",
+          "link": "https://www.theguardian.com/politics/2026/sep/23/uk-raf-military-squadron-protect-satellites-in-space",
+          "publishedOn": "2026-09-23T07:57:53.000Z",
+          "wordCount": 4365,
+          "title": "UK to launch military squadron to protect satellites in space",
+          "imageUrl": "https://i.guim.co.uk/img/media/504e2ed3e70fc0d8479d898d9a705ff34ba9ea9c/408_0_2505_2005/master/2505.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c2ad89e9b521836dee39c6eafe5c6e64"
+        },
+        {
           "id": "https://www.theguardian.com/technology/2026/sep/23/andy-burnham-national-centre-russian-disinformation-deepfakes",
           "author": "Pippa Crerar in New York",
           "description": "PM aims to ‘stem poisonous tide’ of disinformation and deepfakes with National Centre for Information Defence\nSecurity chiefs will set up a new national centre to tackle disinformation and deepfakes from hostile states such as Russia, Andy Burnham has announced, saying the government had a duty to “stem the poisonous tide” from damaging British interests.\nThe National Centre for Information Defence will “detect, attribute and disrupt” information attacks by foreign powers, many of which are enabled by AI, bringing together the intelligence agencies, law enforcement and social media companies.\n Continue reading...",
@@ -2005,26 +2055,6 @@
           "wordCount": 4655,
           "title": "New UK agency to fight ‘information warfare’ from likes of Russia, Burnham tells UN",
           "imageUrl": "https://i.guim.co.uk/img/media/b6c4a5ca2a7c384a2d34ecc6aa663401f7130433/369_0_1774_1419/master/1774.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f161a2483ed3f2c1c1197ab4d932f651"
-        },
-        {
-          "id": "https://www.theguardian.com/politics/live/2026/sep/23/andy-burnham-labour-anti-disinformation-uk-politics-latest-news-updates",
-          "author": "Andrew Sparrow",
-          "description": "Wes Streeting told GB News: ‘We’re not interested in policing domestic political dissent’ \nGood morning. Andy Burnham delivered his speech to the United Nations in what felt like the middle of the night in UK time and he announced that he is setting up what he is calling a National Centre for Information Defence.\nBurnham said this was necessary because “over the last decade we have given too much ground to those who want to run a negative, corrosive narrative about life in Britain, which bears no resemblance to reality”.\nIn recent years we have seen an industrial-scale assault by hostile actors on the information environment in the UK and that of many of our allies.\nRussian agencies have used every means at their disposal to spread lies and disinformation and prey on people’s fears.\nOne of the great things about Britain, and one of the things that I have a responsibility to defend, is the freedom and democracy that we all enjoy.\nAnd that includes the freedom to disagree, the freedom for people to challenge their government, to challenge government policy, to criticise robustly what we are doing and then to have the opportunity to choose a different government.\nWe’re not interested in policing domestic political dissent.\n Continue reading...",
-          "link": "https://www.theguardian.com/politics/live/2026/sep/23/andy-burnham-labour-anti-disinformation-uk-politics-latest-news-updates",
-          "publishedOn": "2026-09-23T07:50:09.000Z",
-          "wordCount": 4575,
-          "title": "PM’s new anti-disinformation unit won’t target ‘domestic politcal dissent’, defence secretary says – UK politics live",
-          "imageUrl": "https://i.guim.co.uk/img/media/b5d9ea285f2d6785092c66c5a78adfdd4bb3748a/904_0_4520_3616/master/4520.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=a6346fc5053cdb237bb478fd1a3fea03"
-        },
-        {
-          "id": "https://www.theguardian.com/australia-news/live/2026/sep/23/anthony-albanese-un-assembly-ai-social-media-labor-coalition-abc-four-corners-ntwnfb",
-          "author": "Achol Arok (now) and Ima Caldwell (earlier)",
-          "description": "Follow the day’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nAndrew Bragg, the shadow housing minister, said he believes in “big debates” about housing after pushing his new proposal yesterday to allow people to use their superannuation as collateral to get a home loan.\nThe policy hasn’t been adopted by the opposition, and leader Angus Taylor said yesterday it wasn’t Coalition policy.\nWe’re a great country, and we should be able to have big debates, as we had in the 80s and 90s about national savings and housing and the like, which led, in fact, to the super guarantee. …\nIt’s very important that we look to calibrate the retirement and housing and superannuation systems to make sure that they’re getting the best outcomes for the Australian people.\n Continue reading...",
-          "link": "https://www.theguardian.com/australia-news/live/2026/sep/23/anthony-albanese-un-assembly-ai-social-media-labor-coalition-abc-four-corners-ntwnfb",
-          "publishedOn": "2026-09-23T07:46:20.000Z",
-          "wordCount": 9777,
-          "title": "Australia news live: Shoebridge says US submission on online safety laws an ‘extraordinary intervention in our domestic politics’",
-          "imageUrl": "https://i.guim.co.uk/img/media/98b753eeb5a84fba3fbb814a3c6f5daef51d18f4/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=9872f2b9d923f976c6df5a7b06d3dc6c"
         },
         {
           "id": "https://www.theguardian.com/australia-news/2026/sep/23/missing-boy-gus-lamont-parents-video-message-1m-reward-announced-ntwnfb",
@@ -2075,26 +2105,6 @@
           "wordCount": 4498,
           "title": "Glimpses into lives of Roman suburbanites in Bath revealed in rare finds",
           "imageUrl": "https://i.guim.co.uk/img/media/46feda16f6789681fbeab21cee0acc592a16ceca/184_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b1475fc2d1f41b5da0e9d10955e31496"
-        },
-        {
-          "id": "https://www.theguardian.com/world/2026/sep/23/wednesday-briefing-can-burnham-seek-a-different-path-to-trumps-world-order",
-          "author": "Hettie O'Brien",
-          "description": "In today’s newsletter: The PM’s first face‑to‑face with​ the US president marks a fragile reset\nGood morning. In the early hours of Tuesday a plane carrying Andy Burnham, a handful of UK ministers, an excited group of British political journalists, and Burnham’s wife, Marie France, landed at a New York airport for one of Burnham’s first major outings as prime minister: a face-to-face meeting with Donald Trump.\nConsidering the president once described Burnham as the mayor of “a town,” and the prime minister once said Trump wouldn’t be welcome in said town (Manchester), the meeting yesterday afternoon went remarkably well.\nUN general assembly | Donald Trump has called on nations to unite to isolate Tehran and bring down global energy prices, as he gave a bellicose defence of his administration’s foreign policy and decision to strike Iran.\nThe far right | Charities have condemned footage of a far-right activist using a blade to slash an inflatable dinghy in the Channel while a rescue worker was onboard, in a further escalation of organised anti-immigration protest.\nUK news | Children as young as 13 in the UK have been referred to a specialist clinic for a “devastating” bladder condition linked to sustained use of ketamine.\nWest Bank | British banks and financial institutions are receiving warnings from MPs that they should not invest in Israel’s E1 settlement project.\nUK politics | Andy Burnham has opened the door to fighting the next election on the UK rejoining the EU, but said his immediate priority was continuing to rebuild bridges with European allies.\n Continue reading...",
-          "link": "https://www.theguardian.com/world/2026/sep/23/wednesday-briefing-can-burnham-seek-a-different-path-to-trumps-world-order",
-          "publishedOn": "2026-09-23T05:45:26.000Z",
-          "wordCount": 6166,
-          "title": "Wednesday briefing: ​Can Burnham ​seek a ​different ​path​ to Trump’s world order?",
-          "imageUrl": "https://i.guim.co.uk/img/media/d1cc0204e016aa48001cc5773302d7037e04f882/310_0_3880_3104/master/3880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b62778f6b26b770961780505a6f6d5f5"
-        },
-        {
-          "id": "https://www.theguardian.com/business/2026/sep/23/obr-treasury-committee-shooting-messenger-mps-economic-forecaster-uk",
-          "author": "Phillip Inman",
-          "description": "Treasury committee rejects calls for fundamental reform of independent watchdog the Office for Budget Responsibility\nAttacks on the government’s independent economic forecaster from left and right of the political spectrum are akin to “shooting the messenger”, according to an influential group of MPs.\nThe Treasury committee rejected “siren calls to fundamentally reform” the Office for Budget Responsibility (OBR) and said it should not be blamed when policymakers had to make tough decisions because of tight public finances.\n Continue reading...",
-          "link": "https://www.theguardian.com/business/2026/sep/23/obr-treasury-committee-shooting-messenger-mps-economic-forecaster-uk",
-          "publishedOn": "2026-09-23T05:00:16.000Z",
-          "wordCount": 4344,
-          "title": "Critics of UK government’s economic forecaster are ‘shooting the messenger’, say MPs",
-          "imageUrl": "https://i.guim.co.uk/img/media/2ead32c37ba3aab6ca04926b389450b34bcb91d7/2122_465_3852_3083/master/3852.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bfcf28ba230ab1dafb754ca5844c0554"
         },
         {
           "id": "https://www.theguardian.com/us-news/live/2026/sep/22/donald-trump-unga-speech-iran-middle-east-ukraine-latest-news-updates",
@@ -2255,16 +2265,6 @@
           "wordCount": 3712,
           "title": "US fighter jet crashes at air base in western Germany",
           "imageUrl": "https://i.guim.co.uk/img/media/c88f64fceaf69d5970ae2afdb8604cb1258ddfaa/108_0_784_627/master/784.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a8fbb3e5797c6afacb3a75560f71ddc8"
-        },
-        {
-          "id": "https://www.theguardian.com/fashion/2026/sep/22/skirts-miuccia-prada-raf-simons-milan-fashion-week",
-          "author": "Jess Cartner-Morley in Milan",
-          "description": "Combination of Miuccia Prada with Belgian designer Raf Simons once again spins gold for fashion house\nMiuccia Prada’s style formula is simple: begin with a great skirt. Her personal uniform is a knee-length skirt, A-line or pleated, most often with a plain sweater and kitten heels.\nThe Prada collection that opened Milan fashion week made a compelling case for her favourite outfit, with a skirt the star of every one of the 63 looks – no dresses, no trousers. It won the room over, so expect to see the personality skirt on a high street near you soon.\n Continue reading...",
-          "link": "https://www.theguardian.com/fashion/2026/sep/22/skirts-miuccia-prada-raf-simons-milan-fashion-week",
-          "publishedOn": "2026-09-22T16:26:38.000Z",
-          "wordCount": 4494,
-          "title": "Skirts given star billing as Prada swerves trousers and dresses in Milan",
-          "imageUrl": "https://i.guim.co.uk/img/media/b29e24d063cd661be285ef8c4c7ea65b48588ffb/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b59a58b23ebc5249c9bba040098e0981"
         },
         {
           "id": "https://www.theguardian.com/world/2026/sep/22/yemen-houthis-battle-strategic-red-sea-heights",
@@ -2731,6 +2731,36 @@
       "siteUrl": "https://www.cbc.ca/news/world/?cmp=rss",
       "articles": [
         {
+          "id": "9.7353444",
+          "author": "Marina von Stackelberg",
+          "description": "The rise of both Germany’s far-right and -left signals a significant shift for a country that founded its post-war political system on stability and moderation.",
+          "link": "https://www.cbc.ca/news/world/germany-state-elections-political-polarization-9.7353444?cmp=rss",
+          "publishedOn": "2026-09-23T08:00:00.000Z",
+          "wordCount": 4217,
+          "title": "Germany is electing far-right and socialist parties. What does it mean for the country's floundering centre?",
+          "imageUrl": "https://i.cbc.ca/ais/d224b5f9-47b2-4424-beb8-a24f4a1d48b9,1790111154460/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C184%2C5334%2C3000%29%3BResize%3D620"
+        },
+        {
+          "id": "9.7353817",
+          "author": "Mark Gollom",
+          "description": "U.S. President Donald Trump signed a new security agreement with the leaders of Denmark and Greenland on Tuesday. But the U.S. already had a security arrangement with the two parties dating back 75 years. So what's changed? Observers say moderate improvements in the new deal have come at an immense cost.",
+          "link": "https://www.cbc.ca/news/world/trump-greenland-denmark-9.7353817?cmp=rss",
+          "publishedOn": "2026-09-23T08:00:00.000Z",
+          "wordCount": 4993,
+          "title": "Trump is hailing his new deal with Greenland and Denmark — but a deal already existed. So what changed?",
+          "imageUrl": "https://i.cbc.ca/ais/238b8969-84ca-4b52-9690-39f9197c5f13,1790130795526/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C273%2C5246%2C2950%29%3BResize%3D620"
+        },
+        {
+          "id": "9.7353943",
+          "author": "Lisa Xing",
+          "description": "Calls for the U.S. and China to co-operate on creating AI guardrails are ramping up as U.S. President Donald Trump welcomes Chinese President Xi Jinping to Washington.",
+          "link": "https://www.cbc.ca/news/world/donald-trump-xi-jinping-summit-washington-ai-9.7353943?cmp=rss",
+          "publishedOn": "2026-09-23T08:00:00.000Z",
+          "wordCount": 4448,
+          "title": "'Nuclear' threat or market boom? Either way, AI race looms over Trump-Xi talks",
+          "imageUrl": "https://i.cbc.ca/ais/67636abf-aac1-4f76-80fb-1c5e91be6483,1747101004652/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C62%2C1180%2C663%29%3BResize%3D620"
+        },
+        {
           "id": "9.7354621",
           "author": null,
           "description": "Camp Mystic faces a criminal investigation that could include manslaughter or negligent homicide charges in the deaths of 27 girls amid devastating flooding in Texas last year, court documents show.",
@@ -2891,16 +2921,6 @@
           "imageUrl": "https://i.cbc.ca/ais/c2ffa4f2-fdad-47c9-927f-5257dec74897,1790086387327/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1%2C716%2C402%29%3BResize%3D620"
         },
         {
-          "id": "9.7353250",
-          "author": null,
-          "description": "A jury on Monday convicted a Vermont man of attempted murder in the shootings of three Palestinian college students who were walking near his home, rejecting an insanity defence rooted in his claims that he was acting on orders from U.S. and Israeli intelligence agencies.",
-          "link": "https://www.cbc.ca/news/world/us-vermont-shooting-verdict-9.7353250?cmp=rss",
-          "publishedOn": "2026-09-22T10:17:43.000Z",
-          "wordCount": 3279,
-          "title": "Vermont man found guilty of attempted murder in 2023 shooting of 3 Palestinian students",
-          "imageUrl": "https://i.cbc.ca/ais/eaeb3848-18a9-4416-92ee-1eaa584aa333,1790072206788/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2500%2C1406%29%3BResize%3D620"
-        },
-        {
           "id": "9.7352746",
           "author": "Elizabeth Thompson",
           "description": "CBC News has learned that Canada's change to its citizenship law to recognize the citizenship by descent of 'lost Canadians' is having an unintended consequence south of the border — creating backlogs and processing delays for those seeking genealogical records in the United States.",
@@ -2909,26 +2929,6 @@
           "wordCount": 4459,
           "title": "Change in Canada's citizenship law hitting U.S. archives",
           "imageUrl": "https://i.cbc.ca/ais/d9954dea-cf3b-46db-a003-ef8b8c48159e,1790031706438/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C285%2C5466%2C3074%29%3BResize%3D620"
-        },
-        {
-          "id": "9.7352556",
-          "author": "Mayson Maharaj",
-          "description": "The Prime Minister of Norway says threats from Russia are part of the modern security picture and should be taken seriously.",
-          "link": "https://www.cbc.ca/news/politics/norway-pm-prepared-but-not-afraid-of-russian-incursion-9.7352556?cmp=rss",
-          "publishedOn": "2026-09-21T23:05:39.000Z",
-          "wordCount": 3454,
-          "title": "Norway PM 'prepared, but not afraid' of Russian incursion",
-          "imageUrl": "https://i.cbc.ca/ais/ffef7e5c-72e1-4474-b22d-c7dfd0bdbd14,1790028262597/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C182%2C6148%2C3458%29%3BResize%3D620"
-        },
-        {
-          "id": "9.7352440",
-          "author": "Catherine Zhu",
-          "description": "Channon Mondoux grew up in Windsor, Ont., married an American and eventually made a home with her family in Kalamazoo, Mich. On Saturday, Mondoux helped host the fourth annual Can-Am Peace Jam, a festival celebrating Canadian culture and the longstanding ties between the two countries.",
-          "link": "https://www.cbc.ca/radio/asithappens/michigan-kalamazoo-canada-america-festival-9.7352440?cmp=rss",
-          "publishedOn": "2026-09-21T22:54:27.000Z",
-          "wordCount": 3622,
-          "title": "This American town runs an annual festival celebrating Canada. It hit different this year",
-          "imageUrl": "https://i.cbc.ca/ais/8fe4d5b1-4a85-4370-a4d8-ac00012a233c,1790106569213/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C520%2C5523%2C3106%29%3BResize%3D620"
         }
       ]
     },
@@ -3160,7 +3160,7 @@
           "description": "The crime fanatics desperately seek a Lindsay Clancy twist.",
           "link": "https://www.nationalreview.com/2026/09/true-crime-false-witness/",
           "publishedOn": "2026-09-22T20:16:05.000Z",
-          "wordCount": 6396,
+          "wordCount": 26111,
           "title": "True Crime, False Witness",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/lindsay-clancy-supporters.jpg?fit=2057%2C1200&ssl=1"
         },
@@ -3210,7 +3210,7 @@
           "description": "Concessions made at the conference paved the path to war.",
           "link": "https://www.nationalreview.com/2026/09/stresa-1935-the-seedbed-of-appeasement/",
           "publishedOn": "2026-09-22T10:30:24.000Z",
-          "wordCount": 17450,
+          "wordCount": 6172,
           "title": "Stresa, 1935: The Seedbed of Appeasement",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/stresa-conference-1935.jpg?fit=2057%2C1200&ssl=1"
         },
@@ -3240,7 +3240,7 @@
           "description": "Too often, nefarious actors are thwarting humanitarian efforts and wasting U.S. taxpayers’ money.",
           "link": "https://www.nationalreview.com/2026/09/why-u-n-agencies-cant-police-themselves/",
           "publishedOn": "2026-09-21T20:02:26.000Z",
-          "wordCount": 6862,
+          "wordCount": 17157,
           "title": "Why U.N. Agencies Can’t Police Themselves",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/united-nations.jpg?fit=2057%2C1200&ssl=1"
         },
@@ -3250,7 +3250,7 @@
           "description": "The races aren’t as uniform as the Senate’s, but the overall picture for the GOP is bad. Very bad.",
           "link": "https://www.nationalreview.com/2026/09/how-the-gubernatorial-races-are-breaking-2/",
           "publishedOn": "2026-09-21T19:43:40.000Z",
-          "wordCount": 6825,
+          "wordCount": 7331,
           "title": "How the Gubernatorial Races Are Breaking",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/gov.jpg?fit=2057%2C1200&ssl=1"
         },
@@ -3290,7 +3290,7 @@
           "description": "In California, it’s class warriors and labor bullies.",
           "link": "https://www.nationalreview.com/2026/09/who-wants-to-get-rid-of-billionaires/",
           "publishedOn": "2026-09-20T19:07:46.000Z",
-          "wordCount": 6429,
+          "wordCount": 7027,
           "title": "Who Wants to Get Rid of Billionaires?",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/dave-regan-nbc4.jpg?fit=2057%2C1200&ssl=1"
         },
@@ -3310,7 +3310,7 @@
           "description": "The Princeton University Art Museum has weaponized its placards against American history.",
           "link": "https://www.nationalreview.com/2026/09/lectured-by-curators-at-my-alma-mater/",
           "publishedOn": "2026-09-20T10:30:38.000Z",
-          "wordCount": 7072,
+          "wordCount": 7785,
           "title": "Lectured by Curators at My Alma Mater",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/Princeton-University-Art-Museum.jpg?fit=2057%2C1200&ssl=1"
         },
@@ -3320,7 +3320,7 @@
           "description": "Not even tech CEOs.",
           "link": "https://www.nationalreview.com/2026/09/nobody-knows-the-future/",
           "publishedOn": "2026-09-20T10:30:24.000Z",
-          "wordCount": 6846,
+          "wordCount": 22375,
           "title": "Nobody Knows the Future",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/segways-us-capitol.jpg?fit=2057%2C1200&ssl=1"
         },
@@ -3330,7 +3330,7 @@
           "description": "The Jewish day of atonement reminds us that when we don’t forgive, we punish ourselves.",
           "link": "https://www.nationalreview.com/2026/09/forgiveness-is-a-gift-to-us-all/",
           "publishedOn": "2026-09-20T10:30:18.000Z",
-          "wordCount": 7046,
+          "wordCount": 11344,
           "title": "Forgiveness Is a Gift to Us All",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/yom-kippur.jpg?fit=2057%2C1200&ssl=1"
         },
@@ -3340,7 +3340,7 @@
           "description": "But the Supreme Court can stop it.",
           "link": "https://www.nationalreview.com/2026/09/the-energy-sector-is-threatened-by-a-climate-litigation-free-for-all/",
           "publishedOn": "2026-09-20T10:30:14.000Z",
-          "wordCount": 6565,
+          "wordCount": 6794,
           "title": "The Energy Sector Is Threatened by a Climate Litigation Free-for-All",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/suncorn.jpg?fit=2057%2C1200&ssl=1"
         }
@@ -3352,12 +3352,22 @@
       "siteUrl": "http://abcnews.com",
       "articles": [
         {
+          "id": "https://abcnews.com/International/wireStory/russian-attacks-injure-7-ukraine-damage-structures-136675219",
+          "author": null,
+          "description": "Ukrainian authorities say Russian attacked businesses and storage facilities across the country overnight, injuring seven people",
+          "link": "https://abcnews.com/International/wireStory/russian-attacks-injure-7-ukraine-damage-structures-136675219",
+          "publishedOn": "2026-09-23T07:32:14.000Z",
+          "wordCount": 3042,
+          "title": "Russian attacks injure 7 across Ukraine and damage structures",
+          "imageUrl": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+        },
+        {
           "id": "https://abcnews.com/International/wireStory/taiwan-watching-closely-xi-trump-meet-hopes-us-136675213",
           "author": null,
           "description": "Taiwan is expressing confidence that U.S. arms sales to the island will continue despite China's pressure as China’s Xi Jinping arrives in Washington to meet with U.S. President Donald Trump",
           "link": "https://abcnews.com/International/wireStory/taiwan-watching-closely-xi-trump-meet-hopes-us-136675213",
           "publishedOn": "2026-09-23T07:22:31.000Z",
-          "wordCount": 3836,
+          "wordCount": 3828,
           "title": "Taiwan watching closely as Xi and Trump meet and hopes US will keep up its arms sales",
           "imageUrl": "https://i.abcnewsfe.com/a/15f9d38f-48f0-46af-86d6-055d73912933/wirestory_a6763308f8d63f3e569145e00595e9f2_16x9.jpg?w=1600"
         },
@@ -3367,19 +3377,9 @@
           "description": "Police say assailants shot at least 11 people to death in a mass shooting at a house party in South Africa",
           "link": "https://abcnews.com/International/wireStory/mass-shooting-house-south-africa-leaves-11-dead-136675033",
           "publishedOn": "2026-09-23T07:22:27.000Z",
-          "wordCount": 2789,
+          "wordCount": 2790,
           "title": "A mass shooting at a house in South Africa leaves 11 dead and 3 wounded, police say",
           "imageUrl": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
-        },
-        {
-          "id": "https://abcnews.com/International/wireStory/morocco-votes-new-parliament-after-gen-protests-migration-136674843",
-          "author": null,
-          "description": "Moroccan voters are choosing a new parliament Wednesday in an election marked by frustration among young people and high unemployment",
-          "link": "https://abcnews.com/International/wireStory/morocco-votes-new-parliament-after-gen-protests-migration-136674843",
-          "publishedOn": "2026-09-23T07:06:29.000Z",
-          "wordCount": 3650,
-          "title": "Morocco votes for a new parliament after Gen Z protests and migration surge to Ceuta",
-          "imageUrl": "https://i.abcnewsfe.com/a/3afb894c-f71b-4e60-bf30-d7a579e6fa8e/wirestory_e32311d61692137a196fac6a98afca70_16x9.jpg?w=1600"
         },
         {
           "id": "https://abcnews.com/International/wireStory/british-columbia-leader-calls-snap-election-premier-tells-136664056",
@@ -3387,7 +3387,7 @@
           "description": "A Canadian provincial premier has called a snap election, saying U.S. President Donald Trump’s attacks on Canada are threatening jobs, businesses and the country’s ability to determine its own future",
           "link": "https://abcnews.com/International/wireStory/british-columbia-leader-calls-snap-election-premier-tells-136664056",
           "publishedOn": "2026-09-23T06:22:53.000Z",
-          "wordCount": 3758,
+          "wordCount": 3762,
           "title": "British Columbia leader calls snap election as premier tells voters to say ‘hell no to Trump’",
           "imageUrl": "https://i.abcnewsfe.com/a/53c6d0cf-927f-46d0-8d85-019884b0571b/wirestory_631ff2622c5c30f8a3988db89f4bdcae_16x9.jpg?w=1600"
         },
@@ -3397,7 +3397,7 @@
           "description": "A Sri Lankan court has convicted 15 men for their roles in the 2019 Easter Sunday bombings that killed 267 people",
           "link": "https://abcnews.com/International/wireStory/sri-lankan-court-finds-15-men-guilty-roles-136647369",
           "publishedOn": "2026-09-23T06:02:23.000Z",
-          "wordCount": 5164,
+          "wordCount": 5173,
           "title": "Sri Lankan court finds 15 guilty for their roles in the 2019 deadly Easter bombings",
           "imageUrl": "https://i.abcnewsfe.com/a/38f624a5-3955-464c-ba12-64354fd54ea1/wirestory_45283b5f6fe37ed2ab07c903214001b5_16x9.jpg?w=1600"
         },
@@ -3407,7 +3407,7 @@
           "description": "Marlon James and Douglas Stuart can become the fifth author to win the Booker Prize twice after both were shortlisted for arguably the U.K.’s most prestigious fiction accolade",
           "link": "https://abcnews.com/International/wireStory/marlon-james-douglas-stuart-chance-become-5th-multiple-136672599",
           "publishedOn": "2026-09-23T03:46:15.000Z",
-          "wordCount": 4234,
+          "wordCount": 4235,
           "title": "Marlon James, Douglas Stuart may become 5th multiple winner of Booker Prize award",
           "imageUrl": "https://i.abcnewsfe.com/a/1f971e26-ed4a-4262-8209-9526f7fa883d/wirestory_b6b89aeead025c88745af3091dcb6498_16x9.jpg?w=1600"
         },
@@ -3417,7 +3417,7 @@
           "description": "Moroccan voters are heading to the polls to elect a new parliament, with a focus on jobs, wages, and inequality",
           "link": "https://abcnews.com/International/wireStory/morocco-holds-elections-after-mass-migration-attempts-deadly-136645757",
           "publishedOn": "2026-09-23T02:58:11.000Z",
-          "wordCount": 5513,
+          "wordCount": 5505,
           "title": "What's at stake as Morocco votes after mass migration attempts and deadly youth protests",
           "imageUrl": "https://i.abcnewsfe.com/a/cd0d1ed8-8336-4b78-916a-0742074e4492/wirestory_046460d3e478cce506e77be052dbaa36_16x9.jpg?w=1600"
         },
@@ -3427,7 +3427,7 @@
           "description": "About 2,000 people have sought reparations from a French body addressing church abuse",
           "link": "https://abcnews.com/International/wireStory/2000-church-sex-abuse-victims-forward-reparations-france-136657602",
           "publishedOn": "2026-09-22T19:09:07.000Z",
-          "wordCount": 4540,
+          "wordCount": 4537,
           "title": "About 2,000 church sex abuse victims have come forward for reparations in France",
           "imageUrl": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
         },
@@ -3437,7 +3437,7 @@
           "description": "Moldova’s parliament has declared a 60-day state of emergency in the country’s energy and water sectors amid severely low water levels on the Dniester River and global conflicts that are driving up energy costs",
           "link": "https://abcnews.com/International/wireStory/moldova-impose-60-day-energy-water-emergency-due-136657753",
           "publishedOn": "2026-09-22T19:09:06.000Z",
-          "wordCount": 3840,
+          "wordCount": 3841,
           "title": "Moldova to impose 60-day energy and water emergency due to drought and rising costs",
           "imageUrl": "https://i.abcnewsfe.com/a/3aaeed3c-8ec4-44d9-ac7a-c8571230952d/wirestory_a73f807a2a7c2ccd38258d49ac1fbbd3_16x9.jpg?w=1600"
         },
@@ -3447,7 +3447,7 @@
           "description": "Some 150 Catholic priests and friars, a bishop and nuns from around the world have marched to the Vatican to call for an end to what they called the “genocide” in Gaza",
           "link": "https://abcnews.com/International/wireStory/priests-nuns-march-vatican-demand-end-genocide-gaza-136656952",
           "publishedOn": "2026-09-22T17:26:18.000Z",
-          "wordCount": 3924,
+          "wordCount": 3929,
           "title": "Priests, nuns march to Vatican to demand end to 'genocide' in Gaza",
           "imageUrl": "https://i.abcnewsfe.com/a/d0b31fcc-e383-47bc-b6cd-18542e957744/wirestory_a704633f835d88c49f4c733f640c52c7_16x9.jpg?w=1600"
         },
@@ -3457,7 +3457,7 @@
           "description": "An American military aircraft has crashed at a U.S. air base in western Germany, injuring the pilot",
           "link": "https://abcnews.com/International/wireStory/us-military-plane-crashes-us-air-base-germany-136650995",
           "publishedOn": "2026-09-22T15:31:44.000Z",
-          "wordCount": 2992,
+          "wordCount": 2981,
           "title": "A US military plane crashes near a US air base in Germany, injuring the pilot",
           "imageUrl": "https://i.abcnewsfe.com/a/bd5a6d44-d58f-4f00-8e53-adfb06ada0ed/wirestory_abfd6a29c516766f5ee522cf5642edeb_16x9.jpg?w=1600"
         },
@@ -3467,7 +3467,7 @@
           "description": "British prosecutors have accused a doctor of overseeing six killings during the 1994 Rwandan genocide",
           "link": "https://abcnews.com/International/wireStory/rwandan-doctor-accused-london-court-overseeing-6-killings-136648961",
           "publishedOn": "2026-09-22T15:29:09.000Z",
-          "wordCount": 3757,
+          "wordCount": 3765,
           "title": "Rwandan doctor accused in London court of overseeing 6 killings in 1994 genocide",
           "imageUrl": "https://i.abcnewsfe.com/a/051cbefd-bedf-4fbd-a8a1-235cf9e44d35/wirestory_d147150f3e189dc94f3377884f2b30b6_16x9.jpg?w=1600"
         },
@@ -3477,7 +3477,7 @@
           "description": "An amateur archaeologist has discovered a significant hoard of Roman silver coins in western Germany",
           "link": "https://abcnews.com/International/wireStory/amateur-archaeologist-finds-germanys-biggest-hoard-ancient-roman-136647641",
           "publishedOn": "2026-09-22T13:30:18.000Z",
-          "wordCount": 3788,
+          "wordCount": 3798,
           "title": "Amateur archaeologist finds Germany’s biggest hoard of ancient Roman silver coins",
           "imageUrl": "https://i.abcnewsfe.com/a/f5426619-d479-4ff6-a3bf-337d2a48df13/wirestory_a0d3d4b13afb3595ce7c475f9a016d2c_16x9.jpg?w=1600"
         },
@@ -3487,7 +3487,7 @@
           "description": "Officials say Russia has bombarded at least four Ukrainian regions with missiles and drones in that attacks that have killed five people",
           "link": "https://abcnews.com/International/wireStory/russia-ukraine-trade-deadly-strikes-zelenskyy-prepares-meet-136642887",
           "publishedOn": "2026-09-22T12:10:31.000Z",
-          "wordCount": 5141,
+          "wordCount": 5143,
           "title": "Russia and Ukraine trade deadly strikes as Zelenskyy prepares to meet Trump",
           "imageUrl": "https://i.abcnewsfe.com/a/3d2e5053-5bf6-4abc-aee5-ede13acb4900/wirestory_9c3d38e7e97132884f915e157dbf9ef1_16x9.jpg?w=1600"
         },
@@ -3497,7 +3497,7 @@
           "description": "An attacker opened fire near a high school in western Turkey, wounding at least 11 people",
           "link": "https://abcnews.com/International/wireStory/gunman-opens-fire-high-school-turkey-wounding-8-136641092",
           "publishedOn": "2026-09-22T12:10:21.000Z",
-          "wordCount": 3498,
+          "wordCount": 3503,
           "title": "Gunman opens fire near a high school in Turkey, wounding at least 11",
           "imageUrl": "https://i.abcnewsfe.com/a/8085a30e-639b-4336-8864-6efe0182d462/wirestory_90a3b32c8848daaebca4a977c2301a5f_16x9.jpg?w=1600"
         },
@@ -3507,7 +3507,7 @@
           "description": "A recent killing in Salvador highlights rising violence in Bahia, Brazil",
           "link": "https://abcnews.com/International/wireStory/increasing-violence-brazils-bahia-state-challenges-lula-election-136643167",
           "publishedOn": "2026-09-22T11:14:21.000Z",
-          "wordCount": 5842,
+          "wordCount": 5831,
           "title": "Increasing violence in Brazil's Bahia state challenges Lula in his election stronghold",
           "imageUrl": "https://i.abcnewsfe.com/a/60621981-58f7-4737-9b69-2b688d73f45e/wirestory_c640045e461d1bfb7c6a09a7f2a3d8bb_16x9.jpg?w=1600"
         },
@@ -3517,7 +3517,7 @@
           "description": "The European Union and the Philippines have reached substantial agreement on a new free trade deal",
           "link": "https://abcnews.com/International/wireStory/european-union-strikes-new-free-trade-deal-philippines-136642538",
           "publishedOn": "2026-09-22T11:14:18.000Z",
-          "wordCount": 4087,
+          "wordCount": 4097,
           "title": "European Union strikes a new free trade deal with the Philippines",
           "imageUrl": "https://i.abcnewsfe.com/a/5a4e30c9-98b3-4b2e-9d86-4e439815ae64/wirestory_85e74be2f192e180614a4b763ccfeae9_16x9.jpg?w=1600"
         },
@@ -3527,7 +3527,7 @@
           "description": "China's Alibaba has unveiled new plans for its AI model and new chip technologies, including what it claims is China's most powerful AI chip",
           "link": "https://abcnews.com/International/wireStory/chinas-alibaba-unveils-new-powerful-chip-ambitious-ai-136641611",
           "publishedOn": "2026-09-22T10:50:16.000Z",
-          "wordCount": 4472,
+          "wordCount": 4477,
           "title": "China's Alibaba unveils new powerful chip and ambitious AI model plans",
           "imageUrl": "https://i.abcnewsfe.com/a/8262f47c-8bf1-4350-9ab9-40ff87324e1b/wirestory_b29908e516faff9f5a82b201ba954aab_16x9.jpg?w=1600"
         },
@@ -3537,7 +3537,7 @@
           "description": "A South Korean appeals court has reduced the prison sentence of the wife of ousted President Yoon Suk Yeol",
           "link": "https://abcnews.com/International/wireStory/south-korean-appeals-court-reduces-former-ladys-sentence-136642361",
           "publishedOn": "2026-09-22T09:35:40.000Z",
-          "wordCount": 4181,
+          "wordCount": 4207,
           "title": "South Korean court reduces former first lady’s sentence over luxury gifts and favors",
           "imageUrl": "https://i.abcnewsfe.com/a/28d9a4d4-279e-4358-aad9-0328b0b8a93f/wirestory_5deeb100f04ccbcbff18e53fa659a4ff_16x9.jpg?w=1600"
         },
@@ -3547,7 +3547,7 @@
           "description": "Hungarian authorities have fined MOL Petrochemicals for safety lapses linked to a May explosion at a chemical plant",
           "link": "https://abcnews.com/International/wireStory/hungary-fines-mol-petrochemicals-safety-lapses-linked-deadly-136642600",
           "publishedOn": "2026-09-22T09:22:30.000Z",
-          "wordCount": 2672,
+          "wordCount": 2669,
           "title": "Hungary fines MOL Petrochemicals over safety lapses linked to deadly plant explosion",
           "imageUrl": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
         },
@@ -3557,7 +3557,7 @@
           "description": "A U.N. report says the Nicaraguan government is responsible for at least eight deaths in custody since 2018",
           "link": "https://abcnews.com/International/wireStory/nicaraguan-government-responsible-8-deaths-custody-2018-report-136641520",
           "publishedOn": "2026-09-22T08:26:26.000Z",
-          "wordCount": 3541,
+          "wordCount": 3542,
           "title": "Nicaraguan govt responsible for at least 8 deaths in custody since 2018: UN report",
           "imageUrl": "https://i.abcnewsfe.com/a/66985771-9e3a-404e-8cde-7fdfc1b9cfd6/wirestory_b44e3c408e0f01f74488d7ebddde336a_16x9.jpg?w=1600"
         },
@@ -3567,7 +3567,7 @@
           "description": "Pope Leo XIV plans to meet with seven survivors of sexual abuse by Catholic clergy during his visit to France",
           "link": "https://abcnews.com/International/wireStory/pope-leo-xiv-meet-french-abuse-survivors-critics-136641086",
           "publishedOn": "2026-09-22T07:46:15.000Z",
-          "wordCount": 5131,
+          "wordCount": 5135,
           "title": "Pope Leo XIV will meet with the French abuse survivors as critics demand action",
           "imageUrl": "https://i.abcnewsfe.com/a/b4a06114-4e22-4e13-a3e9-86079ef9b8e6/wirestory_b642317e5b134b06b2cac50ebfa5038e_16x9.jpg?w=1600"
         },
@@ -3577,7 +3577,7 @@
           "description": "All signs are pointing toward a record-breaking El Nino this year, which experts say raises the risk of droughts across Asia that may drive food prices higher across the globe",
           "link": "https://abcnews.com/International/wireStory/worsening-el-nino-threatens-asia-drought-potentially-raising-136640382",
           "publishedOn": "2026-09-22T07:34:09.000Z",
-          "wordCount": 5768,
+          "wordCount": 5766,
           "title": "Worsening El Nino threatens Asia with drought, potentially raising prices globally",
           "imageUrl": "https://i.abcnewsfe.com/a/32f175b2-c2f3-4276-b944-36cfcf6bb823/wirestory_31c88df9ce8f67bcbfe3ea7f39431d57_16x9.jpg?w=1600"
         },
@@ -3587,7 +3587,7 @@
           "description": "President Donald Trump’s interest in taking control of Greenland, a semiautonomous territory of NATO ally Denmark, first became publicly known in 2019, but was dismissed as absurd by Denmark's leader",
           "link": "https://abcnews.com/International/wireStory/timeline-us-president-donald-trumps-interest-greenland-136640631",
           "publishedOn": "2026-09-22T07:32:09.000Z",
-          "wordCount": 5160,
+          "wordCount": 5164,
           "title": "A timeline of US President Donald Trump's interest in Greenland",
           "imageUrl": "https://i.abcnewsfe.com/a/e65b010a-166c-4672-8693-fb8da8ae8eb2/wirestory_b32ca9f63dd31333c1d6e64fb3d6403e_16x9.jpg?w=1600"
         },
@@ -3597,7 +3597,7 @@
           "description": "North Korea says its latest missile tests involved a new weapons system of “great significance,” with photos indicating it launched a missile previously described as hypersonic",
           "link": "https://abcnews.com/International/wireStory/north-korea-touts-new-weapons-system-hypersonic-136639627",
           "publishedOn": "2026-09-22T04:43:08.000Z",
-          "wordCount": 5410,
+          "wordCount": 5405,
           "title": "North Korea touts new weapons system described as hypersonic",
           "imageUrl": "https://i.abcnewsfe.com/a/59fd89ba-0a23-41e8-8a3e-57bf8039d2c6/wirestory_27b540de28525e4bf23c89b90991393d_16x9.jpg?w=1600"
         }
@@ -4055,7 +4055,7 @@
           "description": "The newest “Dragon Hatchling” AI model is testing whether skipping words in intermediate reasoning could cut computational cost.",
           "link": "https://www.sciencenews.org/article/ai-model-reason-logic-words-efficient",
           "publishedOn": "2026-09-22T16:00:00.000Z",
-          "wordCount": 13794,
+          "wordCount": 13799,
           "title": "Can AI reason without words? A small model puts the idea to the test",
           "enclosure": {
             "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/091626_SB_ai_main.jpg?w=800",
@@ -4085,7 +4085,7 @@
           "description": "The joy that author Alexis Nikole Nelson injects into this cookbook makes foraging approachable.",
           "link": "https://www.sciencenews.org/article/happy-snacking-dont-die-cookbook",
           "publishedOn": "2026-09-22T13:00:00.000Z",
-          "wordCount": 13727,
+          "wordCount": 14277,
           "title": "‘Happy Snacking, Don’t Die!’ is a joyous guide to eating wild plants",
           "enclosure": {
             "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/092126_EC_happysnacking_bookreview.jpg?w=800",
@@ -4140,7 +4140,7 @@
           "description": "For 27 years, the Southwest has been gripped by a historic drought. Scientists think it might be here to stay.",
           "link": "https://www.sciencenews.org/article/united-states-megadrought-climate",
           "publishedOn": "2026-09-18T17:00:00.000Z",
-          "wordCount": 16146,
+          "wordCount": 16696,
           "title": "Will the U.S. megadrought ever end?",
           "enclosure": {
             "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/1026_drought_feat.jpg?w=800",
@@ -4155,7 +4155,7 @@
           "description": "A sickle across the throat and a padlock on the toe were likely meant to keep this 17th-century Polish teen from resurrecting.",
           "link": "https://www.sciencenews.org/article/ancient-anti-vampire-grave-undead",
           "publishedOn": "2026-09-18T15:00:00.000Z",
-          "wordCount": 14346,
+          "wordCount": 14341,
           "title": "This ‘anti-vampiric’ grave used two strategies to stop the undead",
           "enclosure": {
             "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/091026_MT_grave_main_rev.jpg?w=800",
@@ -4170,7 +4170,7 @@
           "description": "New research suggests that Paleodictyon — honeycomb-shaped formations perhaps sketched by da Vinci — are not made by soft-bodied creatures.",
           "link": "https://www.sciencenews.org/article/paleontology-enigma-honeycomb-fossil",
           "publishedOn": "2026-09-18T13:00:00.000Z",
-          "wordCount": 13639,
+          "wordCount": 13634,
           "title": "What’s behind ‘one of paleontology’s most enduring enigmas’?",
           "enclosure": {
             "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/090826_MB_fossil_mainsocial.jpg?w=800",
@@ -4200,7 +4200,7 @@
           "description": "A space satellite that would offer light on demand has astronomers asking: Who controls the night sky?",
           "link": "https://www.sciencenews.org/article/reflect-orbital-space-mirrors-satellite",
           "publishedOn": "2026-09-17T20:23:22.000Z",
-          "wordCount": 16462,
+          "wordCount": 16467,
           "title": "Big space mirrors could bring Earth on-demand light — and upend our night sky",
           "enclosure": {
             "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/1026_darksideoflight_main.jpg?w=800",
@@ -4230,7 +4230,7 @@
           "description": "Major hormonal milestones in women’s lives are usually associated with changes in brain volume — but a new study shows menopause is an exception.",
           "link": "https://www.sciencenews.org/article/menopause-brain-changes-surprise",
           "publishedOn": "2026-09-17T15:00:00.000Z",
-          "wordCount": 13865,
+          "wordCount": 13860,
           "title": "During menopause, brain changes surprisingly take a break",
           "enclosure": {
             "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/091626_BB_menopausebrain_main.jpg?w=800",
@@ -4275,7 +4275,7 @@
           "description": "A cryptic announcement raises questions about the type of weapons and how they could be used. We talked to an expert about the consequences.",
           "link": "https://www.sciencenews.org/article/united-states-space-weapon-announcement",
           "publishedOn": "2026-09-16T14:00:00.000Z",
-          "wordCount": 14688,
+          "wordCount": 14693,
           "title": "The U.S. has weapons in space. Here’s what that could mean",
           "enclosure": {
             "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/091526_EC_spaceweapons_main.jpg?w=800",
@@ -4305,7 +4305,7 @@
           "description": "Four newly described species of Australian plant bug have been named in honor of renowned recording artist Taylor Swift.",
           "link": "https://www.sciencenews.org/article/swiftiephylus-bug-named-taylor-swift",
           "publishedOn": "2026-09-15T15:00:00.000Z",
-          "wordCount": 13786,
+          "wordCount": 14336,
           "title": "Meet Swiftiephylus, an Australian bug named after Taylor Swift",
           "enclosure": {
             "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/091126_JB_tswift-bug_feat.jpg?w=800",
@@ -4320,7 +4320,7 @@
           "description": "Ecologist Merritt Turetsky’s devotion to bogs, fens and other fascinating water-logged spaces saturates her new book.",
           "link": "https://www.sciencenews.org/article/book-review-bogland-strange-ecosystems",
           "publishedOn": "2026-09-15T13:00:00.000Z",
-          "wordCount": 13867,
+          "wordCount": 13862,
           "title": "‘Bogland’ explores beautifully strange ecosystems",
           "enclosure": {
             "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/1026_review_bogland_0db3e8.jpg?w=800",
@@ -4335,7 +4335,7 @@
           "description": "Scientists are exploring new ways to regain control of overactive nervous systems including humming, tapping on the skin and cold-water immersion.",
           "link": "https://www.sciencenews.org/article/nervous-system-stress-hormone-cortisol",
           "publishedOn": "2026-09-14T17:00:00.000Z",
-          "wordCount": 13775,
+          "wordCount": 13770,
           "title": "Feeling nervous? Work the system",
           "enclosure": {
             "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/090926_JD_nervoussystem_main.jpg?w=800",
@@ -5512,9 +5512,9 @@
           "description": "A learned disputation upon fusionism.",
           "link": "https://thedispatch.com/podcast/remnant/this-is-western-civilization-bro-interview-stephanie-slade/",
           "publishedOn": "2026-09-23T07:00:00.000Z",
-          "wordCount": 5155,
+          "wordCount": null,
           "title": "‘This Is Western Civilization, Bro’ | Interview: Stephanie Slade",
-          "imageUrl": "https://thedispatch.com/wp-content/uploads/2026/09/unlocked-og-129169.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://thedispatch.com/?p=129136",
@@ -5522,9 +5522,9 @@
           "description": "Why don’t we hear about occupied Tibet or Chinese apartheid?",
           "link": "https://thedispatch.com/article/media-coverage-israel-china-united-nations/",
           "publishedOn": "2026-09-23T05:03:00.000Z",
-          "wordCount": 4738,
+          "wordCount": null,
           "title": "The Media’s Weird Obsession With Israel",
-          "imageUrl": "https://thedispatch.com/wp-content/uploads/2026/09/GettyImages-2264204553.jpg?w=1024"
+          "imageUrl": null
         },
         {
           "id": "https://thedispatch.com/?p=129161",
@@ -5532,9 +5532,9 @@
           "description": "A federal indictment alleging an assassination plot in Washington unveils Russian efforts to punish dissidents and defy the U.S.",
           "link": "https://thedispatch.com/article/russia-united-states-assassination-plot-dissident/",
           "publishedOn": "2026-09-23T05:02:00.000Z",
-          "wordCount": 4717,
+          "wordCount": null,
           "title": "From Russia With Impunity",
-          "imageUrl": "https://thedispatch.com/wp-content/uploads/2026/09/russiaespionage.jpg?w=1024"
+          "imageUrl": null
         },
         {
           "id": "https://thedispatch.com/?p=129142",
@@ -5542,9 +5542,9 @@
           "description": "With the Department of Education threatening to revoke its accreditation authority over law schools, the ABA has voted to pare back its diversity rules.",
           "link": "https://thedispatch.com/article/american-bar-association-accredidation-diversity-discrimination/",
           "publishedOn": "2026-09-23T05:01:00.000Z",
-          "wordCount": 4681,
+          "wordCount": null,
           "title": "The American Bar Association’s Discriminatory Diversity Push Is Ending—For Now",
-          "imageUrl": "https://thedispatch.com/wp-content/uploads/2026/09/GettyImages-1041875104.jpg?w=1024"
+          "imageUrl": null
         },
         {
           "id": "https://thedispatch.com/?post_type=newsletter&p=129157",
@@ -5552,9 +5552,9 @@
           "description": "There’s—almost—no such thing as an unfit Republican.",
           "link": "https://thedispatch.com/newsletter/boilingfrogs/bush-cornyn-paxton-republican-party/",
           "publishedOn": "2026-09-22T21:39:08.000Z",
-          "wordCount": 8729,
+          "wordCount": null,
           "title": "The Other Bush Doctrine",
-          "imageUrl": "https://thedispatch.com/wp-content/uploads/2026/09/GettyImages-2289035075.jpg?w=1024"
+          "imageUrl": null
         },
         {
           "id": "https://thedispatch.com/?post_type=newsletter&p=129125",
@@ -5562,9 +5562,9 @@
           "description": "Plus: Iran’s Revolutionary Guard warns of a long war, Paramount settles to clear its Warner merger, and a robot vs. influencer boxing match.",
           "link": "https://thedispatch.com/newsletter/morning/does-china-care-about-ai-safety/",
           "publishedOn": "2026-09-22T10:45:09.000Z",
-          "wordCount": 10721,
+          "wordCount": null,
           "title": "Does China Care About AI Safety?",
-          "imageUrl": "https://thedispatch.com/wp-content/uploads/2026/09/GettyImages-2295805598.jpg?w=1024"
+          "imageUrl": null
         },
         {
           "id": "https://thedispatch.com/?post_type=podcast&p=129114",
@@ -5572,9 +5572,9 @@
           "description": "Hash-ing out business.",
           "link": "https://thedispatch.com/podcast/advisoryopinions/are-marijuana-contracts-legal-in-federal-court/",
           "publishedOn": "2026-09-22T07:00:00.000Z",
-          "wordCount": 6426,
+          "wordCount": null,
           "title": "Are Marijuana Contracts Legal in Federal Court?",
-          "imageUrl": "https://thedispatch.com/wp-content/uploads/2026/09/unlocked-og-129114.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://thedispatch.com/?post_type=podcast&p=129120",
@@ -5582,9 +5582,9 @@
           "description": "Plus: The Pentagon may be underreporting deaths in Iran.",
           "link": "https://thedispatch.com/podcast/dispatch-podcast/is-trumps-greenland-deal-a-foreign-policy-victory/",
           "publishedOn": "2026-09-22T07:00:00.000Z",
-          "wordCount": 6589,
+          "wordCount": null,
           "title": "Is Trump’s Greenland Deal a Foreign Policy Victory?",
-          "imageUrl": "https://thedispatch.com/wp-content/uploads/2026/09/unlocked-og-129120.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://thedispatch.com/?p=129112",
@@ -5592,9 +5592,9 @@
           "description": "Reckoning with the nature of AI risks is testing policymakers and politicians.",
           "link": "https://thedispatch.com/article/ai-safety-politics-conversation/",
           "publishedOn": "2026-09-22T05:02:00.000Z",
-          "wordCount": 7216,
+          "wordCount": null,
           "title": "Why AI and Washington Talk Past Each Other",
-          "imageUrl": "https://thedispatch.com/wp-content/uploads/2026/09/AI-Debates.jpg?w=1024"
+          "imageUrl": null
         },
         {
           "id": "https://thedispatch.com/?p=129083",
@@ -5602,9 +5602,9 @@
           "description": "The ‘enrollment cliff’ is mostly an excuse not to change.",
           "link": "https://thedispatch.com/article/higher-education-college-demographics-enrollment-market-forces/",
           "publishedOn": "2026-09-22T05:00:00.000Z",
-          "wordCount": 8397,
+          "wordCount": null,
           "title": "Demographics Aren’t What’s Ailing Colleges",
-          "imageUrl": "https://thedispatch.com/wp-content/uploads/2026/09/SmallColleges.jpg?w=1024"
+          "imageUrl": null
         }
       ]
     },
@@ -9423,6 +9423,17 @@
       "siteUrl": "https://reason.com/",
       "articles": [
         {
+          "id": "https://reason.com/?p=8402661",
+          "author": "Charles Oliver",
+          "description": "Arielle Kayabaga, a Liberal Party member of Canada's Parliament, has distanced herself from a petition that she herself sponsored after…\nThe post Brickbat: I Disavow My Actions appeared first on Reason Magazine.",
+          "link": "https://reason.com/2026/09/23/brickbat-i-disavow-my-actions/",
+          "publishedOn": "2026-09-23T08:00:23.000Z",
+          "wordCount": null,
+          "title": "Brickbat: I Disavow My Actions",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "https://reason.com/?post_type=volokh-post&p=8402773",
           "author": "Eugene Volokh",
           "description": "What’s on your mind?",
@@ -9943,17 +9954,6 @@
           "publishedOn": "2026-09-21T12:00:35.000Z",
           "wordCount": null,
           "title": "People Get Paid for Blood, Plasma, and Drug Trials—Why Not Kidneys Too?",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "https://reason.com/?post_type=volokh-post&p=8383729",
-          "author": "Josh Blackman",
-          "description": "9/21/1981: Justice Sandra Day O'Connor is confirmed by the Senate, 99-0.\nThe post Today in Supreme Court History: September 21, 1981 appeared first on Reason Magazine.",
-          "link": "https://reason.com/volokh/2026/09/21/today-in-supreme-court-history-september-21-1981-7/",
-          "publishedOn": "2026-09-21T11:00:58.000Z",
-          "wordCount": null,
-          "title": "Today in Supreme Court History: September 21, 1981",
           "itunes": {},
           "imageUrl": null
         }
@@ -11581,7 +11581,7 @@
           "description": "In an excerpt from his book, “Innovate for Impact: A Roadmap to Sustainable Technology Beyond AI,” Alessandro Crimi explains that a tax on automation is more effective than retraining labor.",
           "link": "https://restofworld.org/2026/robot-tax-ai-wealth-redistribution/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
           "publishedOn": "2026-09-18T10:00:00.000Z",
-          "wordCount": 1838,
+          "wordCount": 1841,
           "title": "The case for a robot tax to redistribute wealth",
           "imageUrl": "https://restofworld.org/wp-content/uploads/2026/09/illo_robot_tax_final-1600x900.jpg"
         },
@@ -11601,7 +11601,7 @@
           "description": "From Latin America to Southeast Asia, countries are dividing their AI investments between the two superpowers rather than choosing one over the other.",
           "link": "https://restofworld.org/2026/ai-us-chips-chinese-open-source-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
           "publishedOn": "2026-09-16T10:00:00.000Z",
-          "wordCount": 2349,
+          "wordCount": 2363,
           "title": "Playing both sides of the U.S.-China AI “Cold War”",
           "imageUrl": "https://restofworld.org/wp-content/uploads/2026/09/illo_china_us_row_sketch_final-1600x900.jpg"
         },
@@ -11611,7 +11611,7 @@
           "description": "Apple’s high-end models cost more in markets like India and Turkey owing to high taxes and import duties.",
           "link": "https://restofworld.org/2026/iphone-18-pro-global-prices/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
           "publishedOn": "2026-09-15T10:00:00.000Z",
-          "wordCount": 1539,
+          "wordCount": 1547,
           "title": "Where in the world is the iPhone cheapest?",
           "imageUrl": "https://restofworld.org/wp-content/uploads/2026/09/iPhone-Pricing.jpg"
         },
@@ -11621,7 +11621,7 @@
           "description": "Far from Silicon Valley pitch decks, workers across Asia and Africa are bypassing tech industry hype to quietly rewire their daily jobs — one prompt, workflow, and local problem at a time.",
           "link": "https://restofworld.org/2026/global-workers-using-ai-at-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
           "publishedOn": "2026-09-14T10:00:31.000Z",
-          "wordCount": 5227,
+          "wordCount": 5219,
           "title": "The real AI economy is being built by ordinary people",
           "imageUrl": "https://restofworld.org/wp-content/uploads/2026/09/illo_real_world_AI_header_FINAL-1600x900.jpg"
         },
@@ -11661,7 +11661,7 @@
           "description": "Used car dealers in the world’s biggest EV market are turning away 5-year-old cars, exposing a battery anxiety problem heading for Western buyers next.",
           "link": "https://restofworld.org/2026/china-used-ev-depreciation-five-year-battery-warranty-dealers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
           "publishedOn": "2026-09-08T10:00:00.000Z",
-          "wordCount": 2129,
+          "wordCount": 2118,
           "title": "Think your EV holds its value? China has some bad news for you",
           "imageUrl": "https://restofworld.org/wp-content/uploads/2026/08/iStock-2278674815-Final-1600x900.jpg"
         },
@@ -11671,7 +11671,7 @@
           "description": "Five unexpected ways computing power is entering everyday life in the country.",
           "link": "https://restofworld.org/2026/china-ai-tokens-consumer-rewards-credit-cards-telcos-deepseek/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
           "publishedOn": "2026-09-04T10:00:00.000Z",
-          "wordCount": 2055,
+          "wordCount": 2077,
           "title": "Chinese businesses are giving away AI tokens with coffee, credit cards, and dumplings",
           "imageUrl": "https://restofworld.org/wp-content/uploads/2026/08/illo_tokens_final_-1600x900.jpg"
         }
@@ -11688,7 +11688,7 @@
           "description": "Police said all three suspects are Jerusalem residents and that the investigation is ongoing. Investigators were expected to ask a court later Wednesday to extend their detention.",
           "link": "https://www.jpost.com/israel-news/crime-in-israel/article-909400",
           "publishedOn": "2026-09-23T10:44:02.000Z",
-          "wordCount": 7681,
+          "wordCount": 7738,
           "title": "Three minors arrested under suspicion of repeated vandalism against Jerusalem Reform synagogue",
           "imageUrl": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/738344"
         },
@@ -11708,7 +11708,7 @@
           "description": "Machado adviser Pedro Urruchurtu said on social media that the latest sea and air attempts were among seven failed efforts to return since she clandestinely left Venezuela nine months ago.",
           "link": "https://www.jpost.com/international/article-909388",
           "publishedOn": "2026-09-23T10:11:50.000Z",
-          "wordCount": 8033,
+          "wordCount": 8081,
           "title": "Venezuelan opposition leader Machado fails in return attempts as Rodriguez meets Trump",
           "imageUrl": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/738868"
         },
@@ -11728,7 +11728,7 @@
           "description": "The claim, originally reported by JNS, had been that Israeli soldiers along the Gaza Strip had faced three separate kidnapping attempts, all of which were rebuffed by IDF forces.",
           "link": "https://www.jpost.com/israel-news/defense-news/article-909387",
           "publishedOn": "2026-09-23T09:41:35.000Z",
-          "wordCount": 8647,
+          "wordCount": 8704,
           "title": "'Completely baseless': IDF denies report of kidnapping attempts against soldiers near Yellow Line",
           "imageUrl": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/683003"
         },
@@ -11748,7 +11748,7 @@
           "description": "Lee Merritt, a civil rights attorney in Texas, criticized the company's apology in an Instagram post, saying that it “does not undo what the legal, marketing, and management departments went through.",
           "link": "https://www.jpost.com/international/article-909380",
           "publishedOn": "2026-09-23T08:46:59.000Z",
-          "wordCount": 8189,
+          "wordCount": 8237,
           "title": "Converse removes ad campaign criticized over KKK-esque imagery, issues apology",
           "imageUrl": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/738847"
         },
@@ -11758,7 +11758,7 @@
           "description": "The meeting comes as the bloc's leaders seek to tighten coordination while grappling with disagreements over election strategy and the identity of the candidate who will lead the camp.",
           "link": "https://www.jpost.com/israel-election-2026/article-909381",
           "publishedOn": "2026-09-23T08:44:55.000Z",
-          "wordCount": 13825,
+          "wordCount": 13889,
           "title": "Lapid to host all five change bloc leaders for coordination meeting ahead of elections",
           "imageUrl": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/738849"
         },
@@ -11788,7 +11788,7 @@
           "description": "\"We have acted by banning trade in goods with illegal settlements, recognizing that the Israeli occupation of the Palestinian territory is unlawful,\" Burnham said.",
           "link": "https://www.jpost.com/international/article-909373",
           "publishedOn": "2026-09-23T06:09:15.000Z",
-          "wordCount": 8032,
+          "wordCount": 8080,
           "title": "E1 settlements 'cannot be allowed,' Israeli action unjustified by Oct 7., Burnham says at UN",
           "imageUrl": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/738835"
         },
@@ -11798,7 +11798,7 @@
           "description": "On Yom Kippur, Jews across the world gather to recite the same confessions. That shared observance does not require Jews to agree about how Judaism should be practiced.",
           "link": "https://www.jpost.com/opinion/article-909332",
           "publishedOn": "2026-09-23T05:58:09.000Z",
-          "wordCount": 10584,
+          "wordCount": 10630,
           "title": "Freedom of worship demands both physical safety and sanctuary autonomy - editorial",
           "imageUrl": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/738765"
         },
@@ -11808,7 +11808,7 @@
           "description": "Recipients include Make-A-Wish Israel, United Hatzalah, and CareGivers Israel. The grants will support treatment, trauma counseling, caregiver training, and social work services.",
           "link": "https://www.jpost.com/diaspora/article-909336",
           "publishedOn": "2026-09-23T05:56:51.000Z",
-          "wordCount": 11606,
+          "wordCount": 11654,
           "title": "Gal Gadot's $3m. Genesis Prize initiative funds 24 Israeli mental health and trauma care NGOs",
           "imageUrl": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/736808"
         },
@@ -11818,7 +11818,7 @@
           "description": "The Ministry of Diaspora Affairs and Combating Antisemitism and the National Public Diplomacy Directorate in the Prime Minister's Office launched the campaign in an attempt to reveal the UN's lies.",
           "link": "https://www.jpost.com/israel-news/article-909370",
           "publishedOn": "2026-09-23T03:54:32.000Z",
-          "wordCount": 9974,
+          "wordCount": 10031,
           "title": "‘Repeating a lie doesn’t make it true’: Israel releases exposé of UN’s bias before General Assembly",
           "imageUrl": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/738832"
         },
@@ -11838,7 +11838,7 @@
           "description": "Former prime minister Ehud Olmert said the intelligence breakthrough that led to Israel's strikes on a Syrian nuclear reactor began with a young Mossad recruit in an interview with Channel 12.",
           "link": "https://www.jpost.com/israel-news/article-909363",
           "publishedOn": "2026-09-23T02:01:38.000Z",
-          "wordCount": 13110,
+          "wordCount": 13167,
           "title": "Olmert reveals intelligence breakthrough leading to Israel's 2007 strike on Syrian nuclear reactor",
           "imageUrl": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/696210"
         },
@@ -11848,7 +11848,7 @@
           "description": "Israeli leaders denounced French President Emmanuel Macron’s claims, calling him a liar and claiming he is taking “fake news to a new high.”",
           "link": "https://www.jpost.com/international/article-909362",
           "publishedOn": "2026-09-23T01:43:34.000Z",
-          "wordCount": 13428,
+          "wordCount": 13476,
           "title": "‘So-called peace in Gaza is a spectacle’ should ‘shame us all,’ Macron claims in UNGA speech",
           "imageUrl": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/738819"
         },
@@ -11878,7 +11878,7 @@
           "description": "A record number of Jewish pilgrims traveled to the Ukrainian city of Uman for Rosh Hashanah this year, according to local statistics.",
           "link": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-909326",
           "publishedOn": "2026-09-22T17:01:03.000Z",
-          "wordCount": 13317,
+          "wordCount": 13269,
           "title": "Russia spreads AI fakes claiming Jews are being paid to settle in Ukraine",
           "imageUrl": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/737455"
         },
@@ -11898,7 +11898,7 @@
           "description": "Netanyahu has become more than Israel’s prime minister for many. Abroad, for instance, he has become Israel’s symbol and the lightning rod for much of the hatred directed against the Jewish state.",
           "link": "https://www.jpost.com/influencers-26/50jews-26/article-908123",
           "publishedOn": "2026-09-10T18:30:37.000Z",
-          "wordCount": 9370,
+          "wordCount": 9324,
           "title": "No. 2: Benjamin Netanyahu: Shaping Israel’s politics and global image for a generation",
           "imageUrl": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/675578"
         },
@@ -11908,7 +11908,7 @@
           "description": "The former IDF chief has emerged as the leading opposition challenger to Netanyahu, offering voters a path to a post-Netanyahu Israel.",
           "link": "https://www.jpost.com/influencers-26/50jews-26/article-908126",
           "publishedOn": "2026-09-10T18:30:27.000Z",
-          "wordCount": 9655,
+          "wordCount": 9701,
           "title": "No. 3: Gadi Eisenkot: Israel’s next prime minister?",
           "imageUrl": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/735890"
         },
@@ -11918,7 +11918,7 @@
           "description": "Since returning to politics, Bennett has shifted from his previous campaigns, taking a more liberal position while maintaining a strong right-wing stance on security.",
           "link": "https://www.jpost.com/influencers-26/50jews-26/article-908128",
           "publishedOn": "2026-09-10T18:30:17.000Z",
-          "wordCount": 10306,
+          "wordCount": 10352,
           "title": "No. 4: Naftali Bennett: The former PM seeking a comeback to ‘repair Israel’",
           "imageUrl": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/736106"
         },
@@ -11938,7 +11938,7 @@
           "description": "A growing international coalition of more than 100 organizations says the accusation that Israel commits genocide in Gaza has become a weapon against Israel and Jews worldwide.",
           "link": "https://www.jpost.com/diaspora/antisemitism/article-908304",
           "publishedOn": "2026-09-10T18:07:25.000Z",
-          "wordCount": 16898,
+          "wordCount": 16946,
           "title": "Gaza GenoLIE: The campaign fighting “a modern blood libel”",
           "imageUrl": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/738523"
         }
@@ -13673,10 +13673,337 @@
       ]
     },
     {
+      "title": "Eos",
+      "feedUrl": "https://eos.org/feed",
+      "siteUrl": "https://eos.org/",
+      "articles": [
+        {
+          "id": "https://eos.org/?p=250910",
+          "author": "Rebecca Dzombak",
+          "description": "New evidence from the depths of the Red Sea supports the oxidation of manganese and iron as an engine for life in the earliest oceans.",
+          "link": "https://eos.org/research-spotlights/briny-death-pools-hold-clues-to-early-life",
+          "publishedOn": "2026-09-22T12:42:08.000Z",
+          "wordCount": 3135,
+          "title": "Briny “Death Pools” Hold Clues to Early Life",
+          "imageUrl": "https://eos.org/wp-content/uploads/2026/09/deep-sea-brine-pool.jpg"
+        },
+        {
+          "id": "https://eos.org/?p=250917",
+          "author": "Sarah Stanley",
+          "description": "Distinctive plasma ripples are thought to play a big role in electron loss from Earth’s radiation belts, but a new study suggests a more limited influence.",
+          "link": "https://eos.org/research-spotlights/presumed-role-of-chorus-waves-out-of-tune-with-new-data",
+          "publishedOn": "2026-09-22T12:40:25.000Z",
+          "wordCount": 3204,
+          "title": "Presumed Role of Chorus Waves Out of Tune with New Data",
+          "imageUrl": "https://eos.org/wp-content/uploads/2026/09/themis-satellites-illustration.png"
+        },
+        {
+          "id": "https://eos.org/?p=251020",
+          "author": "Dave Petley",
+          "description": "In Japan, record breaking rainfall associated with Typhoon Dujuan has triggered at least six fatal landslides in the Kanto region. Over the last 24 hours or so, rainfall associated Typhoon Dujuan has swept across the Kanto Region in Japan, bringing exceptional (and in some cases record breaking) rainfall. There are multiple reports of landslides, some […]",
+          "link": "https://eos.org/thelandslideblog/typhoon-dujuan-1",
+          "publishedOn": "2026-09-22T07:18:23.000Z",
+          "wordCount": 2979,
+          "title": "Multiple fatal landslides from Typhoon Dujuan in Japan",
+          "imageUrl": "https://eos.org/wp-content/uploads/2026/09/26_09-Dujuan-1.jpg"
+        },
+        {
+          "id": "https://eos.org/?p=250959",
+          "author": "Dave Petley",
+          "description": "On Wednesday 7 October 2026 at 6 pm I will deliver my NTU inaugural lecture entitled “Landslides in a changing climate”. This is a public lecture, so all are welcome. In UK universities, there is a long tradition of inaugural lectures for newly appointed professors. Wikipedia describes an inaugural lecture as follows:- “An inaugural lecture is a […]",
+          "link": "https://eos.org/thelandslideblog/landslides-in-a-changing-climate",
+          "publishedOn": "2026-09-21T15:45:59.000Z",
+          "wordCount": 3082,
+          "title": "Landslides in a changing climate – my forthcoming inaugural lecture",
+          "imageUrl": "https://eos.org/wp-content/uploads/2026/09/26_09-NTU-1.jpg"
+        },
+        {
+          "id": "https://eos.org/?p=250870",
+          "author": "Grace van Deelen",
+          "description": "One of the longest-running lake monitoring programs provides data critical for researchers and resource managers.",
+          "link": "https://eos.org/articles/aboard-the-lake-guardian-scientists-search-for-clues-about-the-great-lakes-health",
+          "publishedOn": "2026-09-21T12:16:24.000Z",
+          "wordCount": 3829,
+          "title": "Aboard the Lake Guardian, Scientists Search for Clues About the Great Lakes’ Health",
+          "imageUrl": "https://eos.org/wp-content/uploads/2026/09/lake-guardian.jpg"
+        },
+        {
+          "id": "https://eos.org/?p=250539",
+          "author": "Matthew R. Francis",
+          "description": "Scientific detective work corrected the date of an early disruption in telegraph service, solidifying the links between solar weather and technological disturbances.",
+          "link": "https://eos.org/research-spotlights/of-cosmic-rains-and-delayed-trains",
+          "publishedOn": "2026-09-21T12:11:54.000Z",
+          "wordCount": 3175,
+          "title": "Of Cosmic Rains and Delayed Trains",
+          "imageUrl": "https://eos.org/wp-content/uploads/2026/09/telegraph.jpg"
+        },
+        {
+          "id": "https://eos.org/?p=250788",
+          "author": "Dennis Clark",
+          "description": "Trees release invisible gases that can create clouds, trap heat, and worsen pollution. Scientists are busy trying to unravel forests’ complex atmospheric contributions in a changing climate.",
+          "link": "https://eos.org/features/chemical-conversations-between-forests-and-the-sky-affect-air-quality-clouds-and-more",
+          "publishedOn": "2026-09-18T13:05:31.000Z",
+          "wordCount": 5637,
+          "title": "Chemical Conversations Between Forests and the Sky Affect Air Quality, Clouds, and More",
+          "imageUrl": "https://eos.org/wp-content/uploads/2026/09/tropical-forest-emissions-borobudur-java.jpg"
+        },
+        {
+          "id": "https://eos.org/?p=250810",
+          "author": "Karthik Vinod",
+          "description": "New research shows that peptides can fold into “omega loops” linked to biological functions, even in highly acidic environments.",
+          "link": "https://eos.org/articles/venusian-sulfur-clouds-might-not-be-so-inhospitable-after-all",
+          "publishedOn": "2026-09-18T13:04:53.000Z",
+          "wordCount": 3674,
+          "title": "Venusian Sulfur Clouds Might Not Be So Inhospitable After All",
+          "imageUrl": "https://eos.org/wp-content/uploads/2026/09/orange-venus.jpg"
+        },
+        {
+          "id": "https://eos.org/?p=250907",
+          "author": "Alberto Montanari",
+          "description": "NASA’s MERRA-2 reanalysis of past weather and climate reveals substantial shifts in extreme heat seasonality over the past 45 years.",
+          "link": "https://eos.org/editor-highlights/seasonality-is-changing-for-extreme-dry-and-humid-heat-events",
+          "publishedOn": "2026-09-18T12:00:00.000Z",
+          "wordCount": 2975,
+          "title": "Seasonality is Changing for Extreme Dry and Humid Heat Events",
+          "imageUrl": "https://eos.org/wp-content/uploads/2026/09/richard-vanlerberghe-JImWptnMXBo-unsplash.png"
+        },
+        {
+          "id": "https://eos.org/?p=250903",
+          "author": "Vaishali Naik",
+          "description": "Mineral dust-activated halogen chemistry is an important yet under-studied natural sink of the tropospheric ozone with implications for the Earth’s oxidative balance, crop yields, and human health.",
+          "link": "https://eos.org/editor-highlights/dust-and-marine-halogens-team-up-to-destroy-tropospheric-ozone",
+          "publishedOn": "2026-09-17T15:05:15.000Z",
+          "wordCount": 2911,
+          "title": "Dust and Marine Halogens Team Up to Destroy Tropospheric Ozone",
+          "imageUrl": "https://eos.org/wp-content/uploads/2026/09/iss016e005526medium.png"
+        },
+        {
+          "id": "https://eos.org/?p=250854",
+          "author": "Grace van Deelen",
+          "description": "Rock glaciers like Timpanogos in Utah are a jumble of ice and stone. A new method could finally show just how much water these glaciers hold.",
+          "link": "https://eos.org/articles/scientists-mapped-a-hidden-glacier-using-gravity",
+          "publishedOn": "2026-09-17T13:34:38.000Z",
+          "wordCount": 4022,
+          "title": "Scientists Mapped a Hidden Glacier Using Gravity",
+          "imageUrl": "https://eos.org/wp-content/uploads/2026/09/bronson-gravimeter.jpg"
+        },
+        {
+          "id": "https://eos.org/?p=250705",
+          "author": "Rebecca Dzombak",
+          "description": "Two basic atmospheric factors can explain the weak and, at times, contrasting trends in global wind energy dissipation under climate change.",
+          "link": "https://eos.org/research-spotlights/wind-works-the-atmospheres-invisible-energetic-tug-of-war",
+          "publishedOn": "2026-09-17T13:33:49.000Z",
+          "wordCount": 3203,
+          "title": "Wind Works: The Atmosphere’s Invisible Energetic Tug-of-War",
+          "imageUrl": "https://eos.org/wp-content/uploads/2026/09/windsock-blowing.jpg"
+        },
+        {
+          "id": "https://eos.org/?p=250733",
+          "author": "Rebecca Dzombak",
+          "description": "Better tracking of these reactive compounds is essential for understanding how the atmosphere and terrestrial biosphere interact.",
+          "link": "https://eos.org/research-spotlights/volatile-organic-compounds-have-been-underestimated-in-the-carbon-cycle",
+          "publishedOn": "2026-09-16T13:15:43.000Z",
+          "wordCount": 3178,
+          "title": "Volatile Organic Compounds Have Been Underestimated in the Carbon Cycle",
+          "imageUrl": "https://eos.org/wp-content/uploads/2026/09/rain-over-factory.jpg"
+        },
+        {
+          "id": "https://eos.org/?p=250668",
+          "author": "Manfred Wendisch, Matthew D. Shupe, Susanne Crewell, Felix Ament and Gunilla Svensson",
+          "description": "Cold air outbreaks and warm air intrusions link Arctic and midlatitude weather and climate. But a lack of data on these events, especially in winter, limits our understanding.",
+          "link": "https://eos.org/features/the-effects-of-polar-night-and-day-on-arctic-air-masses",
+          "publishedOn": "2026-09-16T13:15:19.000Z",
+          "wordCount": 5052,
+          "title": "The Effects of Polar Night and Day on Arctic Air Masses",
+          "imageUrl": "https://eos.org/wp-content/uploads/2026/09/clouds-arctic-svalbard-aircraft.jpg"
+        },
+        {
+          "id": "https://eos.org/?p=250722",
+          "author": "Bogdan Enescu",
+          "description": "T-rate, a new Bayesian tool that reconstructs changing fault stress from earthquake rates, reveals a late stress increase before the 2008 Reno–Mogul magnitude 5.1 earthquake.",
+          "link": "https://eos.org/editor-highlights/reading-fault-stress-from-the-rhythm-of-earthquakes",
+          "publishedOn": "2026-09-16T12:00:00.000Z",
+          "wordCount": 3014,
+          "title": "Reading Fault Stress from the Rhythm of Earthquakes",
+          "imageUrl": "https://eos.org/wp-content/uploads/2026/09/jgrb70545-fig-0004-m.png"
+        }
+      ]
+    },
+    {
+      "title": "Quanta Magazine",
+      "feedUrl": "https://www.quantamagazine.org/feed",
+      "siteUrl": "https://www.quantamagazine.org",
+      "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=167300",
+          "author": "Jake Buehler",
+          "description": "Half of our genome is made of transposons — snips of DNA that can move and copy themselves. But they’re more than parasites or genetic junk.            \nThe post How Virus-like ‘Jumping Genes’ Became Our Partners in Evolution first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-virus-like-jumping-genes-became-our-partners-in-evolution-20260921/",
+          "publishedOn": "2026-09-21T14:12:36.000Z",
+          "wordCount": 3024,
+          "title": "How Virus-like ‘Jumping Genes’ Became Our Partners in Evolution",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/09/OurViralGenome-crSamuelVelasco-Social.jpg"
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=167212",
+          "author": "Paulina Rowińska",
+          "description": "The proof of a decades-old conjecture has given researchers a new way to understand complex networks.            \nThe post Mathematicians Build Long-Awaited Graph Sandwich first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
+          "publishedOn": "2026-09-18T13:55:50.000Z",
+          "wordCount": 2831,
+          "title": "Mathematicians Build Long-Awaited Graph Sandwich",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/09/GraphSandwiches-crKristinaArmitage-Social.jpg"
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=167125",
+          "author": "Steven Strogatz and Janna Levin",
+          "description": "Jonathan Halliwell explains how quantum decoherence is key to understanding how we transition from a world with a wave-like nature of matter and energy to the classical macroscopic world that we’re used to.            \nThe post Where Does the Quantum World End and Ours Begin? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/where-does-the-quantum-world-end-and-ours-begin-20260917/",
+          "publishedOn": "2026-09-17T15:09:33.000Z",
+          "wordCount": 9964,
+          "title": "Where Does the Quantum World End and Ours Begin?",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/09/JOW-S5-E8-cr-Chanelle-Nibbelink-Social-LOGO.jpg"
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=166816",
+          "author": "Marlowe Starling",
+          "description": "Comb jellies are helping answer fundamental questions in biology, from how the earliest nervous systems evolved to how bioluminescence works.             \nThe post Ctenophores Aren’t Just Beautiful. They’re Biological Wonders. first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/",
+          "publishedOn": "2026-09-16T15:56:27.000Z",
+          "wordCount": 2939,
+          "title": "Ctenophores Aren’t Just Beautiful. They’re Biological Wonders.",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2042/09/ImageGallery_CombJellies-crAlexanderSemenov_AquatilisExpedition-Social.webp"
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=166935",
+          "author": "Charlie Wood",
+          "description": "The James Webb Space Telescope spots mysterious “little red dots” everywhere. A bold new theory suggests they’re suns dozens of times larger than our entire solar system.             \nThe post Black Holes or Black Hole Stars? Astronomers Spar Over Webb Telescope’s ‘Little Red Dots.’ first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
+          "publishedOn": "2026-09-14T15:20:48.000Z",
+          "wordCount": 4610,
+          "title": "Black Holes or Black Hole Stars? Astronomers Spar Over Webb Telescope’s ‘Little Red Dots.’",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Black-Hole-Star-cr-Mark-Belan-Social-1.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Quanta Magazine",
+      "feedUrl": "https://api.quantamagazine.org/feed/",
+      "siteUrl": "https://www.quantamagazine.org",
+      "articles": [
+        {
+          "id": "https://www.quantamagazine.org/?p=167300",
+          "author": "Jake Buehler",
+          "description": "Half of our genome is made of transposons — snips of DNA that can move and copy themselves. But they’re more than parasites or genetic junk.            \nThe post How Virus-like ‘Jumping Genes’ Became Our Partners in Evolution first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/how-virus-like-jumping-genes-became-our-partners-in-evolution-20260921/",
+          "publishedOn": "2026-09-21T14:12:36.000Z",
+          "wordCount": 3024,
+          "title": "How Virus-like ‘Jumping Genes’ Became Our Partners in Evolution",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/09/OurViralGenome-crSamuelVelasco-Social.jpg"
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=167212",
+          "author": "Paulina Rowińska",
+          "description": "The proof of a decades-old conjecture has given researchers a new way to understand complex networks.            \nThe post Mathematicians Build Long-Awaited Graph Sandwich first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
+          "publishedOn": "2026-09-18T13:55:50.000Z",
+          "wordCount": 2831,
+          "title": "Mathematicians Build Long-Awaited Graph Sandwich",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/09/GraphSandwiches-crKristinaArmitage-Social.jpg"
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=167125",
+          "author": "Steven Strogatz and Janna Levin",
+          "description": "Jonathan Halliwell explains how quantum decoherence is key to understanding how we transition from a world with a wave-like nature of matter and energy to the classical macroscopic world that we’re used to.            \nThe post Where Does the Quantum World End and Ours Begin? first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/where-does-the-quantum-world-end-and-ours-begin-20260917/",
+          "publishedOn": "2026-09-17T15:09:33.000Z",
+          "wordCount": 9964,
+          "title": "Where Does the Quantum World End and Ours Begin?",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/09/JOW-S5-E8-cr-Chanelle-Nibbelink-Social-LOGO.jpg"
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=166816",
+          "author": "Marlowe Starling",
+          "description": "Comb jellies are helping answer fundamental questions in biology, from how the earliest nervous systems evolved to how bioluminescence works.             \nThe post Ctenophores Aren’t Just Beautiful. They’re Biological Wonders. first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/",
+          "publishedOn": "2026-09-16T15:56:27.000Z",
+          "wordCount": 2939,
+          "title": "Ctenophores Aren’t Just Beautiful. They’re Biological Wonders.",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2042/09/ImageGallery_CombJellies-crAlexanderSemenov_AquatilisExpedition-Social.webp"
+        },
+        {
+          "id": "https://www.quantamagazine.org/?p=166935",
+          "author": "Charlie Wood",
+          "description": "The James Webb Space Telescope spots mysterious “little red dots” everywhere. A bold new theory suggests they’re suns dozens of times larger than our entire solar system.             \nThe post Black Holes or Black Hole Stars? Astronomers Spar Over Webb Telescope’s ‘Little Red Dots.’ first appeared on Quanta Magazine",
+          "link": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
+          "publishedOn": "2026-09-14T15:20:48.000Z",
+          "wordCount": 4610,
+          "title": "Black Holes or Black Hole Stars? Astronomers Spar Over Webb Telescope’s ‘Little Red Dots.’",
+          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Black-Hole-Star-cr-Mark-Belan-Social-1.jpg"
+        }
+      ]
+    },
+    {
       "title": "Daily Maverick - Latest News",
       "feedUrl": "https://www.dailymaverick.co.za/dmrss/",
       "siteUrl": "https://www.dailymaverick.co.za",
       "articles": [
+        {
+          "id": "https://www.dailymaverick.co.za/article/2026-09-23-five-ways-with-a-chicken-flattie-skewered-and-grilled/",
+          "author": "Tony Jackman",
+          "description": "Nearly everyone loves chicken, and a spatchcocked fowl tends to make people very happy. Here are five ways to do one on the barbie. Note that one is likely to feed four people, so if there are six or eight of you, do two.",
+          "link": "https://www.dailymaverick.co.za/article/2026-09-23-five-ways-with-a-chicken-flattie-skewered-and-grilled/",
+          "publishedOn": "2026-09-23T10:15:00.000Z",
+          "wordCount": 1217,
+          "title": "BRAAI DAY: Five ways with a chicken flattie, skewered and grilled",
+          "enclosure": {
+            "url": "https://cdn.dailymaverick.co.za/i/x1Nf7rw7NE61YOJNsrpIcrtbhMQ=/800x0/smart/filters:strip_exif()/file/dailymaverick/wp-content/uploads/2024/04/spatchcock-lime-garlic.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.dailymaverick.co.za/i/x1Nf7rw7NE61YOJNsrpIcrtbhMQ=/800x0/smart/filters:strip_exif()/file/dailymaverick/wp-content/uploads/2024/04/spatchcock-lime-garlic.jpg"
+        },
+        {
+          "id": "https://www.dailymaverick.co.za/article/2026-09-23-five-ways-with-braai-bread-this-heritage-day/",
+          "author": "Tony Jackman",
+          "description": "If you can master the basics of a simple braai bread, you can adapt it in all sorts of ways. Here are five.",
+          "link": "https://www.dailymaverick.co.za/article/2026-09-23-five-ways-with-braai-bread-this-heritage-day/",
+          "publishedOn": "2026-09-23T10:10:00.000Z",
+          "wordCount": 984,
+          "title": "BRAAI DAY: Five ways with braai bread this Heritage Day",
+          "enclosure": {
+            "url": "https://cdn.dailymaverick.co.za/i/b-nCt0S9uVFzlrnIDib1gHhMGA8=/800x0/smart/filters:strip_exif()/file/dailymaverick/wp-content/uploads/2025/03/onion-cheese-bread2.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.dailymaverick.co.za/i/b-nCt0S9uVFzlrnIDib1gHhMGA8=/800x0/smart/filters:strip_exif()/file/dailymaverick/wp-content/uploads/2025/03/onion-cheese-bread2.jpg"
+        },
+        {
+          "id": "https://www.dailymaverick.co.za/article/2026-09-23-five-beefy-recipes-for-the-coals-this-weekend/",
+          "author": "Tony Jackman",
+          "description": "Beef is versatile and is not only about steaks. We’ve trawled through years of braai recipes to find some of your Food Editor’s favourites. Here’s his beefy take on braaied meat.",
+          "link": "https://www.dailymaverick.co.za/article/2026-09-23-five-beefy-recipes-for-the-coals-this-weekend/",
+          "publishedOn": "2026-09-23T10:03:58.000Z",
+          "wordCount": 1045,
+          "title": "BRAAI DAY: Five beefy recipes for the coals this weekend",
+          "enclosure": {
+            "url": "https://cdn.dailymaverick.co.za/i/QAjSBHsO1FAh8Jc2RX-nKlOGWp4=/800x0/smart/filters:strip_exif()/file/dailymaverick/wp-content/uploads/2022/02/steakfire-tommy_rau-pixabay.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.dailymaverick.co.za/i/QAjSBHsO1FAh8Jc2RX-nKlOGWp4=/800x0/smart/filters:strip_exif()/file/dailymaverick/wp-content/uploads/2022/02/steakfire-tommy_rau-pixabay.jpg"
+        },
+        {
+          "id": "https://www.dailymaverick.co.za/article/2026-09-23-two-good-reasons-why-braai-day-can-be-a-salad-day-too/",
+          "author": "Tony Jackman",
+          "description": "Ring the changes with a cheerful innovation on a potato salad, and a couscous salad of delicious simplicity.",
+          "link": "https://www.dailymaverick.co.za/article/2026-09-23-two-good-reasons-why-braai-day-can-be-a-salad-day-too/",
+          "publishedOn": "2026-09-23T10:00:33.000Z",
+          "wordCount": 1568,
+          "title": "WHAT’S COOKING: Two good reasons why Braai Day can be a Salad Day too",
+          "enclosure": {
+            "url": "https://cdn.dailymaverick.co.za/i/O_QHEYLhdUsYzreSSSNMv8-4NaY=/800x0/smart/filters:strip_exif()/file/attachments/2998/salad-pair_842780.jpg",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.dailymaverick.co.za/i/O_QHEYLhdUsYzreSSSNMv8-4NaY=/800x0/smart/filters:strip_exif()/file/attachments/2998/salad-pair_842780.jpg"
+        },
         {
           "id": "https://www.dailymaverick.co.za/article/2026-09-23-health-policy-trailblazer-precious-matsoso-credits-patience-faith-and-the-beatles/",
           "author": "Biénne Huisman for Spotlight",
@@ -14062,48 +14389,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.dailymaverick.co.za/i/Vwr6Ao2sH3IfzadfodhJvlu9Gb8=/800x0/smart/filters:strip_exif()/file/attachments/2998/9902118_304321.jpg"
-        },
-        {
-          "id": "https://www.dailymaverick.co.za/article/2026-09-22-pope-leo-heads-to-france-as-church-confronts-shock-of-abuse-crisis/",
-          "author": "Reuters",
-          "description": "Pope Leo heads to France on Friday for the first formal visit by a pope in nearly 20 years, which Catholic leaders hope will repair the Church's standing after a crushing 2021 report on child abuse by priests sparked nationwide shock.",
-          "link": "https://www.dailymaverick.co.za/article/2026-09-22-pope-leo-heads-to-france-as-church-confronts-shock-of-abuse-crisis/",
-          "publishedOn": "2026-09-22T11:25:14.000Z",
-          "wordCount": 1493,
-          "title": "Pope Leo heads to France as Church confronts shock of abuse crisis",
-          "enclosure": {
-            "url": "https://cdn.dailymaverick.co.za/i/B3920nGLiXgvqxmli0j1J88leW4=/800x0/smart/filters:strip_exif()/file/attachments/2998/14309001_990391.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.dailymaverick.co.za/i/B3920nGLiXgvqxmli0j1J88leW4=/800x0/smart/filters:strip_exif()/file/attachments/2998/14309001_990391.jpg"
-        },
-        {
-          "id": "https://www.dailymaverick.co.za/article/2026-09-22-nicaraguas-crackdown-on-opponents-amounts-to-crimes-against-humanity-un-experts-say/",
-          "author": "Reuters",
-          "description": "Nicaragua's state institutions have together carried out enforced disappearances, torture and arbitrary detention of political opponents, conduct that amounts to crimes against humanity, according to a report published on Tuesday by UN experts.",
-          "link": "https://www.dailymaverick.co.za/article/2026-09-22-nicaraguas-crackdown-on-opponents-amounts-to-crimes-against-humanity-un-experts-say/",
-          "publishedOn": "2026-09-22T11:25:06.000Z",
-          "wordCount": 1121,
-          "title": "Nicaragua’s crackdown on opponents amounts to crimes against humanity, UN experts say",
-          "enclosure": {
-            "url": "https://cdn.dailymaverick.co.za/i/Hek8hkBFdVQk0ZI59rZrU2UVCcE=/800x0/smart/filters:strip_exif()/file/attachments/2998/13621003_319328.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.dailymaverick.co.za/i/Hek8hkBFdVQk0ZI59rZrU2UVCcE=/800x0/smart/filters:strip_exif()/file/attachments/2998/13621003_319328.jpg"
-        },
-        {
-          "id": "https://www.dailymaverick.co.za/article/2026-09-22-a-pair-of-meaty-recipes-to-plan-for-braai-day/",
-          "author": "Tony Jackman",
-          "description": "Panko-crusted lamb chops with rosemary and garlic, and a hunk of beef sirloin cooked over the coals – here are two recipes you can plan for the looming long weekend.",
-          "link": "https://www.dailymaverick.co.za/article/2026-09-22-a-pair-of-meaty-recipes-to-plan-for-braai-day/",
-          "publishedOn": "2026-09-22T10:00:00.000Z",
-          "wordCount": 1424,
-          "title": "WHAT’S COOKING: A pair of meaty recipes to plan for Braai Day",
-          "enclosure": {
-            "url": "https://cdn.dailymaverick.co.za/i/B1dXu8DN6tv39SEUfD7OhAkJTPY=/800x0/smart/filters:strip_exif()/file/attachments/2998/panko-chops_490642.jpg",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.dailymaverick.co.za/i/B1dXu8DN6tv39SEUfD7OhAkJTPY=/800x0/smart/filters:strip_exif()/file/attachments/2998/panko-chops_490642.jpg"
         },
         {
           "id": "https://www.dailymaverick.co.za/opinionista/2026-09-21-more-technology-doesnt-always-mean-better-classroom-learning/",
