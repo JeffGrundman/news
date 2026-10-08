@@ -10,6 +10,26 @@ from html import unescape
 import feedparser
 
 HOURS = 30          # window kept, a little over a day so nothing falls through
+NAMES = {           # tidy up the names some feeds give themselves
+    "Politics": "Politico",
+    "POLITICO": "Politico Europe",
+    "Straight Arrow": "Straight Arrow News",
+    "Rest of World -": "Rest of World",
+    "Reason Magazine": "Reason",
+    "JPost.com - The Jerusalem Post - All News from the Middle East, Israel, and the Jewish World": "The Jerusalem Post",
+    "The Moscow Times - Independent News From Russia": "The Moscow Times",
+    "Daily Maverick - Latest News": "Daily Maverick",
+    "Ars Technica - All content": "Ars Technica",
+    "The Christian Science Monitor | World": "Christian Science Monitor",
+    "The Conversation – Articles (US)": "The Conversation",
+    "World news | The Guardian": "The Guardian",
+    "Environment | The Guardian": "The Guardian",
+    "NPR Topics: World": "NPR",
+    "NPR Topics: Science": "NPR",
+    "PBS News Hour - The Latest": "PBS NewsHour",
+    "ABC News: International": "Associated Press, via ABC News",
+    "Deutsche Welle": "DW News",
+}
 MAX_PER_FEED = 40   # newest items per feed
 SUMMARY_CHARS = 400
 
@@ -46,6 +66,7 @@ def published(entry):
 
 stories = []
 problems = []
+seen_links = set()
 
 for url in feed_urls():
     try:
@@ -56,7 +77,8 @@ for url in feed_urls():
     if not parsed.entries:
         problems.append(f"{url}: no items")
         continue
-    outlet = clean(parsed.feed.get("title", "")) or url
+    raw_name = clean(parsed.feed.get("title", "")) or url
+    outlet = NAMES.get(raw_name, raw_name)
     kept = 0
     for entry in parsed.entries:
         when = published(entry)
@@ -66,6 +88,9 @@ for url in feed_urls():
         title = clean(entry.get("title", ""))
         if not link or not title:
             continue
+        if link in seen_links:
+            continue
+        seen_links.add(link)
         stories.append({
             "outlet": outlet,
             "headline": title,
