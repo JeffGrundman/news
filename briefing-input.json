@@ -1,40 +1,12 @@
 {
- "built": "2026-10-10T23:25:42.465344+00:00",
+ "built": "2026-10-11T01:18:27.035961+00:00",
  "window_hours": 30,
- "story_count": 256,
+ "story_count": 236,
  "feeds_with_problems": [
   "https://www.cbc.ca/webfeed/rss/rss-world: Remote end closed connection without response",
   "https://www.marketplace.org/feed: no items"
  ],
  "stories": [
-  {
-   "outlet": "Ars Technica",
-   "headline": "Starlink spectrum deal boosts Musk plan to beat AT&T, T-Mobile, and Verizon",
-   "summary": "Nationwide 800 MHz spectrum to help Starlink provide mobile coverage indoors.",
-   "link": "https://arstechnica.com/tech-policy/2026/10/starlink-spectrum-deal-boosts-musk-plan-to-beat-att-t-mobile-and-verizon/",
-   "published": "2026-10-09T18:24:39+00:00"
-  },
-  {
-   "outlet": "Ars Technica",
-   "headline": "Your artwork could be featured in the next Debian release",
-   "summary": "Debian Linux has put a call out for artist submissions for its next release: Forky.",
-   "link": "https://arstechnica.com/gadgets/2026/10/your-artwork-could-be-featured-in-the-next-debian-release/",
-   "published": "2026-10-09T18:33:26+00:00"
-  },
-  {
-   "outlet": "Ars Technica",
-   "headline": "AI disqualification yields new Nikon Small World in Motion winner",
-   "summary": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus.",
-   "link": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
-   "published": "2026-10-09T18:44:06+00:00"
-  },
-  {
-   "outlet": "Ars Technica",
-   "headline": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
-   "summary": "\"The current decline may be just the beginning of a new downward cycle.\"",
-   "link": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
-   "published": "2026-10-09T18:54:52+00:00"
-  },
   {
    "outlet": "Ars Technica",
    "headline": "Outrage grows as CDC reportedly poised to fund \"unethical\" vaccine trial",
@@ -93,27 +65,6 @@
   },
   {
    "outlet": "Associated Press, via ABC News",
-   "headline": "Thieves pull off Italy's biggest-ever wine heist, stealing 30,000 bottles worth 5 million euros",
-   "summary": "Thieves have stolen about 30,000 bottles of premium wine worth an estimated 5 million euros from a Marchesi Antinori winery in Tuscany in what the company says is the largest wine theft in Italy’s history",
-   "link": "https://abcnews.com/International/wireStory/thieves-pull-off-italys-biggest-wine-heist-stealing-137137884",
-   "published": "2026-10-09T17:49:08+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "Haiti police say US missionary detained following sex abuse allegations at orphanage",
-   "summary": "Haitian police tells The Associated Press that a U.S. missionary accused of running an illegal orphanage in Haiti has been detained following child abuse allegations",
-   "link": "https://abcnews.com/International/wireStory/haiti-police-us-missionary-detained-sex-abuse-allegations-137140499",
-   "published": "2026-10-09T18:17:38+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "Jean Massillon, a Haitian mayor known for defending the people of Kenscoff, has died",
-   "summary": "Jean Massillon, the well-known mayor of Kenscoff, a once peaceful farming community in Haiti that has been under assault by violent gangs, has died",
-   "link": "https://abcnews.com/International/wireStory/jean-massillon-haitian-mayor-defending-people-kenscoff-died-137148086",
-   "published": "2026-10-10T02:43:05+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
    "headline": "Spain's slow response to the crisis in Ceuta leaves teen migrants on the streets",
    "summary": "Hundreds of teenage migrants lined up outside a church in Ceuta in early October, hoping for good news from Spain's youth minister",
    "link": "https://abcnews.com/International/wireStory/spains-slow-response-crisis-ceuta-leaves-teen-migrants-137152515",
@@ -128,6 +79,13 @@
   },
   {
    "outlet": "Associated Press, via ABC News",
+   "headline": "At least 38 people hurt after supermarket ceiling collapses in South Korea",
+   "summary": "At least 38 people sustained minor injuries after parts of a plaster ceiling collapsed at a supermarket in South Korea’s Daegu city",
+   "link": "https://abcnews.com/International/wireStory/38-people-hurt-after-supermarket-ceiling-collapses-south-137152246",
+   "published": "2026-10-10T04:23:14+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
    "headline": "Ethiopia tells UN it is acting in self-defense against Eritrea",
    "summary": "Ethiopia has told the United Nations Security Council it is taking self-defense measures against Eritrea",
    "link": "https://abcnews.com/International/wireStory/ethiopia-tells-acting-defense-eritrea-137153814",
@@ -139,6 +97,13 @@
    "summary": "The British government has blocked a contentious march in Northern Ireland after a two-week standoff",
    "link": "https://abcnews.com/International/wireStory/uk-government-blocks-northern-ireland-march-after-standoff-137155116",
    "published": "2026-10-10T11:23:01+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
+   "headline": "Rights group says paramilitary drone strike in Sudan killed 41 near Ethiopian border",
+   "summary": "A drone strike blamed on Sudan's paramilitaries has killed 41 displaced people near the Ethiopian border",
+   "link": "https://abcnews.com/International/wireStory/rights-group-paramilitary-drone-strike-sudan-killed-41-137155407",
+   "published": "2026-10-10T11:26:29+00:00"
   },
   {
    "outlet": "Associated Press, via ABC News",
@@ -177,6 +142,13 @@
   },
   {
    "outlet": "Associated Press, via ABC News",
+   "headline": "Taiwan's Lai says the island will not give up freedom in National Day speech",
+   "summary": "Lai drew Beijing's criticism, accusing him of disregarding facts.",
+   "link": "https://abcnews.com/International/wireStory/taiwans-lai-calls-indo-pacific-democracies-maintain-peace-137152984",
+   "published": "2026-10-10T13:43:15+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
    "headline": "Unnerved Panamanians sleep in streets as aftershocks rattle quake-hit towns",
    "summary": "Residents in rural Panama are dealing with aftershocks following two powerful earthquakes that hit the country on Friday",
    "link": "https://abcnews.com/International/wireStory/unnerved-panamanians-sleep-streets-aftershocks-rattle-quake-hit-137161589",
@@ -209,13 +181,6 @@
    "summary": "He suggested Zelenskyy has not done enough to end Ukraine’s war with Russia.",
    "link": "https://abcnews.com/International/wireStory/russian-attacks-kill-7-ukraine-after-trump-strikes-137153808",
    "published": "2026-10-10T21:45:32+00:00"
-  },
-  {
-   "outlet": "BBC News",
-   "headline": "'People don't think recycling at work is part of their job description'",
-   "summary": "Unclear labelling as well as a lack of recycling facilities at work or in public-facing businesses is an issue.",
-   "link": "https://www.bbc.co.uk/news/articles/cqe8rn65yj2ko?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-09T19:11:27+00:00"
   },
   {
    "outlet": "BBC News",
@@ -359,6 +324,13 @@
   },
   {
    "outlet": "BBC News",
+   "headline": "Why have hundreds of 'cockroach' protesters been detained in Delhi",
+   "summary": "Thousands of security personnel were deployed in Delhi ahead of the Gen-Z led Cockroach Janta Party protest on Saturday calling for electoral reforms.",
+   "link": "https://www.bbc.co.uk/news/videos/cqwy7p2y20gxo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-10T14:13:13+00:00"
+  },
+  {
+   "outlet": "BBC News",
    "headline": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
    "summary": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
    "link": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
@@ -415,10 +387,10 @@
   },
   {
    "outlet": "BBC News",
-   "headline": "Twelve killed in attack on airport in Saudi capital Riyadh",
-   "summary": "Another 309 people are injured in the attack on the airport, which come days after Yemen's Houthis said they had struck it.",
-   "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-10T22:40:56+00:00"
+   "headline": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+   "summary": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
+   "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-10T22:13:08+00:00"
   },
   {
    "outlet": "BBC News",
@@ -426,6 +398,20 @@
    "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
    "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
    "published": "2026-10-10T23:19:55+00:00"
+  },
+  {
+   "outlet": "BBC News",
+   "headline": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
+   "summary": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid.",
+   "link": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-10T23:31:35+00:00"
+  },
+  {
+   "outlet": "BBC News",
+   "headline": "Twelve killed in attack on airport in Saudi capital Riyadh",
+   "summary": "Another 309 people are injured, with the Saudi-led coalition saying the attack by Yemen's Houthis is \"war crime\".",
+   "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-11T00:21:52+00:00"
   },
   {
    "outlet": "BNO News",
@@ -468,48 +454,6 @@
    "summary": "Country singer Ella Langley canceled her sold-out concert in Tulsa, Oklahoma, on Friday after a ‘serious security threat’ was made against people attending the event, according to police. The performance was scheduled to take place at the BOK Center as part of Langley’s Dandelion Tour. The singer announced the cancellation on social media, saying the […] The post Country singer Ella Langley cancel",
    "link": "https://bnonews.com/index.php/2026/10/country-singer-ella-langley-cancels-tulsa-concert-after-serious-security-threat/",
    "published": "2026-10-10T03:58:02+00:00"
-  },
-  {
-   "outlet": "Christian Science Monitor",
-   "headline": "Letter from Hualien: How a Taiwanese artist finds light in the storm",
-   "summary": "In Taiwan, a mechanic-turned-wood-carver makes art from driftwood collected from beaches after typhoons.",
-   "link": "https://www.csmonitor.com/World/Asia-Pacific/2026/1009/hualien-taiwan-artist-wood-carver-adike?icid=rss",
-   "published": "2026-10-09T18:20:26+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "Former ‘crown prince of the Kruger’ Park found guilty of rhino poaching",
-   "summary": "A decade-long trial has ended in the conviction of two former Kruger National Park employees for the killing and dehorning of a white rhino in 2016.",
-   "link": "https://www.dailymaverick.co.za/article/2026-10-09-kruger-national-park/",
-   "published": "2026-10-09T18:00:16+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "STRANGE TIMING: US imposes sanctions on ICC hours after South African judge wins Nobel Peace Prize",
-   "summary": "Hours after South Africa’s Navi Pillay, a former judge of the International Criminal Court, was named as this year’s recipient of the Nobel Peace Prize, the US slapped sanctions on the court.",
-   "link": "https://www.dailymaverick.co.za/article/2026-10-09-us-imposes-sanctions-on-icc-hours-after-former-judge-wins-nobel-peace-prize/",
-   "published": "2026-10-09T18:10:36+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "GROUNDUP: Anti-immigrant mob threatens to burn women and children in Pretoria",
-   "summary": "Home Affairs has backtracked on reopening the asylum system after violent clashes in various cities. In Pretoria, anti-foreigner groups made violent threats before they were dispersed.",
-   "link": "https://www.dailymaverick.co.za/article/2026-10-09-anti-immigrant-mob-threatens-to-burn-women-and-children-in-pretoria/",
-   "published": "2026-10-09T18:39:09+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "EXPLAINER: What to know about the refugee ruling that sparked riots in Durban and Soweto",
-   "summary": "Violent protests erupted in Durban and Johannesburg this week following widespread misinformation about a Home Affairs directive on how asylum seekers should be processed. Here’s what you need to know.",
-   "link": "https://www.dailymaverick.co.za/article/2026-10-09-what-to-know-about-the-refugee-ruling-that-sparked-riots-in-durban-and-soweto/",
-   "published": "2026-10-09T19:02:35+00:00"
-  },
-  {
-   "outlet": "DW News",
-   "headline": "Strong earthquakes shake Panama, buildings damaged",
-   "summary": "Panama's president has declared a \"major disaster\" after a series of tremors damaged buildings, briefly suspended flights and triggered a tsunami alert in Central and South America.",
-   "link": "https://www.dw.com/en/strong-earthquakes-shake-panama-buildings-damaged/a-79623168?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-10-09T19:03:00+00:00"
   },
   {
    "outlet": "DW News",
@@ -646,20 +590,6 @@
   },
   {
    "outlet": "Good Good Good",
-   "headline": "Endangered leopard shark spotted in Samoan waters for the first time: 'Entirely unexpected'",
-   "summary": "The discoveries unearthed by National Geographic Pristine Seas have led to the creation of 28 marine reserves around the globe.",
-   "link": "https://www.goodgoodgood.co/articles/endangered-species-leopard-shark-zebra-nat-geo",
-   "published": "2026-10-09T17:49:00+00:00"
-  },
-  {
-   "outlet": "Good Good Good",
-   "headline": "Detroit builds a stronger pipeline of teachers equipped to support students with autism",
-   "summary": "Detroit and Michigan State University are taking action to better prepare teachers for students with autism.",
-   "link": "https://www.goodgoodgood.co/articles/detroit-autism-expansion-program-teaching",
-   "published": "2026-10-09T18:07:00+00:00"
-  },
-  {
-   "outlet": "Good Good Good",
    "headline": "Good News This Week: October 10, 2026 - Swans, Games, & Carports",
    "summary": "Your weekly roundup of the best good news worth celebrating...",
    "link": "https://www.goodgoodgood.co/articles/good-news-this-week-october-10-2026",
@@ -671,13 +601,6 @@
    "summary": "Baloo from “The Jungle Book” was inspired by the sloth bears of India.",
    "link": "https://www.goodgoodgood.co/articles/endangered-species-sloth-bear-prosthetic-limb",
    "published": "2026-10-10T20:50:00+00:00"
-  },
-  {
-   "outlet": "Good News Network",
-   "headline": "NPR-Inspired Homework Leads Teen to Find Hidden Message a Decade After a Stranger’s Kindness",
-   "summary": "From Seattle’s chapter of National Public Radio comes the remarkable story of the kindness of strangers immortalized in an origami crane. Published through KUOW’s “My Unsung Hero” series, the story begins with a 7-year-old in Japan who had just gotten a new bike. Young Rika Matsuda was at first very excited because the bike was […] The post NPR-Inspired Homework Leads Teen to Find Hidden Message a",
-   "link": "https://www.goodnewsnetwork.org/npr-inspired-homework-leads-teen-to-find-hidden-message-a-decade-after-a-strangers-kindness/",
-   "published": "2026-10-09T18:30:46+00:00"
   },
   {
    "outlet": "Good News Network",
@@ -713,13 +636,6 @@
    "summary": "A sloth bear that made headlines when it was given a name by Julia Roberts after being saved from abuse is now flourishing, according to a rescue charity. The Hollywood star was filming Eat, Pray, Love in India in 2009 when the bear was rescued from people who forced it to dance for tourists and […] The post Sloth Bear Named By Julia Roberts is Flourishing After Rescue From Dancing Trade in India ",
    "link": "https://www.goodnewsnetwork.org/sloth-bear-given-a-name-by-julia-roberts-is-flourishing/",
    "published": "2026-10-10T19:57:53+00:00"
-  },
-  {
-   "outlet": "Inside Climate News",
-   "headline": "SEC Issues Warning to Investment Firms That Challenged ExxonMobil",
-   "summary": "The U.S. Securities and Exchange Commission issued an unusual warning this week to the country’s largest asset managers and a climate-focused investor group over their roles in a 2021 campaign that replaced board directors at ExxonMobil. The commission published a letter saying it had concluded a probe into the entities, and while it found no […]",
-   "link": "https://insideclimatenews.org/news/09102026/sec-warns-investment-firms-that-challenged-exxon/",
-   "published": "2026-10-09T17:42:39+00:00"
   },
   {
    "outlet": "Inside Climate News",
@@ -876,25 +792,11 @@
    "published": "2026-10-10T21:40:58+00:00"
   },
   {
-   "outlet": "PBS NewsHour",
-   "headline": "Trump wants Talarico and Paxton to debate. Talarico couldn't be happier",
-   "summary": "When Democratic nominee James Talarico stopped holding campaign events in the Texas Senate race, his Republican opponent Ken Paxton saw an opening to pounce.",
-   "link": "https://www.pbs.org/newshour/politics/trump-wants-talarico-and-paxton-to-debate-talarico-couldnt-be-happier",
-   "published": "2026-10-09T17:33:54+00:00"
-  },
-  {
-   "outlet": "PBS NewsHour",
-   "headline": "Time for term limits? Dems in majority could have familiar faces in key roles",
-   "summary": "Democrats hope to bring a new agenda to the House next year if they take the majority, but they will most likely do so with many of the same faces that have steered their party's legislative work for a decade or more.",
-   "link": "https://www.pbs.org/newshour/politics/time-for-term-limits-dems-in-majority-could-have-familiar-faces-in-key-roles",
-   "published": "2026-10-09T18:05:30+00:00"
-  },
-  {
-   "outlet": "PBS NewsHour",
-   "headline": "As Blanche hits the campaign trail, new DOJ memo relaxes rules around political conduct for Senate-approved appointees",
-   "summary": "The Department of Justice is making it easier for Attorney General Todd Blanche and other Senate-confirmed DOJ appointees to participate in political activities, according to a new internal memo obtained by PBS News.",
-   "link": "https://www.pbs.org/newshour/politics/trump-administration-relaxes-rules-around-political-events-for-blanche-other-senate-approved-appointees",
-   "published": "2026-10-09T18:53:52+00:00"
+   "outlet": "NPR",
+   "headline": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
+   "summary": "Saudi authorities say the latest attack on the international airport in the capital, Riyadh, has killed 12 people and injured over 300. Their statement says the dead on Saturday included four Saudi citizens as well as two Bangladeshi nationals, a Palestinian, a U.S. citizen, an Egyptian, a Jordanian, a Syrian and a Sudanese. It said some of those injured were in critical condition. The attack — th",
+   "link": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
+   "published": "2026-10-10T23:44:15+00:00"
   },
   {
    "outlet": "PBS NewsHour",
@@ -1049,13 +951,6 @@
    "summary": "Frugal countries said an end-of-year agreement is less likely after Ireland's proposal.",
    "link": "https://www.politico.eu/article/friedrich-merz-germany-warns-eu-e159b-budget-cuts-not-enough/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
    "published": "2026-10-10T14:43:21+00:00"
-  },
-  {
-   "outlet": "PolitiFact - Social Feed",
-   "headline": "Are nearly 500,000 Ohioans losing their healthcare because of Jon Husted?",
-   "summary": "Sen. Jon Husted voted “to kick 490,000 Ohioans off their healthcare.\"",
-   "link": "https://politifact.com/factchecks/2026/oct/09/sherrod-brown/jon-husted-health-insurance-490000-ohio-senate/",
-   "published": "2026-10-09T19:04:52+00:00"
   },
   {
    "outlet": "ProPublica",
@@ -1213,27 +1108,6 @@
   },
   {
    "outlet": "Straight Arrow News",
-   "headline": "Pentagon draws backlash over plans to livestream Fort Hood shooter’s firing squad execution",
-   "summary": "Defense Secretary Pete Hegseth says it's “no brainer” to livestream the execution and the time and place will be symbolic.",
-   "link": "https://san.com/cc/pentagon-draws-backlash-over-plans-to-livestream-fort-hood-shooters-firing-squad-execution/",
-   "published": "2026-10-09T17:27:38+00:00"
-  },
-  {
-   "outlet": "Straight Arrow News",
-   "headline": "ICE shooting in New York incites new dispute over immigration enforcement",
-   "summary": "Homeland Security Secretary Markwayne Mullin defended the ICE shooting as NYC Mayor Zohran Mamdani says agents are terrorizing the city.",
-   "link": "https://san.com/cc/ice-shooting-in-new-york-incites-new-dispute-over-immigration-enforcement/",
-   "published": "2026-10-09T18:09:03+00:00"
-  },
-  {
-   "outlet": "Straight Arrow News",
-   "headline": "Debates in Georgia and Michigan show Democrats’ surest midterm bet, and its riskiest",
-   "summary": "Senate debates in Georgia and Michigan showed Democrats’ strength — and potential challenges — heading into the midterm election.",
-   "link": "https://san.com/cc/debates-in-georgia-and-michigan-show-democrats-surest-midterm-bet-and-its-riskiest/",
-   "published": "2026-10-09T18:45:41+00:00"
-  },
-  {
-   "outlet": "Straight Arrow News",
    "headline": "Trump says Russia agreed to give diesel fuel to US, global markets",
    "summary": "This will be done in increments, Trump said on Truth Social, with Russia \"immediately\" supplying 300,000 tons.",
    "link": "https://san.com/cc/trump-says-russia-agreed-to-give-diesel-fuel-to-us-global-markets/",
@@ -1318,31 +1192,10 @@
   },
   {
    "outlet": "The Conversation",
-   "headline": "Why fall yard care could start with doing less – but not nothing",
-   "summary": "Fallen leaves provide essential winter habitat for native pollinators and provide natural mulch for the soil. If you have to clear some leaves, don’t get rid of them entirely: Move them out of sight.",
-   "link": "https://theconversation.com/why-fall-yard-care-could-start-with-doing-less-but-not-nothing-293924",
-   "published": "2026-10-09T18:41:58+00:00"
-  },
-  {
-   "outlet": "The Conversation",
    "headline": "Anne Carson’s Nobel-winning, genre-defying work bridges the gap between ancient Greek literature and modern life",
    "summary": "Whether via her fill-in-the-blank translations or guest appearances on indie rock albums, Anne Carson has infused antiquity with a contemporary tongue",
    "link": "https://theconversation.com/anne-carsons-nobel-winning-genre-defying-work-bridges-the-gap-between-ancient-greek-literature-and-modern-life-294020",
    "published": "2026-10-09T20:08:29+00:00"
-  },
-  {
-   "outlet": "The Diplomat",
-   "headline": "The US and China Cannot Slow the AI Race, But They Can Make It Safer",
-   "summary": "The United States does not need to trust China, share frontier models with China, or slow its own AI development to have a national security interest in AI safety cooperation.",
-   "link": "https://thediplomat.com/2026/10/the-us-and-china-cannot-slow-the-ai-race-but-they-can-make-it-safer/",
-   "published": "2026-10-09T17:27:00+00:00"
-  },
-  {
-   "outlet": "The Diplomat",
-   "headline": "Why Afghanistan’s Neighbors Have Not Backed Pakistan’s Strikes on the Taliban",
-   "summary": "China, Uzbekistan, and Tajikistan are less exposed to the impact of cross-border terrorism – and less willing to risk smooth relations with Kabul over the issue.",
-   "link": "https://thediplomat.com/2026/10/why-afghanistans-neighbors-have-not-backed-pakistans-strikes-on-the-taliban/",
-   "published": "2026-10-09T18:48:00+00:00"
   },
   {
    "outlet": "The Diplomat",
@@ -1549,13 +1402,6 @@
   },
   {
    "outlet": "The Guardian",
-   "headline": "Twelve killed and hundreds injured in Houthi attack at Riyadh airport",
-   "summary": "Donald Trump says he is evaluating whether the US should join Saudi strikes against the Iran-backed Yemeni rebels Yemen’s Houthis have launched a missile attack on Riyadh’s international airport in Saudi Arabia, killing at least 12 people and leaving hundreds wounded, the Saudi Civil Aviation Authority has said. Operations at King Khalid international airport in Riyadh were suspended, it said, as ",
-   "link": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
-   "published": "2026-10-10T15:54:12+00:00"
-  },
-  {
-   "outlet": "The Guardian",
    "headline": "Thousands gather in London to express support for Palestinians after three years of ‘genocide’",
    "summary": "Twenty arrested in first march since Ed Miliband declared UK’s position was that Israel’s occupation of West Bank was unlawful Thousands of people have gathered in central London to express their support for Palestinians after three years of “genocide” carried out against them by Israel. The demonstrators, many wearing keffiyehs and holding Palestine flags, gathered on the Embankment at midday on ",
    "link": "https://www.theguardian.com/world/2026/oct/10/thousands-in-london-express-support-for-palestinians-after-three-years-genocide",
@@ -1564,7 +1410,7 @@
   {
    "outlet": "The Guardian",
    "headline": "Man dies after jumping into tiger enclosure at Yorkshire zoo",
-   "summary": "Police say man was pronounced dead at the scene after being attacked by tiger A man has died after being attacked by a tiger after jumping into its enclosure at a zoo in Yorkshire, police have said. Yorkshire Wildlife Park was evacuated shortly after the incident and the site will remain closed on Sunday. Continue reading...",
+   "summary": "Police say man was pronounced dead at the scene after being attacked by tiger A man has died after being attacked by a tiger after jumping into its enclosure at a zoo in Yorkshire, police have said. Emergency services were contacted shortly after 1.30pm on Saturday when the man entered the enclosure at Yorkshire Wildlife Park, near Doncaster, and was set upon by the tiger. Continue reading...",
    "link": "https://www.theguardian.com/world/2026/oct/10/man-suffers-serious-injury-after-jumping-into-zoo-tiger-enclosure",
    "published": "2026-10-10T17:13:31+00:00"
   },
@@ -1578,37 +1424,16 @@
   {
    "outlet": "The Guardian",
    "headline": "Albanese wants universal childcare to be his legacy. But paying for it isn’t as easy as ABC",
-   "summary": "Labor is running out of time to make its case to Australian families about how they are going to make childcare accessible and affordable for all Get our new political email , free app or daily news podcast Rachel Hill, a mother of two from Sydney, explains the maths of family planning. The not-for-profit worker recently bumped up her workload from two days a week to full-time to try to cover ever",
+   "summary": "Labor is running out of time to make its case to Australian families about how it is going to make childcare accessible and affordable for all Get our new political email , free app or daily news podcast Rachel Hill, a mother of two from Sydney, explains the maths of family planning. The not-for-profit worker has bumped up her workload from two days a week to full-time to try to cover ever-rising ",
    "link": "https://www.theguardian.com/australia-news/2026/oct/11/universal-childcare-cost-family-planning-politics",
    "published": "2026-10-10T19:00:07+00:00"
   },
   {
    "outlet": "The Guardian",
-   "headline": "Hanson seems more and more like the de facto opposition leader. At CPAC, Angus Taylor warmed the seat for her",
-   "summary": "Cooperation between One Nation and the Liberals ‘up to Angus Taylor’, Pauline Hanson says at conservative conference. How would that work? Get our new political email , free app or daily news podcast The annual Conservative Political Action Conference billed itself as a chance for the leaders of the three main conservative parties – Liberals, Nationals and One Nation – to make their pitch and comp",
+   "headline": "Pauline Hanson seems more and more like the de facto opposition leader. At CPAC, Angus Taylor warmed the seat for her",
+   "summary": "Cooperation between One Nation and the Liberals ‘up to Angus Taylor’, Hanson says at conservative conference. How would that work? Get our new political email , free app or daily news podcast The annual Conservative Political Action Conference billed itself as a chance for the leaders of the three main conservative parties – Liberals, Nationals and One Nation – to make their pitch and compete for ",
    "link": "https://www.theguardian.com/australia-news/2026/oct/11/cpac-conference-pauline-hanson-angus-taylor-one-nation-liberals-cooperation-ntwnfb",
    "published": "2026-10-10T19:00:09+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "US man shoots off-duty ICE agent who allegedly attacked him and daughter",
-   "summary": "ICE official, who was sleeping on man’s lawn and appeared ‘intoxicated’, faces felony charges, California police say A 72-year-old man shot an off-duty Immigration and Customs Enforcement ( ICE ) official in California early on Friday morning after the “intoxicated and agitated” official assaulted him and his daughter on their property, local authorities allege. The Fresno police department said t",
-   "link": "https://www.theguardian.com/us-news/2026/oct/10/california-man-72-shoots-ice-officer-fresno-off-duty",
-   "published": "2026-10-10T19:03:30+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Four dead as Isaias weakens to post-tropical cyclone after striking Florida panhandle",
-   "summary": "Some of deaths came from falling trees as nearly a million people are without power and rain and flooding remain a concern At least four people were reported dead on Saturday amid Isaias after it made landfall late on Friday on Florida’s panhandle as a category 2 hurricane, according to authorities. The storm also took down trees, knocked out electricity for hundreds of thousands and flooded highw",
-   "link": "https://www.theguardian.com/world/2026/oct/10/isaias-weakens-to-post-tropical-cyclone",
-   "published": "2026-10-10T19:08:54+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Man with gun kills one Philadelphia police officer and injures another",
-   "summary": "10-year police veteran Shane Seiber was killed after responding to a report of a man with a gun A Philadelphia police officer was fatally shot and another was wounded on Saturday after responding to a report of a man with a gun, authorities said. Shane Seiber, 40, was killed early on Saturday morning in West Philadelphia, according to the city’s police commissioner, Kevin Bethel. Continue reading.",
-   "link": "https://www.theguardian.com/us-news/2026/oct/10/philadelphia-police-officer-killed",
-   "published": "2026-10-10T20:12:34+00:00"
   },
   {
    "outlet": "The Guardian",
@@ -1646,6 +1471,34 @@
    "published": "2026-10-10T23:00:10+00:00"
   },
   {
+   "outlet": "The Guardian",
+   "headline": "Four dead as Isaias weakens to post-tropical cyclone after striking Florida panhandle",
+   "summary": "Some of deaths came from falling trees as half a million people without power and rain and flooding still a concern At least four people were reported dead on Saturday amid Isaias after it made landfall late on Friday on Florida’s panhandle as a category 2 hurricane, according to authorities. The storm also took down trees, knocked out electricity for hundreds of thousands and flooded highways – b",
+   "link": "https://www.theguardian.com/world/2026/oct/10/isaias-weakens-to-post-tropical-cyclone",
+   "published": "2026-10-10T23:20:32+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Nine people, including children, dead after mass shooting in Pennsylvania",
+   "summary": "Authorities say suspect among dead in house after standoff with police in Erie and there is no ongoing threat A man fatally shot eight people, including a pregnant woman and children, at a Pennsylvania residence on Friday before killing himself, police say. The victims have not been publicly identified, but seven relatives and a family friend died in the rampage. Continue reading...",
+   "link": "https://www.theguardian.com/us-news/2026/oct/10/nine-people-mass-shooting-pennsylvania",
+   "published": "2026-10-10T23:24:52+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Twelve killed and hundreds injured in Houthi attack at Riyadh airport",
+   "summary": "Donald Trump evaluating whether US should join Saudi strikes against the Iran-backed Yemeni rebels Yemen’s Houthis have launched a missile attack on Riyadh’s international airport in Saudi Arabia, killing at least 12 people and leaving hundreds wounded, the Saudi Civil Aviation Authority has said. Operations at King Khalid international airport in Riyadh were suspended as ambulances rushed to the ",
+   "link": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
+   "published": "2026-10-10T23:37:27+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Five people shot and killed in apparent murder-suicide, Georgia police say",
+   "summary": "Deceased were all members of the same family, officials say, and one of victims placed the initial emergency call Five people were shot and killed in an apparent murder-suicide at a residence in Georgia on Friday, authorities say. The deceased were family members who lived at the home in Douglas, a city in south Georgia. Continue reading...",
+   "link": "https://www.theguardian.com/us-news/2026/oct/10/douglas-georgia-shooting-deaths",
+   "published": "2026-10-11T00:01:55+00:00"
+  },
+  {
    "outlet": "The Jerusalem Post",
    "headline": "Paris cargo workers refuse to load Elbit shipment onto El Al flight bound for Israel",
    "summary": "The boycott comes as the latest example of Israeli defense companies facing discriminatory issues in France following the October 7 attacks.",
@@ -1675,13 +1528,6 @@
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Iran retains missile, drone production capabilities despite months of US-Israeli strikes - report",
-   "summary": "Western intelligence assessments suggest Iran has preserved key weapons factories and can replenish its missile arsenal despite months of US-Israeli attacks.",
-   "link": "https://www.jpost.com/middle-east/iran-news/article-911221",
-   "published": "2026-10-10T13:50:27+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
    "headline": "Ethiopian-Eritrean fighting raises fears of wider war as Egypt builds Red Sea alliance - analysis",
    "summary": "Drone strikes in northern Ethiopia, competing claims over Red Sea access, and a new four-country diplomatic alignment threaten to deepen instability across the Horn of Africa.",
    "link": "https://www.jpost.com/international/article-911223",
@@ -1703,6 +1549,13 @@
   },
   {
    "outlet": "The Jerusalem Post",
+   "headline": "Attack on Saudi airport leaves 12 dead, hundreds wounded as Houthi strikes escalate, sources say",
+   "summary": "The dead included four Saudis, two people from Bangladesh and one person each from the US, Jordan, Palestine, Syria, Sudan and Egypt, the Saudi civil aviation authority said.",
+   "link": "https://www.jpost.com/middle-east/article-911232",
+   "published": "2026-10-10T17:38:58+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
    "headline": "Israel’s election is a choice between sanity and political survival - opinion",
    "summary": "A sane government does not demonize an entire sector of society. It brings it in – into the army or national service, the workforce and shared responsibility – on equal terms.",
    "link": "https://www.jpost.com/opinion/article-911080",
@@ -1710,10 +1563,10 @@
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Iran war costs US military 81 aircraft, up to $3.3 billion in losses, congressional report finds",
-   "summary": "The total cost of the aircraft lost since February is between $1.9 billion and $3.3 billion. Among the aircraft lost are some of the most advanced weapons in the US arsenal, including the F-35A.",
-   "link": "https://www.jpost.com/international/article-911239",
-   "published": "2026-10-10T19:39:50+00:00"
+   "headline": "Oil tanker explodes after striking naval mine in Hormuz, IRGC claims - report",
+   "summary": "Additionally, the United Kingdom Maritime Trade Operations (UKMTO) said early Sunday morning that it had received a report that an outbound tanker in the Strait of Hormuz was struck on the port side.",
+   "link": "https://www.jpost.com/middle-east/iran-news/article-911241",
+   "published": "2026-10-10T20:16:35+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
@@ -1721,13 +1574,6 @@
    "summary": "She cited the organization's \"strict insistence on neutrality\" as having been vital in the eventual return of many of the Gaza hostages to Israel.",
    "link": "https://www.jpost.com/middle-east/article-911238",
    "published": "2026-10-10T21:12:48+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
-   "headline": "Israel’s security partnerships must be built on reciprocity, not convenience - opinion",
-   "summary": "Israel is not a mistress; these countries can hide while seeking to enjoy the benefits of its intelligence and other capabilities.",
-   "link": "https://www.jpost.com/opinion/article-910876",
-   "published": "2026-10-10T21:36:45+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
@@ -1770,6 +1616,20 @@
    "summary": "Sinwar’s goal was to initiate a future multifront war that could succeed after Israel lost the world’s support, and ideally after Iran obtained a nuclear capability.",
    "link": "https://www.jpost.com/opinion/article-911032",
    "published": "2026-10-10T23:50:21+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Unproven genocide claims are used as weapons to fuel antisemitism, isolate Israel - opinion",
+   "summary": "The charge of genocide against Israel has become a powerful tool for its critics, with consequences reaching far beyond the Gaza war.",
+   "link": "https://www.jpost.com/opinion/article-910878",
+   "published": "2026-10-11T02:41:06+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Pentagon updates official count of US service members killed during Iran war - report",
+   "summary": "The Washington Post reported in September that the previous official count of 18 may have been inaccurate and that at least four service members were potentially excluded from the official tally.",
+   "link": "https://www.jpost.com/middle-east/iran-news/article-911252",
+   "published": "2026-10-11T03:09:35+00:00"
   },
   {
    "outlet": "The Moscow Times",
