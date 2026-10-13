@@ -4,6 +4,7 @@ in osmosfeed.yaml, each with outlet, headline, summary, link and time."""
 import json
 import re
 import sys
+import urllib.request
 from datetime import datetime, timedelta, timezone
 from html import unescape
 
@@ -26,12 +27,15 @@ NAMES = {           # tidy up the names some feeds give themselves
     "Environment | The Guardian": "The Guardian",
     "NPR Topics: World": "NPR",
     "NPR Topics: Science": "NPR",
+    "NPR Topics: Health": "NPR",
+    "PolitiFact - Social Feed": "PolitiFact",
     "PBS News Hour - The Latest": "PBS NewsHour",
     "ABC News: International": "Associated Press, via ABC News",
     "Deutsche Welle": "DW News",
 }
 MAX_PER_FEED = 40   # newest items per feed
 SUMMARY_CHARS = 400
+FETCH_SECONDS = 60  # give up on any feed that does not answer in this time
 
 cutoff = datetime.now(timezone.utc) - timedelta(hours=HOURS)
 
@@ -70,7 +74,9 @@ seen_links = set()
 
 for url in feed_urls():
     try:
-        parsed = feedparser.parse(url)
+        request = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (news briefing collector)"})
+        with urllib.request.urlopen(request, timeout=FETCH_SECONDS) as response:
+            parsed = feedparser.parse(response.read())
     except Exception as exc:                      # noqa: BLE001
         problems.append(f"{url}: {exc}")
         continue
