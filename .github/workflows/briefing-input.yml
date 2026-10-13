@@ -2,16 +2,26 @@ name: briefing input
 
 on:
   schedule:
-    - cron: "0 20 * * *"
-    - cron: "30 22 * * *"
+    # Times are UTC. Atlanta is UTC-4 now, UTC-5 after Nov 1.
+    # GitHub often starts scheduled runs hours late. The two earlier runs
+    # land before the 8:00 PM briefing even with a 6-hour delay; the evening
+    # run gives a fresher file when GitHub starts it on time.
+    - cron: "17 13 * * *"   # 9:17 AM Atlanta (8:17 AM after Nov 1)
+    - cron: "17 16 * * *"   # 12:17 PM Atlanta (11:17 AM after Nov 1)
+    - cron: "17 22 * * *"   # 6:17 PM Atlanta (5:17 PM after Nov 1)
   workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: briefing-input
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
