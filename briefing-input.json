@@ -1,39 +1,12 @@
 {
- "built": "2026-10-15T19:54:17.436984+00:00",
+ "built": "2026-10-16T00:22:48.175590+00:00",
  "window_hours": 30,
- "story_count": 470,
+ "story_count": 466,
  "feeds_with_problems": [
+  "https://www.factcheck.org/feed/: HTTP Error 403: Forbidden",
   "https://www.marketplace.org/feed: HTTP Error 403: Forbidden"
  ],
  "stories": [
-  {
-   "outlet": "Ars Technica",
-   "headline": "Ukraine blindsided by Starlink throttling restrictions and intelligence gaps",
-   "summary": "Kyiv’s forces experience connectivity problems on Elon Musk’s satellite network.",
-   "link": "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/",
-   "published": "2026-10-14T13:56:11+00:00"
-  },
-  {
-   "outlet": "Ars Technica",
-   "headline": "Legendary FPS level designer Richard \"Levelord\" Gray dies at 68",
-   "summary": "Tributes pour in for the man behind iconic Duke Nukem 3D levels and much more.",
-   "link": "https://arstechnica.com/gaming/2026/10/legendary-fps-level-designer-richard-levelord-gray-passes-away-at-68/",
-   "published": "2026-10-14T16:02:08+00:00"
-  },
-  {
-   "outlet": "Ars Technica",
-   "headline": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
-   "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
-   "link": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
-   "published": "2026-10-14T16:41:49+00:00"
-  },
-  {
-   "outlet": "Ars Technica",
-   "headline": "Researchers use AI to design proteins that cut up other proteins",
-   "summary": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
-   "link": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
-   "published": "2026-10-14T17:10:15+00:00"
-  },
   {
    "outlet": "Ars Technica",
    "headline": "Greta Gerwig channels Bowie in psychedelic The Magician's Nephew trailer",
@@ -68,13 +41,6 @@
    "summary": "\"This is great news for us. We're staffing up. We're accelerating.\"",
    "link": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
    "published": "2026-10-14T20:48:07+00:00"
-  },
-  {
-   "outlet": "Ars Technica",
-   "headline": "NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping",
-   "summary": "Suspected Russian drones have sunk or damaged 5 ships near Bulgaria and Romania.",
-   "link": "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/",
-   "published": "2026-10-14T21:03:11+00:00"
   },
   {
    "outlet": "Ars Technica",
@@ -113,80 +79,66 @@
   },
   {
    "outlet": "Ars Technica",
-   "headline": "Rocket Lab announces another delay for its medium-lift Neutron rocket",
+   "headline": "Neutron's first launch slips again amid trouble with carbon composites",
    "summary": "Rocket Lab announced the Neutron rocket in 2021, aiming for a first flight in 2024.",
    "link": "https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/",
    "published": "2026-10-15T16:57:24+00:00"
   },
   {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "Libya executing people based on secret trials and confessions extracted under torture, group says",
-   "summary": "Libya has executed at least 31 people since late August, marking the first known executions since 2010, according to Human Rights Watch",
-   "link": "https://abcnews.com/International/wireStory/libya-executing-people-based-secret-trials-confessions-extracted-137257783",
-   "published": "2026-10-14T14:35:41+00:00"
+   "outlet": "Ars Technica",
+   "headline": "Trump cancels Pentagon plans to livestream firing squad execution",
+   "summary": "8 in 10 Americans opposed the Pentagon's plans, a Thursday poll showed.",
+   "link": "https://arstechnica.com/tech-policy/2026/10/trump-cancels-pentagon-plans-to-livestream-firing-squad-execution/",
+   "published": "2026-10-15T18:16:36+00:00"
   },
   {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "French cybersecurity authority warns attack may be ongoing as stores scramble to restock",
-   "summary": "Supermarkets in France and the Netherlands are dealing with the aftermath of a cyberattack that disrupted refrigeration systems",
-   "link": "https://abcnews.com/International/wireStory/french-cybersecurity-authority-warns-attack-ongoing-stores-scramble-137256642",
-   "published": "2026-10-14T14:35:48+00:00"
+   "outlet": "Ars Technica",
+   "headline": "Microplastics in water aren’t inert and make damaging chemicals on their own",
+   "summary": "Its effect on people remains an ongoing question.",
+   "link": "https://arstechnica.com/science/2026/10/microplastics-in-water-arent-inert-and-make-damaging-chemicals-on-their-own/",
+   "published": "2026-10-15T18:39:17+00:00"
   },
   {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "Building housing London's oldest restaurant is donated to a conservation charity",
-   "summary": "The building that houses London’s oldest restaurant has been donated to Europe’s biggest conservation charity",
-   "link": "https://abcnews.com/International/wireStory/building-housing-londons-oldest-restaurant-donated-conservation-charity-137256644",
-   "published": "2026-10-14T14:38:17+00:00"
+   "outlet": "Ars Technica",
+   "headline": "Black Sea drone attacks enter NATO country's territorial waters for first time",
+   "summary": "Suspected Russian drones attack chemical tanker within Romanian waters.",
+   "link": "https://arstechnica.com/gadgets/2026/10/black-sea-drone-attacks-enter-nato-countrys-territorial-waters-for-first-time/",
+   "published": "2026-10-15T18:48:11+00:00"
   },
   {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "Irish public sector workers strike, leading to school closures and canceled medical appointments",
-   "summary": "Hundreds of thousands of Irish teachers, doctors and civil servants have walked off the job",
-   "link": "https://abcnews.com/International/wireStory/irish-public-sector-workers-strike-leading-school-closures-137258511",
-   "published": "2026-10-14T15:25:53+00:00"
+   "outlet": "Ars Technica",
+   "headline": "What did the Liberty Bell sound like? Science is on the case.",
+   "summary": "Researchers hunted for clues in modal analysis of 20th-century replica bell at Penn State Behrend.",
+   "link": "https://arstechnica.com/science/2026/10/what-did-the-liberty-bell-sound-like-science-is-on-the-case/",
+   "published": "2026-10-15T19:10:03+00:00"
   },
   {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "Fraud probe over NATO contracts leads to 5 arrests in Norway and searches in Germany and Romania",
-   "summary": "The European Union’s criminal justice agency says five people have been arrested in Norway in connection with suspected fraud and bribery linked to NATO ship contracts",
-   "link": "https://abcnews.com/International/wireStory/fraud-probe-nato-contracts-leads-5-arrests-norway-137258100",
-   "published": "2026-10-14T15:25:54+00:00"
+   "outlet": "Ars Technica",
+   "headline": "Above the 911? Porsche previews a new mid-engined supercar.",
+   "summary": "Porsche’s turnaround plan for 2035 involves less volume but more expensive cars.",
+   "link": "https://arstechnica.com/cars/2026/10/porsche-previews-its-future-with-mission-s-supercar-concept/",
+   "published": "2026-10-15T20:30:02+00:00"
   },
   {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "Fuel crisis hits Indonesia's Bali, triggers long lines in gas stations for days",
-   "summary": "Long lines have formed at gas stations across Indonesia’s resort island of Bali after fuel deliveries have been disrupted by a tanker delay, bad weather and strong demand for subsidized fuel",
-   "link": "https://abcnews.com/International/wireStory/fuel-crisis-hits-indonesias-bali-triggers-long-lines-137257852",
-   "published": "2026-10-14T15:25:57+00:00"
+   "outlet": "Ars Technica",
+   "headline": "Targeted ads delivered 0-click exploits to install mercenary malware",
+   "summary": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.",
+   "link": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
+   "published": "2026-10-15T20:32:41+00:00"
   },
   {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "Kenya confirms second Ebola case, a relative of first patient",
-   "summary": "Kenya’s Health Ministry has confirmed the country’s second Ebola case",
-   "link": "https://abcnews.com/International/wireStory/kenya-confirms-ebola-case-relative-patient-137261113",
-   "published": "2026-10-14T16:20:55+00:00"
+   "outlet": "Ars Technica",
+   "headline": "Hegseth’s dubious low-T screening may flag up to 25 percent of the Army",
+   "summary": "Medical experts explicitly recommend against blanket screenings.",
+   "link": "https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/",
+   "published": "2026-10-15T21:09:57+00:00"
   },
   {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "Colombia opens an embassy in Jerusalem after restoring diplomatic ties with Israel",
-   "summary": "Colombia has opened an embassy in Jerusalem, marking a significant shift in its relations with Israel",
-   "link": "https://abcnews.com/International/wireStory/colombia-opens-embassy-jerusalem-after-restoring-diplomatic-ties-137265413",
-   "published": "2026-10-14T17:49:12+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "UN peacekeeping chief says major questions hang over southern Lebanon as UNIFIL exit nears",
-   "summary": "The United Nations peacekeeping chief says major questions remain about plans for southern Lebanon as the UNIFIL mandate nears its end",
-   "link": "https://abcnews.com/International/wireStory/peacekeeping-chief-major-questions-hang-southern-lebanon-unifil-137265005",
-   "published": "2026-10-14T17:49:16+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "Sally Rooney’s publisher withdraws her books from UK sale over support for Palestine Action",
-   "summary": "Irish writer Sally Rooney says her books can no longer be sold in the U.K. because of her support for Palestine Action, which the British government has banned as a terrorist organization",
-   "link": "https://abcnews.com/International/wireStory/sally-rooneys-publisher-withdraws-books-uk-sale-support-137262542",
-   "published": "2026-10-14T17:49:26+00:00"
+   "outlet": "Ars Technica",
+   "headline": "Plex now helps sell movie theater tickets",
+   "summary": "Discovery data from Plex users will help studios, advertisers.",
+   "link": "https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/",
+   "published": "2026-10-15T21:22:15+00:00"
   },
   {
    "outlet": "Associated Press, via ABC News",
@@ -197,24 +149,17 @@
   },
   {
    "outlet": "Associated Press, via ABC News",
-   "headline": "Riots erupt in Albania's capital as students join anti-government movement",
-   "summary": "Riots have broken out during a student demonstration in Albania’s capital Tirana",
-   "link": "https://abcnews.com/International/wireStory/clashes-erupt-albania-protesting-students-join-anti-government-137261398",
-   "published": "2026-10-15T01:22:25+00:00"
+   "headline": "Zimbabwe’s Caine Prize winner rejects claim he used AI to write his story",
+   "summary": "Zimbabwean author Simbarashe Kundizeza denies using AI to write his short story, \"The Blue Fighter,\" which won the $10,000 Caine Prize for African Writing",
+   "link": "https://abcnews.com/International/wireStory/zimbabwes-caine-prize-winner-rejects-claim-ai-write-137269798",
+   "published": "2026-10-14T20:53:26+00:00"
   },
   {
    "outlet": "Associated Press, via ABC News",
-   "headline": "Indonesia’s top Muslim council opposes Andrea Bocelli concerts over Israel ties",
-   "summary": "Indonesia’s top Muslim clerical body has opposed upcoming concerts by Italian tenor Andrea Bocelli at Borobudur Temple and Jakarta",
-   "link": "https://abcnews.com/International/wireStory/indonesias-top-muslim-council-opposes-upcoming-andrea-bocelli-137251656",
-   "published": "2026-10-15T01:54:24+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "Prosecution labels Russell Brand 'ruthless sexual predator' at opening of trial",
-   "summary": "A British prosecutor has accused Russell Brand of being a “ruthless” sexual predator who assaulted six women over the course of a decade",
-   "link": "https://abcnews.com/International/wireStory/prosecution-labels-russell-brand-ruthless-sexual-predator-opening-137251012",
-   "published": "2026-10-15T02:10:13+00:00"
+   "headline": "South Americans pray for Pope Leo’s recovery as uncertainty hangs over his visit",
+   "summary": "Catholics across South America are praying for Pope Leo XIV’s recovery from lung cancer surgery as uncertainty grows over his planned visit next month",
+   "link": "https://abcnews.com/International/wireStory/south-americans-pray-pope-leos-recovery-uncertainty-hangs-137266695",
+   "published": "2026-10-15T01:38:40+00:00"
   },
   {
    "outlet": "Associated Press, via ABC News",
@@ -239,10 +184,73 @@
   },
   {
    "outlet": "Associated Press, via ABC News",
+   "headline": "Costa Rica opens a Bukele-style mega-prison. Here's how it got here",
+   "summary": "Costa Rica has made fighting drug trafficking a main goal, inspired by El Salvador's hardline approach",
+   "link": "https://abcnews.com/International/wireStory/costa-rica-opens-bukele-style-mega-prison-137275010",
+   "published": "2026-10-15T06:57:52+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
    "headline": "El Salvador's Bukele unveils plan to free up to 50% arrested under state of emergency",
    "summary": "President Nayib Bukele of El Salvador announces a plan to release up to 50% of those imprisoned under a state of emergency",
    "link": "https://abcnews.com/International/wireStory/el-salvadors-bukele-unveils-plan-free-50-arrested-137273897",
    "published": "2026-10-15T07:09:40+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
+   "headline": "New China-North Korea bridge opens after more than a decade of delay",
+   "summary": "A new bridge linking China and North Korea has opened after more than a decade of delay It's being touted as a symbol of the neighbors' traditional friendship and it signals deeper ties between the countries",
+   "link": "https://abcnews.com/International/wireStory/new-china-north-korea-bridge-opens-after-decade-137277411",
+   "published": "2026-10-15T11:06:14+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
+   "headline": "Prince Harry and Meghan to make first joint appearances since returning to UK",
+   "summary": "Prince Harry and Meghan are making their first joint public appearances in England since stepping back from royal duties six years ago",
+   "link": "https://abcnews.com/International/wireStory/prince-harry-meghan-make-joint-appearances-returning-uk-137278143",
+   "published": "2026-10-15T11:06:15+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
+   "headline": "School roof collapse kills at least 28 people in Pakistan",
+   "summary": "A roof collapse at a private school in Peshawar, Pakistan, has killed at least 34 children and a teacher",
+   "link": "https://abcnews.com/International/wireStory/school-roof-collapse-kills-10-children-injures-2-137278356",
+   "published": "2026-10-15T11:14:20+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
+   "headline": "Trudy strengthens to a hurricane as system nears Mexico’s coast with storm expected",
+   "summary": "Trudy has intensified into a Category 1 hurricane as it approaches the Pacific coast of Mexico",
+   "link": "https://abcnews.com/International/wireStory/trudy-strengthens-hurricane-system-nears-mexicos-coast-major-137280302",
+   "published": "2026-10-15T11:32:06+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
+   "headline": "Heavy rain shuts down Istanbul, causing flooding and 3 deaths",
+   "summary": "A heavy downpour has shut down Istanbul, flooded homes and roads and killed at least three people",
+   "link": "https://abcnews.com/International/wireStory/heavy-rain-shuts-istanbul-causing-flooding-2-deaths-137278654",
+   "published": "2026-10-15T11:32:40+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
+   "headline": "Rubio urges restraint over Ethiopia-Eritrea tensions, civilians killed",
+   "summary": "U.S. Secretary of State Marco Rubio is calling for de-escalation in the Horn of Africa amid renewed fighting in northern Ethiopia",
+   "link": "https://abcnews.com/International/wireStory/rubio-urges-restraint-ethiopia-eritrea-tensions-rights-group-137280105",
+   "published": "2026-10-15T11:33:57+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
+   "headline": "Ex-leader of N. Ireland’s largest unionist party sentenced to 15 years for sex abuse",
+   "summary": "The former leader of Northern Ireland’s largest unionist party has been on Thursday to 15 years in prison for the rape and sex abuse of two girls decades ago",
+   "link": "https://abcnews.com/International/wireStory/leader-northern-irelands-largest-unionist-party-sentenced-15-137281102",
+   "published": "2026-10-15T11:36:23+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
+   "headline": "EU leaders push back on a major budget proposal, putting a deal by 2027 in doubt",
+   "summary": "European Union leaders are voicing strong opposition to a new proposal for the bloc’s long-term budget",
+   "link": "https://abcnews.com/International/wireStory/eu-leaders-push-back-major-budget-proposal-putting-137284258",
+   "published": "2026-10-15T13:05:34+00:00"
   },
   {
    "outlet": "Associated Press, via ABC News",
@@ -259,25 +267,25 @@
    "published": "2026-10-15T13:39:53+00:00"
   },
   {
-   "outlet": "BBC News",
-   "headline": "Why children's hospices are paying to throw away your donations",
-   "summary": "Acorns says it spends about £100,000 a year dealing with donated items that cannot be sold.",
-   "link": "https://www.bbc.co.uk/news/videos/cry4xkyy17xvo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-14T13:59:52+00:00"
+   "outlet": "Associated Press, via ABC News",
+   "headline": "Japan's Takaichi says chores and makeup add hours to her workday, sparking debate on gender roles",
+   "summary": "Being a prime minister is tough, with daily schedule packed with meetings and hourslong parliamentary sessions",
+   "link": "https://abcnews.com/International/wireStory/japans-takaichi-chores-makeup-add-hours-workday-sparking-137294535",
+   "published": "2026-10-15T16:52:10+00:00"
   },
   {
-   "outlet": "BBC News",
-   "headline": "Burnham - Rosebank and Jackdaw oil and gas decisions coming 'shortly'",
-   "summary": "Conservative leader Kemi Badenoch has urged the prime minister to stop \"faffing about\" with the North Sea oil and gas fields.",
-   "link": "https://www.bbc.co.uk/news/articles/c92031m6knljo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-14T14:13:37+00:00"
+   "outlet": "Associated Press, via ABC News",
+   "headline": "Bus crash in Canada leaves 3 dead and multiple people injured, police say",
+   "summary": "Three people are dead and multiple people are injured following a fire involving a city transit bus in Calgary, police said",
+   "link": "https://abcnews.com/International/wireStory/bus-crash-canada-leaves-3-dead-multiple-people-137304062",
+   "published": "2026-10-15T23:05:12+00:00"
   },
   {
-   "outlet": "BBC News",
-   "headline": "Industrial fire linked to fish and eels' deaths",
-   "summary": "Chemicals from firewater runoff entered a brook and spread downstream where dead fish and eels were later found, the Environment Agency has confirmed.",
-   "link": "https://www.bbc.co.uk/news/videos/cqrky20ndv1jo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-14T16:36:48+00:00"
+   "outlet": "Associated Press, via ABC News",
+   "headline": "Minibus slams into Channel Tunnel shuttle train, injuring 19 and halting service",
+   "summary": "A minibus carrying truck drivers has crashed into a train in the Channel Tunnel between France and England, injuring 19 people",
+   "link": "https://abcnews.com/International/wireStory/minibus-slams-channel-tunnel-shuttle-train-injuring-19-137304000",
+   "published": "2026-10-15T23:05:58+00:00"
   },
   {
    "outlet": "BBC News",
@@ -435,13 +443,6 @@
   },
   {
    "outlet": "BBC News",
-   "headline": "No money for new emergency department, says minister",
-   "summary": "Robbie Butler says a new ED at Altnagelvin hospital in Derry is a priority but he does not have the money to pay for it.",
-   "link": "https://www.bbc.co.uk/news/articles/cqx28jep2l7ro?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-15T09:14:16+00:00"
-  },
-  {
-   "outlet": "BBC News",
    "headline": "Historic cannons airlifted for restoration",
    "summary": "Cannons are lifted from St Michael's Mount by helicopter so they can be taken away for restoration.",
    "link": "https://www.bbc.co.uk/news/videos/ck24096pndy9o?at_medium=RSS&at_campaign=rss",
@@ -533,13 +534,6 @@
   },
   {
    "outlet": "BBC News",
-   "headline": "Watch: Pupils heard 'cracking' sound heard moments before Pakistan school roof collapse",
-   "summary": "Our Urdu correspondent reports from the scene in Peshawar, north-west Pakistan, where emergency services have been responding to the incident.",
-   "link": "https://www.bbc.co.uk/news/videos/cmq8n5gv1pnpo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-15T15:05:29+00:00"
-  },
-  {
-   "outlet": "BBC News",
    "headline": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
    "summary": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
    "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
@@ -551,13 +545,6 @@
    "summary": "Parts of southern England have entered \"severe drought\", while about 30 million people are under hosepipe ban.",
    "link": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
    "published": "2026-10-15T15:42:37+00:00"
-  },
-  {
-   "outlet": "BBC News",
-   "headline": "BBC Inside Science",
-   "summary": "How can we to compete against a natural force with the power of 25 atomic bombs?",
-   "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-15T16:00:00+00:00"
   },
   {
    "outlet": "BBC News",
@@ -589,10 +576,10 @@
   },
   {
    "outlet": "BBC News",
-   "headline": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
-   "summary": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
-   "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-15T17:18:49+00:00"
+   "headline": "Watch: Moment drone hits supermarket in Odesa",
+   "summary": "CCTV video verified by the BBC shows the drone strike in the town of Mayaky in Ukraine's Odesa region.",
+   "link": "https://www.bbc.co.uk/news/videos/cmwyq62z0n19o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-15T17:06:12+00:00"
   },
   {
    "outlet": "BBC News",
@@ -617,7 +604,7 @@
   },
   {
    "outlet": "BBC News",
-   "headline": "An Australian band’s ‘unreal’ journey to break a gig world record",
+   "headline": "Watch: Australian band breaks world record for most gigs in 12 hours",
    "summary": "The dream rock band called Fathom travelled roughly 700km across Australia by car, helicopter and plane to play nine shows in 12 hours.",
    "link": "https://www.bbc.co.uk/news/videos/c62keqn7wpwdo?at_medium=RSS&at_campaign=rss",
    "published": "2026-10-15T18:09:58+00:00"
@@ -631,38 +618,73 @@
   },
   {
    "outlet": "BBC News",
-   "headline": "Letters with 'suspicious substances' sent to US election offices",
+   "headline": "Watch: What the data centre boom means for Arizona ahead of midterm elections",
+   "summary": "The BBC's Shaimaa Khalil travelled to the US state to hear from residents who live alongside these giant facilities.",
+   "link": "https://www.bbc.co.uk/news/videos/cw62yvzv9mm3o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-15T19:46:07+00:00"
+  },
+  {
+   "outlet": "BBC News",
+   "headline": "BBC Inside Science",
+   "summary": "How can we to compete against a natural force with the power of 25 atomic bombs?",
+   "link": "https://www.bbc.co.uk/sounds/play/w3ct9789?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-15T20:00:00+00:00"
+  },
+  {
+   "outlet": "BBC News",
+   "headline": "At the scene of a school roof collapse in Pakistan",
+   "summary": "At least 33 pupils and a teacher were killed according to hospital officials, and more than a dozen were injured.",
+   "link": "https://www.bbc.co.uk/news/videos/cr5yn5wel153o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-15T20:31:02+00:00"
+  },
+  {
+   "outlet": "BBC News",
+   "headline": "No money for new emergency department, says minister",
+   "summary": "Robbie Butler says a new ED at Altnagelvin hospital in Derry is a priority but he does not have the money to pay for it.",
+   "link": "https://www.bbc.co.uk/news/articles/cqx28jep2l7ro?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-15T20:47:43+00:00"
+  },
+  {
+   "outlet": "BBC News",
+   "headline": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+   "summary": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
+   "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-15T22:37:21+00:00"
+  },
+  {
+   "outlet": "BBC News",
+   "headline": "Letters with 'suspicious substances' sent to US senators and election offices",
    "summary": "A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana.",
    "link": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-15T19:13:09+00:00"
+   "published": "2026-10-15T22:46:49+00:00"
   },
   {
-   "outlet": "BNO News",
-   "headline": "6 killed, including child, in Wisconsin plane crash",
-   "summary": "Six people, including a child, were killed after a small plane crashed in a wooded area in Wisconsin, according to local and federal authorities. The pilot reported icing and requested permission to descend before contact with the aircraft was lost. The crash was reported at approximately 9:31 p.m. on Tuesday in the Town of Dellona, […] The post 6 killed, including child, in Wisconsin plane crash ",
-   "link": "https://bnonews.com/index.php/2026/10/6-killed-including-child-in-wisconsin-plane-crash/",
-   "published": "2026-10-14T20:37:05+00:00"
+   "outlet": "BBC News",
+   "headline": "Living with a stink? Technology might help",
+   "summary": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
+   "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-15T23:18:21+00:00"
   },
   {
-   "outlet": "BNO News",
-   "headline": "Netflix to cut about 1,000 jobs in largest layoffs to date",
-   "summary": "Netflix is cutting roughly 6% of its workforce, or about 1,000 jobs, in its largest round of layoffs to date, according to an employee memo. The cuts will fall most heavily on its product, technology, legal and human resources teams. Co-CEOs Ted Sarandos and Greg Peters announced the organizational changes in an email to employees […] The post Netflix to cut about 1,000 jobs in largest layoffs to ",
-   "link": "https://bnonews.com/index.php/2026/10/netflix-to-cut-about-1000-jobs-in-largest-layoffs-to-date/",
-   "published": "2026-10-14T20:59:38+00:00"
+   "outlet": "BBC News",
+   "headline": "Are student protests being manipulated ahead of France's presidential election?",
+   "summary": "France's prime minister has suggested that student anger is being weaponised, as the unions and other protesters prepare to take to the streets too.",
+   "link": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-15T23:25:06+00:00"
   },
   {
-   "outlet": "BNO News",
-   "headline": "Zelenskyy calls Musk’s decision a “big mistake” over Starlink restrictions",
-   "summary": "Satellite services used by Ukraine’s military have been restricted, with some connectivity since restored, according to Ukrainian officials and Axios. President Volodymyr Zelenskyy accused Elon Musk of deliberately limiting Starlink and said the decision would cost lives. Ukrainian officials told Axios that restrictions were imposed Tuesday night on both SpaceX’s commercial Starlink service and St",
-   "link": "https://bnonews.com/index.php/2026/10/ukraine-reports-starlink-restrictions-zelenskyy-calls-musks-decision-a-big-mistake/",
-   "published": "2026-10-14T21:55:48+00:00"
+   "outlet": "BBC News",
+   "headline": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
+   "summary": "The alleged plot only failed because the 19-year-old suspect's gun jammed outside the place of worship, say police.",
+   "link": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-15T23:27:21+00:00"
   },
   {
-   "outlet": "BNO News",
-   "headline": "U.S. sanctions Mexican cartel’s horse racing and business network",
-   "summary": "The U.S. Treasury Department has sanctioned a horse racing operation and a business network accused of financing Mexico’s Cartel del Noreste and laundering its proceeds. The action targets four people and 11 entities involved in horse racing, construction, trucking and the oil and gas industry. The sanctions announced Tuesday include Club La Molienda, a racetrack, […] The post U.S. sanctions Mexic",
-   "link": "https://bnonews.com/index.php/2026/10/u-s-sanctions-mexican-cartels-horse-racing-and-business-network/",
-   "published": "2026-10-14T22:08:46+00:00"
+   "outlet": "BBC News",
+   "headline": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
+   "summary": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
+   "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-15T23:38:46+00:00"
   },
   {
    "outlet": "BNO News",
@@ -701,24 +723,38 @@
   },
   {
    "outlet": "BNO News",
-   "headline": "From Phone Calls to Video Meetings: How Business Communication Has Changed",
-   "summary": "The cornerstone (among many other things) of every successful company is communication. It’s part of every type of relationship. Those among co-workers, clients, customers, managers, and such. When communication is poor, or runs into any obstacle, then even the simplest tasks may take forever. Luckily, ever since technology decided to meddle, things have changed for […] The post From Phone Calls t",
-   "link": "https://bnonews.com/index.php/2026/10/from-phone-calls-to-video-meetings-how-business-communication-has-changed/",
-   "published": "2026-10-15T15:07:14+00:00"
+   "headline": "5 killed, including children and suspect, in school shooting in Bend, Oregon",
+   "summary": "A shooting at an elementary school in Bend, Oregon, has left at least four victims dead, including children, according to media reports. The shooter was shot and killed inside the school, possibly by a bystander. The shooting happened Thursday afternoon at Silver Rail Elementary School. Dispatchers received the first call at approximately 12:59 p.m., reporting […] The post 5 killed, including chil",
+   "link": "https://bnonews.com/index.php/2026/10/multiple-victims-including-children-in-elementary-school-shooting-in-bend-oregon/",
+   "published": "2026-10-15T20:41:33+00:00"
   },
   {
-   "outlet": "CBC | World News",
-   "headline": "Image of mournful elephant mom wins 2026 Wildlife Photographer of the Year",
-   "summary": "Italian photographer Federico Veronesi's \"heartbreakingly poignant\" photo of a mother elephant carrying her dead calf has won this year's top Wildlife Photographer of the Year award. See a selection of the other winning photos here.",
-   "link": "https://www.cbc.ca/news/science/wpy-2026-9.7380334?cmp=rss",
-   "published": "2026-10-14T17:54:09+00:00"
+   "outlet": "BNO News",
+   "headline": "19 injured in minibus crash at Channel Tunnel terminal in France",
+   "summary": "At least 19 people were injured when a minibus carrying truck drivers crashed at the French terminal of the rail tunnel linking France and England, according to local officials. None of the injuries are considered life-threatening. The crash happened Thursday evening on a loading platform in Coquelles, near Calais in northern France, according to the […] The post 19 injured in minibus crash at Cha",
+   "link": "https://bnonews.com/index.php/2026/10/19-injured-in-minibus-crash-at-channel-tunnel-terminal-in-france/",
+   "published": "2026-10-15T22:27:47+00:00"
   },
   {
-   "outlet": "CBC | World News",
-   "headline": "Kenya confirms 2nd case of Ebola in relative of patient who died earlier this month",
-   "summary": "Kenya's Health Ministry confirmed the country's second Ebola case Wednesday, saying a relative of the man who died two days after arriving from Congo had tested positive while in quarantine.",
-   "link": "https://www.cbc.ca/news/world/kenya-second-case-ebola-confirmed-9.7380626?cmp=rss",
-   "published": "2026-10-14T18:19:29+00:00"
+   "outlet": "BNO News",
+   "headline": "3 dead, 19 injured in Calgary bus collision and fire",
+   "summary": "Three people died and 19 others were injured after two buses collided and caught fire in Calgary, Canada, according to emergency officials. One patient has life-threatening injuries. Emergency crews responded at approximately 1:10 p.m. Thursday to the 800 block of Saddletowne Circle Northeast, in the city’s Saddle Ridge neighborhood. Police identified one of the vehicles […] The post 3 dead, 19 in",
+   "link": "https://bnonews.com/index.php/2026/10/3-dead-19-injured-in-calgary-bus-collision-and-fire/",
+   "published": "2026-10-15T23:36:15+00:00"
+  },
+  {
+   "outlet": "BNO News",
+   "headline": "Seattle school sheltered in place during search for armed man",
+   "summary": "An elementary school in Seattle, Washington, sheltered in place while police searched nearby for a man believed to have a firearm and experincing a crisis, according to authorities. The precaution was later lifted, but officers are still searching for the suspect. The Seattle Police Department announced the search at approximately 3 p.m. Thursday in the […] The post Seattle school sheltered in pla",
+   "link": "https://bnonews.com/index.php/2026/10/seattle-school-sheltered-in-place-during-search-for-armed-man/",
+   "published": "2026-10-15T23:47:00+00:00"
+  },
+  {
+   "outlet": "BNO News",
+   "headline": "White House ordered limits on Ukraine’s Starshield service – Reuters",
+   "summary": "An order to restrict a satellite system used by Ukraine’s military came from inside the White House, according to Reuters. Reuters reported Thursday, citing two U.S. officials and a Western official briefed on the matter, that Defense Department leaders received a message directing them to slow the SpaceX Starshield service. The system is used for […] The post White House ordered limits on Ukraine",
+   "link": "https://bnonews.com/index.php/2026/10/white-house-ordered-limits-on-ukraines-starshield-service-reuters/",
+   "published": "2026-10-16T00:00:11+00:00"
   },
   {
    "outlet": "CBC | World News",
@@ -821,16 +857,23 @@
   {
    "outlet": "CBC | World News",
    "headline": "Yemen's Houthis attack presidential palace in Aden, key Saudi infrastructure",
-   "summary": "Yemen's Houthis fired missiles at the presidential palace complex in the southern city of Aden on Thursday, killing two guards, while the Saudi-led coalition in Yemen detailed dozens of attacks on Saudi infrastructure in the escalating conflict.",
+   "summary": "Yemen's Houthis fired missiles at the presidential palace complex in the southern city of Aden on Thursday, killing five people, the government said, while the Saudi-led coalition in Yemen detailed dozens of attacks on Saudi infrastructure in the escalating conflict.",
    "link": "https://www.cbc.ca/news/world/yemen-houthis-attack-presidential-palace-9.7382188?cmp=rss",
    "published": "2026-10-15T18:59:30+00:00"
   },
   {
-   "outlet": "Christian Science Monitor",
-   "headline": "How does a country defend itself without a military?",
-   "summary": "As more nations look to the Arctic for resources, Iceland becomes increasingly vital as a strategic base. But it relies wholly on allies like the U.S. for its security.",
-   "link": "https://www.csmonitor.com/World/Europe/2026/1014/iceland-military-us-arctic-trump-denmark-greenland?icid=rss",
-   "published": "2026-10-14T18:10:45+00:00"
+   "outlet": "CBC | World News",
+   "headline": "Canada courting Indian business partnerships in race to seal trade deal",
+   "summary": "Canada’s largest trade mission to India in 30 years has netted about 30 commercial partnerships worth $300 million, according to International Trade Minister Maninder Sidhu.",
+   "link": "https://www.cbc.ca/news/world/canada-courting-indian-business-partnerships-in-race-to-seal-trade-deal-9.7381810?cmp=rss",
+   "published": "2026-10-15T20:10:02+00:00"
+  },
+  {
+   "outlet": "CBC | World News",
+   "headline": "New White House press secretary Katie Zacharia didn't pass the bar exam",
+   "summary": "New White House press secretary Katie Zacharia defended her legal background and justified her truncated inaugural briefing as she navigates a rocky first week as the president's chief spokeswoman.",
+   "link": "https://www.cbc.ca/news/world/katie-zacharia-interview-press-secretary-role-9.7382401?cmp=rss",
+   "published": "2026-10-15T21:25:00+00:00"
   },
   {
    "outlet": "Christian Science Monitor",
@@ -854,11 +897,11 @@
    "published": "2026-10-15T17:41:19+00:00"
   },
   {
-   "outlet": "Daily Maverick",
-   "headline": "Watch – Zapiro presents: 2026 World News Day (Feat. King Kong)",
-   "summary": "",
-   "link": "https://www.dailymaverick.co.za/video/2026-10-14-watch-zapiro-presents-2026-world-news-day-feat-king-kong/",
-   "published": "2026-10-14T16:03:59+00:00"
+   "outlet": "Christian Science Monitor",
+   "headline": "US intel pause, Starlink outages leave Ukraine vulnerable to Russian attack",
+   "summary": "When U.S. warnings and Starlink support shut off this week, Ukraine was left exposed to Russian drones. Kyiv has few alternatives available.",
+   "link": "https://www.csmonitor.com/World/Europe/2026/1015/ukraine-starlink-russia-energy-truce-trump-drone-interceptors?icid=rss",
+   "published": "2026-10-15T21:01:06+00:00"
   },
   {
    "outlet": "Daily Maverick",
@@ -866,20 +909,6 @@
    "summary": "In this extract from his talk on Remodelling Black Economic Empowerment at the BBBEE Symposium, organised by the South African Presidency in partnership with the Johannesburg Business School, William Gumede outlines the political and financial cost of BEE to the ANC and South Africa.",
    "link": "https://www.dailymaverick.co.za/opinionista/2026-10-14-the-anc-clings-to-its-flawed-elite-enrichment-bee-and-sa-pays-the-price/",
    "published": "2026-10-14T19:30:00+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "Costa Rica opens mega-prison as organized crime fight intensifies",
-   "summary": "SAN JOSE, Oct 14 (Reuters) - Costa Rica inaugurated a maximum-security prison on Wednesday as it stepped up its fight against organized crime after a surge in killings in what was long one of Latin America's safest countries.",
-   "link": "https://www.dailymaverick.co.za/article/2026-10-15-costa-rica-opens-mega-prison-as-organized-crime-fight-intensifies/",
-   "published": "2026-10-15T04:45:23+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "US company announces progress toward resurrecting the extinct dodo",
-   "summary": "Oct 14 (Reuters) - A US biotech company says it is making progress toward its goal of resurrecting the dodo, the famous flightless bird with a large hooked beak, and returning it to its native Indian Ocean island of Mauritius, where humans drove it to extinction in the 17th century.",
-   "link": "https://www.dailymaverick.co.za/article/2026-10-15-us-company-announces-progress-toward-resurrecting-the-extinct-dodo/",
-   "published": "2026-10-15T04:47:12+00:00"
   },
   {
    "outlet": "Daily Maverick",
@@ -1085,32 +1114,18 @@
    "published": "2026-10-15T21:49:43+00:00"
   },
   {
-   "outlet": "DW News",
-   "headline": "Trump's diesel deal with Russia is unlikely to significantly lower global fuel prices despite expectations of rapid relief",
-   "summary": "As the world's largest diesel exporter, the US benefits from high prices. At home, however, consumers are feeling the strain of rising living costs. Why Donald Trump's deal with Russia is unlikely to change that.",
-   "link": "https://www.dw.com/en/trump-s-diesel-deal-with-russia-is-unlikely-to-significantly-lower-global-fuel-prices-despite-expectations-of-rapid-relief/a-79659601?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-10-14T14:15:00+00:00"
+   "outlet": "Daily Maverick",
+   "headline": "EXTREME WEATHER : Agriculture Minister sounds ‘super El Niño’ warning bell and calls for water restrictions",
+   "summary": "Minister Willie Aucamp wants to see proactive measures in place to deal with the unfolding El Niño",
+   "link": "https://www.dailymaverick.co.za/article/2026-10-15-this-is-going-to-be-next-level-agriculture-minister-sounds-el-nino-warning/",
+   "published": "2026-10-15T22:00:00+00:00"
   },
   {
-   "outlet": "DW News",
-   "headline": "Albania: Fire at Education Ministry as students protest",
-   "summary": "Riot police deployed in the Albanian capital Tirana on the second day of student protests. The sudden outbreak seemed at least somewhat reminiscent of the widespread demos in France courting international attention.",
-   "link": "https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-10-14T14:56:00+00:00"
-  },
-  {
-   "outlet": "DW News",
-   "headline": "Germany's far-right AfD forges a pro-Russia alliance with the BSW",
-   "summary": "In Saxony-Anhalt, the AfD and BSW are joining forces to push for negotiations with Moscow. What is driving this rapprochement?",
-   "link": "https://www.dw.com/en/germany-s-far-right-afd-forges-a-pro-russia-alliance-with-the-bsw/a-79662413?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-10-14T15:13:00+00:00"
-  },
-  {
-   "outlet": "DW News",
-   "headline": "Nord Stream trial opens in Germany, defense seeks dismissal",
-   "summary": "Serhii Kuznietsov is accused of attacking civilian infrastructure in the 2022 sabotage of the Russian gas pipeline to Germany. His lawyers called Nord Stream a military target, and said their client is sworn to secrecy.",
-   "link": "https://www.dw.com/en/nord-stream-trial-opens-in-germany-defense-seeks-dismissal/a-79662942?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-10-14T18:00:00+00:00"
+   "outlet": "Daily Maverick",
+   "headline": "JOB LOSS FEARS: Cosatu calls for government ban of Shein and Temu to protect local jobs",
+   "summary": "While labour unions call for drastic government intervention to halt job losses, economic experts caution that an outright ban could fuel black-market trading rather than fix South Africa’s underlying manufacturing challenges.",
+   "link": "https://www.dailymaverick.co.za/article/2026-10-15-cosatu-calls-for-government-ban-of-shein-and-temu-to-protect-local-jobs/",
+   "published": "2026-10-15T22:00:00+00:00"
   },
   {
    "outlet": "DW News",
@@ -1125,13 +1140,6 @@
    "summary": "From action cameras and smartphones to EVs and robot vacuums, Chinese brands are gaining ground worldwide, despite privacy and security concerns. What's driving their rise, and can European rivals keep up?",
    "link": "https://www.dw.com/en/why-chinese-tech-brands-are-outpacing-western-rivals-from-evs-to-robot-vacuums/a-79646187?maca=en-rss-en-all-1573-rdf",
    "published": "2026-10-15T08:45:00+00:00"
-  },
-  {
-   "outlet": "DW News",
-   "headline": "India news: Supreme Court hears Rahul Gandhi's Election Commission plea",
-   "summary": "A petition filed by opposition leader Rahul Gandhi and others seeks an independent audit of India's sweeping voter deletions. Meanwhile, actor Imran Khan has reportedly been ordered to leave India.",
-   "link": "https://www.dw.com/en/india-news-supreme-court-hears-rahul-gandhi-s-election-commission-plea/live-79665180?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-10-15T09:48:00+00:00"
   },
   {
    "outlet": "DW News",
@@ -1267,6 +1275,20 @@
    "published": "2026-10-15T18:55:00+00:00"
   },
   {
+   "outlet": "DW News",
+   "headline": "Bus, train collide, injuring 19 at Channel Tunnel terminal",
+   "summary": "A minibus carrying truck drivers collided with a freight train near the Channel Tunnel entrance in France, injuring 19 people, two of them severely. Authorities launched an inquiry into what caused the accident.",
+   "link": "https://www.dw.com/en/bus-train-collide-injuring-19-at-channel-tunnel-terminal/a-79674671?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-10-15T20:42:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "'Multiple victims' at elementary school shooting in US city of Bend, Oregon. Suspected shooter is dead, officials say",
+   "summary": "Three children, one adult dead in Oregon elementary school shooting, US media report. The suspected shooter is dead, but authorities have yet to confirm who shot the suspect.",
+   "link": "https://www.dw.com/en/multiple-victims-at-elementary-school-shooting-in-us-city-of-bend-oregon-suspected-shooter-is-dead-officials-say/a-79674849?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-10-15T21:59:00+00:00"
+  },
+  {
    "outlet": "Good Good Good",
    "headline": "Homicide rates dropped across the US. Experts say community-led intervention programs helped aid the decline",
    "summary": "Nearly 50 crime scholars convened recently to analyze the reasons for the dropping rates.",
@@ -1282,17 +1304,10 @@
   },
   {
    "outlet": "Good Good Good",
-   "headline": "Fishermen are combing the Chesapeake Bay for abandoned 'ghost' traps and saving wildlife thanks to $225K grant",
+   "headline": "Fishermen are combing the Chesapeake Bay for abandoned 'ghost' traps to save trapped wildlife",
    "summary": "In the last two year, local watermen of Maryland and Virginia have drudged up roughly 24,000 abandoned fishing traps.",
    "link": "https://www.goodgoodgood.co/articles/chesapeake-bay-ghost-traps-wildlife-rescue",
    "published": "2026-10-15T19:41:00+00:00"
-  },
-  {
-   "outlet": "Good News Network",
-   "headline": "Pittsburgh Water Launches Debt Forgiveness Program to Help Families with Rising Costs",
-   "summary": "Residents of Pittsburgh with outstanding debt on their water utilities can see it forgiven over a 24-month period. Instituted by Pittsburgh’s water authority, certain customers have already been enrolled as of September, and need only keep up with monthly payments to see pre-September outstanding debt gradually forgiven. Called the Arrearage Forgiveness Program, Pittsburgh Water recently […] The p",
-   "link": "https://www.goodnewsnetwork.org/pittsburgh-water-launches-debt-forgiveness-program-to-help-families-with-rising-costs/",
-   "published": "2026-10-14T15:30:44+00:00"
   },
   {
    "outlet": "Good News Network",
@@ -1331,27 +1346,6 @@
   },
   {
    "outlet": "Inside Climate News",
-   "headline": "New Study Reveals Clues About the Origins of Nepal’s Deadly Flood",
-   "summary": "A new study in the journal Seismica presents the first comprehensive seismic analysis of what happened during the disastrous flood in Nepal on Aug. 26. But exactly what triggered the mountainside to give way remains unclear. A massive section of a Himalayan mountainside collapsed near the Nepal-China border, sending millions of cubic meters of rock […]",
-   "link": "https://insideclimatenews.org/news/14102026/new-study-reveals-clues-about-the-origins-of-nepals-deadly-flood/",
-   "published": "2026-10-14T16:06:54+00:00"
-  },
-  {
-   "outlet": "Inside Climate News",
-   "headline": "Climate Change Is Increasing Simultaneous Exposure to Heat Waves and Wildfire Smoke",
-   "summary": "More than 1 billion people per year were exposed to heat waves and fire pollution at the same time from 2010-2019, a sharp jump from the decade before it, according to a new study that highlights the growing public health crisis caused by global warming. The research, published in Science Advances on Wednesday, is the […]",
-   "link": "https://insideclimatenews.org/news/14102026/climate-change-fueling-heat-waves-and-wildfire-smoke/",
-   "published": "2026-10-14T18:00:00+00:00"
-  },
-  {
-   "outlet": "Inside Climate News",
-   "headline": "How Rewilding Could Help Atoll Islands Keep Pace With Rising Seas",
-   "summary": "Coral-fringed tropical atolls are among the landforms most threatened by global warming, but many have a potential superpower: Healthy ecosystems may help them keep pace with rising seas. Atoll islands with native vegetation and thriving seabird populations are “naturally active systems that can change and adapt to their environmental conditions if they are allowed to […]",
-   "link": "https://insideclimatenews.org/news/14102026/healthy-ecosystems-protect-atoll-islands-from-heat/",
-   "published": "2026-10-14T18:05:00+00:00"
-  },
-  {
-   "outlet": "Inside Climate News",
    "headline": "New York Candidates for Governor Clash Over Energy Policy",
    "summary": "Incumbent New York Gov. Kathy Hochul and Republican challenger Bruce Blakeman clashed over high energy costs in the state’s only gubernatorial debate, offering sharply different visions for how to keep electricity affordable as demand rises. Average residential electricity bills in New York rose 10 percent from 2024 to 2025, outpacing the national average. The state […]",
    "link": "https://insideclimatenews.org/news/14102026/new-york-governor-debate/",
@@ -1386,6 +1380,13 @@
    "published": "2026-10-15T09:00:00+00:00"
   },
   {
+   "outlet": "Inside Climate News",
+   "headline": "Watchdog Questions Zeldin’s Tour With Embattled GOP Candidates",
+   "summary": "It’s not unusual for Environmental Protection Agency Administrator Lee Zeldin to be on the road touting the Trump administration’s agenda, but his travel itinerary in the weeks before the midterm election looks like a trail of political hot spots. On Thursday, Zeldin traveled to an auto repair shop and a construction firm in central Pennsylvania […]",
+   "link": "https://insideclimatenews.org/news/15102026/epa-admin-lee-zeldin-travels-for-policy-or-politics/",
+   "published": "2026-10-15T23:02:56+00:00"
+  },
+  {
    "outlet": "KFF Health News",
    "headline": "What Texas Reveals About the Obstacles to Getting Hospital Financial Aid",
    "summary": "Hospitals can prevent medical debt by offering financial help before sending big bills. A Tradeoffs investigation found that nearly half of nonprofit facilities in Texas say they will bill patients before screening them for aid. And most will not offer refunds to patients who pay and are later found to qualify for free care.",
@@ -1405,13 +1406,6 @@
    "summary": "The \"KFF Health News Minute\" brings original healthcare and health policy reporting from our newsroom to the airwaves each week.",
    "link": "https://kffhealthnews.org/news/listen-kff-health-news-minute-2026/",
    "published": "2026-10-15T09:00:12+00:00"
-  },
-  {
-   "outlet": "National Review",
-   "headline": "Breaking Slowly in the Governors’ Races",
-   "summary": "Only a few of the big races look seriously out of reach, but Republicans are in a perilous position.",
-   "link": "https://www.nationalreview.com/2026/10/breaking-slowly-in-the-governors-races/",
-   "published": "2026-10-14T17:38:44+00:00"
   },
   {
    "outlet": "National Review",
@@ -1461,6 +1455,13 @@
    "summary": "Faux outrage earns progressives attention but only makes comedians like Shane Gillis stronger.",
    "link": "https://www.nationalreview.com/2026/10/the-lefts-performative-misunderstanding/",
    "published": "2026-10-15T10:30:59+00:00"
+  },
+  {
+   "outlet": "National Review",
+   "headline": "Khloé Kardashian Says She Owns Her Daughter, a Frozen Embryo",
+   "summary": "There’s a subtlety in this family exchange that is worth appreciating.",
+   "link": "https://www.nationalreview.com/2026/10/khloe-kardashian-says-she-owns-her-daughter-a-frozen-embryo/",
+   "published": "2026-10-15T21:34:20+00:00"
   },
   {
    "outlet": "NPR",
@@ -1533,151 +1534,158 @@
    "published": "2026-10-15T16:45:02+00:00"
   },
   {
-   "outlet": "PBS NewsHour",
-   "headline": "Democratic and GOP strategists on how Trump's unpopularity is shaping the midterms",
-   "summary": "The latest polling for the upcoming midterms shows a tilt in Democrats' favor. For an inside view of the final weeks of the campaign, Geoff Bennett spoke with Democratic strategist Mo Elleithee and Republican strategist Doug Heye.",
-   "link": "https://www.pbs.org/newshour/show/democratic-and-gop-strategists-on-how-trumps-unpopularity-is-shaping-the-midterms",
-   "published": "2026-10-14T22:30:02+00:00"
+   "outlet": "NPR",
+   "headline": "Hit a midlife wall? This test identifies your strengths and what matters to you",
+   "summary": "In this first episode of Your Turn with Allison Aubrey , we explore the science of the flow state with violinist Diane Allen, who lost her flow and then tried to find it again, and also from Dr. Richard Huskey, who studies the flow state and how each of us can find it.",
+   "link": "https://www.npr.org/2026/10/15/nx-s1-5996678/midlife-wall-reset-test-guide",
+   "published": "2026-10-15T20:50:53+00:00"
+  },
+  {
+   "outlet": "NPR",
+   "headline": "This week in science: sea monsters, long COVID patients' microbiome, elephant carcasses",
+   "summary": "NPR's science podcast Short Wave brings us stories about the hunting habits of ancient sea monsters, the microbiome of long COVID patients, and how elephant carcasses replenish the savannah.",
+   "link": "https://www.npr.org/2026/10/15/nx-s1-5995400/this-week-in-science-sea-monsters-long-covid-patients-microbiome-elephant-carcasses",
+   "published": "2026-10-15T21:33:56+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "The Social Security COLA for 2027 is set. Here's what experts say you need to know",
-   "summary": "This year's increase is 3.6%, based on inflation data, amounting to a little more than $900 next year.",
-   "link": "https://www.pbs.org/newshour/economy/what-is-the-social-security-cola-for-2027-heres-how-it-could-affect-you",
-   "published": "2026-10-14T22:31:37+00:00"
+   "headline": "How much longer will consumers be willing to muscle through higher prices?",
+   "summary": "High gas prices are intensifying inflation and vacuuming up more of Americans' dollars, yet consumers are still digging deep to spend, powering the economy, at least for now",
+   "link": "https://www.pbs.org/newshour/economy/how-much-longer-will-consumers-be-willing-to-muscle-through-higher-prices",
+   "published": "2026-10-15T20:21:04+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "Fraternity culture under scrutiny in wake of Cornell allegations",
-   "summary": "The fallout from sexual assault allegations at Cornell University continues. Faculty members plan to introduce a resolution of no confidence in how leadership handled an alleged gang rape at a fraternity. The university has suspended fraternity parties through the academic year and committed to \"a thorough review of fraternity life.\" Amna Nawaz discussed more with Jud Horras and John Hechinger.",
-   "link": "https://www.pbs.org/newshour/show/fraternity-culture-under-scrutiny-in-wake-of-cornell-allegations",
-   "published": "2026-10-14T22:35:31+00:00"
+   "headline": "WATCH LIVE: Collins, Jackson face off in Maine U.S. Senate debate",
+   "summary": "Sen. Susan Collins, R-Maine, and Democratic challenger Troy Jackson will meet on the debate stage Thursday in one of the nation's most closely watched races during this midterm election cycle.",
+   "link": "https://www.pbs.org/newshour/politics/watch-live-collins-jackson-face-off-in-maine-u-s-senate-debate",
+   "published": "2026-10-15T20:45:04+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "Attorney for banned outlets on legal fight over White House press access",
-   "summary": "A federal judge has once again ordered the White House to restore access for three news organizations President Trump banned last month over their coverage of his administration. The judge ordered full access for CNN, MS NOW and Politico while their legal challenge moves forward. Geoff Bennett discussed more with Ted Boutrous, the attorney representing the three outlets.",
-   "link": "https://www.pbs.org/newshour/show/attorney-for-banned-outlets-on-legal-fight-over-white-house-press-access",
-   "published": "2026-10-14T22:40:27+00:00"
+   "headline": "WATCH LIVE: Rep. Fischbach, challenger Osberg face off in Minnesota U.S. House debate",
+   "summary": "Republican Rep. Michelle Fischbach will face Democratic challenger and small business owner Erik Osberg on the debate stage Thursday.",
+   "link": "https://www.pbs.org/newshour/politics/watch-live-rep-fischbach-challenger-osberg-face-off-in-minnesota-u-s-house-debate",
+   "published": "2026-10-15T20:50:21+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "How Starlink disruptions affected Ukraine's battlefield operations",
-   "summary": "A key component of Ukraine's communications network was partially disabled on Wednesday. The Starshield satellite network, funded by the Pentagon and operated by Elon Musk's SpaceX, was not operating at full capacity, hampering communications within the Ukrainian military. Liz Landers reports and Amna Nawaz discusses the developments with retired U.S. Navy Rear Adm. Mark Montgomery.",
-   "link": "https://www.pbs.org/newshour/show/how-starlink-disruptions-affected-ukraines-battlefield-operations",
-   "published": "2026-10-14T22:45:37+00:00"
+   "headline": "Wisconsin elections officials issue guidance for handling federal agents at polls",
+   "summary": "Elections officials in battleground Wisconsin on Thursday approved guidance for local clerks to help them know what to do if federal law enforcement officials show up at the polls on Election Day, as some activists fear might happen.",
+   "link": "https://www.pbs.org/newshour/politics/wisconsin-elections-officials-issue-guidance-for-handling-federal-agents-at-polls",
+   "published": "2026-10-15T21:37:21+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "News Wrap: Iran says cargo ship sank after hitting a mine in Strait of Hormuz",
-   "summary": "In our news wrap Wednesday, Iran says a cargo ship sank after hitting a mine in the Strait of Hormuz, the Vatican says Pope Leo is eating and walking again following surgery to remove a cancerous portion of his lung, the Supreme Court heard arguments in a privacy case rooted in the era of VHS tapes and Netflix is cutting about 6% of its global workforce.",
-   "link": "https://www.pbs.org/newshour/show/news-wrap-iran-says-cargo-ship-sank-after-hitting-a-mine-in-strait-of-hormuz",
-   "published": "2026-10-14T22:50:43+00:00"
+   "headline": "Retail sales saw 0.8% bump in September, but big chunk of spending went to paying for gas",
+   "summary": "Excluding business at gas stations, retail sales rose 0.2% in September. The government figures aren't adjusted for inflation, which accelerated last month as gasoline and many other goods and services became more expensive.",
+   "link": "https://www.pbs.org/newshour/economy/retail-sales-saw-0-8-bump-in-september-but-big-chunk-of-spending-went-to-paying-for-gas",
+   "published": "2026-10-15T21:49:18+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "Economist breaks down new inflation report and what's driving prices higher",
-   "summary": "With the midterm elections just three weeks away, a new inflation report shows prices rising faster than expected, putting more pressure on Americans struggling with the cost of everyday essentials. To discuss what the latest numbers mean for Americans, Amna Nawaz spoke with Heather Long, vice president and chief economist at Navy Federal Credit Union.",
-   "link": "https://www.pbs.org/newshour/show/economist-breaks-down-new-inflation-report-and-whats-driving-prices-higher",
-   "published": "2026-10-14T22:55:14+00:00"
+   "headline": "At least 2 people hospitalized after shooting at Oregon elementary school, police say",
+   "summary": "At least two people were hospitalized Thursday following a shooting at an elementary school in Bend, Oregon, and the shooter is dead, authorities say.",
+   "link": "https://www.pbs.org/newshour/nation/at-least-2-people-hospitalized-after-shooting-at-oregon-elementary-school-police-say",
+   "published": "2026-10-15T21:54:06+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "WATCH: Rep. Begich faces challenger Hill in a debate for Alaska's at-large House seat",
-   "summary": "Republican Rep. Nick Begich will face off in a debate Wednesday against independent challenger Bill Hill.",
-   "link": "https://www.pbs.org/newshour/politics/watch-live-rep-begich-faces-challenger-hill-in-a-debate-for-alaskas-at-large-house-seat",
-   "published": "2026-10-14T23:13:13+00:00"
+   "headline": "David Byrne explores the art of rediscovery in 'Sleeping Beauties'",
+   "summary": "Why do great ideas and works of art sometimes get forgotten? And why do some get revived? These are among the questions explored by musician, writer and visual artist David Byrne in his new book, \"Sleeping Beauties.\" Senior arts correspondent Jeffrey Brown recently joined him in Brooklyn for our arts and culture series, CANVAS.",
+   "link": "https://www.pbs.org/newshour/show/david-byrne-explores-the-art-of-rediscovery-in-sleeping-beauties",
+   "published": "2026-10-15T22:20:59+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "Doctors say Pope Leo's lung has recovered well from surgery and say his post-operative tests normal",
-   "summary": "The 71-year-old Leo had the lower right lobe of his right lung removed on Tuesday after doctors identified a suspected cancerous nodule.",
-   "link": "https://www.pbs.org/newshour/nation/doctors-say-pope-leos-lung-has-recovered-well-from-surgery-and-say-his-post-operative-tests-normal",
-   "published": "2026-10-15T13:11:05+00:00"
+   "headline": "Why small colleges are closing and the toll on students and communities",
+   "summary": "Across the nation, scores of small private colleges and universities are either closing or under threat. As each school shutters, students, faculty, and the surrounding community struggle to find a way forward. Paul Solman reports on one such school and the effects of its demise. It's part of our higher education series, Rethinking College, and produced in collaboration with the Hechinger Report.",
+   "link": "https://www.pbs.org/newshour/show/why-small-colleges-are-closing-and-the-toll-on-students-and-communities",
+   "published": "2026-10-15T22:25:47+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "Ukraine resumes attacks on Russian oil refineries as relations with Trump sour",
-   "summary": "Ukrainian drones attacked a refinery in Russia's Ryazan region early Thursday, hours after Ukrainian President Volodymyr Zelenskyy said that a brief truce spurned by Moscow was over amid deepening tensions with Washington.",
-   "link": "https://www.pbs.org/newshour/world/ukraine-resumes-attacks-on-russian-oil-refineries-as-relations-with-trump-sour",
-   "published": "2026-10-15T13:30:23+00:00"
+   "headline": "Frustrated with Trump, voters overwhelmingly want change, AP-NORC poll finds",
+   "summary": "A strong majority of voters believe that President Donald Trump is falling short at home and abroad, and they want major change in the upcoming midterm elections, according to a new AP-NORC poll that raises serious warning signs for the Republican Party at a critical moment.",
+   "link": "https://www.pbs.org/newshour/politics/frustrated-with-trump-voters-overwhelmingly-want-change-ap-norc-poll-finds",
+   "published": "2026-10-15T22:27:33+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "LIVE MAP: Track the path of Hurricane Trudy",
-   "summary": "Trudy intensified into a Category 1 hurricane as it approached the Pacific coast of Mexico, authorities said Thursday.",
-   "link": "https://www.pbs.org/newshour/nation/live-map-track-the-path-of-hurricane-trudy",
-   "published": "2026-10-15T13:56:29+00:00"
+   "headline": "Inside Georgia's Senate race and Collins's uphill battle against Ossoff",
+   "summary": "President Trump will travel to Georgia on Friday to stump for Republican Senate candidate Mike Collins. Collins is in an uphill battle against incumbent Democratic Sen. Jon Ossoff. Liz Landers visited Georgia for a closer look at that race.",
+   "link": "https://www.pbs.org/newshour/show/inside-georgias-senate-race-and-collinss-uphill-battle-against-ossoff",
+   "published": "2026-10-15T22:30:58+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "Trump says Fort Hood shooter execution won't be livestreamed after bipartisan backlash",
-   "summary": "The announcement earlier this month from Defense Secretary Pete Hegseth that Hasan's execution would be public prompted significant blowback from both Republicans and Democrats, with many pointing out that the images could be used to fuel radicalization.",
-   "link": "https://www.pbs.org/newshour/politics/trump-says-fort-hood-shooter-execution-wont-be-livestreamed-after-bipartisan-backlash",
-   "published": "2026-10-15T14:34:20+00:00"
+   "headline": "An accounting of Trump's promised payouts and questions they raise",
+   "summary": "President Trump is cutting checks to Americans and promising more with less than three weeks left in a midterm cycle largely focused on affordability. Trump argues they're refunds for excessive healthcare costs and promised economic dividends that only his party can deliver. Democrats contend he's trying to bribe citizens to vote for Republicans. Liz Landers has an accounting of the payouts.",
+   "link": "https://www.pbs.org/newshour/show/an-accounting-of-trumps-promised-payouts-and-questions-they-raise",
+   "published": "2026-10-15T22:35:10+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "AP report: Rep. Ilhan Omar's phone seized and relatives subpoenaed in criminal probe",
-   "summary": "The scope of the investigation into Omar is unclear, though Homeland Security Secretary Markwayne Mullin has suggested that authorities were examining potential crimes related to her family's immigration paperwork.",
-   "link": "https://www.pbs.org/newshour/politics/ap-report-rep-ilhan-omars-phone-seized-and-relatives-subpoenaed-in-criminal-probe",
-   "published": "2026-10-15T14:52:17+00:00"
+   "headline": "Pennsylvania doctor urges vaccination as measles outbreak grows",
+   "summary": "The CDC has confirmed more than 4,000 cases of measles this year as the country grapples with the largest outbreak of the highly infectious virus in 35 years. Nearly a fifth of cases comprise children under the age of five, and 95% are among unvaccinated people. Amna Nawaz spoke with Dr. Evan Shirey, a pediatric infectious disease doctor based in Pennsylvania.",
+   "link": "https://www.pbs.org/newshour/show/pennsylvania-doctor-urges-vaccination-as-measles-outbreak-grows",
+   "published": "2026-10-15T22:40:16+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "Claim that Trump press secretary Katie Zacharia is a lawyer comes under scrutiny",
-   "summary": "The new White House press secretary is facing mounting questions about her background and resume as she transitions into her role as the public face of the Trump administration.",
-   "link": "https://www.pbs.org/newshour/politics/claim-that-trump-press-secretary-katie-zacharia-is-a-lawyer-comes-under-scrutiny",
-   "published": "2026-10-15T15:05:03+00:00"
+   "headline": "News Wrap: Trump says Fort Hood shooter's execution will not be livestreamed",
+   "summary": "In our news wrap Thursday, President Trump canceled plans to livestream the December execution of Fort Hood shooter Nidal Hasan, federal law enforcement agencies are investigating a series of letters containing what they're calling \"suspicious substances\" that were sent to congressional and state election officials and police report multiple victims in a shooting at a school in Bend, Oregon.",
+   "link": "https://www.pbs.org/newshour/show/news-wrap-trump-says-fort-hood-shooters-execution-will-not-be-livestreamed",
+   "published": "2026-10-15T22:45:59+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "What is adenocarcinoma? Here's what to know about Pope Leo XIV's form of lung cancer",
-   "summary": "The pope had the lower section, or lobe, of his right lung removed to try to ensure that all of the cancer was removed.",
-   "link": "https://www.pbs.org/newshour/health/what-is-adenocarcinoma-heres-what-to-know-about-pope-leo-xivs-form-of-lung-cancer",
-   "published": "2026-10-15T15:18:01+00:00"
+   "headline": "Ukraine less reliant on U.S. as Trump-Zelenskyy rift deepens, former ambassador says",
+   "summary": "For perspective on the tensions between President Trump and Ukrainian President Zelenskyy, Amna Nawaz spoke with former U.S. Ambassador to Ukraine William Taylor. He's now a distinguished fellow at the Atlantic Council.",
+   "link": "https://www.pbs.org/newshour/show/ukraine-less-reliant-on-u-s-as-trump-zelenskyy-rift-deepens-former-ambassador-says",
+   "published": "2026-10-15T22:50:07+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "A new sunscreen type for Americans hits store shelves",
-   "summary": "For the first time in more than a quarter-century, Americans have a new option when shopping for sunscreen: a skin-protecting chemical that's long been a go-to option in Europe and other parts of the world.",
-   "link": "https://www.pbs.org/newshour/health/a-new-sunscreen-type-for-americans-hits-store-shelves",
-   "published": "2026-10-15T15:53:05+00:00"
+   "headline": "Ukraine resumes strikes on energy targets, saying Russia never stopped its attacks",
+   "summary": "The tense alliance between Ukrainian President Zelenskyy and President Trump is nearing a new low point. After days of bitter back-and-forth between the two leaders, Ukraine has resumed strikes on Russian energy targets. Trump had demanded an \"energy ceasefire\" this past Sunday between the two. Russia never stopped its attacks. Lisa Desjardins reports.",
+   "link": "https://www.pbs.org/newshour/show/ukraine-resumes-strikes-on-energy-targets-saying-russia-never-stopped-its-attacks",
+   "published": "2026-10-15T22:55:24+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "Authorities investigate letters with 'suspicious substances' sent to congressional, election offices",
-   "summary": "Federal authorities are investigating letters that have been mailed to congressional and election offices nationwide and are urging recipients to treat the mailings as \"potentially hazardous.\"",
-   "link": "https://www.pbs.org/newshour/politics/authorities-investigate-letters-with-suspicious-substances-sent-to-congressional-election-offices",
-   "published": "2026-10-15T16:27:16+00:00"
+   "headline": "WATCH LIVE: Sullivan, Peltola face off in Alaska U.S. Senate debate",
+   "summary": "In Alaska, Republican Sen. Dan Sullivan is set to face off against his Democratic challenger, former Rep. Mary Peltola, on Thursday as he bids for reelection.",
+   "link": "https://www.pbs.org/newshour/politics/watch-live-sullivan-peltola-face-off-in-alaska-u-s-senate-debate",
+   "published": "2026-10-15T22:57:22+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "Medicare open enrollment starts now. These changes will arrive in 2027",
-   "summary": "Open enrollment comes as inflation adds pressure on seniors whose healthcare costs have risen and as midterm elections are weeks away. Voters have consistently said cost-of-living is a major concern.",
-   "link": "https://www.pbs.org/newshour/health/medicare-open-enrollment-starts-now-these-changes-will-arrive-in-2027",
-   "published": "2026-10-15T17:22:38+00:00"
+   "headline": "Saudi diplomat says Iran is encouraging Houthi escalation of attacks on the kingdom",
+   "summary": "The escalation between the Saudis and the rebels in neighboring Yemen has exposed the kingdom's challenges in intercepting the attacks in the latest front in the Iran war, while further rattling global markets.",
+   "link": "https://www.pbs.org/newshour/world/saudi-diplomat-says-iran-is-encouraging-houthi-escalation-of-attacks-on-the-kingdom",
+   "published": "2026-10-15T23:16:23+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "Democrats see voter enthusiasm in fundraising haul from small-dollar donors before the midterms",
-   "summary": "The party has struggled with fundraising during President Donald Trump's second term, lagging behind Republicans and carrying debt into this year's campaign season.",
-   "link": "https://www.pbs.org/newshour/politics/democrats-see-voter-enthusiasm-in-fundraising-haul-from-small-dollar-donors-before-the-midterms",
-   "published": "2026-10-15T17:59:10+00:00"
+   "headline": "Drone strike on ship in Romanian waters raises fear that war in Ukraine is spreading",
+   "summary": "Romanian authorities launched search and rescue operations off the Black Sea coast Thursday after a drone struck a ship which then caught fire, the latest in a spate of strikes that has raised fears that Russia's war in Ukraine is spreading.",
+   "link": "https://www.pbs.org/newshour/world/drone-strike-on-ship-in-romanian-waters-raises-fear-that-war-in-ukraine-is-spreading",
+   "published": "2026-10-15T23:38:56+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "FBI agents and analysts who were fired for working on Trump classified files probe sue to get their jobs back",
-   "summary": "The investigation resulted in a dramatic 2022 FBI search of Mar-a-Lago that recovered classified records and later produced an indictment in federal court in Florida charging then-former President Donald Trump with dozens of felony counts.",
-   "link": "https://www.pbs.org/newshour/politics/fbi-agents-and-analysts-who-were-fired-for-working-on-trump-classified-files-probe-sue-to-get-their-jobs-back",
-   "published": "2026-10-15T19:26:01+00:00"
+   "headline": "Prince Harry and Meghan make first joint appearances since returning to UK",
+   "summary": "Prince Harry and his wife Meghan appeared together in a trio of charity visits Thursday, their first joint public appearance since moving back to England, as they seek to rebuild their brand in Britain after walking away from royal duties six years ago.",
+   "link": "https://www.pbs.org/newshour/world/prince-harry-and-meghan-make-first-joint-appearances-since-returning-to-uk",
+   "published": "2026-10-15T23:57:09+00:00"
   },
   {
-   "outlet": "Politico",
-   "headline": "‘I think Alaska’s turning blue’: Republicans fret Sullivan’s path to reelection",
-   "summary": "Alaska strategists and voters acknowledge GOP Sen. Dan Sullivan is facing a difficult road, despite Trump’s support and the outside money pouring in.",
-   "link": "https://www.politico.com/news/2026/10/14/alaska-sullivan-trump-maga-01118073",
-   "published": "2026-10-14T18:18:37+00:00"
+   "outlet": "PBS NewsHour",
+   "headline": "Infantino apologizes to FIFA Council for World Cup furor but leaves critics unhappy",
+   "summary": "Gianni Infantino apologized to FIFA's ruling council on Thursday for \"mistakes\" in his secretive investment plan for the World Cup but didn't give details sought by his toughest critics who want to oust him as the president of soccer's governing body.",
+   "link": "https://www.pbs.org/newshour/world/infantino-apologizes-to-fifa-council-for-world-cup-furor-but-leaves-critics-unhappy",
+   "published": "2026-10-16T00:20:13+00:00"
   },
   {
    "outlet": "Politico",
@@ -1687,25 +1695,18 @@
    "published": "2026-10-15T19:11:47+00:00"
   },
   {
-   "outlet": "Politico Europe",
-   "headline": "Russian security service detains Swedish citizen for espionage",
-   "summary": "The man is accused of illegal border crossing and terrorism.",
-   "link": "https://www.politico.eu/article/russia-federal-security-service-detain-sweden-citizen-espionage/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "published": "2026-10-15T14:09:37+00:00"
+   "outlet": "Politico",
+   "headline": "Mitch Daniels rebukes JD Vance over free-market retreat",
+   "summary": "Daniels said the Republican Party’s evolution under Trump could create an opening for a party to champion economic freedom.",
+   "link": "https://www.politico.com/news/2026/10/15/mitch-daniels-jd-vance-free-market-01120839",
+   "published": "2026-10-15T20:20:08+00:00"
   },
   {
-   "outlet": "Politico Europe",
-   "headline": "EU-Kommission plant Safeguards für chinesische Chemikalien und Maschinen",
-   "summary": "Brüssel prüft derzeit Möglichkeiten zum Schutz dieser beiden Branchen, nachdem mit China eine Vereinbarung zur Begrenzung der Einfuhren von Hybridfahrzeugen getroffen wurde.",
-   "link": "https://www.politico.eu/article/eu-kommission-plant-safeguards-fuer-chinesische-chemikalien-und-maschinen/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "published": "2026-10-15T14:21:56+00:00"
-  },
-  {
-   "outlet": "Politico Europe",
-   "headline": "‘We give back’: Zelenskyy replies to Le Pen’s pledge to cut aid",
-   "summary": "The Ukrainian president argues that France and Europe are benefiting from Ukraine's battlefield experience.",
-   "link": "https://www.politico.eu/article/volodymyr-zelenskyy-marine-le-pen-pledge-cut-financial-aid-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "published": "2026-10-15T14:26:16+00:00"
+   "outlet": "Politico",
+   "headline": "Trump lashes out at Republicans as Ken Paxton struggles in Texas",
+   "summary": "The president singled out Karl Rove and incumbent Sen. John Cornyn as his endorsed candidate appears to be in a tight race with James Talarico.",
+   "link": "https://www.politico.com/news/2026/10/15/trump-lashes-out-at-republicans-as-ken-paxtron-struggles-in-texas-01122111",
+   "published": "2026-10-15T22:14:42+00:00"
   },
   {
    "outlet": "Politico Europe",
@@ -1757,11 +1758,25 @@
    "published": "2026-10-15T19:21:45+00:00"
   },
   {
-   "outlet": "PolitiFact",
-   "headline": "Republican congresswoman Miller-Meeks says she doesn’t own individual stocks. True.",
-   "summary": "“I don’t own a single individual stock.”",
-   "link": "https://politifact.com/factchecks/2026/oct/14/mariannette-miller-meeks/iowa-house-individual-stock-holdings/",
-   "published": "2026-10-14T17:21:39+00:00"
+   "outlet": "Politico Europe",
+   "headline": "Shorten EU budget to 3 or 4 years, Cyprus president tells POLITICO",
+   "summary": "“You don’t know what’s going to be the situation in 2030, 2031,\" Nikos Christodoulides says in interview.",
+   "link": "https://www.politico.eu/article/eu-budget-cyprus-president-euco-summit-politico/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "published": "2026-10-15T20:21:15+00:00"
+  },
+  {
+   "outlet": "Politico Europe",
+   "headline": "Late discord delays Franco-German deal on Made in Europe, car emissions",
+   "summary": "The draft pact supports tighter eligibility rules for non-EU countries to participate in public procurement and public support, and softens the 2035 combustion engine ban.",
+   "link": "https://www.politico.eu/article/franco-german-made-in-europe-deal-delays-car-emissions/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "published": "2026-10-15T21:22:12+00:00"
+  },
+  {
+   "outlet": "Politico Europe",
+   "headline": "Costa angers EU leaders as splits mar summit",
+   "summary": "Divisions over energy prices and the bloc's seven-year budget expose unhappiness over European Council president's performance.",
+   "link": "https://www.politico.eu/article/antonio-costa-angers-eu-leaders-splits-mar-euco-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "published": "2026-10-16T00:03:30+00:00"
   },
   {
    "outlet": "PolitiFact",
@@ -1797,62 +1812,6 @@
    "summary": "The post Trump Says the Border Is Secure. Texas Gov. Greg Abbott Keeps Declaring an Emergency. appeared first on ProPublica .",
    "link": "https://www.propublica.org/article/greg-abbott-border-security-disaster-proclamation",
    "published": "2026-10-15T10:00:00+00:00"
-  },
-  {
-   "outlet": "Reason",
-   "headline": "Mental Illness Doesn't Cancel Your Right to Say No",
-   "summary": "Uncle Sam force feeding a man some pills",
-   "link": "https://reason.com/2026/10/14/mental-illness-doesnt-cancel-your-right-to-say-no/",
-   "published": "2026-10-14T14:36:55+00:00"
-  },
-  {
-   "outlet": "Reason",
-   "headline": "Mark Cuban: 'I'd Get Rid of All Political Parties'",
-   "summary": "Mark Cuban appears on the left. Nick Gillespie appears on the right. An image of the U.S. Capitol building at night appears in the center. Bold text across the bottom of the screen reads \"I don't give a penny to politicians\"",
-   "link": "https://reason.com/podcast/2026/10/14/mark-cuban-id-get-rid-of-all-political-parties/",
-   "published": "2026-10-14T15:00:57+00:00"
-  },
-  {
-   "outlet": "Reason",
-   "headline": "How Local Governments Turn Minor Violations Into Financial Ruin",
-   "summary": "John Stossel holds a copy of the U.S. Constitution",
-   "link": "https://reason.com/2026/10/14/how-local-governments-turn-minor-violations-into-financial-ruin/",
-   "published": "2026-10-14T15:47:58+00:00"
-  },
-  {
-   "outlet": "Reason",
-   "headline": "New on SCOTUSBlog: \"Witnessing a reorientation of the First and Second Amendments on the Roberts court\"",
-   "summary": "\"What a difference two decades has made for the First and Second Amendments.\"",
-   "link": "https://reason.com/volokh/2026/10/14/new-on-scotusblog-witnessing-a-reorientation-of-the-first-and-second-amendments-on-the-roberts-court/",
-   "published": "2026-10-14T16:00:08+00:00"
-  },
-  {
-   "outlet": "Reason",
-   "headline": "Trump's Plan To Buy Russian Diesel Would Violate Federal Law",
-   "summary": "Donald Trump and a Russian fuel tanker",
-   "link": "https://reason.com/2026/10/14/trumps-plan-to-buy-russian-diesel-would-violate-federal-law/",
-   "published": "2026-10-14T16:00:19+00:00"
-  },
-  {
-   "outlet": "Reason",
-   "headline": "Posting About This 'Robot Sexual Assault' in Germany Could Be a Crime",
-   "summary": "German robot",
-   "link": "https://reason.com/2026/10/14/posting-about-this-robot-sexual-assault-in-germany-could-be-a-crime/",
-   "published": "2026-10-14T16:15:24+00:00"
-  },
-  {
-   "outlet": "Reason",
-   "headline": "Second Amendment Rights Not Forfeited by Past Drunk Driving Conviction",
-   "summary": "From yesterday's Third Circuit en banc opinion in Williams v. Attorney General, written by Judge Paul Matey (and citing, among… The post Second Amendment Rights Not Forfeited by Past Drunk Driving Conviction appeared first on Reason Magazine.",
-   "link": "https://reason.com/volokh/2026/10/14/second-amendment-rights-not-forfeited-by-past-drunk-driving-conviction/",
-   "published": "2026-10-14T17:51:20+00:00"
-  },
-  {
-   "outlet": "Reason",
-   "headline": "A Trump Appointee Says the President Likely Violated the First Amendment by Banishing Disfavored Journalists",
-   "summary": "reporters aiming microphones at President Donald Trump, with a page from a federal lawsuit in the background",
-   "link": "https://reason.com/2026/10/14/a-trump-appointee-says-the-president-likely-violated-the-first-amendment-by-banishing-disfavored-journalists/",
-   "published": "2026-10-14T18:20:45+00:00"
   },
   {
    "outlet": "Reason",
@@ -2037,25 +1996,39 @@
    "published": "2026-10-15T19:10:57+00:00"
   },
   {
+   "outlet": "Reason",
+   "headline": "To Avoid Criticizing Trump's Tariffs and War, Vivek Ramaswamy Takes on Data Centers",
+   "summary": "Vivek Ramaswamy",
+   "link": "https://reason.com/2026/10/15/to-avoid-criticizing-trumps-tariffs-and-war-vivek-ramaswamy-takes-on-data-centers/",
+   "published": "2026-10-15T20:00:43+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "Ilhan Omar vs. DHS, Russia vs. Ukraine, Shane Gillis vs. Women",
+   "summary": "Robby Soave and Christian Britschgi somehow manage to cover domestic politics, foreign policy, culture wars, and the latest movies in this jam-packed episode of Freed Up.",
+   "link": "https://reason.com/podcast/2026/10/15/ilhan-omar-vs-dhs-russia-vs-ukraine-shane-gillis-vs-women/",
+   "published": "2026-10-15T21:00:09+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "Why Some Americans Living Abroad Would Rather Renounce Their Citizenship Than File Taxes",
+   "summary": "A person holding a big pile of papers and files on their back",
+   "link": "https://reason.com/2026/10/15/why-some-americans-living-abroad-would-rather-renounce-their-citizenship-than-file-taxes/",
+   "published": "2026-10-15T21:15:24+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "Eleventh Circuit Rejects Netchoice's Challenge to Georgia Law Restricting Under-16-Year-Old Social Media Access",
+   "summary": "From today's Eleventh Circuit opinion in Netchoice v. Attorney General, by Judge Kevin Newsom, joined by Judges Robert Luck and… The post Eleventh Circuit Rejects Netchoice's Challenge to Georgia Law Restricting Under-16-Year-Old Social Media Access appeared first on Reason Magazine.",
+   "link": "https://reason.com/volokh/2026/10/15/eleventh-circuit-rejects-netchoices-challenge-to-georgia-law-restricting-under-16-year-old-social-media-access/",
+   "published": "2026-10-15T21:34:58+00:00"
+  },
+  {
    "outlet": "Rest of World",
    "headline": "What the West can learn from AI optimists in the rest of the world",
    "summary": "The developing world’s enthusiastic adoption of AI and necessity-driven innovations offer lessons for an anxiety-ridden West.",
    "link": "https://restofworld.org/2026/west-ai-anxiety-optimism-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
    "published": "2026-10-15T10:00:00+00:00"
-  },
-  {
-   "outlet": "Science News",
-   "headline": "Tiny implants can use the body itself to talk to each other",
-   "summary": "Researchers made a rat’s front-leg movement trigger its back leg. The experiment could point to a new kind of body-based network to connect implants.",
-   "link": "https://www.sciencenews.org/article/implants-body-electric-signal-tissue",
-   "published": "2026-10-14T15:00:00+00:00"
-  },
-  {
-   "outlet": "Science News",
-   "headline": "Can math stay human in the age of AI?",
-   "summary": "As AI churns out mathematical proofs, a DeepMind study raises a bigger question: What do we lose when we focus only on the answers?",
-   "link": "https://www.sciencenews.org/article/math-human-ai-age",
-   "published": "2026-10-14T17:00:00+00:00"
   },
   {
    "outlet": "Science News",
@@ -2077,27 +2050,6 @@
    "summary": "With the proliferation of fancy salts and changing dietary habits, there are signs people aren’t getting enough of the crucial mineral iodine.",
    "link": "https://www.sciencenews.org/article/iodine-salt-brain-development-diets",
    "published": "2026-10-15T17:00:00+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Why one spoiler candidate is now trying to replicate his work nationwide",
-   "summary": "Aaron Day cost one Republican senator her race in 2016. These days he’s using AI to expand his work.",
-   "link": "https://www.semafor.com/article/10/14/2026/why-one-spoiler-candidate-is-now-trying-to-replicate-his-work-nationwide",
-   "published": "2026-10-14T14:58:11+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Trump returns to Ohio as Democrats try to claw back his advantage",
-   "summary": "Republicans around Youngstown expected the trend of underestimating their vote to hold this year, but not accelerate, and they agreed Democrats would at least be competitive.",
-   "link": "https://www.semafor.com/article/10/14/2026/trump-returns-to-ohio-as-democrats-try-to-claw-back-his-advantage",
-   "published": "2026-10-14T16:32:44+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Xbox leans into AI with Xbox Labs",
-   "summary": "The company aims to work with users as well as its own developers and engineers to make games and experiences stemming from the new AI-fueled creations.",
-   "link": "https://www.semafor.com/article/10/14/2026/xbox-leans-into-ai-with-xbox-labs",
-   "published": "2026-10-14T17:47:07+00:00"
   },
   {
    "outlet": "Semafor",
@@ -2296,18 +2248,81 @@
    "published": "2026-10-15T17:54:44+00:00"
   },
   {
-   "outlet": "STAT",
-   "headline": "STAT+: FDA adcomm members’ ties to industry under scrutiny",
-   "summary": "New research found that nearly 40% of FDA advisory meetings held over a recent 20-year period included either a patient or consumer rep with active ties to an advocacy group…",
-   "link": "https://www.statnews.com/2026/10/14/biotech-news-fda-adcomm-member-ties-to-industry-under-scrutiny/?utm_campaign=rss",
-   "published": "2026-10-14T14:12:14+00:00"
+   "outlet": "Semafor",
+   "headline": "Americans open to data centers with guardrails, poll finds",
+   "summary": "AI companies can soften support for statewide data center moratoriums by committing to pay for related electricity costs and lessen local environmental impacts, the poll found.",
+   "link": "https://www.semafor.com/article/10/15/2026/americans-open-to-data-centers-with-guardrails-poll-finds",
+   "published": "2026-10-15T20:05:00+00:00"
   },
   {
-   "outlet": "STAT",
-   "headline": "How consumer tech company Whoop is building for Medicare patients",
-   "summary": "Whoop's chief medical officer, said the company's work with Medicare is an opportunity to prove its ability to improve health at the population level.",
-   "link": "https://www.statnews.com/2026/10/14/whoop-ami-bhatt-population-health-stat-summit-boston-2026/?utm_campaign=rss",
-   "published": "2026-10-14T18:16:08+00:00"
+   "outlet": "Semafor",
+   "headline": "Senate Democratic candidates post ‘holy crap’ fundraising numbers",
+   "summary": "They’re cutting into Republicans’ midterm spending advantage across the map.",
+   "link": "https://www.semafor.com/article/10/15/2026/senate-democratic-candidates-post-holy-crap-fundraising-numbers",
+   "published": "2026-10-15T20:08:57+00:00"
+  },
+  {
+   "outlet": "Semafor",
+   "headline": "The cost of insuring against AI company defaults spikes",
+   "summary": "Investors are buying up credit default swaps to protect against default by highly indebted hyperscalers, including CoreWeave and Oracle.",
+   "link": "https://www.semafor.com/article/10/15/2026/the-cost-of-insuring-against-ai-company-defaults-spikes",
+   "published": "2026-10-15T21:39:18+00:00"
+  },
+  {
+   "outlet": "Semafor",
+   "headline": "US stocks recover after multi-day tech selloff",
+   "summary": "Investors flocked to safer assets on concerns the AI buildout could falter in the face of weak consumer demand and high inflation.",
+   "link": "https://www.semafor.com/article/10/15/2026/us-stocks-recover-after-multi-day-tech-selloff",
+   "published": "2026-10-15T22:23:21+00:00"
+  },
+  {
+   "outlet": "Semafor",
+   "headline": "Zelenskyy meets EU leaders as his rift with Trump deepens",
+   "summary": "EU leaders are expected to ask Ukraine’s Volodymyr Zelenskyy to moderate his rhetoric against US President Donald Trump, the Financial Times reported.",
+   "link": "https://www.semafor.com/article/10/15/2026/zelenskyy-meets-eu-leaders-as-his-rift-with-trump-deepens",
+   "published": "2026-10-15T22:25:59+00:00"
+  },
+  {
+   "outlet": "Semafor",
+   "headline": "Trump cancels plans for execution livestream after blowback",
+   "summary": "More than 70 retired military leaders had condemned the “barbaric” order.",
+   "link": "https://www.semafor.com/article/10/15/2026/trump-cancels-plans-for-execution-livestream-after-blowback",
+   "published": "2026-10-15T22:28:24+00:00"
+  },
+  {
+   "outlet": "Semafor",
+   "headline": "Airports are becoming targets in escalating wars",
+   "summary": "The Houthis have reportedly struck Riyadh’s airport 20 times this month.",
+   "link": "https://www.semafor.com/article/10/15/2026/airports-are-becoming-targets-in-escalating-wars",
+   "published": "2026-10-15T22:28:28+00:00"
+  },
+  {
+   "outlet": "Semafor",
+   "headline": "US expands military campaign against drug cartels in Latin America",
+   "summary": "The US is deploying 600 soldiers to a Panama training facility, The New York Times reported.",
+   "link": "https://www.semafor.com/article/10/15/2026/us-expands-military-campaign-against-drug-cartels-in-latin-america",
+   "published": "2026-10-15T22:31:24+00:00"
+  },
+  {
+   "outlet": "Semafor",
+   "headline": "UK signals it could coordinate with EU on Chinese EV tariffs",
+   "summary": "European leaders have adopted a more aggressive stance to shield native businesses from a tidal wave of Chinese imports.",
+   "link": "https://www.semafor.com/article/10/15/2026/uk-signals-it-could-coordinate-with-eu-on-chinese-ev-tariffs",
+   "published": "2026-10-15T22:34:24+00:00"
+  },
+  {
+   "outlet": "Semafor",
+   "headline": "UK and EU consider coordination on China tariffs",
+   "summary": "The UK said it was prepared to align its tariffs on Chinese EVs with the EU’s, delivering a boost to Brussels amid trade negotiations with Beijing.",
+   "link": "https://www.semafor.com/article/10/15/2026/the-uk-and-eu-consider-coordination-on-china-tariffs",
+   "published": "2026-10-15T22:38:30+00:00"
+  },
+  {
+   "outlet": "Semafor",
+   "headline": "White House’s AI task force gets to work",
+   "summary": "The White House Super Intelligence task force has formally adopted its charter.",
+   "link": "https://www.semafor.com/article/10/15/2026/white-houses-ai-task-force-gets-to-work",
+   "published": "2026-10-16T00:16:05+00:00"
   },
   {
    "outlet": "STAT",
@@ -2422,39 +2437,18 @@
    "published": "2026-10-15T18:09:18+00:00"
   },
   {
-   "outlet": "Straight Arrow News",
-   "headline": "Why 6 Senate Republicans are turning on Trump’s diesel deal with Russia",
-   "summary": "A group of Senate Republicans signed a letter Tuesday afternoon, asserting the deal helps Russia without lowering energy costs for Americans.",
-   "link": "https://san.com/cc/why-6-senate-republicans-are-turning-on-trumps-diesel-deal-with-russia/",
-   "published": "2026-10-14T16:15:32+00:00"
+   "outlet": "STAT",
+   "headline": "Merck and Moderna have ‘lot of exploring to do’ after initial cancer vaccine success",
+   "summary": "Stephen Hoge and Dean Li, at the STAT Summit, spoke of how Merck and Moderna will pair Keytruda with personalized mRNA vaccines to target tumors.",
+   "link": "https://www.statnews.com/2026/10/15/moderna-merck-keytruda-mrna-cancer-vaccine-strategy/?utm_campaign=rss",
+   "published": "2026-10-15T19:58:35+00:00"
   },
   {
-   "outlet": "Straight Arrow News",
-   "headline": "AI is letting just about anyone become a cybercriminal: Report",
-   "summary": "Experts say with the help of AI, even people who don’t have the technical expertise to break into an organization's networks could do it.",
-   "link": "https://san.com/cc/ai-is-letting-just-about-anyone-become-a-cybercriminal-report/",
-   "published": "2026-10-14T16:30:00+00:00"
-  },
-  {
-   "outlet": "Straight Arrow News",
-   "headline": "Company removes ‘AirTag Silencer’ following stalking complaints",
-   "summary": "A device that permanently disables the speaker in Apple’s tracker was pulled from sales following backlash that it enabled stalkers.",
-   "link": "https://san.com/cc/company-removes-airtag-silencer-following-stalking-complaints/",
-   "published": "2026-10-14T16:43:36+00:00"
-  },
-  {
-   "outlet": "Straight Arrow News",
-   "headline": "People are building license plate reader cameras to track the cops",
-   "summary": "Police visited a Canadian YouTuber at his home after he built a license plate reader camera designed to only track law enforcement vehicles.",
-   "link": "https://san.com/cc/people-are-building-license-plate-reader-cameras-to-track-the-cops/",
-   "published": "2026-10-14T17:00:00+00:00"
-  },
-  {
-   "outlet": "Straight Arrow News",
-   "headline": "In 2026, does the truth trump a lie? Talarico’s fate may answer the question",
-   "summary": "Claims that Texas Senate candidate James Talarico was in a psychiatric hospital didn’t survive fact-checks. So why won’t the conspiracy theory die?",
-   "link": "https://san.com/cc/does-the-truth-trump-a-lie-talaricos-fate-may-answer-the-question/",
-   "published": "2026-10-14T17:00:00+00:00"
+   "outlet": "STAT",
+   "headline": "Trump administration advances plan for peptide drugs favored by RFK Jr.",
+   "summary": "U.S. health officials are moving ahead with a plan to allow specialty pharmacies to produce certain peptides, a class of largely unregulated injections favored by health secretary Robert F. Kennedy…",
+   "link": "https://www.statnews.com/2026/10/15/trump-administration-advances-plan-peptides-rfk-jr/?utm_campaign=rss",
+   "published": "2026-10-15T20:46:09+00:00"
   },
   {
    "outlet": "Straight Arrow News",
@@ -2562,11 +2556,18 @@
    "published": "2026-10-15T19:51:45+00:00"
   },
   {
-   "outlet": "The Conversation",
-   "headline": "Yemen’s Houthis are bringing their war to Saudi Arabia – and reframing the narrative of being an Iranian proxy",
-   "summary": "A deadly bombing at Riyadh’s international airport is the latest in a tit-for-tat retaliation campaign the Houthis have ramped up for weeks.",
-   "link": "https://theconversation.com/yemens-houthis-are-bringing-their-war-to-saudi-arabia-and-reframing-the-narrative-of-being-an-iranian-proxy-294208",
-   "published": "2026-10-14T17:57:45+00:00"
+   "outlet": "Straight Arrow News",
+   "headline": "At least 3 children, 1 adult, killed during shooting in Oregon elementary school: Reports",
+   "summary": "Police say officers have responded to a possible school shooting in Bend, Oregon.",
+   "link": "https://san.com/cc/police-respond-to-shooting-at-elementary-school/",
+   "published": "2026-10-15T21:26:23+00:00"
+  },
+  {
+   "outlet": "Straight Arrow News",
+   "headline": "The latest undercurrent beneath a wave of voter turnout: Millennial anger",
+   "summary": "Millions of Americans took advantage of early and mail-in voting to cast their decisions early. Millennial angst could be driving that.",
+   "link": "https://san.com/cc/the-latest-undercurrent-beneath-a-wave-of-voter-turnout-millennial-anger/",
+   "published": "2026-10-15T22:34:13+00:00"
   },
   {
    "outlet": "The Conversation",
@@ -2633,34 +2634,6 @@
   },
   {
    "outlet": "The Diplomat",
-   "headline": "Russia’s Arrest of a Japanese Journalist Deepens the Freeze in Japan-Russia Relations",
-   "summary": "The case of Hokkaido Shimbun correspondent Imai Yuki could chill reporting from Russia’s Far East and narrow the space for even limited diplomatic engagement.",
-   "link": "https://thediplomat.com/2026/10/russias-arrest-of-a-japanese-journalist-deepens-the-freeze-in-japan-russia-relations/",
-   "published": "2026-10-14T14:15:00+00:00"
-  },
-  {
-   "outlet": "The Diplomat",
-   "headline": "The Trump-Xi Summit Exposed the Problems in China-US Crisis Management",
-   "summary": "Military communication channels become bargaining chips precisely when a crisis makes them indispensable.",
-   "link": "https://thediplomat.com/2026/10/the-trump-xi-summit-exposed-the-problems-in-china-us-crisis-management/",
-   "published": "2026-10-14T16:06:00+00:00"
-  },
-  {
-   "outlet": "The Diplomat",
-   "headline": "For Uyghurs in Central Asia, US Diplomacy Could Be a Lifeline",
-   "summary": "By pressing Central Asian governments to protect Uyghurs and resist Beijing’s coercion, Secretary Rubio can demonstrate that America’s moral leadership still matters.",
-   "link": "https://thediplomat.com/2026/10/for-uyghurs-in-central-asia-us-diplomacy-could-be-a-lifeline/",
-   "published": "2026-10-14T17:12:00+00:00"
-  },
-  {
-   "outlet": "The Diplomat",
-   "headline": "China’s Advance in the Bahamas",
-   "summary": "Beijing's presence in the Bahamas and its military implications for the U.S. are often overshadowed by discussion of Chinese activities elsewhere in the region.",
-   "link": "https://thediplomat.com/2026/10/chinas-advance-in-the-bahamas/",
-   "published": "2026-10-14T17:33:00+00:00"
-  },
-  {
-   "outlet": "The Diplomat",
    "headline": "Brewing in Japan: Price-Fixing Probes Test Consumer Confidence",
    "summary": "The Japan Fair Trade Commission’s secretary general issued an unusual public warning against cartel-like activity amid rising prices.",
    "link": "https://thediplomat.com/2026/10/brewing-in-japan-price-fixing-probes-test-consumer-confidence/",
@@ -2702,11 +2675,67 @@
    "published": "2026-10-15T12:37:00+00:00"
   },
   {
-   "outlet": "The Dispatch",
-   "headline": "There Are Limits to Incompetence",
-   "summary": "The MAGA jabronis have failed to bring about ‘the golden age.’",
-   "link": "https://thedispatch.com/newsletter/gfile/reality-incompetence-villainy-trump/",
-   "published": "2026-10-14T21:44:42+00:00"
+   "outlet": "The Diplomat",
+   "headline": "China Spied on Taiwanese President’s Son – in the US",
+   "summary": "The incident shone a spotlight on China's growing repertoire for transnational repression targeting Taiwanese leaders.",
+   "link": "https://thediplomat.com/2026/10/china-spied-on-taiwanese-presidents-son-in-the-us/",
+   "published": "2026-10-15T12:39:00+00:00"
+  },
+  {
+   "outlet": "The Diplomat",
+   "headline": "Maldives Opposition Eyes Sweeping Constitutional Overhaul",
+   "summary": "The MDP’s constitutional reform program calls for splitting the executive into two separate offices: head of state and head of government.",
+   "link": "https://thediplomat.com/2026/10/maldives-opposition-eyes-sweeping-constitutional-overhaul/",
+   "published": "2026-10-15T13:09:00+00:00"
+  },
+  {
+   "outlet": "The Diplomat",
+   "headline": "How Chinese Clean Tech Is Reshaping Ukraine’s Wartime Energy Security",
+   "summary": "Despite China’s close ties with Russia, Chinese solar energy technology is giving Ukraine badly needed energy resilience.",
+   "link": "https://thediplomat.com/2026/10/how-chinese-clean-tech-is-reshaping-ukraines-wartime-energy-security/",
+   "published": "2026-10-15T13:16:00+00:00"
+  },
+  {
+   "outlet": "The Diplomat",
+   "headline": "The Africa Pivot: India and Japan’s Quest for Critical Mineral Security",
+   "summary": "India and Japan are betting on Africa’s critical minerals as the two Asian powers explore joint investment to secure supplies and expand mining capabilities across Africa.",
+   "link": "https://thediplomat.com/2026/10/the-africa-pivot-india-and-japans-quest-for-critical-mineral-security/",
+   "published": "2026-10-15T13:26:00+00:00"
+  },
+  {
+   "outlet": "The Diplomat",
+   "headline": "Japan’s Nuclear Revival Has a Trust Problem",
+   "summary": "Prime Minister Takaichi Sanae has made it clear that the nuclear restart is part of the answer to Japan’s energy uncertainty, but questions remain about safety and accountability.",
+   "link": "https://thediplomat.com/2026/10/japans-nuclear-revival-has-a-trust-problem/",
+   "published": "2026-10-15T14:29:00+00:00"
+  },
+  {
+   "outlet": "The Diplomat",
+   "headline": "‘One Day at a Time’: Inside an IDP Camp in Myanmar, Survival Is a Daily Challenge",
+   "summary": "Some of those living in the Old Kran Khun camp were once well off. Now they forage in the fields and forests around the IDP camp for food and firewood.",
+   "link": "https://thediplomat.com/2026/10/one-day-at-a-time-inside-an-idp-camp-in-myanmar-survival-is-a-daily-challenge/",
+   "published": "2026-10-15T15:08:00+00:00"
+  },
+  {
+   "outlet": "The Diplomat",
+   "headline": "Don’t Call It a Reset: The Modi-Xi Meeting Wasn’t a Turning Point",
+   "summary": "Both sides are trying to prevent another crisis while their core disagreements remain unresolved.",
+   "link": "https://thediplomat.com/2026/10/dont-call-it-a-reset-the-modi-xi-meeting-wasnt-a-turning-point/",
+   "published": "2026-10-15T15:42:00+00:00"
+  },
+  {
+   "outlet": "The Diplomat",
+   "headline": "China’s Rare Earth Strategy and the Future of the South China Sea",
+   "summary": "The rise of seabed mining will add new complexity to the South China Sea disputes.",
+   "link": "https://thediplomat.com/2026/10/chinas-rare-earth-strategy-and-the-future-of-the-south-china-sea/",
+   "published": "2026-10-15T17:21:00+00:00"
+  },
+  {
+   "outlet": "The Diplomat",
+   "headline": "Anas Alhajji on the Three Seas Crisis and the Race for Energy Dominance",
+   "summary": "Dr. Anas Alhajji joins host Tushar Shetty to examine how the Hormuz crisis is reshaping global energy markets – and the overlooked impact of the loss of Russian and Kazakh supply.",
+   "link": "https://thediplomat.com/2026/10/anas-alhajji-on-the-three-seas-crisis-and-the-race-for-energy-dominance/",
+   "published": "2026-10-15T17:42:00+00:00"
   },
   {
    "outlet": "The Dispatch",
@@ -2772,60 +2801,11 @@
    "published": "2026-10-15T18:14:46+00:00"
   },
   {
-   "outlet": "The Guardian",
-   "headline": "Is it really ‘madness’ to account for emissions from fossil fuels burned overseas? The Coalition sure thinks so | Temperature Check",
-   "summary": "The emissions might occur elsewhere, but they generate global harm that scientists can now quantify Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here The Coalition has come up with the perfect solution to deal with the climate pollution from when Australian fossil fuels are burned overseas. We should either just pretend they don’t exist, or ignore the reason w",
-   "link": "https://www.theguardian.com/environment/2026/oct/14/is-it-really-madness-to-account-for-emissions-from-fossil-fuels-burned-overseas-the-coalition-sure-thinks-so",
-   "published": "2026-10-14T14:14:43+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Mont Blanc, the ‘roof of Europe’, loses more than a metre of height in a year",
-   "summary": "Peak of French mountain now 4,807 metres high and fluctuates year by year due to changes in Alpine climate Western Europe’s highest mountain shrank by more than a metre last year. The peak of Mont Blanc in France now stands 4,807.47 metres above sea level, a team of surveyors said on Wednesday, putting “the roof of Europe” 1.29 metres lower than in 2025. The mountain is about 4,792 metres tall but",
-   "link": "https://www.theguardian.com/environment/2026/oct/14/mont-blanc-loses-metre-height",
-   "published": "2026-10-14T15:33:52+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Plan unveiled to increase share of land farmed organically in England to 10%",
-   "summary": "Government says ambition for 2036 will be good for food and climate resilience, but concerns remain over funding The government has set an ambition to increase the share of English land farmed organically to 10% by 2036, but concerns remain over how the transition will be funded. Currently, just 3.4% of England’s agricultural land is farmed organically, one of the smallest shares in Europe. France",
-   "link": "https://www.theguardian.com/environment/2026/oct/14/land-farmed-organically-england-share-10-pc-2036-plan-food-climate",
-   "published": "2026-10-14T16:49:15+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "New UK sanctions powers will enable action against supporters of illegal Israeli settlements",
-   "summary": "Global human rights commitments adopted by government extend reach to enablers of unlawful activity The UK is expanding its sanctions powers to freeze assets and target entities enabling illegal Israeli settlements, obstructing humanitarian aid or unlawfully holding prisoners. The statutory instrument introducing the global human rights and international humanitarian law sanctions adds three new g",
-   "link": "https://www.theguardian.com/politics/2026/oct/14/uk-sanctions-powers-action-supporters-israeli-settlements",
-   "published": "2026-10-14T16:51:25+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "UK’s ‘incoherent’ approach to China plagued by lack of expertise, report says",
-   "summary": "International alliance of China-sceptic legislators warns of risks inherent in misjudging bilateral relationship The UK’s approach to China is “beset by incoherence” and plagued by a lack of senior expertise, according to a report warning of the risks inherent in misjudging the bilateral relationship. An audit by the Inter-Parliamentary Alliance on China (Ipac), an international grouping of China-",
-   "link": "https://www.theguardian.com/politics/2026/oct/14/uks-incoherent-approach-to-china-plagued-by-a-lack-of-expertise-report-says",
-   "published": "2026-10-14T17:00:14+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Two container ships sink near strait of Hormuz amid surge in Iranian attacks",
-   "summary": "Vessels were hit by missiles as rise in strikes suggests Iran is trying to close waterway before US midterm elections Two container ships near the strait of Hormuz have ⁠sunk after being struck by missiles, amid the sharpest rise in Iranian attacks on shipping since the start of the US-Israel war with Iran. The increase in attacks suggests Iran is trying to fully close the strategic waterway in an",
-   "link": "https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections",
-   "published": "2026-10-14T17:05:42+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "For the future of green politics, look beyond the Green party | Zoe Williams",
-   "summary": "Environmentalists of all political hues must find the language and ideas that turn passion for climate action into impetus The future of Green politics is under constant discussion after the Holborn and St Pancras byelection , but a much heavier clash – in meaning, symbolism and portent – happened earlier this summer, in King’s Lynn and West Norfolk. The council declared a climate emergency in 202",
-   "link": "https://www.theguardian.com/commentisfree/2026/oct/14/green-politics-environmentalists-action",
-   "published": "2026-10-14T17:15:25+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "India’s cockroach protesters defy Modi’s crackdown – The Latest",
-   "summary": "A fresh wave of protests by India’s youth-led Cockroach movement has been met with a brutal crackdown by Narendra Modi’s government and the closure of a historic protest site in Delhi. Two of the movement’s leaders have been imprisoned for five days for violating suppression measures. The protests, which began over frustration about education and unemployment, are now focused on voting rights. Mod",
-   "link": "https://www.theguardian.com/news/audio/2026/oct/14/indias-cockroach-protesters-defy-modis-crackdown-the-latest",
-   "published": "2026-10-14T17:40:05+00:00"
+   "outlet": "The Dispatch",
+   "headline": "Denaturalizing Ilhan Omar",
+   "summary": "Postliberalism comes to a head.",
+   "link": "https://thedispatch.com/newsletter/boilingfrogs/ilhan-omar-dhs-raid-immigration-investigation/",
+   "published": "2026-10-15T22:32:39+00:00"
   },
   {
    "outlet": "The Guardian",
@@ -2934,20 +2914,6 @@
   },
   {
    "outlet": "The Guardian",
-   "headline": "Russia and Ukraine trade strikes as Trump ‘energy ceasefire’ collapses",
-   "summary": "Moscow sends swarms of drones to attack infrastructure in central Ukraine as Zelenskyy says Kyiv will restart strikes on Russian oil refineries The White House’s unilateral effort to negotiate an energy ceasefire between Russia and Ukraine has collapsed as Moscow sent a record swarm of drones overnight to attack infrastructure in central Ukraine and Kyiv appeared to resume strikes on Russian oil r",
-   "link": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses",
-   "published": "2026-10-15T15:01:10+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "EU must curb energy prices to prevent people turning to populists, commissioner warns – as it happened",
-   "summary": "This live blog is now closed, you can read more of our European news coverage here Just as the leaders sit down at the big table in Brussels, Romania has said that seven people are still missing after a fire on a vessel in Romanian territorial waters of the Black Sea. Suspected Russian drones have hit several ships off Romania and neighbouring Bulgaria since last week in a spillover from the Ukrai",
-   "link": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news",
-   "published": "2026-10-15T15:25:51+00:00"
-  },
-  {
-   "outlet": "The Guardian",
    "headline": "Nicolás Maduro tells New York court new torture allegations are ‘false’",
    "summary": "Rewritten indictment accuses ex-Venezuela president and wife Cilia Flores of leading campaign of torture Nicolás Maduro insisted on Thursday during an appearance in a New York court that torture allegations in a rewritten drug trafficking indictment against the deposed Venezuelan president and his wife were “false accusations”. Maduro, shackled at the ankles, was brought to court to face the new c",
    "link": "https://www.theguardian.com/world/2026/oct/15/nicolas-maduro-torture-allegations-cilia-flores",
@@ -2959,13 +2925,6 @@
    "summary": "Home secretary says she will block all Eritreans from UK unless a returns deal is agreed for rejected asylum seekers and criminals Shabana Mahmood has been accused of launching a “perfunctory political gimmick” by the Eritrean government in a row over the return of rejected asylum seekers and criminals. After the home secretary threatened to block all Eritreans from entering the UK unless a return",
    "link": "https://www.theguardian.com/uk-news/2026/oct/15/uk-threatens-to-ban-eritreans-over-returns-policy",
    "published": "2026-10-15T16:40:18+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Woman resentenced to life in prison for death of Kansas City reporter",
-   "summary": "Prosecutors say Adan Manzano was victim of Danette Colbert’s operation targeting New Orleans tourists A woman involved in a New Orleans criminal enterprise that targeted tourists and led to the death of a reporter has been resentenced to life. On Wednesday, a Jefferson Parish judge resentenced 49-year old Danette Colbert to life in prison plus 75 years under Louisiana’s habitual offender law. In S",
-   "link": "https://www.theguardian.com/us-news/2026/oct/15/danette-colbert-sentence-life-prison-telemundo-reporter",
-   "published": "2026-10-15T17:10:25+00:00"
   },
   {
    "outlet": "The Guardian",
@@ -2983,24 +2942,10 @@
   },
   {
    "outlet": "The Guardian",
-   "headline": "Texas sued after glitch delays almost 600,000 voter registrations",
-   "summary": "Voting registration organizations accuse Texas officials of failing to ensure eligible voters can register properly Texas election officials are struggling to process a massive backlog of nearly 600,000 voter registration applications after a major state computer system failure, just days before early voting is set to open on Monday and amid concerns about widespread voter suppression. The disrupt",
-   "link": "https://www.theguardian.com/us-news/2026/oct/15/texas-glitch-delay-voter-registrations",
-   "published": "2026-10-15T17:49:57+00:00"
-  },
-  {
-   "outlet": "The Guardian",
    "headline": "Albania’s prime minister vows not to resign over student-led protests",
    "summary": "Demonstrators demand resignation of Edi Rama after three days of clashes in capital Tirana Albania’s prime minister has said he will not resign as a protest movement, initially prompted by a proposal to build a Trump family-backed resort in the Balkan state, turned violent with clashes convulsing the capital for a third consecutive day. Speaking on Thursday after calls by students who this week as",
    "link": "https://www.theguardian.com/world/2026/oct/15/albania-prime-minister-edi-rama-vows-not-to-resign-student-led-protests",
    "published": "2026-10-15T17:52:49+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Will Trump’s economy sink Republicans in the US midterm elections? Our reporters answered your questions",
-   "summary": "The high cost of living has Americans angrier than ever. Guardian reporters answered your questions about the US economy ahead of November Sign up for the Stakes newsletter for more midterms coverage Send us your questions on Trump’s immigration agenda ahead of the midterms LucccA asks: Why are labor unions in the US still not as well-organized compared to the rest of the world? I know there was a",
-   "link": "https://www.theguardian.com/community/live/2026/oct/14/us-economy-affordability-midterm-elections-republicans-trump",
-   "published": "2026-10-15T17:56:50+00:00"
   },
   {
    "outlet": "The Guardian",
@@ -3011,38 +2956,80 @@
   },
   {
    "outlet": "The Guardian",
-   "headline": "Russell Brand forced alleged rape victim to take photos of him half naked, trial told",
-   "summary": "Woman claims comedian ‘pranced around like an ostrich’ before forcing himself on her in hotel room attack Russell Brand transformed into a “monster” when he allegedly forced a woman to take half-naked photographs of him before raping her in a hotel room at the Labour party conference, a court has heard. The 51-year-old comedian has denied attacking the woman, who broke down in tears in the witness",
+   "headline": "Russell Brand made alleged rape victim take photos of him half naked, trial told",
+   "summary": "Woman claims comedian ‘pranced around like an ostrich’ before forcing himself on her in hotel room attack Russell Brand transformed into a “monster” when he allegedly made a woman take half-naked photographs of him before raping her in a hotel room at a Labour party conference, a court has heard. The 51-year-old comedian has denied attacking the woman, who broke down in tears in the witness box at",
    "link": "https://www.theguardian.com/uk-news/2026/oct/15/russell-brand-jury-alleged-rape-woman-1999-crown-court",
    "published": "2026-10-15T18:01:27+00:00"
   },
   {
    "outlet": "The Guardian",
-   "headline": "Wes Streeting urges US to back Ukraine on Washington visit after Starlink row",
-   "summary": "UK defence secretary trying to cool tensions and is arguing it is in America’s economic interests to support Kyiv Wes Streeting urged the US to stand by Ukraine on his visit to the American capital and sought to cool tensions between the two countries in the wake of the Starlink row that is threatening to set back Kyiv’s war effort. The British defence secretary, giving a speech before a meeting w",
-   "link": "https://www.theguardian.com/politics/2026/oct/15/wes-streeting-us-support-ukraine--washington-visit",
-   "published": "2026-10-15T18:09:14+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "FBI investigates letters with ‘unknown substance’ sent to US election officials",
-   "summary": "Election officers in Louisiana and Oklahoma receive a powdery substance, prompting evacuations The FBI and the US Postal Inspection Service are investigating letters sent to state officials and election offices across the country containing an “unknown substance”. Just weeks before November’s US midterm elections , election officers in Louisiana and Oklahoma received envelopes containing a powdery",
-   "link": "https://www.theguardian.com/us-news/2026/oct/15/fbi-usps-letters-unknown-substance-election",
-   "published": "2026-10-15T18:36:28+00:00"
-  },
-  {
-   "outlet": "The Guardian",
    "headline": "Farage accused of ‘protecting’ Reform candidate over racist slurs against David Lammy",
-   "summary": "Exclusive: ITV investigation shows leader stood by mayoral candidate who said Labour MP should ‘go home to the Caribbean’ Nigel Farage was told by a senior Reform official that he was “protecting” a high-profile mayoral candidate accused of making racists comments about David Lammy, an undercover investigation has revealed. The latest footage from an undercover investigation by ITV also shows Sara",
+   "summary": "Exclusive: ITV investigation shows leader stood by mayoral candidate who said Labour MP should ‘go home to the Caribbean’ Nigel Farage was told by a senior Reform official that he was “protecting” a high-profile mayoral candidate accused of making racist comments about David Lammy, an undercover investigation has revealed. The latest footage from an undercover investigation by ITV also shows Sarah",
    "link": "https://www.theguardian.com/politics/2026/oct/15/farage-accused-protecting-reform-candidate-racist-slurs-david-lammy-itv-film",
    "published": "2026-10-15T19:09:46+00:00"
   },
   {
    "outlet": "The Guardian",
+   "headline": "Houthi missiles strike Saudi-led forces HQ at presidential palace in Aden",
+   "summary": "Witnesses report at least six explosions near palace used by Yemen's internationally recognized government At least six explosions struck on Thursday near the palace used by Yemen ’s internationally recognized government in the port city of Aden, witnesses said. An official told the Associated Press that at least two people were killed, and Iran -backed Houthi rebels based in northern Yemen quickl",
+   "link": "https://www.theguardian.com/world/2026/oct/15/houthi-missiles-strike-aden-yemen",
+   "published": "2026-10-15T20:00:36+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "US winter is likely to be wetter and warmer, forecasters say, with more snow in the south",
+   "summary": "El Niño will likely shift weather patterns to bring more rain, but much snow still isn’t forecast for the northern sates Winter in the United States looks like it will generally be wetter and warmer, but not necessarily snowier, according to the federal government’s seasonal outlook and other meteorologists’ forecasts. You can thank or blame El Niño. El Niño is likely to shift weather patterns to ",
+   "link": "https://www.theguardian.com/us-news/2026/oct/15/winter-weather-snow-rain",
+   "published": "2026-10-15T20:44:18+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "California faces more extreme weather as hot, windy days raise wildfire risk",
+   "summary": "Warnings come as Californians have already in autumn felt brutal heatwave and storm surge that battered coast Communities across California are bracing for more dangerous weather this week, with strong winds and high temperatures that could set the stage for rapid wildfire growth over the next several days. “A moderate to strong Santa Ana wind will bring widespread strong winds and critical fire w",
+   "link": "https://www.theguardian.com/us-news/2026/oct/15/wildfire-california-high-temperatures-strong-winds",
+   "published": "2026-10-15T20:56:02+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Nineteen injured in collision between minibus and train on Eurotunnel loading platform",
+   "summary": "Two people critically hurt when vehicle carrying HGV drivers hit stationary train in Calais, say French authorities Nineteen people have been injured after a minibus collided with a stationary freight train at the loading platform of the Eurotunnel near Calais, French authorities have said. Pas-de-Calais underprefect Agathe Cury said 18 passengers and the bus driver were injured in the incident. C",
+   "link": "https://www.theguardian.com/world/2026/oct/15/nineteen-injured-minibus-collision-eurotunnel-calais",
+   "published": "2026-10-15T21:38:25+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Trump’s new press secretary says it’s ‘unknown’ how much she’ll deal with media",
+   "summary": "Katie Zacharia tells Guardian her first, widely panned, press briefing followed whirlwind sprint to appoint her to key role Donald Trump’s new White House press secretary says it is “unknown” how much she will engage with the press or hold briefings with reporters, as she faces mounting questions over her legal credentials. In a brief interview with the Guardian on Thursday, Katie Zacharia detaile",
+   "link": "https://www.theguardian.com/us-news/2026/oct/15/katie-zacharia-trump-press-secretary-interview",
+   "published": "2026-10-15T22:58:02+00:00"
+  },
+  {
+   "outlet": "The Guardian",
    "headline": "Pentagon says Trump and Hegseth ‘completely aligned’ on decision to cancel livestream of firing squad execution – live",
-   "summary": "Pentagon spokesperson says pair spoke before announcement canceling plan to broadcast execution of Nidal Hasan, who killed 13 people at Fort Hood Q&A: Will Trump’s economy sink the GOP in the midterms? Sign up for the Breaking News US email The US government could spend hundreds of thousands of dollars on a media campaign in South Africa to figure out why more white Afrikaners are not applying to ",
+   "summary": "Pentagon spokesperson says pair spoke before announcement canceling plan to broadcast execution of Nidal Hasan, who killed 13 people at Fort Hood Q&A: Our reporters answered your questions about the US economy and the midterm elections Sign up for the Breaking News US email The US government could spend hundreds of thousands of dollars on a media campaign in South Africa to figure out why more whi",
    "link": "https://www.theguardian.com/us-news/live/2026/oct/15/donald-trump-midterms-rallies-iran-ukraine-starlink-intelligence-fuel-gas-cost-of-living-latest-news-updates",
-   "published": "2026-10-15T19:30:04+00:00"
+   "published": "2026-10-15T23:27:22+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Three children and one adult reportedly killed in Oregon elementary school shooting",
+   "summary": "Police say gunman dead after shooting at Silver Rail elementary in Bend as local officials and FBI investigate A gunman opened fire at an elementary school in Bend, Oregon, on Thursday, fatally shooting one adult and three children, law enforcement officials confirmed to news outlets. The gunman is also dead, authorities confirmed. Continue reading...",
+   "link": "https://www.theguardian.com/us-news/2026/oct/15/oregon-elementary-school-shooting",
+   "published": "2026-10-15T23:33:26+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Wes Streeting urges US to back Ukraine on Washington visit after Starlink row",
+   "summary": "UK defence secretary says he has been ‘reassured directly’ counterpart Pete Hegseth that Starlink system has been restored as he seeks to cool tensions Wes Streeting urged the US to stand by Ukraine on his visit to the American capital and sought to cool tensions between the two countries in the wake of the Starlink row that is threatening to set back Kyiv’s war effort. The British defence secreta",
+   "link": "https://www.theguardian.com/politics/2026/oct/15/wes-streeting-us-support-ukraine--washington-visit",
+   "published": "2026-10-15T23:49:57+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Russia and Ukraine trade strikes as Trump ‘energy ceasefire’ collapses",
+   "summary": "Moscow sends swarms of drones to attack infrastructure in central Ukraine as Zelenskyy says Kyiv will restart strikes on Russian oil refineries The White House’s unilateral effort to negotiate an energy ceasefire between Russia and Ukraine has collapsed as Moscow sent a record swarm of drones overnight to attack infrastructure in central Ukraine and Kyiv appeared to resume strikes on Russian oil r",
+   "link": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses",
+   "published": "2026-10-15T23:57:20+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
@@ -3053,27 +3040,6 @@
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Basij female unit commander assassinated in latest attack targeting Iranian armed forces",
-   "summary": "Aqila, commander of the Afzal Sisters’ Basij unit in Mehrestan, was reportedly assassinated outside her home in front of her children.",
-   "link": "https://www.jpost.com/middle-east/iran-news/article-911783",
-   "published": "2026-10-15T11:45:13+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
-   "headline": "Israel ended Iran war with more interceptors than it started with, Rafael CEO says",
-   "summary": "As countries scramble to increase their missile interceptor stockpile, Rafael's new facility in Arkansas is expected to have the capacity to produce 1,000 Tamir interceptors a year",
-   "link": "https://www.jpost.com/defense-and-tech/article-911813",
-   "published": "2026-10-15T14:21:16+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
-   "headline": "Iran warned Hezbollah to prepare for war as it expects US strikes soon, diplomats tell 'Post'",
-   "summary": "According to the sources, Iran's message to Hezbollah was: \"We estimate that an American attack is a matter of time - you should also be prepared.\"",
-   "link": "https://www.jpost.com/middle-east/iran-news/article-911814",
-   "published": "2026-10-15T14:30:03+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
    "headline": "Why Azerbaijan, Bahrain's Baku meetings with President Herzog are important - analysis",
    "summary": "There is a growing perception that Israeli ties with various Muslim countries are now improving and also more public than they have been in the last several years.",
    "link": "https://www.jpost.com/israel-news/article-911830",
@@ -3081,31 +3047,10 @@
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "The UK's Green Party declare Zionism racism, exposing their double standards - opinion",
-   "summary": "The self-determination of peoples is enshrined in Article 1 of the UN Charter; Britain’s Greens grant it to every people but one.",
-   "link": "https://www.jpost.com/opinion/article-911390",
-   "published": "2026-10-15T17:00:00+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
-   "headline": "Iran facing growing insurgency in separatist, largely Sunni, Sistan-Balochistan region - analysis",
-   "summary": "Reports of intensifying clashes between IRGC and Baloch rebels point to growing unrest in the country's southeast, where restrictions on reporting make the scale of fighting difficult to verify.",
-   "link": "https://www.jpost.com/middle-east/article-911846",
-   "published": "2026-10-15T17:21:37+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
    "headline": "Iran, Turkey, Kuwait, Pakistan, PA leave Baku conference when Herzog spoke, but Qatari Emir stayed",
    "summary": "The discrepancy between the Iranian media report and eyewitness accounts raises questions regarding Iran's motivation in framing Qatar's actions toward Israel.",
    "link": "https://www.jpost.com/international/article-911837",
    "published": "2026-10-15T17:50:14+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
-   "headline": "'Do not test us': Netanyahu touts new 'massive' eastern border wall, defense plans",
-   "summary": "The vast majority of the border wall will cover the Jordanian border. Netanyahu explained that it would complement the nation's existing security zones in Lebanon, Syria, and Gaza.",
-   "link": "https://www.jpost.com/israel-news/defense-news/article-911841",
-   "published": "2026-10-15T17:56:55+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
@@ -3123,13 +3068,6 @@
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Yemen’s government needs weapons, but they can’t come from the US or Israel, expert tells 'Post'",
-   "summary": "Though an expert from the Royal United Services Institute said that the Houthis needed to be defeated, he insisted this could only come about by empowering the legitimate government - not airstrikes.",
-   "link": "https://www.jpost.com/middle-east/article-911859",
-   "published": "2026-10-15T18:54:12+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
    "headline": "He was just a plumber. Then he helped save a plane full of passengers - opinion",
    "summary": "Yaniv Hayoun's story became part of a larger message to the world: even in the face of terror, courage can prevail, hope can endure, and no one should have to stand alone.",
    "link": "https://www.jpost.com/opinion/article-911829",
@@ -3137,38 +3075,10 @@
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Canadian authorities arrest two suspects of anti-Israel incidents, assaults in Edmonton, Toronto",
-   "summary": "The Edmonton incident included a knife attack during a festival, while the Toronto case involved an assault during a pro-Palestinian demonstration.",
-   "link": "https://www.jpost.com/diaspora/antisemitism/article-911862",
-   "published": "2026-10-15T19:11:07+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
-   "headline": "Israel received Iranian, Russian weapons in secret transfer from Ukraine, fmr. ambassador says",
-   "summary": "According to Ukrainian media reports, Israel is examining samples of Russian attack drones provided by Ukraine, including newer models from the Geran family, which are based on Shahed drones.",
-   "link": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-911861",
-   "published": "2026-10-15T19:50:41+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
    "headline": "Genocide accusations against Israel are 'despicable lie,' Knesset Speaker Ohana says",
    "summary": "Addressing European parliamentary leaders, Ohana rejected genocide allegations against Israel, accused world leaders of hypocrisy, and invoked the Holocaust and the October 7 massacre.",
    "link": "https://www.jpost.com/israel-news/article-911866",
    "published": "2026-10-15T20:04:19+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
-   "headline": "Canadian anti-Israel group to host Wikipedia edit-a-thon honoring ‘martyred’ Palestinians",
-   "summary": "Jewish Onliner was the first to report on this 'Free Palestine Wiki edit-a-thon,' but it was independently confirmed by The Jerusalem Post.",
-   "link": "https://www.jpost.com/diaspora/antisemitism/article-911867",
-   "published": "2026-10-15T20:38:03+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
-   "headline": "US bill targeting Israeli settlements in West Bank, Gaza gains 53 co-sponsors",
-   "summary": "As of this week, the bill has 53 co-sponsors, including high-profile figures such as Alexandria Ocasio-Cortez and Ro Khanna.",
-   "link": "https://www.jpost.com/american-politics/article-911869",
-   "published": "2026-10-15T20:58:04+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
@@ -3192,18 +3102,81 @@
    "published": "2026-10-15T22:26:33+00:00"
   },
   {
-   "outlet": "The Moscow Times",
-   "headline": "Nord Stream May Have Been Lawful Target, Argue Lawyers for Ukrainian Accused of Bombing",
-   "summary": "The secret operation that blew up the Nord Stream pipelines severed western Europe from the biggest source of Russian natural gas.",
-   "link": "https://www.themoscowtimes.com/2026/10/14/nord-stream-may-have-been-lawful-target-argue-lawyers-for-ukrainian-accused-of-bombing-a93972",
-   "published": "2026-10-14T14:09:00+00:00"
+   "outlet": "The Jerusalem Post",
+   "headline": "Holocaust memory compels us to reject false genocide claims and face Gaza’s agony - opinion",
+   "summary": "Whatever position one takes on the issue, the nature of Holocaust memory is in crisis.",
+   "link": "https://www.jpost.com/opinion/article-911885",
+   "published": "2026-10-15T22:43:38+00:00"
   },
   {
-   "outlet": "The Moscow Times",
-   "headline": "Government Says It Helped Yandex Migrate Systems After Data Center Attacks",
-   "summary": "A Rostelecom executive also called on the company to construct so-called \"doomsday\" backup sites.",
-   "link": "https://www.themoscowtimes.com/2026/10/14/government-says-it-helped-yandex-migrate-systems-after-data-center-attacks-a93979",
-   "published": "2026-10-14T15:23:00+00:00"
+   "outlet": "The Jerusalem Post",
+   "headline": "Trump addresses Michigan synagogue as antisemitism event sparks Jewish community backlash",
+   "summary": "Trump addressed hundreds of Michigan Jews by video at a DOJ-backed antisemitism event, drawing criticism from progressive Jewish leaders ahead of a pivotal Senate election.",
+   "link": "https://www.jpost.com/diaspora/article-911886",
+   "published": "2026-10-15T22:48:01+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Car ramming reported in West Bank, IDF dispatched to scene",
+   "summary": "IDF soldiers have been dispatched to the area.",
+   "link": "https://www.jpost.com/israel-news/article-911887",
+   "published": "2026-10-15T22:51:04+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Rubio urges Lebanon to not return confiscated explosives to Hezbollah, US official says",
+   "summary": "Rubio urged Aoun to hold accountable those who ordered, financed, and directed the shipment of of hundreds of kilograms of explosives from Hezbollah.",
+   "link": "https://www.jpost.com/international/article-911888",
+   "published": "2026-10-15T23:17:08+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "IDF, Shin Bet kill two terrorists in Khan Yunis who allegedly smuggled weapons into Gaza",
+   "summary": "The IDF and Shin Bet said that precise munitions and aerial surveillance were used to mitigate unnecessary harm to civilians. Operations in Gaza continue to dismantle threats to troops and civilians",
+   "link": "https://www.jpost.com/israel-news/article-911889",
+   "published": "2026-10-15T23:55:49+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Three children, one adult killed in shooting at school in Oregon, US media reports",
+   "summary": "A spokesperson for the Bend Police Department told reporters that investigators had yet to confirm who shot the suspect.",
+   "link": "https://www.jpost.com/international/article-911891",
+   "published": "2026-10-16T00:53:22+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Torah MiTzion marks 30 years of strengthening ties between Israel, Diaspora Jewry",
+   "summary": "Hundreds of former emissaries and community leaders gathered in Jerusalem to celebrate three decades of Jewish education and religious-Zionist outreach across more than 20 countries.",
+   "link": "https://www.jpost.com/israel-news/article-911894",
+   "published": "2026-10-16T02:07:16+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Yaron Zelekha slams Netanyahu's economic policy, vows to cut cost of living",
+   "summary": "“The reason Bibi attacks me is that he knows that once I become Finance Minister, the public will realize that life here could have been cheaper over the past twenty years,” Zelekha said.",
+   "link": "https://www.jpost.com/israel-news/article-911893",
+   "published": "2026-10-16T02:12:33+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "How Brandeis University is reimagining the liberal arts for a new generation",
+   "summary": "Founded nearly 80 years ago on Jewish values and academic excellence, Brandeis University is launching a bold plan to reinvent the liberal arts.",
+   "link": "https://www.jpost.com/diaspora/article-911896",
+   "published": "2026-10-16T02:34:37+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Mladenov recieves COGAT letter, says suspension of private sector goods into Gaza is 'unacceptable'",
+   "summary": "“Civilian supplies, humanitarian assistance and commercial activity must be protected from coercion, exploitation and interference,” Mladenov said.",
+   "link": "https://www.jpost.com/middle-east/article-911895",
+   "published": "2026-10-16T02:58:37+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Talarico blames Netanyahu, not Israeli people, for devastation in Gaza",
+   "summary": "Israel has been one of many sources of disagreement among the candidates, who have sparred on issues ranging from affordability to immigration to reproductive rights.",
+   "link": "https://www.jpost.com/american-politics/article-911897",
+   "published": "2026-10-16T03:12:24+00:00"
   },
   {
    "outlet": "The Moscow Times",
