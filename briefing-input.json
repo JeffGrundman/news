@@ -1,46 +1,11 @@
 {
- "built": "2026-10-27T20:42:49.142665+00:00",
+ "built": "2026-10-28T01:18:45.853644+00:00",
  "window_hours": 30,
- "story_count": 458,
+ "story_count": 445,
  "feeds_with_problems": [
   "https://www.marketplace.org/feed: HTTP Error 403: Forbidden"
  ],
  "stories": [
-  {
-   "outlet": "Ars Technica",
-   "headline": "F1 in Texas: The American race that fans love to attend",
-   "summary": "Ars spends the weekend with the Audi Revolut F1 team at the Circuit of the Americas.",
-   "link": "https://arstechnica.com/cars/2026/10/f1-in-texas-one-more-race-and-well-have-a-new-champion/",
-   "published": "2026-10-26T14:48:24+00:00"
-  },
-  {
-   "outlet": "Ars Technica",
-   "headline": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
-   "summary": "Investigators explain how highway thieves stole $100M in data center equipment.",
-   "link": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
-   "published": "2026-10-26T17:26:36+00:00"
-  },
-  {
-   "outlet": "Ars Technica",
-   "headline": "Musk accuses Ukraine of violating Starlink terms with deadly drone strikes",
-   "summary": "Ukraine says Starshield back to normal, denies misuse of Starlink commercial service.",
-   "link": "https://arstechnica.com/tech-policy/2026/10/musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-drone-strikes/",
-   "published": "2026-10-26T18:09:08+00:00"
-  },
-  {
-   "outlet": "Ars Technica",
-   "headline": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
-   "summary": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
-   "link": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
-   "published": "2026-10-26T18:50:41+00:00"
-  },
-  {
-   "outlet": "Ars Technica",
-   "headline": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
-   "summary": "Apple claims this is the most significant update ever for the iPad mini line.",
-   "link": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/",
-   "published": "2026-10-26T19:04:40+00:00"
-  },
   {
    "outlet": "Ars Technica",
    "headline": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
@@ -134,24 +99,52 @@
   },
   {
    "outlet": "Ars Technica",
-   "headline": "Google's Android Registered App Stores program launches Dec. 1, applications now open",
+   "headline": "Google begins certifying Registered App Stores for Android, but not in the US",
    "summary": "Easier app installs are coming to third-party stores, pending Google's stamp of approval.",
    "link": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/",
    "published": "2026-10-27T19:32:07+00:00"
   },
   {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "In Serbia and Hungary, groundswells of youthful energy topple entrenched governments",
-   "summary": "Serbia has seen a dramatic shift after President Aleksandar Vucic conceded defeat to student-backed candidates",
-   "link": "https://abcnews.com/International/wireStory/serbia-hungary-groundswells-youthful-energy-topple-entrenched-governments-137575853",
-   "published": "2026-10-26T16:50:17+00:00"
+   "outlet": "Ars Technica",
+   "headline": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+   "summary": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
+   "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+   "published": "2026-10-27T20:25:55+00:00"
   },
   {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "Vatican confirms Pope Leo's Latin America trip after post-surgery checkup",
-   "summary": "Pope Leo XIV will proceed with his planned trip to Uruguay, Argentina, and Peru.",
-   "link": "https://abcnews.com/International/wireStory/vatican-confirms-pope-leos-latin-america-trip-after-137577740",
-   "published": "2026-10-26T17:33:41+00:00"
+   "outlet": "Ars Technica",
+   "headline": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+   "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
+   "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+   "published": "2026-10-27T21:31:14+00:00"
+  },
+  {
+   "outlet": "Ars Technica",
+   "headline": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+   "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
+   "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+   "published": "2026-10-27T21:50:04+00:00"
+  },
+  {
+   "outlet": "Ars Technica",
+   "headline": "China's top-secret spaceplane can't hide in low-Earth orbit",
+   "summary": "The DIA's threat assessment suggests China may soon place directed energy weapons in space.",
+   "link": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
+   "published": "2026-10-27T22:04:50+00:00"
+  },
+  {
+   "outlet": "Ars Technica",
+   "headline": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
+   "summary": "International travel used to be the main risk of measles cases in the US—not anymore.",
+   "link": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
+   "published": "2026-10-27T22:22:32+00:00"
+  },
+  {
+   "outlet": "Ars Technica",
+   "headline": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+   "summary": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.",
+   "link": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
+   "published": "2026-10-27T22:37:30+00:00"
   },
   {
    "outlet": "Associated Press, via ABC News",
@@ -316,55 +309,6 @@
   },
   {
    "outlet": "BBC News",
-   "headline": "Part of Antarctica named after former BBC science correspondent",
-   "summary": "A stretch of water in the west of the continent is now called the Amos Channel after the ex-BBC journalist.",
-   "link": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-26T14:54:40+00:00"
-  },
-  {
-   "outlet": "BBC News",
-   "headline": "Exercise helps woman recover from partying life",
-   "summary": "Megan Hamon says her life has turned around after struggling with excessive drinking and partying.",
-   "link": "https://www.bbc.co.uk/news/articles/cwvgrk4ngl64o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-26T15:15:20+00:00"
-  },
-  {
-   "outlet": "BBC News",
-   "headline": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
-   "summary": "Millions joined a 'Lula's Army' channel that helped to transform online enthusiasm into real-world mobilisation.",
-   "link": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-26T15:37:33+00:00"
-  },
-  {
-   "outlet": "BBC News",
-   "headline": "Israel and the US are both going to the polls - the consequences will be global",
-   "summary": "The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale",
-   "link": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-26T16:30:34+00:00"
-  },
-  {
-   "outlet": "BBC News",
-   "headline": "Sydney's new $5bn airport has one big problem: Getting there is tough",
-   "summary": "The airport won’t have direct public transportation for a year. How do locals feel about getting there?",
-   "link": "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-26T18:00:10+00:00"
-  },
-  {
-   "outlet": "BBC News",
-   "headline": "'Safety first' as wedding guests stranded on island after Storm Boelo",
-   "summary": "Wedding guests at an island in County Fermanagh were left stranded due to the storm.",
-   "link": "https://www.bbc.co.uk/news/articles/cqe9lykm93jmo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-26T18:09:39+00:00"
-  },
-  {
-   "outlet": "BBC News",
-   "headline": "Political battle intensifies within Labour over Rosebank oil field",
-   "summary": "Scottish Labour leader Michael Marra is urging the energy secretary to approve the controversial plans.",
-   "link": "https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-26T18:09:49+00:00"
-  },
-  {
-   "outlet": "BBC News",
    "headline": "Woman says 40-mile journey to hospital while having contractions was 'scary'",
    "summary": "The Southern Health Trust plans to temporarily transfer inpatient maternity services from Daisy Hill to Craigavon.",
    "link": "https://www.bbc.co.uk/news/articles/c6z0vp0l5nj8o?at_medium=RSS&at_campaign=rss",
@@ -411,20 +355,6 @@
    "summary": "In his first interview with BBC Sport since taking the knee for the first time, Colin Kaepernick reflects on his journey.",
    "link": "https://www.bbc.co.uk/sport/american-football/articles/cm3el5dnpxp2o?at_medium=RSS&at_campaign=rss",
    "published": "2026-10-27T06:15:24+00:00"
-  },
-  {
-   "outlet": "BBC News",
-   "headline": "'A dream come true' - Harry Kane on his Ballon d'Or win",
-   "summary": "It's the first time an English player has lifted the trophy since Michael Owen in 2001.",
-   "link": "https://www.bbc.co.uk/news/videos/cm9wznvx1l17o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-27T07:22:41+00:00"
-  },
-  {
-   "outlet": "BBC News",
-   "headline": "Why it could take time for a new Israeli government to form",
-   "summary": "Israel faces what many view as one of the most pivotal elections in the country's history.",
-   "link": "https://www.bbc.co.uk/news/videos/c574p31l1l2no?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-27T08:37:30+00:00"
   },
   {
    "outlet": "BBC News",
@@ -505,6 +435,13 @@
   },
   {
    "outlet": "BBC News",
+   "headline": "Trump v Obama - which president has the star power to get out the vote?",
+   "summary": "The BBC's Sarah Smith followed the current and former presidents as both parties hope their biggest names can drive midterm turnout.",
+   "link": "https://www.bbc.co.uk/news/videos/cv0ldjez8z32o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-27T13:59:22+00:00"
+  },
+  {
+   "outlet": "BBC News",
    "headline": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
    "summary": "He is in jail accused of supporting terrorism after travelling to the politically sensitive region Kabylie.",
    "link": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss",
@@ -540,13 +477,6 @@
   },
   {
    "outlet": "BBC News",
-   "headline": "Egyptian journalist Lina Attalah detained after court orders news site's closure",
-   "summary": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
-   "link": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-27T16:11:35+00:00"
-  },
-  {
-   "outlet": "BBC News",
    "headline": "Tiny zebra-striped bee sighting a 'huge surprise'",
    "summary": "A zebra-striped bee is seen in Somerset for the first time, offering hope in restored saltmarshes.",
    "link": "https://www.bbc.co.uk/news/articles/c3dxwjx7xpj0o?at_medium=RSS&at_campaign=rss",
@@ -572,13 +502,6 @@
    "summary": "About 40% of the plants and animals in protected sites across Northern Ireland fall short of meeting the standard for \"favourable condition\".",
    "link": "https://www.bbc.co.uk/news/articles/cq0megg87n3po?at_medium=RSS&at_campaign=rss",
    "published": "2026-10-27T17:51:13+00:00"
-  },
-  {
-   "outlet": "BBC News",
-   "headline": "Weather warning lifted as third storm to hit Scotland eases off",
-   "summary": "Several thousand properties in the north of Scotland are still without power after days of high winds and heavy rain.",
-   "link": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-27T18:09:24+00:00"
   },
   {
    "outlet": "BBC News",
@@ -610,7 +533,7 @@
   },
   {
    "outlet": "BBC News",
-   "headline": "Dutch zookeeper dies after being mauled in leopard enclosure",
+   "headline": "Dutch zookeeper dies after being mauled by leopard",
    "summary": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
    "link": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
    "published": "2026-10-27T19:30:37+00:00"
@@ -624,10 +547,66 @@
   },
   {
    "outlet": "BBC News",
+   "headline": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+   "summary": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.",
+   "link": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-27T20:42:38+00:00"
+  },
+  {
+   "outlet": "BBC News",
+   "headline": "Egypt court fines journalist Lina Attalah and orders news site's closure",
+   "summary": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
+   "link": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-27T20:44:40+00:00"
+  },
+  {
+   "outlet": "BBC News",
+   "headline": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
+   "summary": "Marry Mubaiwa had been held on remand for seven years after being charged in 2019 for her then husband's attempted murder.",
+   "link": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-27T21:09:12+00:00"
+  },
+  {
+   "outlet": "BBC News",
+   "headline": "Weather warning lifted as third storm to hit Scotland eases off",
+   "summary": "Energy provider SSEN says 2,000 properties in the north of Scotland are still without power after days of high winds and heavy rain.",
+   "link": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-27T21:20:52+00:00"
+  },
+  {
+   "outlet": "BBC News",
    "headline": "Ceasefire extended across Ukraine's Kherson region, officials say",
    "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
    "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-27T20:19:53+00:00"
+   "published": "2026-10-27T22:11:08+00:00"
+  },
+  {
+   "outlet": "BBC News",
+   "headline": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+   "summary": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
+   "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-27T23:41:23+00:00"
+  },
+  {
+   "outlet": "BBC News",
+   "headline": "Patient living in 'horrific pain' due to UK-wide drugs shortage",
+   "summary": "Jill Kenning says she has been unable to get a drug she uses to manage her condition.",
+   "link": "https://www.bbc.co.uk/news/articles/cr20w5vx39peo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-28T00:01:03+00:00"
+  },
+  {
+   "outlet": "BBC News",
+   "headline": "Watch: What happens now after close vote in Israeli election?",
+   "summary": "Polls have closed in the Israeli election, but there is no clear winner.",
+   "link": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-28T00:04:29+00:00"
+  },
+  {
+   "outlet": "BBC News",
+   "headline": "A bust-up between mathematicians is fuelling fears that AI could undermine science",
+   "summary": "AI has made some awesome scientific discoveries. But now, questions are being raised about its accuracy",
+   "link": "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-28T01:01:02+00:00"
   },
   {
    "outlet": "BNO News",
@@ -680,31 +659,17 @@
   },
   {
    "outlet": "BNO News",
-   "headline": "Ask ChatGPT the Same Question Twice and It Names a Different Brand First Three Times in Four, Study Finds",
-   "summary": "The brand ChatGPT recommends first for a buying question usually changes when the same question is asked again, according to a study by the New York marketing agency BusySeed. The study compared 172,624 pairs of answers to the same question, collected between April 27 and October 16, 2026, across 172 product and service categories. The […] The post Ask ChatGPT the Same Question Twice and It Names ",
-   "link": "https://bnonews.com/index.php/2026/10/ask-chatgpt-the-same-question-twice-and-it-names-a-different-brand-first-three-times-in-four-study-finds/",
-   "published": "2026-10-27T04:41:11+00:00"
+   "headline": "Fire breaks out at restaurant inside Houston’s Bush Intercontinental Airport",
+   "summary": "A fire at a restaurant inside Houston’s George Bush Intercontinental Airport forced nearby passengers to temporarily relocate, according to the officials. No injuries have been reported. Firefighters responded at about 4:20 p.m. on Tuesday to Ember restaurant in Terminal C, according to the Houston Fire Department. Passengers in the immediate area were moved as a […] The post Fire breaks out at re",
+   "link": "https://bnonews.com/index.php/2026/10/fire-breaks-out-at-restaurant-inside-houstons-bush-intercontinental-airport/",
+   "published": "2026-10-28T00:43:46+00:00"
   },
   {
    "outlet": "BNO News",
-   "headline": "How Privacy and Stigma Affect Decisions to Seek Addiction Treatment",
-   "summary": "Addiction treatment is often discussed in terms of medical services, recovery programs, and access to healthcare. Yet an equally important part of the conversation involves the social and personal barriers that prevent people from seeking help. Concerns about reputation, employment, family relationships, and confidentiality can influence treatment decisions long before someone contacts a provider.",
-   "link": "https://bnonews.com/index.php/2026/10/how-privacy-and-stigma-affect-decisions-to-seek-addiction-treatment/",
-   "published": "2026-10-27T04:50:57+00:00"
-  },
-  {
-   "outlet": "BNO News",
-   "headline": "Mobile vs Fixed Stairlifts: A Practical Buyer Guide",
-   "summary": "Two installations, same staircase, and one costs a fraction of the other. That gap is why so many families stall on the decision for months while a parent quietly stops using the top floor of their own house. The equipment isn’t the hard part. The hard part is admitting the stairs have become a project. […] The post Mobile vs Fixed Stairlifts: A Practical Buyer Guide appeared first on BNO News .",
-   "link": "https://bnonews.com/index.php/2026/10/mobile-vs-fixed-stairlifts-a-practical-buyer-guide/",
-   "published": "2026-10-27T06:35:35+00:00"
-  },
-  {
-   "outlet": "CBC | World News",
-   "headline": "Nigeria Ebola patient flown to Switzerland, Congo health worker killed as 4 countries deal with outbreak",
-   "summary": "Officials on opposite sides of the African continent are trying to determine how a woman diagnosed with Ebola in Nigeria's capital last week contracted the deadly virus without having visited the Democratic Republic of Congo — the epicentre of one of the worst human outbreaks of the virus in history.",
-   "link": "https://www.cbc.ca/news/health/ebola-outbreak-countries-affected-9.7396192?cmp=rss",
-   "published": "2026-10-26T19:15:11+00:00"
+   "headline": "San Diego Islamic Center lockdown lifted after alert over possibly armed woman",
+   "summary": "A lockdown at the Islamic Center of San Diego has been lifted after police searched for a possibly armed woman who visited the mosque, according to police and local media. Officers determined she was no longer in San Diego County. The San Diego Police Department (SDPD) announced the lockdown at about 3 p.m. Tuesday, saying […] The post San Diego Islamic Center lockdown lifted after alert over poss",
+   "link": "https://bnonews.com/index.php/2026/10/san-diego-islamic-center-lockdown-lifted-after-alert-over-possibly-armed-woman/",
+   "published": "2026-10-28T01:12:01+00:00"
   },
   {
    "outlet": "CBC | World News",
@@ -712,13 +677,6 @@
    "summary": "A United Nations commission says Israel ​continued to commit genocide in Gaza after last October's U.S.-brokered ceasefire in the enclave, in a report published Monday that Israel dismissed as part of a \"misinformation campaign.\"",
    "link": "https://www.cbc.ca/news/world/israel-gaza-genocide-un-commission-9.7396540?cmp=rss",
    "published": "2026-10-26T19:59:10+00:00"
-  },
-  {
-   "outlet": "CBC | World News",
-   "headline": "How this Brooklyn bar owner had Conan O'Brien in stitches on SubwayTakes",
-   "summary": "Debbie Shields took a seat on a New York City subway and ended up joking with comedian Conan O'Brien about their fictional family. Their exchange on internet talk show SubwayTakes went viral. The Brooklyn bar owner says she's always making people laugh, but this experience was surreal.",
-   "link": "https://www.cbc.ca/radio/asithappens/nyc-bartender-conan-obrien-subwaytakes-viral-improv-9.7393860?cmp=rss",
-   "published": "2026-10-26T20:16:09+00:00"
   },
   {
    "outlet": "CBC | World News",
@@ -813,24 +771,31 @@
   },
   {
    "outlet": "CBC | World News",
-   "headline": "El Salvador has deployed roughly 1,000 soldiers to Haiti: security official",
-   "summary": "Around 1,000 soldiers from El Salvador have been sent to Haiti in a string of deployments in recent days after four Salvadoran members of the UN-backed force in Haiti went missing, a security official ‌in Haiti told Reuters on Tuesday.",
+   "headline": "El Salvador deploys hundreds of soldiers to Haiti: security official",
+   "summary": "Around 1,000 soldiers from El Salvador have been sent to Haiti after four Salvadoran members of a UN-backed force went missing during a gang ambush on the outskirts of ‌the capital Port-au-Prince, a security official in Haiti told Reuters on Tuesday.",
    "link": "https://www.cbc.ca/news/world/el-salvador-soldiers-deployed-haiti-9.7398494?cmp=rss",
    "published": "2026-10-27T20:12:58+00:00"
   },
   {
-   "outlet": "Christian Science Monitor",
-   "headline": "Brazil bucks Latin America’s rightward shift. But Lula victory is ‘fragile.’",
-   "summary": "The victory of leftist leader Luiz Inácio Lula da Silva in Brazil to an unprecedented fourth term shows the limits of Latin America’s lurch to the right.",
-   "link": "https://www.csmonitor.com/World/Americas/2026/1026/lula-leftist-bolsonaro-right-wing-results?icid=rss",
-   "published": "2026-10-26T16:04:49+00:00"
+   "outlet": "CBC | World News",
+   "headline": "U.S. and Cuban officials get into shouting match on floor of United Nations",
+   "summary": "U.S. and Cuban officials engaged in a stunning shouting match on the floor of the United Nations General Assembly on Tuesday, the latest in a series of public spats between the longtime adversaries over Washington's escalating economic campaign against Havana.",
+   "link": "https://www.cbc.ca/news/world/u-s-coba-resolution-un-shouting-match-9.7398413?cmp=rss",
+   "published": "2026-10-27T20:50:39+00:00"
   },
   {
-   "outlet": "Christian Science Monitor",
-   "headline": "The Eagle’s Nest, a Nazi icon, just burned. Should Germany rebuild it?",
-   "summary": "Germans once again have to decide what they should do with Nazi-era relics after a fire destroyed the Bavarian guest house linked to Adolf Hitler.",
-   "link": "https://www.csmonitor.com/World/Europe/2026/1026/eagle-s-nest-bavaria-fire-nazi-hitler-rebuild?icid=rss",
-   "published": "2026-10-26T17:03:46+00:00"
+   "outlet": "CBC | World News",
+   "headline": "The facts about Brazil's president Lula da Silva",
+   "summary": "Brazil's President Luiz Inácio Lula da Silva was re-elected on Sunday, defeating Trump ally Flávio Bolsonaro. Here are the facts about the president.",
+   "link": "https://www.cbc.ca/player/play/9.7398732?cmp=rss",
+   "published": "2026-10-27T22:02:37+00:00"
+  },
+  {
+   "outlet": "CBC | World News",
+   "headline": "Bobsled, skeleton federation continuing Russian team ban for World Cup season",
+   "summary": "Russian teams will remain banned from World Cup bobsled races this season, and presumably the sport's world championships as well, after one of sliding's governing bodies voted Tuesday to extend the sanctions stemming from that country's war with Ukraine.",
+   "link": "https://www.cbc.ca/sports/olympics/winter/bobsled-skeleton-siding-ban-russia-athletes-9.7398749?cmp=rss",
+   "published": "2026-10-27T22:18:02+00:00"
   },
   {
    "outlet": "Christian Science Monitor",
@@ -854,32 +819,11 @@
    "published": "2026-10-27T20:20:30+00:00"
   },
   {
-   "outlet": "Daily Maverick",
-   "headline": "El Niño threatens to deepen southern Africa’s poverty crisis",
-   "summary": "An expected El Niño drought, rising costs and shrinking humanitarian aid could worsen food insecurity and poverty across southern Africa in 2027. South Africa’s strong grain harvest and water reserves offer some protection, but regional food shortages may increase pressure on supplies and exports.",
-   "link": "https://www.dailymaverick.co.za/opinionista/2026-10-26-el-nino-threatens-to-deepen-southern-africas-poverty-crisis/",
-   "published": "2026-10-26T16:52:36+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "When the state fails to protect you, self-defence isn’t a luxury; it’s a necessity",
-   "summary": "Amid a failure of state protection, disarming law-abiding citizens through the Firearms Control Amendment Bill and ignoring the Private Security Industry Regulatory Authority’s governance crisis will fuel chaos rather than safety.",
-   "link": "https://www.dailymaverick.co.za/opinionista/2026-10-26-when-the-state-fails-to-protect-you-self-defence-isnt-a-luxury-its-a-necessity/",
-   "published": "2026-10-26T18:32:43+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "Why the best-laid plans to fix Joburg won’t work — and what will",
-   "summary": "Fixing our municipalities requires more than listing obvious infrastructural failures. True recovery demands structural debt relief, national-level support and clear operational strategies to allow incoming leadership a fresh starting point to rebuild.",
-   "link": "https://www.dailymaverick.co.za/opinionista/2026-10-26-why-the-best-laid-plans-to-fix-joburg-wont-work-and-what-will/",
-   "published": "2026-10-26T19:16:04+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "Local elections 2026: How do you choose who to vote for?",
-   "summary": "Local elections are about more than party loyalty: scrutinise candidates, understand the job and decide what accountability should look like five years from now.",
-   "link": "https://www.dailymaverick.co.za/opinionista/2026-10-26-local-elections-2026-how-do-you-choose-who-to-vote-for/",
-   "published": "2026-10-26T19:17:59+00:00"
+   "outlet": "Christian Science Monitor",
+   "headline": "Israeli opposition parties outperform Netanyahu’s diminished bloc, exit polls show",
+   "summary": "Exit polls published by Israeli news networks showed the country on track for another political stalemate.",
+   "link": "https://www.csmonitor.com/World/Middle-East/2026/1027/israel-election-netanyahu-eisenkot-knesset?icid=rss",
+   "published": "2026-10-27T22:09:39+00:00"
   },
   {
    "outlet": "Daily Maverick",
@@ -887,20 +831,6 @@
    "summary": "Conservation may save species, but what does it cost individual animals? Welfare belongs in the ethical calculus: sustainable is not always ethically justified.",
    "link": "https://www.dailymaverick.co.za/opinionista/2026-10-26-dealing-with-conservations-inconvenient-individual/",
    "published": "2026-10-26T19:23:33+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "TSHWANE CRISIS: Water minister denies Bronkhorstspruit illnesses an ‘outbreak’ — despite 833 reported cases",
-   "summary": "Minister Pemmy Majodina denies a water-related illness outbreak in Bronkhorstspruit, as officials point to infrastructure failures and residents’ water use, while offering no firm timeline for restoring a safe piped water supply.",
-   "link": "https://www.dailymaverick.co.za/article/2026-10-26-water-minister-denies-bronkhorstspruit-illnesses-an-outbreak-despite-833-reported-cases/",
-   "published": "2026-10-26T22:00:40+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "FOREIGN AFFAIRS: SA has moved on from Trump’s G20 summit snub, says Ambassador Roelf Meyer",
-   "summary": "SA’s US ambassador, Roelf Meyer, says SA will attend the B20 in Washington and is already engaging with the UK about next year’s G20.",
-   "link": "https://www.dailymaverick.co.za/article/2026-10-26-sa-has-moved-on-from-trumps-g20-summit-snub-says-ambassador-roelf-meyer/",
-   "published": "2026-10-26T22:04:48+00:00"
   },
   {
    "outlet": "Daily Maverick",
@@ -1127,25 +1057,18 @@
    "published": "2026-10-27T22:18:17+00:00"
   },
   {
-   "outlet": "DW News",
-   "headline": "What Germany thinks of carmaker Audi's $4 billion deal with Trump",
-   "summary": "The luxury carmaker is set to open its first factory in the United States — a move Trump credits to his tariffs. DW examines the German reaction amid a massive auto industry cull at home.",
-   "link": "https://www.dw.com/en/what-germany-thinks-of-carmaker-audi-s-4-billion-deal-with-trump/a-79760479?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-10-26T15:16:00+00:00"
+   "outlet": "Daily Maverick",
+   "headline": "FORBIDDEN STORIES: Killed while livestreaming — the blogger who exposed Mozambique’s toxic chromium mining corridor",
+   "summary": "In late 2024, a young Mozambican blogger named Mano Shottas was shot and killed while livestreaming a protest against pollution linked to the transport of chromium ore. Since then, illegal dumping has persisted along the border with South Africa, with little response from the authorities. The few whistleblowers have been the target of death threats.",
+   "link": "https://www.dailymaverick.co.za/article/2026-10-27-killed-while-livestreaming-the-blogger-who-exposed-mozambiques-toxic-chromium-mining-corridor/",
+   "published": "2026-10-27T23:12:21+00:00"
   },
   {
-   "outlet": "DW News",
-   "headline": "UN sounds the alarm over Israel's West Bank military operation",
-   "summary": "The UN has sounded the alarm on Israeli action in the West Bank city of Hebron after hundreds of families were displaced over the weekend. Israel has ordered the military to demolish homes after soldiers were killed.",
-   "link": "https://www.dw.com/en/un-sounds-the-alarm-over-israel-s-west-bank-military-operation/a-79770228?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-10-26T20:56:00+00:00"
-  },
-  {
-   "outlet": "DW News",
-   "headline": "Jordan says its military struck 'militant hideouts' in Syria after deadly church attack",
-   "summary": "Jordanian armed forces carried out strikes on \"militant hideouts\" in Syria that it said were linked to a deadly church attack on the kingdom last week. Syria gave a different account.",
-   "link": "https://www.dw.com/en/jordan-says-its-military-struck-militant-hideouts-in-syria-after-deadly-church-attack/a-79760441?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-10-26T22:15:00+00:00"
+   "outlet": "Daily Maverick",
+   "headline": "ANALYSIS: Ex-SAA acting chief Seshibe guilty on 4 of 6 charges as runway runs out",
+   "summary": "Matshela Seshibe and SAA are disappointed that the document laying bare the outcome of the disciplinary process at Air Chefs that disqualified (according to SAA) him from becoming the permanent CEO of our national carrier was leaked to the media, but here we are.",
+   "link": "https://www.dailymaverick.co.za/article/2026-10-27-ex-saa-acting-chief-seshibe-guilty-on-4-of-6-charges-as-runway-runs-out/",
+   "published": "2026-10-27T23:18:25+00:00"
   },
   {
    "outlet": "DW News",
@@ -1240,13 +1163,6 @@
   },
   {
    "outlet": "DW News",
-   "headline": "Turnout at Israel's election has reached a record high at the halfway stage",
-   "summary": "Almost 45% of the electorate had voted by 2 p.m., the highest share since such records began in 1973. The highly anticipated vote is expected to be a close-fought contest, and perhaps even a stalemate.",
-   "link": "https://www.dw.com/en/turnout-at-israel-s-election-has-reached-a-record-high-at-the-halfway-stage/live-79713839?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-10-27T14:35:00+00:00"
-  },
-  {
-   "outlet": "DW News",
    "headline": "Myanmar: Is the US undermining the EU's diplomatic blockade?",
    "summary": "With the US reopening talks with Myanmar's military-backed government, and several Southeast Asian countries restarting diplomatic contacts, the EU is facing uncomfortable questions about its own boycott of the junta.",
    "link": "https://www.dw.com/en/myanmar-is-the-us-undermining-the-eu-s-diplomatic-blockade/a-79778863?maca=en-rss-en-all-1573-rdf",
@@ -1268,10 +1184,31 @@
   },
   {
    "outlet": "DW News",
+   "headline": "Israel election: Anti-Netanyahu bloc ahead, but no majority",
+   "summary": "While Netanyahu's party is projected to be the biggest in parliament, the anti-Netanyahu coalition looks set to have more seats. But no bloc has a clear majority.",
+   "link": "https://www.dw.com/en/israel-election-anti-netanyahu-bloc-ahead-but-no-majority/live-79713839?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-10-27T20:21:00+00:00"
+  },
+  {
+   "outlet": "DW News",
    "headline": "Flavio Bolsonaro flees Brazil for US amid investigation — reports",
-   "summary": "Flavio Bolsonaro is reportedly on the way to the US, according to reports citing people close to the senator. Bolsonaro's passports were canceled earlier Tuesday.",
+   "summary": "Flavio Bolsonaro is on the way to the US, according to reports citing people close to the senator. The US State Department said it will issue visas to the senator and his family.",
    "link": "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation-reports/a-79781094?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-10-27T19:34:00+00:00"
+   "published": "2026-10-27T22:18:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "Egypt orders closure of independent news site Mada Masr",
+   "summary": "Editor-in-chief Lina Attalah was briefly detained and fined over licensing violations. Rights groups condemned the ruling as a major blow to press freedom in Egypt, where independent media face growing pressure.",
+   "link": "https://www.dw.com/en/egypt-orders-closure-of-independent-news-site-mada-masr/a-79781842?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-10-27T23:16:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "Experts urge 'global health emergency' as climate harms accelerate",
+   "summary": "Heat, drought and storms linked to climate change are already killing millions worldwide. Researchers want global warming to be declared a global health emergency as the health harms from it escalate faster than ever.",
+   "link": "https://www.dw.com/en/experts-urge-global-health-emergency-as-climate-harms-accelerate/a-79773232?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-10-28T00:05:00+00:00"
   },
   {
    "outlet": "FactCheck.org",
@@ -1288,11 +1225,11 @@
    "published": "2026-10-26T21:18:49+00:00"
   },
   {
-   "outlet": "Good Good Good",
-   "headline": "Oregon Zoo shares footage of rescued sea otters playing basketball with pumpkins: 'It plays a critical role in their well-being'",
-   "summary": "Juno, Lincoln, and Uni Sushi are rewarded for their tricks on the “court” with fresh seafood.",
-   "link": "https://www.goodgoodgood.co/articles/otters-playing-basketball-halloween-pumpkins",
-   "published": "2026-10-26T17:08:00+00:00"
+   "outlet": "FactCheck.org",
+   "headline": "FactChecking Claims from Trump’s Midterm Rallies",
+   "summary": "Throughout October, President Donald Trump has traveled across the country, holding campaign rallies supporting Republican candidates in the 2026 midterms. In his remarks, he has made a number of false, misleading or exaggerated claims. The post FactChecking Claims from Trump’s Midterm Rallies appeared first on FactCheck.org .",
+   "link": "https://www.factcheck.org/2026/10/factchecking-claims-from-trumps-midterm-rallies/",
+   "published": "2026-10-27T21:38:41+00:00"
   },
   {
    "outlet": "Good Good Good",
@@ -1307,20 +1244,6 @@
    "summary": "A study off Cornwall, England, found that nets fitted with bird-of-prey kites had 71% lower odds of catching guillemots and razorbills, and nets with spinning “looming-eye” buoys had 59% lower odds.",
    "link": "https://www.goodgoodgood.co/articles/buoy-kite-seabirds-fishing-nets",
    "published": "2026-10-27T17:13:00+00:00"
-  },
-  {
-   "outlet": "Good News Network",
-   "headline": "Tiny Scottish Island’s Little Historical Society Makes Massive Discovery",
-   "summary": "A Scottish island is now confirmed to have been one of earliest centers of Christian evangelism in the British Isles thanks to a small-town historical society. The massive discovery puts the tiny island on the historical map in a big way, as the archeological patrimony uncovered there points to the early medieval monastery being a […] The post Tiny Scottish Island’s Little Historical Society Makes",
-   "link": "https://www.goodnewsnetwork.org/tiny-scottish-islands-little-historical-society-makes-massive-discovery/",
-   "published": "2026-10-26T15:30:56+00:00"
-  },
-  {
-   "outlet": "Good News Network",
-   "headline": "Stunning New Opera House Opens With a Gravity-Defying Grand Staircase (LOOK)",
-   "summary": "Despite its curtain raising rather late in the year, Shanghai’s new opera house has elbowed its way to the front row of international architectural debuts—thanks to a gravity-defying grand staircase. Rising above the banks of the Huangpu River, commission for the Grand Opera House was awarded 10 years ago to Norwegian architecture firm Snøhetta. The […] The post Stunning New Opera House Opens With",
-   "link": "https://www.goodnewsnetwork.org/stunning-new-opera-house-welcomes-you-with-gravity-defying-grand-staircase-look/",
-   "published": "2026-10-26T18:30:24+00:00"
   },
   {
    "outlet": "Good News Network",
@@ -1386,6 +1309,20 @@
    "published": "2026-10-27T19:04:53+00:00"
   },
   {
+   "outlet": "Inside Climate News",
+   "headline": "The High-Stakes Governor’s Races That Could Reshape America’s Energy Future",
+   "summary": "The right governor can put a state on a dramatically different energy and environmental path—and next week’s election could set the stage for major policy shifts across the country. Democrats are favored to retain governorships in Arizona, Michigan, Pennsylvania, and Wisconsin, according to Sabato’s Crystal Ball at the University of Virginia. The party is also […]",
+   "link": "https://insideclimatenews.org/news/27102026/governor-races-energy-future/",
+   "published": "2026-10-27T22:18:39+00:00"
+  },
+  {
+   "outlet": "Inside Climate News",
+   "headline": "The Cost of Lagging Global Climate Action Is Lost Lives and Poor Health",
+   "summary": "A decade after world leaders signed the legally binding Paris Agreement to combat climate change, the crisis’ health harms are getting worse and progress is lagging, according to a new report from leading international scientists. The 10th annual Lancet Countdown report, published Tuesday, is authored by 146 researchers from more than 30 countries, led by […]",
+   "link": "https://insideclimatenews.org/news/27102026/lagging-global-climate-action-health-harms/",
+   "published": "2026-10-28T00:01:00+00:00"
+  },
+  {
    "outlet": "KFF Health News",
    "headline": "Jacksonville, Florida’s Gun Violence Is Rooted in Redlining and Homes Built on Toxic Waste",
    "summary": "Poisons from Jacksonville, Florida’s “Brown’s Dump” seeped into the lifeblood of residents. The harm to their physical and mental health is tied today to another public health crisis: high rates of gun violence among children.",
@@ -1398,13 +1335,6 @@
    "summary": "If your doctor recommends a big test or procedure, this tool can help you talk through options collaboratively. It works at a routine checkup or in high-stakes medical situations like childbirth.",
    "link": "https://kffhealthnews.org/mental-health/healthq-medical-decision-making-help-brain-acronym/",
    "published": "2026-10-27T09:00:00+00:00"
-  },
-  {
-   "outlet": "National Review",
-   "headline": "Europe’s Mad Voyage Meets the Whirlwind",
-   "summary": "Moral values without moral commitments.",
-   "link": "https://www.nationalreview.com/2026/10/europes-mad-voyage-meets-the-whirlwind/",
-   "published": "2026-10-26T18:44:54+00:00"
   },
   {
    "outlet": "National Review",
@@ -1498,88 +1428,11 @@
    "published": "2026-10-27T20:22:38+00:00"
   },
   {
-   "outlet": "PBS NewsHour",
-   "headline": "Student-led movement ousts Serbia's right-wing ruler in historic election",
-   "summary": "Brazil is not the only country to have had dramatic election results this weekend. In Serbia, longtime leader Aleksandar Vucic lost a historic election that brought down his government. William Brangham discussed the results with Heather Conley.",
-   "link": "https://www.pbs.org/newshour/show/student-led-movement-ousts-serbias-right-wing-ruler-in-historic-election",
-   "published": "2026-10-26T22:35:41+00:00"
-  },
-  {
-   "outlet": "PBS NewsHour",
-   "headline": "Lula prevails in Brazil but Flávio Bolsonaro refuses to concede",
-   "summary": "In a closely watched election, Brazilian President Luiz Inácio Lula da Silva defeated right-wing and Trump-aligned challenger Flávio Bolsonaro. Transport and weather disruptions in parts of Brazil led to a chaotic final stretch at the polls. Bolsonaro is refusing to concede, and President Trump called the outcome \"rigged.\" Stephanie Sy reports.",
-   "link": "https://www.pbs.org/newshour/show/lula-prevails-in-brazil-but-flavio-bolsonaro-refuses-to-concede",
-   "published": "2026-10-26T22:40:58+00:00"
-  },
-  {
-   "outlet": "PBS NewsHour",
-   "headline": "Netanyahu faces Israeli voters in first election since Oct. 7 and Gaza war",
-   "summary": "Israelis will go to the polls on Tuesday in what many describe as the most consequential election in years. It's the first vote since the Oct. 7 Hamas attack and Israel's war in Gaza. Prime Minister Netanyahu has been campaigning that he'll keep Israel safe. But the opposition says Netanyahu failed to prevent the 2023 attack and is blocking an investigation into it. Nick Schifrin reports.",
-   "link": "https://www.pbs.org/newshour/show/netanyahu-faces-israeli-voters-in-first-election-since-oct-7-and-gaza-war",
-   "published": "2026-10-26T22:45:37+00:00"
-  },
-  {
-   "outlet": "PBS NewsHour",
-   "headline": "News Wrap: AI giant Anthropic preparing for initial public offering",
-   "summary": "In our news wrap Monday, AI giant Anthropic officially kicked off what could be one of the biggest initial public offerings ever, at least two Catholic bishops have expressed regret for taking part in a White House meeting that was later made public and a federal judge ruled that the Trump administration acted illegally when it fired Maureen Comey, daughter of former FBI Director James Comey.",
-   "link": "https://www.pbs.org/newshour/show/news-wrap-ai-giant-anthropic-preparing-for-initial-public-offering",
-   "published": "2026-10-26T22:50:40+00:00"
-  },
-  {
-   "outlet": "PBS NewsHour",
-   "headline": "Candidates enter final week of campaigning with control of Congress at stake",
-   "summary": "It's crunch time for candidates across the country with Election Day just over a week away. On Monday, President Trump campaigned in ruby-red Mississippi, a state he won by almost 23 points two years ago. Over the weekend, the battleground state of Michigan saw a political heavyweight bout between Trump and former President Obama. Liz Landers reports.",
-   "link": "https://www.pbs.org/newshour/show/candidates-enter-final-week-of-campaigning-with-control-of-congress-at-stake",
-   "published": "2026-10-26T22:55:02+00:00"
-  },
-  {
-   "outlet": "PBS NewsHour",
-   "headline": "What our final poll before Election Day says about midterms and Trump",
-   "summary": "Democrats hold an 8-point lead among likely voters in the fight for control of Congress with one week until Election Day, according to the latest PBS News/NPR/Marist poll.",
-   "link": "https://www.pbs.org/newshour/politics/poll-likely-voters-favor-democrats-as-trump-disapproval-drives-early-turnout",
-   "published": "2026-10-27T09:00:33+00:00"
-  },
-  {
-   "outlet": "PBS NewsHour",
-   "headline": "Israelis are voting on whether to oust Netanyahu in first election since Oct. 7 attack",
-   "summary": "Israelis are voting in a pivotal election Tuesday as their country wrestles with unresolved wars, continues to reel from Hamas' 2023 attack and is deeply divided over the character of the state and the right person to lead it.",
-   "link": "https://www.pbs.org/newshour/world/israelis-are-voting-on-whether-to-oust-netanyahu-in-first-election-since-oct-7-attack",
-   "published": "2026-10-27T13:40:49+00:00"
-  },
-  {
-   "outlet": "PBS NewsHour",
-   "headline": "Key things to know about Israel's election",
-   "summary": "After polls close late Tuesday, the jostling for power is likely to begin — between parties small and big — to achieve a governing coalition and name the next prime minister.",
-   "link": "https://www.pbs.org/newshour/world/key-things-to-know-about-israels-election",
-   "published": "2026-10-27T14:00:31+00:00"
-  },
-  {
-   "outlet": "PBS NewsHour",
-   "headline": "Why it could be weeks or months before Israel's election winner is known",
-   "summary": "The next prime minister will have to cobble together a coalition.",
-   "link": "https://www.pbs.org/newshour/world/why-it-could-be-weeks-or-months-before-israels-election-winner-is-known",
-   "published": "2026-10-27T14:43:19+00:00"
-  },
-  {
-   "outlet": "PBS NewsHour",
-   "headline": "Environmentalists celebrate Lula's reelection in Brazil: 'The Amazon can breathe a sigh of relief'",
-   "summary": "Lula's government recently announced the lowest Amazon deforestation rate on record. However, he faces a Congress dominated by the far right and agribusiness interests, which often back measures weakening environmental protections.",
-   "link": "https://www.pbs.org/newshour/world/environmentalists-celebrate-lulas-reelection-in-brazil-the-amazon-can-breathe-a-sigh-of-relief",
-   "published": "2026-10-27T17:26:46+00:00"
-  },
-  {
-   "outlet": "PBS NewsHour",
-   "headline": "Judge scolds DOJ over case against ex-FBI officials accused of false statements about Hunter Biden's laptop",
-   "summary": "A federal judge has scolded the Justice Department for its unorthodox handling of a criminal case against two former FBI officials.",
-   "link": "https://www.pbs.org/newshour/nation/judge-scolds-doj-over-case-against-ex-fbi-officials-accused-of-false-statements-about-hunter-bidens-laptop",
-   "published": "2026-10-27T17:34:26+00:00"
-  },
-  {
-   "outlet": "PBS NewsHour",
-   "headline": "5 things to watch for in this week's Federal Reserve meeting",
-   "summary": "The Fed's Oct. 27-28 meeting will be the fourth of Chairman Kevin Warsh's tenure, which has been marked by questions regarding his independence from President Donald Trump, who appointed him earlier this year.",
-   "link": "https://www.pbs.org/newshour/economy/5-things-to-watch-for-in-this-weeks-federal-reserve-meeting",
-   "published": "2026-10-27T17:45:45+00:00"
+   "outlet": "NPR",
+   "headline": "Israel's election turnout soars, lifting opposition hopes of beating Netanyahu",
+   "summary": "Israelis voted in their highest numbers in over two decades in a tense national election to decide whether to stick with Prime Minister Benjamin Netanyahu's far-right coalition.",
+   "link": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections",
+   "published": "2026-10-27T20:45:39+00:00"
   },
   {
    "outlet": "PBS NewsHour",
@@ -1591,7 +1444,7 @@
   {
    "outlet": "PBS NewsHour",
    "headline": "WATCH LIVE: Trump campaigns for Ken Paxton at rallies in Texas",
-   "summary": "The president will appear in Corpus Christi and Lubbock in his effort to boost Republican Ken Paxton's competitive U.S. Senate campaign against Democrat James Talarico.",
+   "summary": "Trump was in Corpus Christi and Lubbock to boost Republican Ken Paxton's competitive U.S. Senate campaign against Democrat James Talarico.",
    "link": "https://www.pbs.org/newshour/politics/watch-live-trump-campaigns-for-ken-paxton-at-rallies-in-texas",
    "published": "2026-10-27T18:22:09+00:00"
   },
@@ -1611,8 +1464,8 @@
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "Brazil's Flávio Bolsonaro leaves Brazil for the United States after presidential loss, according to multiple media reports",
-   "summary": "Bolsonaro's whereabouts are unclear, and his spokesperson hasn't commented.",
+   "headline": "Brazil's Flávio Bolsonaro and his family will get U.S. visas after presidential election loss",
+   "summary": "A senior State Department official said Tuesday that Flávio Bolsonaro and his family will be granted U.S. visas after his weekend loss to incumbent Brazilian President Luiz Inácio Lula da Silva in a hotly contested race that bucked a trend of conservative electoral results in Latin America.",
    "link": "https://www.pbs.org/newshour/world/brazils-flavio-bolsonaro-leaves-brazil-for-the-united-states-after-presidential-loss-according-to-multiple-media-reports",
    "published": "2026-10-27T19:44:42+00:00"
   },
@@ -1636,6 +1489,90 @@
    "summary": "Final results are expected in the coming days and may vary from the exit polls.",
    "link": "https://www.pbs.org/newshour/world/no-clear-winner-in-israeli-election-exit-polls-indicate-as-netanyahus-fate-hangs-in-the-balance",
    "published": "2026-10-27T20:11:31+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "Libertarians could siphon Republican support in the fight for control of the U.S. Senate",
+   "summary": "Third-party Libertarian candidates threaten to siphon votes from Republicans in competitive states and could imperil the party's chances of holding its narrow majority over Democrats.",
+   "link": "https://www.pbs.org/newshour/politics/libertarians-could-siphon-republican-support-in-the-fight-for-control-of-the-u-s-senate",
+   "published": "2026-10-27T21:10:32+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "U.S. military says 5 were killed by a strike on an alleged drug smuggling boat in the eastern Pacific",
+   "summary": "Trump has sought to justify the attacks by saying they stem the flow of drugs into the U.S., but critics have questioned the overall legality of the boat strikes as well as their effectiveness.",
+   "link": "https://www.pbs.org/newshour/world/u-s-military-says-5-were-killed-by-a-strike-on-an-alleged-drug-smuggling-boat-in-the-eastern-pacific",
+   "published": "2026-10-27T21:37:57+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "Daylight saving time is coming to an end again. Here's how the time change may impact you",
+   "summary": "One tip: Try to get outside for some morning sun — it'll help your body clock reset faster.",
+   "link": "https://www.pbs.org/newshour/nation/daylight-saving-time-is-coming-to-an-end-again-heres-how-the-time-change-may-impact-you",
+   "published": "2026-10-27T21:58:45+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "Theodore Roosevelt Presidential Library celebrates his commitment to conservation",
+   "summary": "This year, the 26th president's legacy received a remarkable new tribute: the opening of the Theodore Roosevelt Presidential Library in the Badlands of North Dakota, a landscape that helped shape his lifelong commitment to conservation. Senior arts correspondent Jeffrey Brown recently paid a visit for our arts and culture series, CANVAS.",
+   "link": "https://www.pbs.org/newshour/show/theodore-roosevelt-presidential-library-celebrates-his-commitment-to-conservation",
+   "published": "2026-10-27T22:20:50+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "School principal documents Indonesia's worst wildfires in a decade",
+   "summary": "Indonesia is battling its worst wildfires in more than a decade, made worse by El Niño. Many were deliberately set to clear land for farming, including palm oil plantations. More than 12,000 schools across Indonesia have closed because of the toxic haze. Nathaniel Undas, a school principal and photographer, has been documenting the fires on social media.",
+   "link": "https://www.pbs.org/newshour/show/school-principal-documents-indonesias-worst-wildfires-in-a-decade",
+   "published": "2026-10-27T22:25:16+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "Why Trump's coalition of evangelical voters could be fraying",
+   "summary": "White evangelical Christians have been among President Trump's most loyal supporters for more than a decade, and our new PBS News/NPR/Marist poll shows that most still approve of him. But signs of slippage are emerging ahead of the midterms. Stephanie Sy reports on the overlap of politics and faith.",
+   "link": "https://www.pbs.org/newshour/show/why-trumps-coalition-of-evangelical-voters-could-be-fraying",
+   "published": "2026-10-27T22:30:42+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "Inside Georgia's push to rebuild trust in elections after Trump's false claims",
+   "summary": "The Trump administration has stepped up efforts to challenge the integrity of elections and assert greater control over how they are conducted. Georgia has been at the center of that debate ever since Trump's false claims about the state's role in the 2020 election. In partnership with the Pulitzer Center, Liz Landers looks at how Georgia is working to restore confidence in the voting process.",
+   "link": "https://www.pbs.org/newshour/show/inside-georgias-push-to-rebuild-trust-in-elections-after-trumps-false-claims",
+   "published": "2026-10-27T22:35:36+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "Grand jury refuses to indict former White House aide Cassidy Hutchinson, AP sources say",
+   "summary": "It's the latest setback in the Justice Department's efforts to charge Trump's perceived adversaries.",
+   "link": "https://www.pbs.org/newshour/politics/grand-jury-refuses-to-indict-former-white-house-aide-cassidy-hutchinson-ap-sources-say",
+   "published": "2026-10-27T22:40:06+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "News Wrap: U.S. providing visas to Bolsonaro and family after loss in Brazil's election",
+   "summary": "In our news wrap Tuesday, the State Department said it will provide U.S. visas to Flavio Bolsonaro and his family following his loss in Brazil's election, President Trump insists the East Potomac Golf Course will close for renovations despite a judge's order blocking major changes and a ceasefire in the Russian-occupied city of Oleshky was holding as a humanitarian truce took effect.",
+   "link": "https://www.pbs.org/newshour/show/news-wrap-u-s-providing-visas-to-bolsonaro-and-family-after-loss-in-brazils-election",
+   "published": "2026-10-27T22:40:23+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "Poll gauges voter enthusiasm for both parties a week before election",
+   "summary": "A new PBS News/NPR/Marist poll released on Tuesday shows Democrats hold an eight-point lead among likely voters. With independents, that lead grows to 13 points. Geoff Bennett breaks down the poll results and what it tells us with Domenico Montanaro of NPR.",
+   "link": "https://www.pbs.org/newshour/show/poll-gauges-voter-enthusiasm-for-both-parties-a-week-before-election",
+   "published": "2026-10-27T22:45:04+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "Democrats put economy and affordability at center of final campaign push",
+   "summary": "With one week until Election Day, the final push is on. President Trump is making a swing through Texas, a state Republicans have long counted on, but where Democrats see an opportunity to make gains. With voters pointing to the cost of everyday necessities, the economy is looming large in the final week of the campaign. Lisa Desjardins reports.",
+   "link": "https://www.pbs.org/newshour/show/democrats-put-economy-and-affordability-at-center-of-final-campaign-push",
+   "published": "2026-10-27T22:50:38+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "Projections show no clear winner in Israel's election",
+   "summary": "Israelis turned out in record numbers for their first election since the Oct. 7 attacks and the war in Gaza. Projections show opposition parties won more seats than the coalition led by Prime Minister Netanyahu, potentially setting the stage for a change in government. But Netanyahu's opponents do not have enough seats to form a majority, leading to weeks of negotiations. Nick Schifrin reports.",
+   "link": "https://www.pbs.org/newshour/show/projections-show-no-clear-winner-in-israels-election",
+   "published": "2026-10-27T22:55:25+00:00"
   },
   {
    "outlet": "Politico",
@@ -1666,11 +1603,11 @@
    "published": "2026-10-27T09:45:00+00:00"
   },
   {
-   "outlet": "Politico Europe",
-   "headline": "Mbappé apologizes after being dropped by Chinese brands over ‘dictator’ comment",
-   "summary": "French football star loses deals with drinks-maker and dairy company.",
-   "link": "https://www.politico.eu/article/kylian-mbappe-dropped-by-chinese-brands-over-dictator-comment/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "published": "2026-10-27T10:38:15+00:00"
+   "outlet": "Politico",
+   "headline": "Republicans wanted Rubio on the stump. Trump coaxed him there.",
+   "summary": "“We love you, Texas,” the secretary of State told the crowd.",
+   "link": "https://www.politico.com/news/2026/10/27/marco-rubio-texas-trump-midterms-01137437",
+   "published": "2026-10-27T22:50:28+00:00"
   },
   {
    "outlet": "Politico Europe",
@@ -1730,10 +1667,17 @@
   },
   {
    "outlet": "Politico Europe",
-   "headline": "Quebec’s separatist leader threatens to play spoiler to Carney’s EU summit",
+   "headline": "Quebec’s separatist leader threatens to play spoiler at Carney’s EU summit",
    "summary": "Premier Paul St-Pierre Plamondon says Ottawa would rather he “serve shrimp cocktail” at a function than stage one, and alleges a “serious lack of respect.”",
    "link": "https://www.politico.eu/article/quebecs-separatist-leader-threatens-to-play-spoiler-to-carneys-eu-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
    "published": "2026-10-27T19:57:34+00:00"
+  },
+  {
+   "outlet": "Politico Europe",
+   "headline": "The US and Canada are talking trade. That doesn’t mean they’re near a deal.",
+   "summary": "Washington and Ottawa have intensified their discussions over the past week, but have yet to offer concessions.",
+   "link": "https://www.politico.eu/article/the-us-and-canada-are-talking-trade-that-doesnt-mean-theyre-near-a-deal/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "published": "2026-10-27T22:26:55+00:00"
   },
   {
    "outlet": "PolitiFact",
@@ -1778,6 +1722,13 @@
    "published": "2026-10-27T20:26:45+00:00"
   },
   {
+   "outlet": "PolitiFact",
+   "headline": "Trump falsely says Ohio gubernatorial candidate Amy Acton wants to double Ohio income taxes",
+   "summary": "Ohio gubernatorial candidate Dr. Amy Acton “is trying to double your state income tax.”",
+   "link": "https://politifact.com/factchecks/2026/oct/27/donald-trump/ramaswamy-acton-21-billion-income-tax-spending/",
+   "published": "2026-10-27T21:35:05+00:00"
+  },
+  {
    "outlet": "Positive News",
    "headline": "Cream of the crop: one brand’s quiet quest to reinvent the dairy industry",
    "summary": "Regenerative agriculture is being explored as a way to make dairy farming more resilient. But what does it mean? Here is our demystifying guide The post Cream of the crop: one brand’s quiet quest to reinvent the dairy industry appeared first on Positive News .",
@@ -1790,34 +1741,6 @@
    "summary": "The post This Oil Company Is Linked to 1,000 Pollution Incidents and Other Violations. Oklahoma Never Punished It. appeared first on ProPublica .",
    "link": "https://www.propublica.org/article/oklahoma-oil-pollution-citation-violations",
    "published": "2026-10-27T09:00:00+00:00"
-  },
-  {
-   "outlet": "Reason",
-   "headline": "Trump's Tariffs Are Politically Toxic",
-   "summary": "Voters hate the tariffs—and elected Republicans aren't even trying to defend the president's signature policy anymore.",
-   "link": "https://reason.com/2026/10/26/trumps-tariffs-are-politically-toxic/",
-   "published": "2026-10-26T15:40:31+00:00"
-  },
-  {
-   "outlet": "Reason",
-   "headline": "New Book Says Jared Kushner Funneled Money to Middle East Mercenaries. Kushner Denies It.",
-   "summary": "Cover of 'Princes and Thieves' with Jared Kushner (on the left) and Mohamed bin Zayed (on the right)",
-   "link": "https://reason.com/2026/10/26/new-book-says-jared-kushner-funneled-money-to-middle-east-mercenaries-kushner-denies-it/",
-   "published": "2026-10-26T15:57:28+00:00"
-  },
-  {
-   "outlet": "Reason",
-   "headline": "Bob Woodward Reveals He Spoke With Justices Stewart, Powell, White, Blackmun, and Rehnquist for \"The Brethren\"",
-   "summary": "Steven Goldberg, one of Brennan's clerks, provided Woodward with the 75-page case history of U.S.v. Nixon.",
-   "link": "https://reason.com/volokh/2026/10/26/bob-woodward-reveals-he-spoke-with-justices-stewart-powell-white-blackmun-and-rehnquist-for-the-brethren/",
-   "published": "2026-10-26T16:01:36+00:00"
-  },
-  {
-   "outlet": "Reason",
-   "headline": "Nathan Fielder Made a Dishonest Movie",
-   "summary": "Nathan Fielder and Elizabeth Holmes",
-   "link": "https://reason.com/2026/10/26/nathan-fielder-made-a-dishonest-movie/",
-   "published": "2026-10-26T17:55:43+00:00"
   },
   {
    "outlet": "Reason",
@@ -1995,11 +1918,32 @@
    "published": "2026-10-27T20:36:08+00:00"
   },
   {
-   "outlet": "Science News",
-   "headline": "Volcanoes lurk behind the scenes of human history",
-   "summary": "Volcanoes have cast a shadow over climate and history. Cold spurts after eruptions may have spurred famine, disease, revolts and other events.",
-   "link": "https://www.sciencenews.org/article/volcanoes-impact-human-history-climate",
-   "published": "2026-10-26T18:00:00+00:00"
+   "outlet": "Reason",
+   "headline": "CBP Really Doesn't Want To Reveal What It Does to Americans' Phones",
+   "summary": "A red background with a Border Patrol agent scrolling on a phone",
+   "link": "https://reason.com/2026/10/27/cbp-really-doesnt-want-to-reveal-what-it-does-to-americans-phones/",
+   "published": "2026-10-27T21:10:33+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "Alibaba and the Forty Lobbyists, and the First Amendment",
+   "summary": "From a long opinion yesterday by Judge Eumi Lee (N.D. Cal.) in Alibaba Group Holding Ltd. v. U.S. Dep't of… The post Alibaba and the Forty Lobbyists, and the First Amendment appeared first on Reason Magazine.",
+   "link": "https://reason.com/volokh/2026/10/27/alibaba-and-the-forty-lobbyists-and-the-first-amendment/",
+   "published": "2026-10-27T22:02:08+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "Hasan Piker Sues Scott Jennings",
+   "summary": "From the complaint in Piker v. Jennings; of course, this is just Piker's side of the story—I expect we'll get… The post Hasan Piker Sues Scott Jennings appeared first on Reason Magazine.",
+   "link": "https://reason.com/volokh/2026/10/27/hasan-piker-sues-scott-jennings/",
+   "published": "2026-10-27T22:20:53+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "1,000,000 Miles on United",
+   "summary": "I've completed approximately 2 round trips from the Earth to the Moon.",
+   "link": "https://reason.com/volokh/2026/10/27/1000000-miles-on-united/",
+   "published": "2026-10-28T00:35:38+00:00"
   },
   {
    "outlet": "Science News",
@@ -2021,27 +1965,6 @@
    "summary": "New brain-computer interfaces turn attempted speech into words and can speak them in a voice resembling the user’s own.",
    "link": "https://www.sciencenews.org/article/brain-implants-thoughts-speech-podcast",
    "published": "2026-10-27T18:35:43+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "A 'blistering exposé' of a mysterious technology",
-   "summary": "Michael Rey and Oriana Zill de Granados investigate the mysterious “sonic attacks” at the US Embassy in Cuba and other American posts around the world.",
-   "link": "https://www.semafor.com/article/10/26/2026/a-blistering-expos-of-havana-syndrome",
-   "published": "2026-10-26T14:54:18+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Apollo takes stake in Abu Dhabi’s Mubadala Capital",
-   "summary": "The US investing giant’s deal is the latest Wall Street bet that Gulf capital remains a crucial part of global finance.",
-   "link": "https://www.semafor.com/article/10/26/2026/apollo-takes-stake-in-abu-dhabis-mubadala-capital",
-   "published": "2026-10-26T15:05:25+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Founder control, Trump risk, giant losses: Anthropic’s IPO filing",
-   "summary": "The frontier lab’s filing reveals $417 billion in future compute and infrastructure leases.",
-   "link": "https://www.semafor.com/article/10/26/2026/founder-control-trump-risk-giant-losses-anthropics-ipo-filing",
-   "published": "2026-10-26T15:55:37+00:00"
   },
   {
    "outlet": "Semafor",
@@ -2261,25 +2184,39 @@
    "published": "2026-10-27T19:54:34+00:00"
   },
   {
-   "outlet": "STAT",
-   "headline": "STAT+: Merck ADC drug cut risk of death by one-third in advanced endometrial cancer",
-   "summary": "A Phase 3 trial of a targeted drug developed by Merck and China’s Kelun-Biotech cut by one-third the risk of death in patients with advanced endometrial cancer.",
-   "link": "https://www.statnews.com/2026/10/26/merck-kelun-sac-tmt-endometrial-cancer-study-esmo-2026/?utm_campaign=rss",
-   "published": "2026-10-26T15:30:00+00:00"
+   "outlet": "Semafor",
+   "headline": "No clear winner in Israel's election, exit polls indicate",
+   "summary": "Israelis voted Tuesday in an election pervaded by a sense of historical consequence.",
+   "link": "https://www.semafor.com/article/10/27/2026/no-clear-winner-in-israels-election-exit-polls-indicate",
+   "published": "2026-10-27T22:28:49+00:00"
   },
   {
-   "outlet": "STAT",
-   "headline": "STAT+: GSK sees its return to cancer start to pay off",
-   "summary": "A decade ago, GSK was out of oncology. It could soon pick up approval for its sixth cancer drug.",
-   "link": "https://www.statnews.com/2026/10/26/gsk-cancer-esmo-adcs-jemperli/?utm_campaign=rss",
-   "published": "2026-10-26T16:20:05+00:00"
+   "outlet": "Semafor",
+   "headline": "US consumer confidence ticks up in October",
+   "summary": "US consumer sentiment rose in October for the first time in four months, helped by easing retail gas prices, but a gloomy economic outlook continues to cloud Republicans’ midterm prospects.",
+   "link": "https://www.semafor.com/article/10/27/2026/us-consumer-confidence-ticks-up-in-october",
+   "published": "2026-10-27T22:30:46+00:00"
   },
   {
-   "outlet": "STAT",
-   "headline": "STAT+: House lawmaker probes PBMs for ‘punitive’ audits of independent pharmacies",
-   "summary": "A House lawmaker is investigating whether the three largest PMS targeted independent pharmacies withretaliatory audits.",
-   "link": "https://www.statnews.com/pharmalot/2026/10/26/lawmaker-probes-pbms-for-punitive-audits-independent-pharmacies/?utm_campaign=rss",
-   "published": "2026-10-26T16:26:50+00:00"
+   "outlet": "Semafor",
+   "headline": "China's 'national team' state funds intervene amid market rout",
+   "summary": "China’s “national team” of huge state funds has injected billions of dollars into stocks to arrest a weekslong slide, as the country’s flagging markets officially entered bear territory.",
+   "link": "https://www.semafor.com/article/10/27/2026/chinas-national-team-state-funds-intervene-amid-market-rout",
+   "published": "2026-10-27T22:33:40+00:00"
+  },
+  {
+   "outlet": "Semafor",
+   "headline": "US offers visa to Brazil's Flávio Bolsonaro as he flees corruption charges",
+   "summary": "The Donald Trump ally reportedly fled to the US to evade corruption charges following his defeat in Brazil’s presidential election.",
+   "link": "https://www.semafor.com/article/10/27/2026/us-offers-visa-to-brazils-flvio-bolsonaro-as-he-flees-corruption-charges",
+   "published": "2026-10-27T22:34:06+00:00"
+  },
+  {
+   "outlet": "Semafor",
+   "headline": "EU lobbies G7 nations to increase Ukraine funding",
+   "summary": "Non-EU allies have pledged only $4.5 billion for 2027, the Financial Times reported, down from more than $20 billion this year.",
+   "link": "https://www.semafor.com/article/10/27/2026/eu-lobbies-g7-nations-to-increase-ukraine-funding",
+   "published": "2026-10-27T22:41:22+00:00"
   },
   {
    "outlet": "STAT",
@@ -2371,41 +2308,6 @@
    "summary": "Missouri AG told Lilly to stop forcing hospitals to provide claims data to receive discounted medicines under 340B, a sign more states are pushing back against drugmakers.",
    "link": "https://www.statnews.com/pharmalot/2026/10/27/missouri-ag-warns-lilly-340b-drug-pricing-data/?utm_campaign=rss",
    "published": "2026-10-27T18:45:34+00:00"
-  },
-  {
-   "outlet": "Straight Arrow News",
-   "headline": "A historic ship is going to become even more historic, but this time, at the bottom of the ocean",
-   "summary": "The ocean liner will become the centerpiece of Destin-Fort Walton Beach’s artificial reef program, which features more than 500 reef sites.",
-   "link": "https://san.com/cc/a-historic-ship-is-going-to-become-even-more-historic-but-this-time-at-the-bottom-of-the-ocean/",
-   "published": "2026-10-26T16:03:47+00:00"
-  },
-  {
-   "outlet": "Straight Arrow News",
-   "headline": "Young Americans for Nixon? Inside the manufactured youth craze sweeping conservative media",
-   "summary": "Meet the boomers behind \"Nixonmaxxing,\" the purported resurgence of former President Richard Nixon’s popularity among young Americans.",
-   "link": "https://san.com/cc/young-americans-for-nixon-inside-the-manufactured-youth-craze-sweeping-conservative-media/",
-   "published": "2026-10-26T17:00:00+00:00"
-  },
-  {
-   "outlet": "Straight Arrow News",
-   "headline": "Netanyahu hopes Trump’s backing will sway voters in Israeli elections",
-   "summary": "Benjamin Netanyahu has been Israel's longest-serving prime minister, serving a total of nearly 19 years since he was first elected in 1996.",
-   "link": "https://san.com/cc/netanyahu-hopes-trumps-backing-will-sway-voters-in-israeli-elections/",
-   "published": "2026-10-26T17:21:01+00:00"
-  },
-  {
-   "outlet": "Straight Arrow News",
-   "headline": "A hospital employee uploaded patient data to an unapproved AI tool. Where is it now?",
-   "summary": "A Baltimore hospital worker uploaded 3,182 patients’ records to an unapproved AI tool. Deleting the chat may not have erased them.",
-   "link": "https://san.com/cc/a-hospital-employee-uploaded-patient-data-to-an-unapproved-ai-tool-where-is-it-now/",
-   "published": "2026-10-26T17:50:31+00:00"
-  },
-  {
-   "outlet": "Straight Arrow News",
-   "headline": "Elon Musk for president? Yes, there’s a committee for that",
-   "summary": "Two people in Iowa want Elon Musk as president in 2028. They have a website and memecoin. The only thing missing is the candidate and a constitutional amendment.",
-   "link": "https://san.com/cc/elon-musk-for-president-yes-theres-a-committee-for-that/",
-   "published": "2026-10-26T18:10:44+00:00"
   },
   {
    "outlet": "Straight Arrow News",
@@ -2513,11 +2415,18 @@
    "published": "2026-10-27T17:21:00+00:00"
   },
   {
-   "outlet": "The Conversation",
-   "headline": "Ghost stories don’t just scare us – they remind us of historical injustices",
-   "summary": "From phantom ships carrying enslaved people to an apparition in a Maine lake, ghost stories have revived memories of injustices that might otherwise have been forgotten.",
-   "link": "https://theconversation.com/ghost-stories-dont-just-scare-us-they-remind-us-of-historical-injustices-293080",
-   "published": "2026-10-26T17:59:20+00:00"
+   "outlet": "Straight Arrow News",
+   "headline": "Rare legal maneuver could doom DOJ’s latest case against Comey",
+   "summary": "The DOJ charged former FBI director James Comey with a document usually used for guilty pleas, something former federal prosecutors said was rare.",
+   "link": "https://san.com/cc/rare-legal-maneuver-could-doom-dojs-latest-case-against-comey/",
+   "published": "2026-10-27T20:53:11+00:00"
+  },
+  {
+   "outlet": "Straight Arrow News",
+   "headline": "Salvadoran man dies at a Georgia ICE facility amid hunger strike",
+   "summary": "The facility where the man died has been a target of criticism for at least four years, with advocates saying detainees are subject to abuse.",
+   "link": "https://san.com/cc/salvadoran-man-dies-at-a-georgia-ice-facility-amid-hunger-strike/",
+   "published": "2026-10-27T21:36:24+00:00"
   },
   {
    "outlet": "The Conversation",
@@ -2604,32 +2513,11 @@
    "published": "2026-10-27T18:12:53+00:00"
   },
   {
-   "outlet": "The Diplomat",
-   "headline": "Uzbekistan Wants Out of the Iran-US Social Media War",
-   "summary": "Tashkent summoned the Iranian ambassador to lodge a protest regarding social media posts by Iranian diplomatic missions.",
-   "link": "https://thediplomat.com/2026/10/uzbekistan-wants-out-of-the-iran-us-social-media-war/",
-   "published": "2026-10-26T14:43:00+00:00"
-  },
-  {
-   "outlet": "The Diplomat",
-   "headline": "Taiwan-Vatican Ties: The Dynamic Interplay Under Pope Leo XIV",
-   "summary": "Regardless of the Sino-Vatican agreement, the practical, multifaceted ties between Taiwan and the Holy See have deepened over the past year.",
-   "link": "https://thediplomat.com/2026/10/taiwan-vatican-ties-the-dynamic-interplay-under-pope-leo-xiv/",
-   "published": "2026-10-26T15:44:00+00:00"
-  },
-  {
-   "outlet": "The Diplomat",
-   "headline": "Will There Be a Putin-Trump-Xi Summit?",
-   "summary": "If so, to what end? Panda and Putz discuss on the latest episode of the Asia Geopolitics podcast.",
-   "link": "https://thediplomat.com/2026/10/will-there-be-a-putin-trump-xi-summit/",
-   "published": "2026-10-26T18:05:00+00:00"
-  },
-  {
-   "outlet": "The Diplomat",
-   "headline": "The 2026 US Midterm Elections: Ramifications for Australia",
-   "summary": "From AUKUS to trade, the implications of the upcoming U.S. midterm elections for Australia are likely to be profound.",
-   "link": "https://thediplomat.com/2026/10/the-2026-us-midterm-elections-ramifications-for-australia/",
-   "published": "2026-10-26T18:36:00+00:00"
+   "outlet": "The Conversation",
+   "headline": "How religion collided with race and politics in Brazil’s presidential election",
+   "summary": "Religion has become an important factor in Brazilian politics. But to see the whole picture, you need to analyze diversity within churches, a political scientist writes.",
+   "link": "https://theconversation.com/how-religion-collided-with-race-and-politics-in-brazils-presidential-election-294761",
+   "published": "2026-10-27T22:12:22+00:00"
   },
   {
    "outlet": "The Diplomat",
@@ -2676,7 +2564,7 @@
   {
    "outlet": "The Diplomat",
    "headline": "Arakan Army Firms Up Relocation Plan For Villages on Bangladesh-Myanmar Border",
-   "summary": "",
+   "summary": "Under pressure from ARSA and the Myanmar military, the AA is looking to simply move vulnerable villagers to new locations.",
    "link": "https://thediplomat.com/2026/10/arakan-army-firms-up-relocation-plan-for-villages-on-bangladesh-myanmar-border/",
    "published": "2026-10-27T11:57:00+00:00"
   },
@@ -2693,6 +2581,27 @@
    "summary": "The myth of the ASEAN FTA as a bad deal is costing India diplomatically.",
    "link": "https://thediplomat.com/2026/10/the-asean-india-trade-agreement-and-its-discontents/",
    "published": "2026-10-27T12:57:00+00:00"
+  },
+  {
+   "outlet": "The Diplomat",
+   "headline": "China Is Learning to Sell Japanese Culture Better Than Japan",
+   "summary": "In much of the world, Chinese firms introduced local consumers to Japanese aesthetics. Now, they are ready to sell Japanese culture back to Japan itself.",
+   "link": "https://thediplomat.com/2026/10/china-is-learning-to-sell-japanese-culture-better-than-japan/",
+   "published": "2026-10-27T13:22:00+00:00"
+  },
+  {
+   "outlet": "The Diplomat",
+   "headline": "Japan Confirms Dispatch to India to Explore Anti-Ship Missile Drills",
+   "summary": "Discussions highlight the training challenges posed by Japan’s expanding arsenal and opportunities for closer defense cooperation with New Delhi.",
+   "link": "https://thediplomat.com/2026/10/japan-confirms-dispatch-to-india-to-explore-anti-ship-missile-drills/",
+   "published": "2026-10-27T13:58:00+00:00"
+  },
+  {
+   "outlet": "The Diplomat",
+   "headline": "The Future of India-Israel Ties After Israel’s Election",
+   "summary": "The election may change the political setting in which India-Israel relations operate, but it is unlikely to erase the interests and institutional links that sustain them.",
+   "link": "https://thediplomat.com/2026/10/the-future-of-india-israel-ties-after-israels-election/",
+   "published": "2026-10-27T14:24:00+00:00"
   },
   {
    "outlet": "The Dispatch",
@@ -2744,32 +2653,11 @@
    "published": "2026-10-27T10:37:20+00:00"
   },
   {
-   "outlet": "The Guardian",
-   "headline": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
-   "summary": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freeze Senior Sudanese commanders implicated in a “campaign of rape” have been targeted by the UK on the first anniversary of a mass atrocity that saw tens of thousands of civilians killed over several days. A year after the fall of El Fash",
-   "link": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
-   "published": "2026-10-26T15:07:23+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "British politicians among international delegates barred from entering West Bank",
-   "summary": "Group was on visit to meet Palestinian children, farmers and civil leaders facing escalating violence from Israeli forces An international delegation including British politicians has been barred from entering the West Bank on a trip to meet Palestinian children, farmers and society leaders facing escalating violence from Israeli forces during olive harvest season. The delegation of 23 people, inc",
-   "link": "https://www.theguardian.com/world/2026/oct/26/british-politicians-among-international-delegates-barred-from-entering-west-bank",
-   "published": "2026-10-26T21:39:42+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Jordan attacks militants in Syria in retaliation for church attack",
-   "summary": "Jordanian air force says it carried out strikes against ‘terrorist groups’ tied to killing of nine during funeral Jordan has carried out airstrikes against armed groups in Syria in retaliation for Friday’s attack on a Greek Orthodox church in the southern Jordanian governorate of Karak that killed nine people, the Jordanian air force has said in a statement. It said the operation “resulted in the ",
-   "link": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
-   "published": "2026-10-26T22:08:38+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
-   "summary": "Far-right senator banned from leaving country as supreme court judge’s ruling cites money-laundering case The far-right senator Flávio Bolsonaro was banned from leaving Brazil and ordered to surrender his passports just hours after his dramatic loss in the presidential election to the leftist president Luiz Inácio Lula da Silva. The ruling was issued by Alexandre de Moraes, the same supreme court ",
-   "link": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
-   "published": "2026-10-26T23:02:17+00:00"
+   "outlet": "The Dispatch",
+   "headline": "A Game of Horseshoes",
+   "summary": "Abdul El-Sayed’s anti-Israel ‘America First’ pitch.",
+   "link": "https://thedispatch.com/newsletter/boilingfrogs/el-sayed-ad-anti-israel-postliberal/",
+   "published": "2026-10-27T22:12:29+00:00"
   },
   {
    "outlet": "The Guardian",
@@ -2809,7 +2697,7 @@
   {
    "outlet": "The Guardian",
    "headline": "UK officials discussing options including free movement with EU ahead of summit",
-   "summary": "Business secretary says focus for November summit will be trade and youth mobility, but talks will also include ‘future options for relationship’ UK politics live – latest updates British officials have begun discussions with the EU about a long-term relationship that could include a return to free movement, the business secretary has said while promising the British people “are the boss” when it ",
+   "summary": "Business secretary says focus for November summit will be trade and youth mobility, but talks will also include ‘future options for relationship’ British officials have begun discussions with the EU about a long-term relationship that could include a return to free movement, the business secretary has said while promising the British people “are the boss” when it comes to what the UK will accept. ",
    "link": "https://www.theguardian.com/politics/2026/oct/27/uk-eu-relationship-talks-summit-free-movement-jonathan-reynolds",
    "published": "2026-10-27T09:41:15+00:00"
   },
@@ -2822,36 +2710,8 @@
   },
   {
    "outlet": "The Guardian",
-   "headline": "Trump’s cuts have exposed US to ‘cascade’ of El Niño dangers, experts warn",
-   "summary": "President has taken an axe to National Oceanic and Atmospheric Administration, stalling climate research on and response to extreme weather events Sweeping cuts to the premier US climate agency under Donald Trump have severely hampered the country’s capacity to forecast, research and respond to extreme weather events, former government officials and scientists have warned, as the US faces a cascad",
-   "link": "https://www.theguardian.com/environment/2026/oct/27/trump-cuts-el-nino-noaa",
-   "published": "2026-10-27T11:00:38+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "‘Are you waiting for me to be attacked?’ Fatima Payman slams PM over staffing",
-   "summary": "Albanese promises ‘swift response’ on MP safety as he mulls panic buttons for politicians Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news podcast Anthony Albanese has promised a “swift government response” to safety threats to MPs and floated the provision of duress alarms for electorate offices, saying politicians and their staff ",
-   "link": "https://www.theguardian.com/australia-news/2026/oct/27/albanese-promises-swift-response-on-mp-safety-as-he-mulls-panic-buttons-for-politicians-ntwnfb",
-   "published": "2026-10-27T12:18:15+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "UK spending on ‘fairytale’ carbon capture tech is a national embarrassment, chancellor told",
-   "summary": "Chris Packham says £24bn earmarked for projects with ‘ludicrously uncertain results’ should be redirected to help lower bills and cut emissions Campaigners are calling on the chancellor to cut the government’s £24bn spending plans for “fairytale” carbon capture technologies in favour of funding green schemes that can reliably cut emissions and lower energy bills. The environmentalist Chris Packham",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/27/chris-packham-chancellor-scrap-spending-fairytale-carbon-capture-budget",
-   "published": "2026-10-27T13:28:00+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Guardian Essential poll: One Nation and Labor’s primary vote on par as discontent with Albanese rises",
-   "summary": "Prime minister’s disapproval rating increases to 56%, the equal highest in Essential polls since he took the job in 2022 Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news podcast One Nation’s primary vote is back on par with Labor in the latest Guardian Essential poll, with Anthony Albanese’s public disapproval rising to its equal hi",
-   "link": "https://www.theguardian.com/australia-news/2026/oct/28/guardian-essential-poll-labor-albanese-one-nation-hanson-coalition-ntwnfb",
-   "published": "2026-10-27T14:00:32+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "MP calls for rethink of pre-poll voting amid heightened security concerns in wake of Haines incident",
-   "summary": "Liberal-National MP Garth Hamilton says he has ‘witnessed three interactions between cars and people at pre-poll, two accidental’ Get our daily political email , free app or daily news podcast A Coalition MP has called for a rethink of pre-poll voting at federal elections, including potentially shortening the amount of time booths are open, amid concerns of threats to voters and volunteers. Securi",
+   "headline": "Coalition MP calls for rethink of pre-poll voting amid heightened security concerns in wake of Haines incident",
+   "summary": "Queensland MP Garth Hamilton says he has ‘witnessed three interactions between cars and people at pre-poll, two accidental’ Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news podcast A Coalition MP has called for a rethink of pre-poll voting at federal elections, including potentially shortening the amount of time booths are open, ami",
    "link": "https://www.theguardian.com/australia-news/2026/oct/27/mp-calls-rethink-pre-poll-voting-helen-haines-heightened-security-concerns-ntwnfb",
    "published": "2026-10-27T14:00:36+00:00"
   },
@@ -2871,38 +2731,10 @@
   },
   {
    "outlet": "The Guardian",
-   "headline": "Trump-appointed CDC deputy director to resign after six months on the job",
-   "summary": "Jennifer Shuford is expected to leave her post after midterm elections ‘to spend more time with my family’ The deputy director and chief medical officer of the Centers for Disease Control and Prevention (CDC) will resign after six months on the job, according to an agency email obtained by the Guardian. Dr Jennifer Shuford was appointed by Donald Trump in April as part of a four-person senior lead",
-   "link": "https://www.theguardian.com/us-news/2026/oct/27/cdc-deputy-director-resigns-jennifer-shuford",
-   "published": "2026-10-27T15:39:32+00:00"
-  },
-  {
-   "outlet": "The Guardian",
    "headline": "Kyiv hopes for ‘new momentum’ in peace talks after Finnish and Norwegian leaders’ call with Putin – as it happened",
    "summary": "Alexander Stubb and Jonas Gahr Støre held ‘substantive’ talk with Russian president on peace negotiations, but faced sceptical reactions from some European leaders Meanwhile, Wes Streeting, the defence secretary, has warned that Russia’s Vladimir Putin is “testing us and testing Nato’s resolve” as he condemned hybrid threats and “state-sponsored terrorism” from Russia. Streeting repeated his recen",
    "link": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates",
    "published": "2026-10-27T16:23:32+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "‘Will Lula’s win end Latin America’s far right turn?’: Our correspondent in Brazil answered your questions",
-   "summary": "Having lost the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva spectacularly triumphed in the second. The Guardian’s Latin America corrrespondent Tom Phillips answered your questions on what’s next for Brazil. Jeremy Hurley asks: Why did the Brazil stock market tank after the election result, and will it recover? Tom: Basicall",
-   "link": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
-   "published": "2026-10-27T16:46:23+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Federal agents search Beverly Hills mansion tied to ex-congressman Eric Swalwell",
-   "summary": "Home of wealthy developer Stephen Cloobeck searched in connection to sexual misconduct inquiry into Swalwell Federal law enforcement agents searched a home in suburban Los Angeles early on Tuesday as part of an investigation into Eric Swalwell , who resigned from Congress amid a wave of sexual misconduct allegations, a law enforcement official and two people familiar with the investigation told th",
-   "link": "https://www.theguardian.com/us-news/2026/oct/27/eric-swalwell-investigation-beverly-hills-mansion-searched",
-   "published": "2026-10-27T16:48:43+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Doctor removes prostate from 35 miles away in first telerobotic surgery in US",
-   "summary": "The patient was at a facility in Minneola, Florida, while the surgeon operated remotely from another facility A Florida surgeon has performed the first telerobotic operation between two US hospitals, removing the prostate of a man with cancer from 35 miles away, according to officials. Dr Vipul Patel, founder and medical director of the Global Robotics Institute at AdventHealth Celebration in subu",
-   "link": "https://www.theguardian.com/us-news/2026/oct/27/first-telerobotic-surgery",
-   "published": "2026-10-27T16:54:45+00:00"
   },
   {
    "outlet": "The Guardian",
@@ -2934,20 +2766,6 @@
   },
   {
    "outlet": "The Guardian",
-   "headline": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
-   "summary": "Far-right senator on plane to US after missing deadline to hand over his passport since loss to Lula The far-right senator Flávio Bolsonaro has reportedly fled Brazil and is on his way to the United States after losing Sunday’s presidential election to the leftwing incumbent, Luiz Inácio Lula da Silva. A report by the news website Metrópoles , citing people close to the politician’s family, said h",
-   "link": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
-   "published": "2026-10-27T18:27:32+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Parents inflicted fatal physical and sexual abuse on their baby, Warwick court hears",
-   "summary": "Michal Stasiak and Kinga Wydrzynska pleaded not guilty to 11 counts relating to death of 13-month-old Isabella Stasiak A 13-month-old girl was subjected to physical and sexual abuse at the hands of her parents before she was fatally injured by her mother, a court has heard. Michal Stasiak, 28, and Kinga Wydrzynska, 26, appeared at Warwick crown court on Tuesday, where they pleaded not guilty to 11",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/27/parents-inflicted-fatal-physical-and-sexual-abuse-their-baby-warwick-court-hears",
-   "published": "2026-10-27T19:05:57+00:00"
-  },
-  {
-   "outlet": "The Guardian",
    "headline": "Rosebank oilfield would not breach UK emission targets, say government insiders",
    "summary": "Emissions from exported oil would not count against carbon budget, insiders say – reasoning likely to draw dismay from climate campaigners The giant Rosebank oilfield can be approved without breaching the UK’s emission targets, according to government insiders, in a boost to those in the cabinet who are pushing for it to be given the go-ahead. The Guardian revealed last week that Miatta Fahnbulleh",
    "link": "https://www.theguardian.com/environment/2026/oct/27/rosebank-oilfield-north-sea-uk-emissions-targets-insiders",
@@ -2969,66 +2787,164 @@
   },
   {
    "outlet": "The Guardian",
-   "headline": "Unpaid carers say chancellor’s plan to scrap allowance cliff edge falls short",
+   "headline": "Change to carer’s allowance cliff-edge rule is not enough, victims say",
    "summary": "Digital taper system for benefit expected in budget, but those already hit with overpayments will still have to pay “On the surface it sounds really positive – and I really hope that it is,” says unpaid carer Guy Shahar of the government’s decision to abolish the notorious carer’s allowance cliff edge . But Shahar is angry that most carers hit with unjust overpayments in the past will still have t",
    "link": "https://www.theguardian.com/society/2026/oct/27/unpaid-carers-chancellor-plan-scrap-allowance-cliff-edge-falls-short-budget",
    "published": "2026-10-27T19:48:53+00:00"
   },
   {
    "outlet": "The Guardian",
-   "headline": "Trump and Vance step up attacks on Abdul El-Sayed as president tours Texas in final midterms push – live",
-   "summary": "Trump and Vance double down on racist and Islamophobic slurs against Michigan Senate candidate as campaign enters final week Sign up for the Breaking News US email US voters: tell us what issues will decide your vote? Speaking to reporters on the tarmac before departing for a campaign event in Michigan, JD Vance responded to a question about President Trump’s remarks branding Democratic Senate can",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates",
-   "published": "2026-10-27T20:10:06+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "San Francisco estate sells for $10m above listing price as AI boom drives up costs",
-   "summary": "Eight-bedroom mansion listed at $18.5m sold for $28.5m and has a private garden and three-car garage A San Francisco estate sold for $10m above its listing price this month in a new record for the city as the artificial intelligence boom continues to drive up real estate prices. Located in the city’s tony Presidio Wall neighborhood, the eight-bedroom mansion was listed at $18.5m on 2 October and u",
-   "link": "https://www.theguardian.com/us-news/2026/oct/27/san-francisco-real-estate-listing-price-ai",
-   "published": "2026-10-27T20:23:03+00:00"
-  },
-  {
-   "outlet": "The Guardian",
    "headline": "Olivia Chow elected as Toronto mayor for second term in victory for progressives",
-   "summary": "Tightly fought election saw record turnout as incumbent mayor ran against her Conservative rival Brad Bradford The mayor of Toronto, Olivia Chow, promised more rental housing, free school lunches and reduce fares for frequent transit riders after she was elected to a decisive second term as mayor in a wave of support for progressives councillors. The tightly fought election saw record turnout but ",
+   "summary": "Tightly fought election saw record turnout as incumbent mayor ran against her rival Brad Bradford The mayor of Toronto, Olivia Chow, promised more rental housing, free school lunches and reduce fares for frequent transit riders after she was elected to a decisive second term as mayor in a wave of support for progressive councillors. The tightly fought election saw record turnout but Chow ultimatel",
    "link": "https://www.theguardian.com/world/2026/oct/27/olivia-chow-toronto-mayor-election-results",
    "published": "2026-10-27T20:23:46+00:00"
   },
   {
    "outlet": "The Guardian",
-   "headline": "Israel election live: exit polls project no clear winner, as anti-Netanyahu bloc leads but Likud remains biggest party",
-   "summary": "Israel’s major TV stations project majority of Israelis have voted against Netanyahu’s coalition, but his Likud party has emerged as largest party Legacy of 7 October looms large in Israel election Across Israel , voting is now under way. Here are some of the latest images being sent to us over the newswires: Tens of thousands of Israelis living abroad have flown in for the elections, according to",
-   "link": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-   "published": "2026-10-27T20:31:03+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Politics live: Greens propose tax change to save Australians $1,000 a year; eSafety says social media akin to gladiator arena",
-   "summary": "Get our breaking news email , free app or daily news podcast PM did not mislead voters over golf club grant, Murray Watt says Environment minister, Murray Watt , has backed the prime minister after he conceded “it was not correct” to say a $6m grant to the Marrickville golf club was for sewerage works. The prime minister was correct in saying that the original announcement included that sewerage w",
-   "link": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
-   "published": "2026-10-27T20:31:13+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Former Met officer who served in same unit as David Carrick and Wayne Couzens found guilty of sexual offences",
-   "summary": "Mark Tyrrell convicted of one count of rape, three of sexual assault and one of perverting the course of justice at Southwark crown court A former Metropolitan police officer who served in the same unit as Sarah Everard’s killer Wayne Couzens has been found guilty of sexual offences against a woman he met through his work as an officer. A court heard that Mark Tyrrell raped the woman – who cannot ",
+   "headline": "Former Met officer who worked with Wayne Couzens found guilty of rape",
+   "summary": "Mark Tyrrell, who was in same unit as Sarah Everard’s killer, also guilty on three counts of sexual assault A former Metropolitan police officer who served in the same unit as Sarah Everard’s killer, Wayne Couzens, has been found guilty of sexual offences against a woman he met through his work as an officer. A court heard that Mark Tyrrell raped the woman – who cannot be identified for legal reas",
    "link": "https://www.theguardian.com/uk-news/2026/oct/27/former-met-officer-who-served-in-same-unit-as-david-carrick-and-wayne-couzens-found-guilty-of-sexual-offences",
    "published": "2026-10-27T20:34:59+00:00"
   },
   {
-   "outlet": "The Jerusalem Post",
-   "headline": "How is the Muslim world reporting on Israel’s election?",
-   "summary": "Articles analyzing Israel's October 27 election were published in media outlets based in Egypt, Qatar, Iran, Lebanon, the West Bank, and a London-based Qatari outlet.",
-   "link": "https://www.jpost.com/middle-east/article-912938",
-   "published": "2026-10-26T16:58:31+00:00"
+   "outlet": "The Guardian",
+   "headline": "Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats",
+   "summary": "Early indications suggest it will be some time before the shape of new government and who will lead it is clear Israel election – live updates Rise of Palestinian parties in Knesset will redraw Israel’s political landscape Israel’s election appeared to have delivered no clear winner on Tuesday night after a historic turnout by voters for an election described by some as the most consequential in t",
+   "link": "https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats",
+   "published": "2026-10-27T20:56:23+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Trump’s cuts have exposed US to ‘cascade’ of El Niño dangers, experts warn",
+   "summary": "President has taken an axe to National Oceanic and Atmospheric Administration, stalling climate research on and response to extreme weather events Sweeping cuts to the premier US climate agency under Donald Trump have severely hampered the country’s capacity to forecast, research and respond to extreme weather events, former government officials and scientists have warned, as the US faces a cascad",
+   "link": "https://www.theguardian.com/environment/2026/oct/27/trump-cuts-el-nino-noaa",
+   "published": "2026-10-27T21:34:54+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Aerial video shows California flooding amid ‘record-breaking tides’ – video",
+   "summary": "Coastal communities across California were preparing for days of flooding amid potentially 'record-breaking tides' this week, as water levels began rising on Monday. Coastal California braces for flooding amid forecast of ‘record-breaking tides’ Continue reading...",
+   "link": "https://www.theguardian.com/us-news/video/2026/oct/27/aerial-video-shows-california-flooding-amid-record-breaking-tides-video",
+   "published": "2026-10-27T21:55:44+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
+   "summary": "Far-right senator en route to US after missing deadline to hand over his passport since loss to Lula The far-right senator Flávio Bolsonaro has reportedly fled Brazil and is on his way to the United States after losing Sunday’s presidential election to the leftwing incumbent, Luiz Inácio Lula da Silva, who called the act “shameful”. A report by the news website Metrópoles , citing people close to ",
+   "link": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
+   "published": "2026-10-27T22:03:00+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "AI bots flooded 2023 UK government consultation on disposable vapes ban",
+   "summary": "Three-quarters of all responses were machine-generated in failed attempt to stop bill from passing into law, research finds AI bots flooded a government consultation with tens of thousands of fake responses in a failed attempt to stop the UK’s ban on disposable vapes. Three-quarters of all the responses to the 2023 consultation on the tobacco and vapes bill were machine-generated, in what is thoug",
+   "link": "https://www.theguardian.com/society/2026/oct/27/ai-bots-flooded-2023-uk-government-consultation-disposable-vapes-ban",
+   "published": "2026-10-27T22:30:45+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Chancellor targets cost of living crisis in budget for a ‘difficult moment’",
+   "summary": "Healey hopes to give ‘hope for the future’ but only modest policies are expected with important decisions deferred John Healey has acknowledged the UK faces a “difficult moment” but insisted he would put the country on a better path as he delivers his first budget on Wednesday against a turbulent global economic backdrop. But despite the international uncertainty, the chancellor will signal “fresh",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/27/john-healey-budget-help-with-cost-of-living-deferring-decisions-on-tax-and-spending",
+   "published": "2026-10-27T22:34:33+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Trump shows off tanker with ‘1m barrels of oil’ and floats Venezuela as 51st state",
+   "summary": "President at Texas campaign rally hails deal struck with post-Maduro government as ‘greatest oil victory in history’ Donald Trump suggested Venezuela would become the 51st state of the United States on Tuesday as the president showed off a tanker he claimed had “one million barrels of oil on it” from the country, nine months after deposing its president. At a campaign rally in Corpus Christ, Texas",
+   "link": "https://www.theguardian.com/us-news/2026/oct/27/trump-oil-tanker-venezuela",
+   "published": "2026-10-27T23:07:06+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "‘Shameful’: Alex Pretti’s parents accuse Trump officials of shielding son’s killers",
+   "summary": "Susan and Michael Pretti say they have been ‘ignored and misled’ in quest for justice over son’s killing by US agents The parents of Alex Pretti, the 37-year-old nurse killed by federal immigration agents in Minneapolis earlier this year, accused federal officials of stonewalling them and shielding their son’s killers. During a press conference on Tuesday, Michael and Susan Pretti made their first",
+   "link": "https://www.theguardian.com/us-news/2026/oct/27/alex-pretti-parents-son-killing",
+   "published": "2026-10-27T23:25:50+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Body of missing California hiker recovered on Mount Whitney",
+   "summary": "Hazardous storm conditions delayed retrieval efforts on mountain that has proved to be a perilous hiking spot The body of a missing California hiker, blanketed in a layer of snow, was recovered on Mount Whitney on Sunday after a blustery storm delayed retrieval operations for five days. The Inyo county sheriff’s office extended its condolences to the loved ones and family of the hiker, who has not",
+   "link": "https://www.theguardian.com/us-news/2026/oct/27/california-missing-hiker-mount-whitney",
+   "published": "2026-10-27T23:39:17+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "DNA links serial killer Ted Bundy to 1974 murder of Utah girl",
+   "summary": "Discovery comes months after Utah county detectives confirmed that Bundy had killed another Utah girl that year The notorious serial killer Ted Bundy has been found responsible, through DNA evidence, for the murder of a 17-year-old Utah girl who went missing in 1974 before her nude body was found days later, state authorities announced at a Tuesday news conference. The breakthrough in the investig",
+   "link": "https://www.theguardian.com/us-news/2026/oct/27/ted-bundy-utah-murder",
+   "published": "2026-10-27T23:52:55+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Rise of Palestinian parties in Knesset will redraw Israel’s political landscape",
+   "summary": "Exit polls indicate opposition leader Gadi Eisenkot will have to work with Arab-Israeli leaders to have a hope of governing Israeli elections: live updates The big gains made by Palestinian parties in Israel’s general election pose an urgent and fundamental challenge to the country’s mainstream opposition: either cooperate with Arab Israelis or hand Benjamin Netanyahu a roadmap to political surviv",
+   "link": "https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape",
+   "published": "2026-10-27T23:57:50+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Plan for multibillion-pound Sizewell nuclear plant a ‘terrible deal’ for UK taxpayers, MPs say",
+   "summary": "The public accounts committee has said the risk to billpayers is ‘extraordinary’ The government’s plan to fund a multibillion-pound nuclear plant at the Sizewell site in Suffolk represents a “terrible deal” for the UK taxpayer over the rest of the century, according to the government’s spending watchdog. MPs on the public accounts committee (PAC) have warned the government that the cost of the Siz",
+   "link": "https://www.theguardian.com/business/2026/oct/28/plan-for-multibillion-pound-sizewell-nuclear-plant-a-terrible-deal-for-uk-taxpayers-mps-say",
+   "published": "2026-10-28T00:01:47+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
+   "summary": "Royal tour of Caribbean comes as Commonwealth nations renew calls for Britain to engage in reparation talks King Charles has confirmed he will discuss the legacy of slavery at a summit with Commonwealth leaders as he begins his Caribbean tour. The king arrived in the Bahamas to a ceremonial welcome and attended a youth rally at Clifford Park, the site where the country officially gained its indepe",
+   "link": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
+   "published": "2026-10-28T00:07:22+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Danny Masterson loses appeal against rape conviction after arguing judge was biased against Scientology",
+   "summary": "That ’70s Show actor was sentenced to 30 years in prison for two counts of rape against two women, who were also Scientologists Danny Masterson has lost the appeal of his rape conviction, meaning his 30-year prison sentence has been upheld. The actor, best known for his role on That ’70s Show, was convicted in 2023 of two counts of rape against two women in 2003, while a third charge relating to a",
+   "link": "https://www.theguardian.com/tv-and-radio/2026/oct/28/danny-masterson-loses-scientology-bias-appeal-ntwnfb",
+   "published": "2026-10-28T00:22:32+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "‘I use disposable cups’: Chris Minns backflips on takeaway coffee cups after media and business backlash",
+   "summary": "Legislation requiring mugs to be offered when people drink at cafes, to be scrapped with environment minister stating ‘we need to clear this up’ Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news podcast The New South Wales government has backflipped on its plan to force cafes to offer customers who dine in the option of mugs and glas",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/28/chris-minns-backflips-disposable-coffee-cups-nsw-politics",
+   "published": "2026-10-28T00:38:27+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Israel election live: Netanyahu and Eisenkot opposition blocs tied in latest exit polls",
+   "summary": "Updated exit polling shows Benjamin Netanyahu’s bloc tied with Eisenkot’s opposition grouping, with both on 51 seats, as Palestinian parties surge Full report: Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats Analysis: Rise of Palestinian parties in Knesset will redraw Israel’s political landscape Across Israel , voting is now under way. Here are some of the",
+   "link": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+   "published": "2026-10-28T00:59:02+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Politics live: Hanson calls Chalmers and staff ‘hypocrites’; RBA governor says more pain needed to control inflation",
+   "summary": "Get our breaking news email , free app or daily news podcast Online hate is spilling into the real world, AFP warns AFP Commissioner Krissy Barrett began her late-night appearance at the Senate estimates hearing noting “a heaviness that hangs across Australia” after the alleged attack on independent MP Helen Haines . Lone actors are being motivated by a convergence of personal grievances, mental h",
+   "link": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
+   "published": "2026-10-28T01:00:42+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Trump, campaigning in Texas for Republicans, touts Iran war and ‘51st state’ Venezuela: ‘I knew that oil would go up’ – live",
+   "summary": "Trump says ‘I actually thought [oil] would go up two or three time higher, and I was still willing to [go to war with Iran]’ Sign up for the Breaking News US email US voters: tell us what issues will decide your vote? Speaking to reporters on the tarmac before departing for a campaign event in Michigan, JD Vance responded to a question about President Trump’s remarks branding Democratic Senate can",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates",
+   "published": "2026-10-28T01:01:02+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Australia’s inflation rate rises to 4.3%, fuelling fears of fifth interest rate hike this year",
+   "summary": "CPI release comes ahead of Reserve Bank decision next week as the Middle East conflict intensifies the cost of living crisis Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news podcast Australia’s headline inflation rate has accelerated to 4.3%, with a key gauge that strips out volatile prices also elevated, sharpening expectations of ",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/28/inflation-rate-australia-2026-number-data-consumer-price-index-cpi-release",
+   "published": "2026-10-28T01:03:24+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Parties file complaints over defaced, vandalized, missing ballots, alleged voter tracking",
-   "summary": "Earlier, the Central Elections Committee declared that claims circulating regarding Likud representatives in polling booths across the country illegally tracking voters using an app were false.",
-   "link": "https://www.jpost.com/israel-election-2026/article-912999",
-   "published": "2026-10-27T07:52:30+00:00"
+   "headline": "In Photos: Israel's political leaders cast their ballots in 26th Knesset election",
+   "summary": "Israel's leading politicians cast their votes for the 26th Knesset at polling stations around the country.",
+   "link": "https://www.jpost.com/israel-election-2026/article-913003",
+   "published": "2026-10-27T08:22:45+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
@@ -3039,24 +2955,10 @@
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Knife-wielding man detained after approaching Democrats' Golan during Election Day tour in Tel Aviv",
-   "summary": "Security personnel noticed a suspicious object protruding from beneath the coat of a man in his 20s from Jerusalem, standing near Golan. He was detained, and a knife was found in his possession.",
-   "link": "https://www.jpost.com/israel-election-2026/article-913026",
-   "published": "2026-10-27T13:13:36+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
-   "headline": "Sohlberg bars UTJ turnout reports from polling stations; watchdog urges enforcement",
-   "summary": "The order followed a petition filed by the Movement for Quality Government in Israel over concerns that the party was violating a High Court of Justice ruling.",
-   "link": "https://www.jpost.com/israel-election-2026/article-913029",
-   "published": "2026-10-27T13:43:02+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
-   "headline": "Eisenkot is hoping to beat Netanyahu, but what does the Yashar leader stand for? - explainer",
-   "summary": "Eisenkot's campaign on Tuesday started early in the morning at Ofakim and Nir Oz in the Gaza Strip corridor, calling attention to the failures of the past government in preventing October 7.",
-   "link": "https://www.jpost.com/israel-election-2026/article-913037",
-   "published": "2026-10-27T15:08:09+00:00"
+   "headline": "Ra'am, Israeli civil rights watchdog receive reports of voter obstruction in Arab sector",
+   "summary": "ACRI warned that without immediate intervention, the delays could prevent large numbers of Arab voters from exercising their right to vote.",
+   "link": "https://www.jpost.com/israel-election-2026/article-913032",
+   "published": "2026-10-27T14:12:50+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
@@ -3067,17 +2969,17 @@
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Likud officials sound alarm over voter apathy as Israel sees record-high election turnout",
-   "summary": "The party is concerned about the mobilization of the camp opposing Prime Minister Benjamin Netanyahu and the difficulty of generating enthusiasm among some right-wing voters.",
-   "link": "https://www.jpost.com/israel-election-2026/article-913046",
-   "published": "2026-10-27T17:40:02+00:00"
+   "headline": "CEC denies Likud's request to extend Israeli election voting time past 10 p.m.",
+   "summary": "Likud, People of Israel, Shas, and Otzma Yehudit have called for extended voting hours, though only CEC Chairman Justice Noam Sohlberg can decide to extend voting hours.",
+   "link": "https://www.jpost.com/israel-election-2026/article-913050",
+   "published": "2026-10-27T17:47:41+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "New settlement outposts opening in Hebron Hills in response to Yehuda Junction attack",
-   "summary": "Following the killing of two IDF soldiers at Yehuda Junction, the Mount Hebron Regional Council announced plans for eight new outposts and launched a fundraising campaign.",
-   "link": "https://www.jpost.com/israel-news/article-913054",
-   "published": "2026-10-27T18:10:29+00:00"
+   "headline": "Likud rep. accuses CEC of ignoring instances of voter fraud in favor of high voter turnout",
+   "summary": "Earlier on Tuesday, Likud said that it had received 620 reports of unusual incidents and suspected irregularities at polling stations in the Arab sector.",
+   "link": "https://www.jpost.com/israel-election-2026/article-913049",
+   "published": "2026-10-27T17:52:33+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
@@ -3088,34 +2990,6 @@
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "American, Israeli Jews report stronger bonds despite challenges of recent years, survey finds",
-   "summary": "A new JFNA survey found that 72% of American Jews and 75% of Israeli Jews feel a sense of commonality, challenging perceptions of a growing divide between the communities.",
-   "link": "https://www.jpost.com/diaspora/article-913057",
-   "published": "2026-10-27T19:24:53+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
-   "headline": "Iraq deepens ties with Jordan as Baghdad looks to strengthen regional alliances - analysis",
-   "summary": "Iraq and Jordan signed nine cooperation agreements during Prime Minister Ali al-Zaidi's visit to Amman, focusing on trade, energy and security amid growing regional tensions.",
-   "link": "https://www.jpost.com/middle-east/article-913058",
-   "published": "2026-10-27T19:49:53+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
-   "headline": "JPost’s Election Day LIVE: Watch exit polls, analyses, and election updates across Israel",
-   "summary": "Watch the live broadcast for the latest projections, reactions, and what the results could mean for the next government.",
-   "link": "https://www.jpost.com/israel-election-2026/article-912904",
-   "published": "2026-10-27T21:00:04+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
-   "headline": "Hacker trying to breach US Federal Election Commission system, email shows",
-   "summary": "A hacker is attempting to breach the US Federal Election Commission's systems, forcing the agency to temporarily shut down online services, according to an email seen by Reuters.",
-   "link": "https://www.jpost.com/american-politics/article-913060",
-   "published": "2026-10-27T21:03:20+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
    "headline": "Arab voter turnout surges past 2022 figures as haredi strongholds lag behind",
    "summary": "In Umm al-Fahm, turnout reached 56.1% by 6 p.m., compared with a final turnout of 51.33% in 2022, an increase of 4.77 percentage points, with several hours of voting still remaining.",
    "link": "https://www.jpost.com/israel-election-2026/article-913061",
@@ -3123,45 +2997,80 @@
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "People of Israel, Reservists-Economic both projected to fall short of threshold, exit polls show",
-   "summary": "People of Israel's projected election to the Knesset expected to play major part in Netanyahu's chances of forming a coalition • Reservist-Economic Party, Haredi Public both fail to cross threshold",
-   "link": "https://www.jpost.com/israel-election-2026/article-912957",
-   "published": "2026-10-27T22:01:57+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
    "headline": "Israel election exit polls: Netanyahu, Eisenkot deadlocked as both blocs fall short of majority",
-   "summary": "Netanyahu's bloc projected to win some 50 seats, compared to the opposition's 52-53 • Arab parties predicted to reach combined seat total of 17-18, complicating both blocs' efforts to form coalition",
+   "summary": "Netanyahu, Eisenkot blocs predicted to tie, with one exit poll maintaining small coalition lead • Arab parties predicted to reach combined seat total of 17-18, complicating efforts to form coalition",
    "link": "https://www.jpost.com/israel-election-2026/article-913053",
    "published": "2026-10-27T22:06:58+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Shas, UTJ projected to win 12-14 seats in next Knesset, election exit polls predict",
+   "headline": "Shas, UTJ projected to win 12-15 seats in next Knesset, election exit polls predict",
    "summary": "Both Shas and UTJ are part of Prime Minister Benjamin Netanyahu’s political bloc, and their combined seat total could prove crucial in determining whether he can secure a 61-seat majority.",
    "link": "https://www.jpost.com/israel-election-2026/article-912827",
    "published": "2026-10-27T22:09:27+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Arab voter turnout would have been lower had there been any other outgoing government - analysis",
-   "summary": "The memory of October 2000 has not faded, but it has been overtaken by the reality of the past four years, under a government that has done far more than neglect Arab citizens.",
-   "link": "https://www.jpost.com/israel-election-2026/article-913063",
-   "published": "2026-10-27T22:10:55+00:00"
+   "headline": "Yair Golan's Democrats projected to win 9-10 Knesset seats in Israeli election, exit polls show",
+   "summary": "Israeli election exit polls project between nine and 10 seats for Yair Golan's Democrats, potentially more than doubling the party's parliamentary representation as coalition negotiations loom.",
+   "link": "https://www.jpost.com/israel-election-2026/article-913064",
+   "published": "2026-10-27T22:18:15+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Ben-Gvir to win 6-7 seats as Smotrich's RZP takes 6, election exit polls project",
-   "summary": "Ben-Gvir's Otzma Yehudit party added former Likud MK Gotliv to its slate, while RZP ran in a technical bloc with Zehut, led by Moshe Feiglin, in an effort to help clear the electoral threshold.",
-   "link": "https://www.jpost.com/israel-election-2026/article-912954",
-   "published": "2026-10-27T22:14:36+00:00"
+   "headline": "Liberman's Yisrael Beytenu projected to win 7-8 seats in next Knesset, election exit polls predict",
+   "summary": "Yisrael Beytenu, led by Avigdor Liberman, is projected to win 7 to 8 seats in the next Knesset, exit polls suggested on the evening of October 27 in Israel.",
+   "link": "https://www.jpost.com/israel-election-2026/article-913065",
+   "published": "2026-10-27T22:19:51+00:00"
   },
   {
-   "outlet": "The Moscow Times",
-   "headline": "No Prospect of Reviving Black Sea Grain Deal, Russian Diplomat Says",
-   "summary": "For months, Turkey has tried to negotiate a maritime security agreement between Russia and Ukraine.",
-   "link": "https://www.themoscowtimes.com/2026/10/26/no-prospect-of-reviving-black-sea-grain-deal-russian-diplomat-says-a94087",
-   "published": "2026-10-26T16:06:37+00:00"
+   "outlet": "The Jerusalem Post",
+   "headline": "Arab parties Ra'am, Joint List soar to 19 seats amid high turnout, election exit polls show",
+   "summary": "The projections would give the two parties combined either 18 or 19 seats in the 120-member Knesset, compared with their five seats each in the outgoing parliament.",
+   "link": "https://www.jpost.com/israel-election-2026/article-913066",
+   "published": "2026-10-27T22:23:00+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Bennett's B'Yachad projected to win 12-13 seats in next Knesset, election exit polls predict",
+   "summary": "The results put B’Yachad broadly in line with pre-election expectations, although its projected support remained well below the 24 seats Yesh Atid won independently in the November 2022 election.",
+   "link": "https://www.jpost.com/israel-election-2026/article-913067",
+   "published": "2026-10-27T22:30:42+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Netanyahu or Eisenkot? Israel's election leaves Herzog with an impossible choice - comment",
+   "summary": "With Likud emerging as the largest party but Gadi Eisenkot's opposition bloc ahead in the initial exit polls, the president faces a difficult decision over who should be given the first opportunity.",
+   "link": "https://www.jpost.com/israel-election-2026/article-913069",
+   "published": "2026-10-27T22:48:24+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Eisenkot declares victory as bloc takes lead over Netanyahu's, despite election deadlock",
+   "summary": "Initial voting results gave his political bloc a 53-50 or 52-50 lead over the Netanyahu bloc according to Channels 11, 12, and 13, even as Netanyahu edged Eisenkot in head-to-head competition.",
+   "link": "https://www.jpost.com/israel-election-2026/article-913070",
+   "published": "2026-10-27T22:48:34+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Israel has voted, but the coalition deadlock is just beginning - analysis",
+   "summary": "The politicians now have to decide what they are prepared to change: their conditions, their partners or their promises.",
+   "link": "https://www.jpost.com/israel-news/article-913071",
+   "published": "2026-10-27T23:28:41+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Likud expects stronger result in final count as Netanyahu prepares to address supporters",
+   "summary": "Classic Israeli songs played in Mizrahi renditions. Journalists filled the venue, surrounded by the party’s blue and white and campaign posters carrying the slogan “Either Right or Palestine.”",
+   "link": "https://www.jpost.com/israel-election-2026/article-913072",
+   "published": "2026-10-27T23:38:52+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Israeli Arab political power rising with elections, challenging world’s assumptions - analysis",
+   "summary": "Arab political power reveals a country more complicated than its slogans, with consequential choices for the parties on both sides of the coalition table.",
+   "link": "https://www.jpost.com/israel-news/article-913073",
+   "published": "2026-10-28T02:38:19+00:00"
   },
   {
    "outlet": "The Moscow Times",
