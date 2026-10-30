@@ -1,18 +1,11 @@
 {
- "built": "2026-10-30T18:37:39.468251+00:00",
+ "built": "2026-10-30T20:48:14.247299+00:00",
  "window_hours": 30,
- "story_count": 497,
+ "story_count": 483,
  "feeds_with_problems": [
   "https://www.marketplace.org/feed: HTTP Error 403: Forbidden"
  ],
  "stories": [
-  {
-   "outlet": "Ars Technica",
-   "headline": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
-   "summary": "The leak reveals undercover agents, surveillance groups, and sensitive DHS access.",
-   "link": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
-   "published": "2026-10-29T12:58:34+00:00"
-  },
   {
    "outlet": "Ars Technica",
    "headline": "Google admits AI search makes less money, but it's fixing that with more ads",
@@ -126,11 +119,11 @@
    "published": "2026-10-30T17:38:19+00:00"
   },
   {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "China elevates a military general to Politburo, seeks to strengthen party discipline",
-   "summary": "China's top leaders have elevated the only remaining general of the body that oversees the country's military to its Politburo, the Communist Party's top governing body",
-   "link": "https://abcnews.com/International/wireStory/china-elevates-military-general-politburo-seeks-strengthen-party-137669570",
-   "published": "2026-10-29T13:05:01+00:00"
+   "outlet": "Ars Technica",
+   "headline": "Rare meteorite from Mars gives us a view into its ancient crust",
+   "summary": "A meteorite found in the Sahara is a rare piece of Mars' ancient crust.",
+   "link": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/",
+   "published": "2026-10-30T18:13:42+00:00"
   },
   {
    "outlet": "Associated Press, via ABC News",
@@ -505,13 +498,6 @@
   },
   {
    "outlet": "BBC News",
-   "headline": "Prominent Russian newspaper shuts down under pressure from authorities",
-   "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
-   "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-30T11:23:06+00:00"
-  },
-  {
-   "outlet": "BBC News",
    "headline": "Google value plunges by $500bn as its own AI search hits ad sales",
    "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
    "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
@@ -624,24 +610,38 @@
   },
   {
    "outlet": "BBC News",
+   "headline": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+   "summary": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
+   "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-30T18:17:27+00:00"
+  },
+  {
+   "outlet": "BBC News",
+   "headline": "Why you should eat kiwi and pineapple skins",
+   "summary": "Eating fruit and vegetable scraps such as peels and stalks could provide a health boost that most of us are missing, say UK researchers, external.",
+   "link": "https://www.bbc.co.uk/news/videos/cx30e2v3m3vqo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-30T19:48:46+00:00"
+  },
+  {
+   "outlet": "BBC News",
    "headline": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
    "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
    "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-30T17:39:43+00:00"
+   "published": "2026-10-30T20:10:56+00:00"
   },
   {
    "outlet": "BBC News",
    "headline": "US tech stocks see sharp falls as AI spending nears $1tn",
    "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
    "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-30T17:47:01+00:00"
+   "published": "2026-10-30T20:34:46+00:00"
   },
   {
    "outlet": "BBC News",
-   "headline": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-   "summary": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
-   "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-30T18:17:27+00:00"
+   "headline": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
+   "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
+   "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-30T20:41:51+00:00"
   },
   {
    "outlet": "BNO News",
@@ -766,7 +766,7 @@
    "outlet": "CBC | World News",
    "headline": "Aid operation, evacuations underway in Ukraine's stricken city of Oleshky",
    "summary": "Starving and exhausted residents of a Russian-held town in southern Ukraine were being evacuated on Friday as part of a joint relief operation by the opposing sides, the first of its kind in four years and eight months of war.",
-   "link": "https://www.cbc.ca/news/world/israel-election-final-results-9.7402167?cmp=rss",
+   "link": "https://www.cbc.ca/news/world/oleshky-ukraine-local-ceasefire-russia-9.7402167?cmp=rss",
    "published": "2026-10-30T12:20:37+00:00"
   },
   {
@@ -775,6 +775,13 @@
    "summary": "The Vatican confirmed Friday that Pope Leo XIV had submitted a mail-in ballot in Chicago ahead of the Nov. 3 midterm elections, citing his long-standing belief in civic participation.",
    "link": "https://www.cbc.ca/news/world/pope-leo-illinois-ballot-9.7402738?cmp=rss",
    "published": "2026-10-30T16:03:56+00:00"
+  },
+  {
+   "outlet": "CBC | World News",
+   "headline": "Tech sell-off deepens, sending Wall Street toward its worst day since June",
+   "summary": "The tech-heavy Nasdaq shed about 3 per cent by mid afternoon. In Canada, the S&P/TSX composite index was down about 2.3 per cent. Worries are rising about whether the hundreds of billions of dollars invested in AI will produce enough profit and productivity to make the investment worth it.",
+   "link": "https://www.cbc.ca/news/business/tech-stocks-markets-oct-30-9.7403226?cmp=rss",
+   "published": "2026-10-30T19:06:27+00:00"
   },
   {
    "outlet": "Christian Science Monitor",
@@ -1044,20 +1051,6 @@
   },
   {
    "outlet": "DW News",
-   "headline": "Volkswagen logs Q3 operating loss of €5.86 billion on Porsche writedown",
-   "summary": "The Volkswagen Group has filed its worst quarterly performance since the height of the \"Dieselgate\" scandal in 2015. Share prices climbed in response, however, perhaps because the bad news was so well signposted.",
-   "link": "https://www.dw.com/en/volkswagen-logs-q3-operating-loss-of-€5-86-billion-on-porsche-writedown/a-79793796?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-10-29T12:54:00+00:00"
-  },
-  {
-   "outlet": "DW News",
-   "headline": "Germany seeks new head of state",
-   "summary": "The question of who should become Germany's new presiden is becoming pressing. Many want to see Germany's first female head of state. Chancellor Friedrich Merz is keeping his cards close to his chest.",
-   "link": "https://www.dw.com/en/germany-seeks-new-head-of-state/a-79797794?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-10-29T14:27:00+00:00"
-  },
-  {
-   "outlet": "DW News",
    "headline": "India increases growth forecast for fiscal year",
    "summary": "India's Ministry of Finance has increased its growth forecasts for the current fiscal year. But it also warned about inflation, particularly for fuel and energy, amid continued instability in the Middle East.",
    "link": "https://www.dw.com/en/india-increases-growth-forecast-for-fiscal-year/a-79798971?maca=en-rss-en-all-1573-rdf",
@@ -1076,13 +1069,6 @@
    "summary": "Alexander Zverev is the second German man, after Boris Becker, to clinch the No. 1 spot in tennis.",
    "link": "https://www.dw.com/en/germany-s-alexander-zverev-clinches-tennis-no-1-ranking/a-79803048?maca=en-rss-en-all-1573-rdf",
    "published": "2026-10-29T22:24:00+00:00"
-  },
-  {
-   "outlet": "DW News",
-   "headline": "Bayer wins Roundup cancer trial after Supreme Court ruling",
-   "summary": "The weedkiller Roundup has been accused of being carcinogenic to humans despite no warning on its label. Bayer is seeking to settle tens of thousands of further cases.",
-   "link": "https://www.dw.com/en/bayer-wins-roundup-cancer-trial-after-supreme-court-ruling/a-79803301?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-10-30T02:40:00+00:00"
   },
   {
    "outlet": "DW News",
@@ -1212,10 +1198,17 @@
   },
   {
    "outlet": "DW News",
-   "headline": "Smuggling, power, profit: Irregular migration out of eastern Libya",
+   "headline": "Irregular migration from Libya to Crete is rising, raising questions about the links between people smugglers, militias and Europe",
    "summary": "There is currently more irregular migration between eastern Libya and Crete, Greece. It's raising questions as to what connects people smugglers with powerful militias in eastern Libya and then in turn, Europeans.",
-   "link": "https://www.dw.com/en/smuggling-power-profit-irregular-migration-out-of-eastern-libya/a-79808822?maca=en-rss-en-all-1573-rdf",
+   "link": "https://www.dw.com/en/irregular-migration-from-libya-to-crete-is-rising-raising-questions-about-the-links-between-people-smugglers-militias-and-europe/a-79808822?maca=en-rss-en-all-1573-rdf",
    "published": "2026-10-30T18:06:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "Ukraine: Oleshky residents evacuate war-ravaged city",
+   "summary": "Under the local ceasefire, an aid convoy of 25 buses arrived with humanitarian aid and as transport for fleeing Oleshky residents. The Ukrainian city has been occupied by Russia since 2022 and faces food shortages.",
+   "link": "https://www.dw.com/en/ukraine-oleshky-residents-evacuate-war-ravaged-city/a-79812327?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-10-30T20:09:00+00:00"
   },
   {
    "outlet": "FactCheck.org",
@@ -1232,18 +1225,18 @@
    "published": "2026-10-30T15:54:29+00:00"
   },
   {
+   "outlet": "FactCheck.org",
+   "headline": "Explaining the Case of the Two Dan Sullivans on Alaska’s Ballot",
+   "summary": "In the Alaska Senate race, the candidacy of retired teacher Daniel J. Sullivan Jr. — not the incumbent Republican senator, Dan S. Sullivan — has been the subject of months of legal wrangling. But the issue took on increased national prominence this past week. The post Explaining the Case of the Two Dan Sullivans on Alaska’s Ballot appeared first on FactCheck.org .",
+   "link": "https://www.factcheck.org/2026/10/explaining-the-case-of-the-two-dan-sullivans-on-alaskas-ballot/",
+   "published": "2026-10-30T20:15:00+00:00"
+  },
+  {
    "outlet": "Good Good Good",
    "headline": "Rare 'microbat' discovered 400 miles from its last known location: 'The more we know, the better we can protect them'",
    "summary": "The creature flies so fast and so high that it has only been recorded a handful of times.",
    "link": "https://www.goodgoodgood.co/articles/endangered-species-microbat-australia",
    "published": "2026-10-30T15:24:00+00:00"
-  },
-  {
-   "outlet": "Good News Network",
-   "headline": "Romans Made Color-Changing Glass–and We’ve Just Replicated After 1,600 Years",
-   "summary": "The Romans were incredible materials scientists, having famously invented self-healing concrete that allowed their structures to stand for millennia. Yet for some, it’s the glass that forms this one—yes, one—goblet that marks the undisputed pinnacle of Roman science. It’s made of what’s called dichroic glass, and its party trick is changing color depending on which […] The post Romans Made Color-C",
-   "link": "https://www.goodnewsnetwork.org/romans-made-color-changing-glass-and-weve-just-replicated-after-1600-years/",
-   "published": "2026-10-29T12:46:36+00:00"
   },
   {
    "outlet": "Good News Network",
@@ -1310,13 +1303,6 @@
   },
   {
    "outlet": "Inside Climate News",
-   "headline": "The Slow, Surprising Death of EV Range Anxiety",
-   "summary": "A decade ago, an electric vehicle with more than 300 miles of range would have cost you nearly $100,000. Today, 300 miles of range sits in the middle of the market and consumers can expect at least 200 miles in even the least expensive models, based on the latest 2027 model-year data on fueleconomy.gov. This […]",
-   "link": "https://insideclimatenews.org/news/29102026/inside-clean-energy-ev-ranges/",
-   "published": "2026-10-29T13:00:00+00:00"
-  },
-  {
-   "outlet": "Inside Climate News",
    "headline": "In a Rare Statewide Debate, Alabama Candidates Spar Over Data Centers, Utility Rates",
    "summary": "HUNTSVILLE, Ala.—Candidates for Alabama’s second-highest office took the stage Wednesday for what was the first major-party debate for a statewide office since 2010, the year Republicans took the reins of government from Democrats for the first time in the modern era. In a debate hosted by WHNT, a Huntsville-based television station, state Rep. Phillip Ensler, […]",
    "link": "https://insideclimatenews.org/news/29102026/alabama-lieutenant-governor-debate-utility-rates-data-centers/",
@@ -1358,6 +1344,20 @@
    "published": "2026-10-30T17:49:27+00:00"
   },
   {
+   "outlet": "Inside Climate News",
+   "headline": "Texas Used to Be ‘the Best Place’ to Build Data Centers—But Not Anymore",
+   "summary": "When BaRupOn LLC, a California-based developer, bought land in East Texas for a 700-acre industrial campus in 2023, the company received a warm welcome from the state. The developer set out to build numerous data centers and rare-earth manufacturing facilities at the site, as well as its own power plants. At first, Gov. Greg Abbott’s […]",
+   "link": "https://insideclimatenews.org/news/30102026/texas-data-center-pushback/",
+   "published": "2026-10-30T19:11:06+00:00"
+  },
+  {
+   "outlet": "Inside Climate News",
+   "headline": "Wyoming Teams With Trump Administration to Expedite Energy, Industrial Projects",
+   "summary": "Wyoming will partner with the Trump administration on an initiative to streamline and expedite permitting for large energy and other industrial projects such as data centers, representatives from both groups announced Monday. Gov. Mark Gordon joined Federal Permitting Improvement Steering Council Executive Director Emily Domenech during a press conference Monday afternoon to sign a memorandum […]",
+   "link": "https://insideclimatenews.org/news/30102026/wyoming-teams-with-trump-administration-to-expedite-energy-industrial-projects/",
+   "published": "2026-10-30T20:41:34+00:00"
+  },
+  {
    "outlet": "KFF Health News",
    "headline": "Your Phone Knows You’re at the Doctor, and Data Brokers Do, Too — Then Profit From It",
    "summary": "The Federal Trade Commission told a data company it could no longer sell data it collected from hundreds of millions of Americans’ mobile devices when people visited hospitals, dialysis clinics, or abortion clinics. But little is stopping other companies from doing so. In the absence of federal protections, some states are passing their own rules.",
@@ -1384,13 +1384,6 @@
    "summary": "Millions of Medicare enrollees who buy stand-alone prescription drug plans will see their average monthly premiums rise by 50% in 2027, a new analysis finds. But enrollees can avoid the average increase by switching to lower-cost plans.",
    "link": "https://kffhealthnews.org/medicare/medicare-drug-plans-premium-hikes-affordability-trump-cms/",
    "published": "2026-10-30T09:01:00+00:00"
-  },
-  {
-   "outlet": "National Review",
-   "headline": "Trump’s Rollback of Methane Regulations Is Welcome",
-   "summary": "Even if administration projections are optimistic, the proposed changes move energy policy in the right direction.",
-   "link": "https://www.nationalreview.com/2026/10/trumps-rollback-of-methane-regulations-is-welcome/",
-   "published": "2026-10-29T13:31:20+00:00"
   },
   {
    "outlet": "National Review",
@@ -1534,20 +1527,6 @@
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "Republicans seize on controversy in Alaska's closely watched Senate race",
-   "summary": "Alaska's governor is ordering an investigation into Democrat Mary Peltola's Senate campaign over reports that it recruited a spoiler candidate to dilute Republican votes. That's as President Trump repeated calls for Peltola's prosecution during a trip to another deep red state where his endorsed candidate is facing headwinds. Liz Landers reports.",
-   "link": "https://www.pbs.org/newshour/show/republicans-seize-on-controversy-in-alaskas-closely-watched-senate-race",
-   "published": "2026-10-29T22:55:01+00:00"
-  },
-  {
-   "outlet": "PBS NewsHour",
-   "headline": "WATCH: How does The Associated Press call 2026 midterm election winners? 4 things to know",
-   "summary": "The AP will tabulate results for nearly 7,000 races, including national congressional contests, state legislative and gubernatorial races, as well as some local elections for mayor, city council and school board.",
-   "link": "https://www.pbs.org/newshour/politics/watch-how-does-the-associated-press-call-2026-midterm-election-winners-4-things-to-know",
-   "published": "2026-10-29T22:55:29+00:00"
-  },
-  {
-   "outlet": "PBS NewsHour",
    "headline": "Judge denies federal request to segregate California ballots, says it would 'wreak havoc' on voting",
    "summary": "A federal judge rejected on Wednesday a Trump administration request to stop California from processing the ballots of up to 20,000 people over allegations they are likely noncitizens, warning it would \"wreak havoc\" on the midterm elections.",
    "link": "https://www.pbs.org/newshour/politics/judge-denies-federal-request-to-segregate-california-ballots-says-it-would-wreak-havoc-on-voting",
@@ -1660,8 +1639,8 @@
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "An ICE officer has been charged after striking a man with a car in Houston",
-   "summary": "The Harris County District Attorney's office says Mario Alberto Morales was behind the wheel of an unmarked black vehicle on Oct. 10 when it struck Miguel Parra Hernandez, 48, who was running away.",
+   "headline": "An ICE officer is charged with assault for striking a man with a car in Houston",
+   "summary": "The officer, Mario Alberto Morales, was driving an unmarked SUV on Oct. 10 when he struck and ran over Miguel Parra Hernandez, 48, who was running away during a pursuit through a parking lot, the Harris County District Attorney's Office said.",
    "link": "https://www.pbs.org/newshour/nation/an-ice-officer-has-been-charged-after-striking-a-man-with-a-car-in-houston",
    "published": "2026-10-30T17:53:28+00:00"
   },
@@ -1671,6 +1650,20 @@
    "summary": "Secretary of State Marco Rubio pulled the plug on the traditional group photo after several European officials threatened to boycott or walk out of the snapshot that usually helps kick off such diplomatic gatherings.",
    "link": "https://www.pbs.org/newshour/politics/watch-rubio-welcomes-g20-foreign-ministers-to-atlanta-at-critical-moment",
    "published": "2026-10-30T18:10:01+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "2 Trump attempts to change the D.C. landscape play out in the courts as midterms near",
+   "summary": "The cases involved are an impending shutdown and reconfiguration of a historic public golf course and the construction of the monumental arch that, at 250 feet, would be 100 feet taller than the Statue of Liberty is from its base to the top of the torch.",
+   "link": "https://www.pbs.org/newshour/politics/2-trump-attempts-to-change-the-d-c-landscape-play-out-in-the-courts-as-midterms-near",
+   "published": "2026-10-30T18:34:47+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "Canada is taking steps toward becoming European Union's first associate member",
+   "summary": "Prime Minister Mark Carney said he would attend a meeting of European leaders in June to conclude negotiations on the proposed relationship.",
+   "link": "https://www.pbs.org/newshour/world/canada-is-taking-steps-toward-becoming-european-unions-first-associate-member",
+   "published": "2026-10-30T19:25:06+00:00"
   },
   {
    "outlet": "Politico",
@@ -1727,13 +1720,6 @@
    "summary": "A favorable political environment has allowed the Democratic Party to paper over persistent problems.",
    "link": "https://www.politico.com/news/2026/10/30/democrats-message-voters-2026-01141508",
    "published": "2026-10-30T16:00:00+00:00"
-  },
-  {
-   "outlet": "Politico Europe",
-   "headline": "Elif Eralp und der Palästina-Sumpf",
-   "summary": "Präsentiert von YouTube.",
-   "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/elif-eralp-und-der-palastina-sumpf/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "published": "2026-10-30T04:30:00+00:00"
   },
   {
    "outlet": "Politico Europe",
@@ -1799,6 +1785,34 @@
    "published": "2026-10-30T14:32:19+00:00"
   },
   {
+   "outlet": "Politico Europe",
+   "headline": "Mark Carney puts deadline on EU ‘associate membership’ push",
+   "summary": "Canadian prime minister backs “the deepest possible partnership” with the bloc, but questions over its cost and differences on trade remain.",
+   "link": "https://www.politico.eu/article/mark-carney-puts-deadline-on-eu-associate-membership-push/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "published": "2026-10-30T19:11:14+00:00"
+  },
+  {
+   "outlet": "PolitiFact",
+   "headline": "In Florida Senate race, Nixon misleads that Moody made $2 million from stock trading in Congress",
+   "summary": "Florida U.S. Sen. Ashley Moody \"is trading stocks and she’s gotten richer\" by $2 million since entering Congress.",
+   "link": "https://politifact.com/factchecks/2026/oct/30/angie-nixon/ashley-moody-stock-trades-2-million-florida-senate/",
+   "published": "2026-10-30T19:48:28+00:00"
+  },
+  {
+   "outlet": "PolitiFact",
+   "headline": "Christina Bohannan says Trump’s tariffs are costing families $4,200. That’s Mostly False.",
+   "summary": "President Donald Trump’s tariffs are “costing the average family $4,200 out of their pocket.”",
+   "link": "https://politifact.com/factchecks/2026/oct/30/christina-bohannan/bohannan-trump-tariffs-family-cost-4200/",
+   "published": "2026-10-30T20:03:14+00:00"
+  },
+  {
+   "outlet": "PolitiFact",
+   "headline": "Sarah Trone Garriott says Zach Nunn has taken ‘thousands from Chinese companies.’ That’s missing context.",
+   "summary": "U.S. Rep. Zach Nunn “took thousands of dollars from Chinese companies.”",
+   "link": "https://politifact.com/factchecks/2026/oct/30/sarah-trone-garriott/sarah-trone-garriott-says-zach-nunn-has-taken-thousands-from-chinese-companies-thats-missing-context/",
+   "published": "2026-10-30T20:19:30+00:00"
+  },
+  {
    "outlet": "Positive News",
    "headline": "What went right this week: the good news that matters",
    "summary": "There was renewed hope for the Amazon rainforest, a skin cancer vaccine showed promise, and a nicotine loophole was closed in the UK, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
@@ -1832,48 +1846,6 @@
    "summary": "The post Trump Has Tried to Exert More Control Over Elections. Here Are the Key Findings From Our Reporting. appeared first on ProPublica .",
    "link": "https://www.propublica.org/article/midterm-election-propublica-reporting-findings",
    "published": "2026-10-30T15:10:00+00:00"
-  },
-  {
-   "outlet": "Reason",
-   "headline": "\"Plaintiff Appears to Be a Well-Educated Individual with Time on His Hands,\"",
-   "summary": "\"which makes him uniquely capable of clogging the judicial machinery with well-dressed nonsense.\"",
-   "link": "https://reason.com/volokh/2026/10/29/plaintiff-appears-to-be-a-well-educated-individual-with-time-on-his-hands/",
-   "published": "2026-10-29T13:07:28+00:00"
-  },
-  {
-   "outlet": "Reason",
-   "headline": "Israeli Jews Vote by Economic Status, Even Though Elections Turn on Other Issues",
-   "summary": "A fascinating chart from Yedioth Aharanot newspaper shows the voting breakdown of the Jewish electorate in the Israeli election. … The post Israeli Jews Vote by Economic Status, Even Though Elections Turn on Other Issues appeared first on Reason Magazine.",
-   "link": "https://reason.com/volokh/2026/10/29/israeli-jews-vote-by-economic-status-even-though-elections-turn-on-other-issues/",
-   "published": "2026-10-29T13:17:19+00:00"
-  },
-  {
-   "outlet": "Reason",
-   "headline": "Antics in Alaska",
-   "summary": "Plus: Israeli election results, Warsh might favor raising borrowing costs, and more...",
-   "link": "https://reason.com/2026/10/29/antics-in-alaska/",
-   "published": "2026-10-29T13:30:27+00:00"
-  },
-  {
-   "outlet": "Reason",
-   "headline": "Abdul El-Sayed Is a Socialist in All but Name",
-   "summary": "Abdul El-Sayed",
-   "link": "https://reason.com/2026/10/29/abdul-el-sayed-is-a-socialist-in-all-but-name/",
-   "published": "2026-10-29T14:00:14+00:00"
-  },
-  {
-   "outlet": "Reason",
-   "headline": "Trump's Mandatory Immigration Detention Policy Fails the Textualist Test",
-   "summary": "President Donald Trump standing in front of a flag",
-   "link": "https://reason.com/2026/10/29/trumps-mandatory-immigration-detention-policy-fails-the-textualist-test/",
-   "published": "2026-10-29T14:25:48+00:00"
-  },
-  {
-   "outlet": "Reason",
-   "headline": "Video Shows ICE Agents Slashing Portland Couple's Car Tire Then Driving Off",
-   "summary": "ICE agent slashing tire",
-   "link": "https://reason.com/2026/10/29/video-shows-ice-agents-slashing-portland-couples-car-tire-then-driving-off/",
-   "published": "2026-10-29T14:45:01+00:00"
   },
   {
    "outlet": "Reason",
@@ -2080,7 +2052,7 @@
   },
   {
    "outlet": "Reason",
-   "headline": "The Devils Was Censored 55 Years Ago. Now It's Back, and its Political Warning Still Holds.",
+   "headline": "The Devils Was Censored 55 Years Ago. Now It's Back, and Its Political Warning Still Holds.",
    "summary": "Vanessa Redgrave in \"The Devils\"",
    "link": "https://reason.com/2026/10/30/the-devils-was-censored-55-years-ago-now-its-back-and-its-political-warning-still-holds/",
    "published": "2026-10-30T17:40:17+00:00"
@@ -2098,6 +2070,34 @@
    "summary": "Matt Kezhaya (Kezhaya Law PLC) wrote an amicus brief on my behalf in this case (U.S. v. Cherwitz & Daedone)… The post Amicus Brief in OneTaste Criminal Prosecution appeared first on Reason Magazine.",
    "link": "https://reason.com/volokh/2026/10/30/amicus-brief-in-onetaste-criminal-prosecution/",
    "published": "2026-10-30T17:52:07+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "New Brennan Center Report on Curbing Executive Power",
+   "summary": "Many of their recommendations are well-taken.",
+   "link": "https://reason.com/volokh/2026/10/30/new-brennan-center-report-on-curbing-executive-power/",
+   "published": "2026-10-30T19:02:21+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "Hasan Piker's Defamation Suit Against Scott Jennings Isn't As Simple as It Seems",
+   "summary": "Hasan Piker",
+   "link": "https://reason.com/2026/10/30/hasan-pikers-defamation-suit-against-scott-jennings-isnt-as-simple-as-it-seems/",
+   "published": "2026-10-30T19:06:47+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "Short Circuit: An inexhaustive weekly compendium of rulings from the federal courts of appeal",
+   "summary": "Flying saucers, voodoo dolls, and ancient plagues.",
+   "link": "https://reason.com/volokh/2026/10/30/short-circuit-an-inexhaustive-weekly-compendium-of-rulings-from-the-federal-courts-of-appeal-83/",
+   "published": "2026-10-30T19:30:45+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "NYC Looks To Scale Up Mamdani's Office of Community Safety. Minneapolis Leaders Just Voted To End Theirs.",
+   "summary": "Some members of New York City Council want to implement Zohran Mamdani's vision for a Department of Community Safety. The Minneapolis City Council just voted to end that city's community safety apparatus.",
+   "link": "https://reason.com/2026/10/30/nyc-looks-to-scale-up-mamdanis-office-of-community-safety-minneapolis-leaders-just-voted-to-end-theirs/",
+   "published": "2026-10-30T20:24:53+00:00"
   },
   {
    "outlet": "Science News",
@@ -2140,27 +2140,6 @@
    "summary": "The Vera Rubin Observatory is shedding new light on the faraway regions by Neptune and beyond, including possible solar system building blocks.",
    "link": "https://www.sciencenews.org/article/halloween-astronomers-dwarf-planet",
    "published": "2026-10-30T17:39:47+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Upcoming elections put US-Venezuela oil deal at risk",
-   "summary": "“We don’t know if this contract is going to survive a change in government in the US,” Michael McCarthy, CEO of political risk firm Caracas Wire, told Semafor.",
-   "link": "https://www.semafor.com/article/10/29/2026/upcoming-elections-put-us-venezuela-oil-deal-at-risk",
-   "published": "2026-10-29T12:58:47+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Qatar Investment Authority doubles New York staff in US push",
-   "summary": "QIA is committed to investing $500 billion into the world’s largest economy over the next decade, its CEO said.",
-   "link": "https://www.semafor.com/article/10/29/2026/qatar-investment-authority-doubles-new-york-staff-in-us-push",
-   "published": "2026-10-29T14:03:59+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Saudi Arabia’s largest renewables firm expands into US",
-   "summary": "Washington-based investment firm EIG is forming a joint venture with ACWA to invest in US power projects.",
-   "link": "https://www.semafor.com/article/10/29/2026/saudi-arabias-acwa-power-forms-us-joint-venture",
-   "published": "2026-10-29T14:07:01+00:00"
   },
   {
    "outlet": "Semafor",
@@ -2422,46 +2401,11 @@
    "published": "2026-10-30T17:35:07+00:00"
   },
   {
-   "outlet": "STAT",
-   "headline": "STAT+: Pharmalittle: We’re reading about a new policy for compounding peptides, a PBM disclosure rule, and more",
-   "summary": "HHS released a policy that will temporarily allow compounding pharmacies to manufacture some peptide products",
-   "link": "https://www.statnews.com/pharmalot/2026/10/29/peptides-policy-released-by-hhs-pbm-disclosure-requirements/?utm_campaign=rss",
-   "published": "2026-10-29T12:52:11+00:00"
-  },
-  {
-   "outlet": "STAT",
-   "headline": "STAT+: Vertex kidney disease drug scrutinized for infection risk",
-   "summary": "Ahead of its FDA approval decision on Nov 30, Vertex's kidney disease drug is being heavily scrutinized for infection risk.",
-   "link": "https://www.statnews.com/2026/10/29/biotech-news-vertex-kidney-disease-drug-scrutinized-for-infection-risk/?utm_campaign=rss",
-   "published": "2026-10-29T13:25:01+00:00"
-  },
-  {
-   "outlet": "STAT",
-   "headline": "Martin Kulldorff critiques scientific gatekeepers at NIH lecture",
-   "summary": "Martin Kulldorff, the biostatistician who advocated against Covid lockdowns, insisted that the rise in measles cases is caused by a widely disputed claim about said lockdowns:",
-   "link": "https://www.statnews.com/2026/10/29/health-news-martin-kulldorff-critiques-scientific-gatekeepers-at-nih-lecture/?utm_campaign=rss",
-   "published": "2026-10-29T13:38:36+00:00"
-  },
-  {
-   "outlet": "STAT",
-   "headline": "STAT+: HHS green lights six peptides, despite concerns from FDA scientists",
-   "summary": "Great news for peptide fans: The Trump administration is giving the peptide craze a regulatory boost, despite objections from FDA career scientists.",
-   "link": "https://www.statnews.com/2026/10/29/biotech-news-hhs-green-lights-six-peptides-for-now/?utm_campaign=rss",
-   "published": "2026-10-29T13:43:44+00:00"
-  },
-  {
-   "outlet": "STAT",
-   "headline": "STAT+: El-Sayed claps back at RFK Jr., and FDA’s ‘enforcement discretion’ on peptides",
-   "summary": "Abdul El-Sayed, the Democratic Senate candidate in Michigan, pushes back against the RFK Jr.'s claims, and the new FDA policy around peptides.",
-   "link": "https://www.statnews.com/2026/10/29/el-sayed-claps-back-at-rfk-jr-fda-peptide-policy-dc-diagnosis/?utm_campaign=rss",
-   "published": "2026-10-29T14:18:27+00:00"
-  },
-  {
-   "outlet": "STAT",
-   "headline": "STAT+: Kennedy’s closing arguments for the 2026 midterms: Fraud, vaccines, and MAHA",
-   "summary": "RFK Jr. is making his pitch ahead of a midterm election that could shape the fate of his MAHA movement.",
-   "link": "https://www.statnews.com/2026/10/29/rfk-jr-midterm-health-care-policy-maha-fraud-vaccines/?utm_campaign=rss",
-   "published": "2026-10-29T14:45:48+00:00"
+   "outlet": "Semafor",
+   "headline": "Schumer girds for fight with Trump over election results",
+   "summary": "Trump “is directing a government-wide effort to prevent Americans from voting and to challenge any results he doesn’t like,” Schumer wrote in a letter to the Democratic Caucus shared first with Semafor.",
+   "link": "https://www.semafor.com/article/10/30/2026/schumer-girds-for-fight-with-trump-over-election-results",
+   "published": "2026-10-30T20:06:14+00:00"
   },
   {
    "outlet": "STAT",
@@ -2553,20 +2497,6 @@
    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
    "link": "https://www.statnews.com/pharmalot/2026/10/30/up-and-down-the-ladder-jobs-pharma-biotech-lilly/?utm_campaign=rss",
    "published": "2026-10-30T14:45:50+00:00"
-  },
-  {
-   "outlet": "Straight Arrow News",
-   "headline": "Protesters clash with police after deadly train crash in Spain",
-   "summary": "This adds to protests the country is already facing over rising costs and a housing shortage, and comes just weeks before an election.",
-   "link": "https://san.com/cc/protesters-clash-with-police-after-deadly-train-crash-in-spain/",
-   "published": "2026-10-29T17:32:07+00:00"
-  },
-  {
-   "outlet": "Straight Arrow News",
-   "headline": "DHS investigates ‘nightmare scenario’ data breach that exposed immigration agents’ identities",
-   "summary": "Officials say immigration agents and their families are at risk after a data breach exposed their identities, calling it a \"nightmare scenario.\"",
-   "link": "https://san.com/cc/dhs-investigates-nightmare-scenario-data-breach-that-exposed-immigration-agents-identities/",
-   "published": "2026-10-29T19:10:30+00:00"
   },
   {
    "outlet": "Straight Arrow News",
@@ -2695,6 +2625,20 @@
    "published": "2026-10-30T18:10:51+00:00"
   },
   {
+   "outlet": "Straight Arrow News",
+   "headline": "ICE agent who hit man with vehicle in Houston charged with second-degree felony",
+   "summary": "Video footage authorities played at a news conference shows an ICE agent steering his vehicle toward a man running away from him.",
+   "link": "https://san.com/cc/ice-agent-who-hit-man-with-vehicle-in-houston-charged-with-second-degree-felony/",
+   "published": "2026-10-30T20:00:57+00:00"
+  },
+  {
+   "outlet": "Straight Arrow News",
+   "headline": "DHS tries to take down sites hosting leaked data on immigration agents",
+   "summary": "An Icelandic web company is refusing demands from DHS to take down a website hosting hacked data on thousands of federal employees.",
+   "link": "https://san.com/cc/dhs-tries-to-take-down-sites-hosting-leaked-data-on-immigration-agents/",
+   "published": "2026-10-30T20:22:09+00:00"
+  },
+  {
    "outlet": "The Conversation",
    "headline": "What the Cornell 7 sexual assault allegations reveal about how parents talk to their kids about rape",
    "summary": "Repeatedly talking about consent with teenagers and young adults is necessary to help them understand the risks of sexual assault.",
@@ -2772,39 +2716,11 @@
    "published": "2026-10-30T17:14:04+00:00"
   },
   {
-   "outlet": "The Diplomat",
-   "headline": "Russian Help Would Make North Korea’s Missile-test Flurry Worse News",
-   "summary": "Many security analysts have attributed North Korean missile progress to the closer relationship between North Korea and Russia.",
-   "link": "https://thediplomat.com/2026/10/russian-help-would-make-north-koreas-missile-test-flurry-worse-news/",
-   "published": "2026-10-29T13:09:00+00:00"
-  },
-  {
-   "outlet": "The Diplomat",
-   "headline": "As North Korea’s Loudspeaker Broadcasts Loom, South Korea Has No Good Options",
-   "summary": "Kim Yo Jong said broadcasts near the border will resume this month. For Seoul, every possible response carries a cost.",
-   "link": "https://thediplomat.com/2026/10/as-north-koreas-loudspeaker-broadcasts-loom-south-korea-has-no-good-options/",
-   "published": "2026-10-29T13:24:00+00:00"
-  },
-  {
-   "outlet": "The Diplomat",
-   "headline": "What a China-US AI Safety Channel Needs",
-   "summary": "Trump and Xi agreed to set up a China-U.S. AI incident reporting channel. But AI companies in both countries don’t currently provide the necessary information.",
-   "link": "https://thediplomat.com/2026/10/what-a-china-us-ai-safety-channel-needs/",
-   "published": "2026-10-29T13:42:00+00:00"
-  },
-  {
-   "outlet": "The Diplomat",
-   "headline": "A Judicial Challenge to India’s Paternalistic Anti-trafficking Framework",
-   "summary": "The Supreme Court distinguishes trafficking from voluntary adult sex work, but legislative reform and effective implementation remain essential to protect dignity and autonomy.",
-   "link": "https://thediplomat.com/2026/10/a-judicial-challenge-to-indias-paternalistic-anti-trafficking-framework/",
-   "published": "2026-10-29T13:44:00+00:00"
-  },
-  {
-   "outlet": "The Diplomat",
-   "headline": "‘Made in Vietnam’ Is Harder To Prove Than It Looks",
-   "summary": "Companies are under increasing pressure to show that goods produced in their new locations are genuinely made there.",
-   "link": "https://thediplomat.com/2026/10/made-in-vietnam-is-harder-to-prove-than-it-looks/",
-   "published": "2026-10-29T14:17:00+00:00"
+   "outlet": "The Conversation",
+   "headline": "Zombies are real – just ask the parasites taking over the bodies and brains of insects and rodents, leading them to their doom",
+   "summary": "Parasitic fungi, wasps, worms and amoeba can control the behavior of their hosts in various horrifying ways.",
+   "link": "https://theconversation.com/zombies-are-real-just-ask-the-parasites-taking-over-the-bodies-and-brains-of-insects-and-rodents-leading-them-to-their-doom-292955",
+   "published": "2026-10-30T20:13:37+00:00"
   },
   {
    "outlet": "The Diplomat",
@@ -3096,7 +3012,7 @@
   {
    "outlet": "The Guardian",
    "headline": "Public sector an ‘afterthought’ to North Sea oil jobs, says Unison leader",
-   "summary": "Andrea Egan calls for same political focus on teachers, care sector and NHS and says Jackdaw decision ‘a serious misstep’ UK politics live – latest updates The leader of the UK’s biggest trade union has called for the same political focus to be given to NHS, education and care sector workers as there has been on those employed in North Sea oil and gas. Andrea Egan, the general secretary of Unison,",
+   "summary": "Andrea Egan calls for same political focus on teachers, care sector and NHS and says Jackdaw decision ‘a serious misstep’ The leader of the UK’s biggest trade union has called for the same political focus to be given to NHS, education and care sector workers as there has been on those employed in North Sea oil and gas. Andrea Egan, the general secretary of Unison, said too often public sector work",
    "link": "https://www.theguardian.com/politics/2026/oct/30/public-sector-afterthought-north-sea-oil-jobs-unison",
    "published": "2026-10-30T13:04:03+00:00"
   },
@@ -3145,30 +3061,9 @@
   {
    "outlet": "The Guardian",
    "headline": "Russian society being ‘systematically crushed’ says Novaya Gazeta as newspaper announces closure",
-   "summary": "Independent outlet, whose former editor Dmitry Muratov won Nobel prize, cites intolerable pressure from authorities Europe live – latest updates Novaya Gazeta, one of Russia’s best-known independent media outlets, has announced it will permanently close next month. The newspaper, whose former editor-in-chief Dmitry Muratov won the Nobel peace prize in 2021 , cited intolerable pressure, including b",
+   "summary": "Independent outlet, whose former editor Dmitry Muratov won Nobel prize, cites intolerable pressure from authorities Novaya Gazeta, one of Russia’s best-known independent media outlets, has announced it will permanently close next month. The newspaper, whose former editor-in-chief Dmitry Muratov won the Nobel peace prize in 2021 , cited intolerable pressure, including being stripped of its newsroom",
    "link": "https://www.theguardian.com/world/2026/oct/30/novaya-gazeta-russia-independent-newspaper-to-close",
    "published": "2026-10-30T15:52:51+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "A working-class Alaskan Native takes on a ‘multimillionaire’ Republican for seat in Congress",
-   "summary": "Independent candidate Bill Hill is threatening to unseat Trump ally Nick Begich with a message of affordability As Republicans fight to maintain their narrow majority in Congress , they face a unique challenge in Alaska – not from a Democrat, but from an independent commercial fisher and first-time candidate running to flip the state’s lone House seat. Bill Hill, who is an Alaska Native and has wo",
-   "link": "https://www.theguardian.com/us-news/2026/oct/30/bill-hill-alaska-congressional-race",
-   "published": "2026-10-30T16:00:17+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Pope Leo votes in US midterms in first known political ballot for any pontiff",
-   "summary": "US citizen Leo, who has clashed with Donald Trump over several issues, submits his vote by post in Chicago Pope Leo has voted in the US midterm elections – the first time a sitting pontiff is known to have cast a ballot in any political election at any time in history. Leo, who has clashed with the US president, Donald Trump, over several issues, submitted his vote by post in Chicago, where he was",
-   "link": "https://www.theguardian.com/world/2026/oct/30/pope-leo-votes-us-midterms-first-political-ballot-pontiff",
-   "published": "2026-10-30T16:01:21+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "FDA again bypasses advisers to remove black-box warnings from menopause treatments",
-   "summary": "Some experts express concern about ‘lack of transparency’ as agency removes warnings on three estrogen patches Three more patches for treating menopause will no longer carry black-box warnings about cardiovascular disease, breast cancer and dementia, officials at the US Food and Drug Administration (FDA) said on Friday. The FDA did not convene an advisory committee and offered few details on the s",
-   "link": "https://www.theguardian.com/us-news/2026/oct/30/fda-remove-warnings-menopause-treatments",
-   "published": "2026-10-30T16:15:07+00:00"
   },
   {
    "outlet": "The Guardian",
@@ -3215,7 +3110,7 @@
   {
    "outlet": "The Guardian",
    "headline": "Local devolution decisions rest solely with Scotland and Wales, first ministers tell Burnham",
-   "summary": "John Swinney and Rhun ap Iorwerth say devolving power further is up to Holyrood and Senedd – not Westminster Scotland and Wales’s first ministers have told Andy Burnham that decisions on local devolution rest solely with their parliaments, in response to the prime minister’s push to extend English-style regional powers across the UK. After talks in Glasgow with John Swinney and Rhun ap Iorwerth ab",
+   "summary": "John Swinney and Rhun ap Iorwerth say devolving power further is up to Holyrood and Senedd – not Westminster Scotland and Wales’s first ministers have told Andy Burnham that decisions on local devolution rest solely with their parliaments, in response to the prime minister’s push to extend English-style regional powers across the UK. After Burnham held discussions in Glasgow with John Swinney and ",
    "link": "https://www.theguardian.com/politics/2026/oct/30/local-devolution-decisions-scotland-wales-first-ministers-tell-burnham",
    "published": "2026-10-30T17:53:51+00:00"
   },
@@ -3235,17 +3130,38 @@
   },
   {
    "outlet": "The Guardian",
-   "headline": "Men accused of sexually assaulting woman drugged by husband describe being invited to couple’s home",
-   "summary": "Men say they made connection via online adverts and swinging website and had no idea Joanne Young had been drugged Men accused of sexually assaulting a woman whose then husband drugged her for years and allowed her to be abused have described being invited to the couple’s home via online adverts and a swinging website. One of those accused of assaulting Joanne Young, who has waived her legal right",
+   "headline": "Man accused of sexually assaulting woman drugged by husband says he thought it was ‘their kink’",
+   "summary": "Two of four men on trial say they met couple via online ads and swinging website and had no idea wife had been drugged Men accused of sexually assaulting a woman whose then husband drugged her for years and allowed her to be abused have described being invited to the couple’s home via online adverts and a swinging website. One of those accused of assaulting Joanne Young, who has waived her legal r",
    "link": "https://www.theguardian.com/uk-news/2026/oct/30/men-accused-of-sexually-assaulting-woman-drugged-by-husband-describe-being-invited-to-couples-home",
    "published": "2026-10-30T18:06:32+00:00"
   },
   {
-   "outlet": "The Jerusalem Post",
-   "headline": "Israel election results: Netanyahu's Likud biggest party in Israel after all votes counted",
-   "summary": "Notably, both blocs fell short of the 61 seats needed for a Knesset majority without the support of the Arab parties, which won a record-breaking combined total of 19 seats.",
-   "link": "https://www.jpost.com/israel-election-2026/article-913237",
-   "published": "2026-10-29T19:25:31+00:00"
+   "outlet": "The Guardian",
+   "headline": "ICE agent charged after ramming unmarked SUV into man in Texas",
+   "summary": "Agent Mario Alberto Morale charged with aggravated assault with a deadly weapon over incident in Houston A federal immigration agent who drove into and seriously injured a Texas man on 10 October after a botched traffic stop was indicted Friday on a charge of aggravated assault with a deadly weapon. Mario Alberto Morales, 33, an agent with Immigration and Customs Enforcement (ICE), deliberately ve",
+   "link": "https://www.theguardian.com/us-news/2026/oct/30/texas-ice-agent-suv-charged",
+   "published": "2026-10-30T18:27:13+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports",
+   "summary": "Big tech stocks falter as investors question whether billions being poured into AI can generate returns quickly enough A sell-off of tech stocks that began earlier this month and gained steam with disappointing earnings from leading tech companies drove US markets down by hundreds of billions of dollars Friday. In total, the decline has knocked nearly $1tn in value off the tech-heavy Nasdaq exchan",
+   "link": "https://www.theguardian.com/technology/2026/oct/30/tech-stocks-drop-earnings-report",
+   "published": "2026-10-30T18:27:51+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Florida prosecutors drop felony charge against Rick Ross in domestic violence case",
+   "summary": "Miami-Dade officials drop charge of battery by strangulation against rapper due to ‘insufficient evidence’ Florida prosecutors on Thursday dropped a felony charge against rapper Rick Ross nearly a month after he was arrested in Miami Beach when a woman he was living with told police he hit her, court records said. The Miami-Dade state attorney’s office filed paperwork on Thursday to drop a felony ",
+   "link": "https://www.theguardian.com/us-news/2026/oct/30/rick-ross-felony-charge-dropped-domestic-violence",
+   "published": "2026-10-30T18:39:11+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Canada and EU announce new alliance open to like-minded countries",
+   "summary": "Alliance for the Future, unveiled at Montreal summit and open to other countries, conceived for world ‘shaken by new storms’ Canada and Europe have announced a new alliance of like-minded nations to serve as both a “protective canopy under which our citizens can thrive” and a powerful hedge against the unpredictable nature of geopolitics, while welcoming other countries to join. Speaking to report",
+   "link": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
+   "published": "2026-10-30T19:42:15+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
@@ -3263,13 +3179,6 @@
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Father, two sons arrested on suspicion of trapping songbirds in near-invisible nets",
-   "summary": "Illegal bird hunting, which the INPA says also occurs in other regions of the Mediterranean Basin and the Middle East, threatens migratory bird populations and can cause significant harm.",
-   "link": "https://www.jpost.com/israel-news/crime-in-israel/article-913324",
-   "published": "2026-10-30T13:10:36+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
    "headline": "Netanyahu survived Israel's election - but a political reckoning may only be beginning",
    "summary": "POLITICAL AFFAIRS: Netanyahu's political survival is remarkable. But the election has also revealed a weakened bloc, the beginnings of change, and serious failures by the pollsters.",
    "link": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-913272",
@@ -3277,31 +3186,10 @@
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "My Word: Negative political thinking - opinion",
-   "summary": "Israel’s fragmented political landscape raises questions about coalition stability, voter trust, and whether politicians can put national interests ahead of personal rivalries.",
-   "link": "https://www.jpost.com/opinion/article-913112",
-   "published": "2026-10-30T13:30:32+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
-   "headline": "Time capsule of Pompeii: Ancient cupboard provides glimpse into life before Vesuvius erupted",
-   "summary": "Among the objects stored inside was a necklace comprising at least 24 tiny objects made of bone, glass paste, earthenware and rock crystal.",
-   "link": "https://www.jpost.com/archaeology/article-913345",
-   "published": "2026-10-30T14:08:45+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
    "headline": "Tourism Ministry reopens access to Saint George Monastery lookout following 'Post' investigation",
    "summary": "For the past three years, ever since the October 7 massacre, the road leading to the monastery has been blocked by a labyrinth of electronic arm barriers, and codes.",
    "link": "https://www.jpost.com/israel-news/culture/article-913346",
    "published": "2026-10-30T14:32:39+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
-   "headline": "Middle Israel: Netanyahu and Eisenkot both lost, but Israel may have emerged the winner",
-   "summary": "The opposition had every reason to win by a landslide, but Eisenkot offered no vision beyond replacing a failed government.",
-   "link": "https://www.jpost.com/opinion/article-913279",
-   "published": "2026-10-30T14:35:28+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
@@ -3319,24 +3207,10 @@
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Yuli Edelstein: Israel's election results show why a national unity government is needed - opinion",
-   "summary": "Politicians must stop telling voters: “We will not sit with these people, we will not join a government with those people, and we will never vote alongside the others.”",
-   "link": "https://www.jpost.com/opinion/article-913222",
-   "published": "2026-10-30T15:32:55+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
    "headline": "Israel's opposition must break its promise, rely on Arab parties to oust Netanyahu - opinion",
    "summary": "The opposition should stop overthinking, get out of its own way, thank the Arabs for their support, and get on with saving the country.",
    "link": "https://www.jpost.com/opinion/article-913103",
    "published": "2026-10-30T15:54:02+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
-   "headline": "Mossad joins Shin Bet probe into alleged Qatar election interference - report",
-   "summary": "The Mossad is assisting the Shin Bet in investigating whether Qatar funded elements of the Joint List's apparatus, though officials emphasize election results remain unaffected.",
-   "link": "https://www.jpost.com/israel-election-2026/article-913353",
-   "published": "2026-10-30T16:51:53+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
@@ -3361,38 +3235,66 @@
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Israel lost the elections: An open letter to President Isaac Herzog - opinion",
-   "summary": "Israel does not need you to make everyone agree. It needs you to help ensure that Israelis can continue to live, compete, and govern together even when they do not.",
-   "link": "https://www.jpost.com/opinion/article-913223",
-   "published": "2026-10-30T17:51:04+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
-   "headline": "UAE says oil leak from tanker has been stopped, pollution eases",
-   "summary": "The oil slick is concentrated off the northern emirate of Umm Al Quwain and extends partly towards coastal areas in the neighboring northern emirates of Ras Al Khaimah, Ajman, and Sharjah.",
-   "link": "https://www.jpost.com/environment-and-climate-change/article-913357",
-   "published": "2026-10-30T18:34:45+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
    "headline": "PM's son Yair Netanyahu deems Israeli Arabs 'greatest danger' to Israel besides Iran",
    "summary": "The Prime Minister's son, Yair Netanyahu, claimed Israel \"cannot survive long-term when 20% of its population identifies with its enemies and wants its destruction.\"",
    "link": "https://www.jpost.com/israel-election-2026/article-913356",
    "published": "2026-10-30T18:41:19+00:00"
   },
   {
-   "outlet": "The Moscow Times",
-   "headline": "Estonia Plans 150 Bunkers Along Border With Russia",
-   "summary": "The installations will form the so-called Baltic Defense Line, an agreement that Estonia, Latvia and Lithuania announced in 2024 to build a series of bunkers along their borders with Russia and Belarus to defend against potential attacks.",
-   "link": "https://www.themoscowtimes.com/2026/10/29/estonia-plans-150-bunkers-along-border-with-russia-a94122",
-   "published": "2026-10-29T12:56:30+00:00"
+   "outlet": "The Jerusalem Post",
+   "headline": "A Jewish guide to the MLB offseason",
+   "summary": "Here’s a quick Jewish guide to the next month in the baseball world.",
+   "link": "https://www.jpost.com/sports/article-913358",
+   "published": "2026-10-30T19:41:55+00:00"
   },
   {
-   "outlet": "The Moscow Times",
-   "headline": "Putin Claims Russian Firms Looking to Expand Manufacturing Across Africa",
-   "summary": "The president did not say which Russian companies were looking to set up shop in Africa, but boasted that they have “sufficiently high” investment potential.",
-   "link": "https://www.themoscowtimes.com/2026/10/29/putin-claims-russian-firms-looking-to-expand-manufacturing-across-africa-a94123",
-   "published": "2026-10-29T14:15:53+00:00"
+   "outlet": "The Jerusalem Post",
+   "headline": "'A bullying atmosphere': UN's Israel obsession sidelines atrocities elsewhere, ex-UN official says",
+   "summary": "DIPLOMATIC AFFAIRS: Former UN torture rapporteur Alice Jill Edwards talks to the Post on a culture of intimidation within the UN and its treatment of Israel.",
+   "link": "https://www.jpost.com/international/article-913274",
+   "published": "2026-10-30T20:08:47+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Pakistan military 'cautiously optimistic' on Iran-US mediation",
+   "summary": "Army chief Field Marshal Asim Munir – Pakistan's chief mediator in its efforts to de-escalate the now eight-month-old Iran war – has been to Tehran twice this month, most recently on Monday.",
+   "link": "https://www.jpost.com/middle-east/article-913359",
+   "published": "2026-10-30T20:30:16+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Israel bars international delegation from entering West Bank during olive harvest - report",
+   "summary": "Delegates say they were questioned and given no reason for the refusal as they headed to a Progressive International congress in Ramallah, where they planned to accompany Palestinian farmers.",
+   "link": "https://www.jpost.com/israel-news/article-913360",
+   "published": "2026-10-30T20:52:09+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "‘Nobody Wants This’ season 3 is charming enough to forget the Adam Brody controversy",
+   "summary": "TV Time: Adam Brody’s genocide accusation against Israel threatened to spoil the Hot Rabbi’s return, but season three of “Nobody Wants This” is engaging enough to forget it.",
+   "link": "https://www.jpost.com/israel-news/culture/article-913290",
+   "published": "2026-10-30T20:54:46+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Israel has the votes for change. Does it have the courage? - opinion",
+   "summary": "The Jewish led “change” bloc, together with the Arab parties Ra’am and the Joint List, holds a 67 seat majority. The math is clear. What is missing currently is the political courage to act on it.",
+   "link": "https://www.jpost.com/opinion/article-913362",
+   "published": "2026-10-30T21:58:56+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Polish president turns back from Senegal trip as top court chief suspended",
+   "summary": "\"At a moment like this, the President must be in Poland. I am cutting short my flight to Senegal. I am returning,\" he said on X.",
+   "link": "https://www.jpost.com/international/article-913363",
+   "published": "2026-10-30T22:20:43+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "UK bars entry to Swedish academic ahead of appearance with Palestine Action founder",
+   "summary": "Andreas Malm, an academic at Sweden's Lund University, has been a vocal critic of Israel and has expressed strong support for the Palestinian movement.",
+   "link": "https://www.jpost.com/international/article-913364",
+   "published": "2026-10-30T22:27:56+00:00"
   },
   {
    "outlet": "The Moscow Times",
