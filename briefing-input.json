@@ -1,33 +1,11 @@
 {
- "built": "2026-11-04T21:53:24.476324+00:00",
+ "built": "2026-11-05T02:23:37.202506+00:00",
  "window_hours": 30,
- "story_count": 456,
+ "story_count": 445,
  "feeds_with_problems": [
-  "https://bnonews.com/index.php/feed/: Remote end closed connection without response",
   "https://www.thestar.com.my/rss/business: HTTP Error 404: Not Found"
  ],
  "stories": [
-  {
-   "outlet": "ABC News: Business",
-   "headline": "US job postings jumped sharply in September, a sign hiring could pick up",
-   "summary": "U.S. employers ramped up their job postings in September as stronger economic growth may be encouraging more hiring",
-   "link": "https://abcnews.com/Business/wireStory/us-job-postings-jumped-sharply-september-sign-hiring-137808658",
-   "published": "2026-11-03T16:02:44+00:00"
-  },
-  {
-   "outlet": "ABC News: Business",
-   "headline": "Taco Bell sales recover in the US after summer cyclospora outbreak",
-   "summary": "Taco Bell’s U.S. sales are climbing again after a cyclospora outbreak tied to the chain slowed visits over the summer",
-   "link": "https://abcnews.com/Business/wireStory/taco-bell-sales-recover-us-after-summer-cyclospora-137810992",
-   "published": "2026-11-03T16:03:11+00:00"
-  },
-  {
-   "outlet": "ABC News: Business",
-   "headline": "A promising new drug could turn the tide against HIV",
-   "summary": "Experts say that a promising drug that offers complete protection against HIV and requires only two shots a year isn't getting to enough people",
-   "link": "https://abcnews.com/Business/wireStory/promising-new-drug-turn-tide-hiv-hard-find-137799100",
-   "published": "2026-11-03T16:20:32+00:00"
-  },
   {
    "outlet": "ABC News: Business",
    "headline": "Visits to US McDonald's locations falls as customers struggle with cost of living",
@@ -50,53 +28,11 @@
    "published": "2026-11-04T19:01:35+00:00"
   },
   {
-   "outlet": "Ars Technica",
-   "headline": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
-   "summary": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
-   "link": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
-   "published": "2026-11-03T16:03:13+00:00"
-  },
-  {
-   "outlet": "Ars Technica",
-   "headline": "This space company is betting its future on a propellant available everywhere",
-   "summary": "Is that water in your spacecraft, or are you just happy to see the delta-V?",
-   "link": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/",
-   "published": "2026-11-03T16:50:32+00:00"
-  },
-  {
-   "outlet": "Ars Technica",
-   "headline": "Google dismantles botnet secretly running on 1.3 million Android TV boxes",
-   "summary": "Google has cut ties with the company behind the botnet campaign.",
-   "link": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/",
-   "published": "2026-11-03T17:08:21+00:00"
-  },
-  {
-   "outlet": "Ars Technica",
-   "headline": "Another child dies of measles as CDC reportedly holds up health alert",
-   "summary": "NY governor pointed to Kennedy's long-standing anti-vaccine work as spurring outbreaks.",
-   "link": "https://arstechnica.com/health/2026/11/another-child-dies-of-measles-as-cdc-reportedly-holds-up-health-alert/",
-   "published": "2026-11-03T17:21:29+00:00"
-  },
-  {
-   "outlet": "Ars Technica",
-   "headline": "Google will let schools skip AI tools, but they have to give up search, too",
-   "summary": "Google will offer schools AI tools that purportedly don't give away the answers.",
-   "link": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
-   "published": "2026-11-03T17:54:43+00:00"
-  },
-  {
-   "outlet": "Ars Technica",
-   "headline": "Buttons are back and storage is king when it comes to car interiors",
-   "summary": "We talk with Nissan designer Hiren Patel about how vehicle interior designs are changing.",
-   "link": "https://arstechnica.com/cars/2026/11/yes-to-storage-no-to-piano-black-how-car-interior-design-is-changing/",
-   "published": "2026-11-03T18:19:31+00:00"
-  },
-  {
-   "outlet": "Ars Technica",
-   "headline": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
-   "summary": "Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content.",
-   "link": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
-   "published": "2026-11-03T18:30:27+00:00"
+   "outlet": "ABC News: Business",
+   "headline": "JetBlue raises baggage fees for a second time as jet fuel prices stay elevated",
+   "summary": "JetBlue has raised its checked baggage fees for the second time this year",
+   "link": "https://abcnews.com/Business/wireStory/jetblue-raises-baggage-fees-time-jet-fuel-prices-137861595",
+   "published": "2026-11-04T23:56:03+00:00"
   },
   {
    "outlet": "Ars Technica",
@@ -141,25 +77,60 @@
    "published": "2026-11-04T18:00:40+00:00"
   },
   {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "King Charles speaks to world leaders in Antigua, expresses 'sorrow' over slave trade",
-   "summary": "King Charles III has called the transatlantic slave trade a “shameful chapter of history” during a speech at the official opening of the Commonwealth Heads of Government Meeting in Antigua",
-   "link": "https://abcnews.com/International/wireStory/king-charles-iii-speaks-world-leaders-antigua-expresses-137811246",
-   "published": "2026-11-03T16:16:36+00:00"
+   "outlet": "Ars Technica",
+   "headline": "Ted Cruz aims to stack FCC with Republicans before Democrats take Senate control",
+   "summary": "Cruz and Trump seem to have no plans to fill FCC's empty Democratic seat.",
+   "link": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-aims-to-put-another-republican-on-fcc-in-senates-lame-duck-session/",
+   "published": "2026-11-04T19:08:23+00:00"
   },
   {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "Indonesia detains 3 police generals suspected of wiretapping president",
-   "summary": "Indonesian police have detained three senior police generals for allegedly wiretapping President Prabowo Subianto and other prominent figures",
-   "link": "https://abcnews.com/International/wireStory/indonesia-detains-3-police-generals-suspected-wiretapping-president-137815036",
-   "published": "2026-11-03T17:38:26+00:00"
+   "outlet": "Ars Technica",
+   "headline": "After Texas' blue wave, what happens to Elon Musk and SpaceX?",
+   "summary": "\"Data centers in space looking pretty appealing right now.\"",
+   "link": "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/",
+   "published": "2026-11-04T20:36:05+00:00"
   },
   {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "Greenland approves security deal with Denmark and US",
-   "summary": "Greenlandic lawmakers have approved an agreement with Denmark and the United States to strengthen security in the Arctic and North Atlantic",
-   "link": "https://abcnews.com/International/wireStory/greenland-approves-security-deal-denmark-us-months-trump-137812697",
-   "published": "2026-11-03T17:39:23+00:00"
+   "outlet": "Ars Technica",
+   "headline": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+   "summary": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
+   "link": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
+   "published": "2026-11-04T20:55:50+00:00"
+  },
+  {
+   "outlet": "Ars Technica",
+   "headline": "AMD's record quarter: Data center business doubles, while gaming craters",
+   "summary": "AMD's gaming revenue fell 40 percent in an otherwise record $13.4 billion quarter.",
+   "link": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/",
+   "published": "2026-11-04T21:29:46+00:00"
+  },
+  {
+   "outlet": "Ars Technica",
+   "headline": "VMware releases vSphere Express for virtualization on up to 128 cores",
+   "summary": "“We started listening to a lot of our lower-end customers,\" VMware exec says.",
+   "link": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/",
+   "published": "2026-11-04T21:38:49+00:00"
+  },
+  {
+   "outlet": "Ars Technica",
+   "headline": "Uranium cubes reveal why the German nuclear project failed",
+   "summary": "\"Our calculations suggest Heisenberg significantly underestimated the materials required.\"",
+   "link": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+   "published": "2026-11-04T21:56:29+00:00"
+  },
+  {
+   "outlet": "Ars Technica",
+   "headline": "Hackers exploited iOS and Android flaws to infect phones",
+   "summary": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
+   "link": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
+   "published": "2026-11-04T22:26:49+00:00"
+  },
+  {
+   "outlet": "Ars Technica",
+   "headline": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+   "summary": "And what that could mean for physical Switch game costs.",
+   "link": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+   "published": "2026-11-04T22:47:51+00:00"
   },
   {
    "outlet": "Associated Press, via ABC News",
@@ -274,11 +245,18 @@
    "published": "2026-11-04T21:06:15+00:00"
   },
   {
-   "outlet": "BBC News",
-   "headline": "Action needed to tackle 'biodiversity crisis'",
-   "summary": "The issue is part of wider concerns the government is not focused enough on the environment.",
-   "link": "https://www.bbc.co.uk/news/articles/c8wy94ewzw03o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-03T17:25:10+00:00"
+   "outlet": "Associated Press, via ABC News",
+   "headline": "Hong Kong pro-democracy activist faces sentencing in 2nd national security case",
+   "summary": "Prominent Hong Kong activist Joshua Wong is expected to be sentenced Thursday for his second conviction under a Beijing-imposed national security law",
+   "link": "https://abcnews.com/International/wireStory/hong-kong-pro-democracy-activist-joshua-wong-faces-137861278",
+   "published": "2026-11-04T23:58:13+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
+   "headline": "Authorities say multiple grizzlies may have attacked mother and daughter found dead",
+   "summary": "Authorities in British Columbia say more than one grizzly may have been involved in a bear attack that relatives say left a mother and daughter dead along the province’s central coast",
+   "link": "https://abcnews.com/International/wireStory/canadian-authorities-multiple-grizzlies-attacked-mother-daughter-found-137863509",
+   "published": "2026-11-05T01:13:21+00:00"
   },
   {
    "outlet": "BBC News",
@@ -439,21 +417,21 @@
    "headline": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
    "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
    "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-04T20:22:40+00:00"
+   "published": "2026-11-04T22:48:43+00:00"
   },
   {
-   "outlet": "Business News",
-   "headline": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
-   "summary": "Disney expects to lay off several thousand employees in the latest round of job cuts for the entertainment giant.",
-   "link": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html",
-   "published": "2026-11-03T17:05:29+00:00"
+   "outlet": "BBC News",
+   "headline": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
+   "summary": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
+   "link": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-04T23:12:47+00:00"
   },
   {
-   "outlet": "Business News",
-   "headline": "Pfizer hikes full-year outlook on new product growth, taps company veteran as new CFO",
-   "summary": "Pfizer announced that Cecile Guegan, who has held various leadership roles at the company over the last 20 years, stepped in as CFO this month.",
-   "link": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
-   "published": "2026-11-03T19:25:44+00:00"
+   "outlet": "BNO News",
+   "headline": "Tennessee prison escapee serving life for murder captured in Missouri",
+   "summary": "A convicted murderer who escaped from a Tennessee prison has been captured in Missouri after his vehicle became stuck off a road. Authorities tracked the vehicle using Flock and a police helicopter before a trooper arrested him. The arrest happened at about 11:34 a.m. Tuesday along County Road 515 in Carroll County, northeast of Kansas […] The post Tennessee prison escapee serving life for murder ",
+   "link": "https://bnonews.com/index.php/2026/11/tennessee-prison-escapee-serving-life-for-murder-captured-in-missouri/",
+   "published": "2026-11-03T20:31:19+00:00"
   },
   {
    "outlet": "Business News",
@@ -527,31 +505,17 @@
   },
   {
    "outlet": "CBC | World News",
-   "headline": "Canada looking to Germany for 8 submarines up front and 4 later: sources",
-   "summary": "Canada wants to split its planned purchase of 12 German submarines, committing to eight up front while leaving the remaining four for a future decision. Sources tell CBC News the proposal is intended to preserve financial flexibility but could jeopardize some of the $86 billion in economic benefits promised by Germany.",
-   "link": "https://www.cbc.ca/news/politics/canada-germany-submarines-defence-industry-economy-9.7407952?cmp=rss",
-   "published": "2026-11-04T09:00:00+00:00"
+   "headline": "U.S. midterms: Democrats take control of Congress as voters hand Trump major loss",
+   "summary": "",
+   "link": "https://www.cbc.ca/news/world/livestory/us-midterm-election-results-live-updates-2026-9.7403367?cmp=rss",
+   "published": "2026-11-03T22:05:56+00:00"
   },
   {
    "outlet": "CBC | World News",
-   "headline": "A runner died in the New York City Marathon. Have the risks changed as more people race?",
-   "summary": "Every year, amid our current running boom, more and more people vie for the chance to lace up their sneakers and push themselves 42.2 kilometres to cross that finish line. But every year, young and seemingly healthy people also die trying.",
-   "link": "https://www.cbc.ca/news/world/woman-dies-new-york-marathon-risks-9.7406942?cmp=rss",
-   "published": "2026-11-04T09:00:00+00:00"
-  },
-  {
-   "outlet": "CBC | World News",
-   "headline": "U.S. midterms: Trump appears to accept Democrats' wins, but says he wouldn't change campaign",
+   "headline": "U.S. midterms: How Trump, Vance and Canadian politicians responded the day after Democrats' massive gains",
    "summary": "",
    "link": "https://www.cbc.ca/news/world/livestory/us-midterm-election-results-reaction-live-updates-november-4-2026-9.7408406?cmp=rss",
    "published": "2026-11-04T11:31:52+00:00"
-  },
-  {
-   "outlet": "CBC | World News",
-   "headline": "Democrat Abdul El-Sayed wins bitter Michigan race, will become 1st Muslim senator",
-   "summary": "The progressive favourite defeated Republican Mike Rogers for Michigan's open Senate seat, giving the Democratic Party's left wing a breakthrough victory in one of the nation's most important swing states.",
-   "link": "https://www.cbc.ca/news/canada/windsor/progressive-democrat-abdul-el-sayed-wins-bitter-michigan-race-9.7408486?cmp=rss",
-   "published": "2026-11-04T12:21:23+00:00"
   },
   {
    "outlet": "CBC | World News",
@@ -559,13 +523,6 @@
    "summary": "Iranian officials celebrated U.S. voters' rebuke of the Republican Party and President Donald Trump in the midterm elections, as the region waited to see how the results could affect the Iran war.",
    "link": "https://www.cbc.ca/news/world/iran-united-states-midterm-results-trump-9.7408499?cmp=rss",
    "published": "2026-11-04T12:54:34+00:00"
-  },
-  {
-   "outlet": "CBC | World News",
-   "headline": "Poorer nations need $305B US per year to adapt to climate change. UN says they're $277B short",
-   "summary": "Rich countries are falling about $277 billion US short ‌of the $305 billion needed each year to help developing nations adapt to climate change, even as extreme weather events become more frequent and severe, a UN report said on Wednesday.",
-   "link": "https://www.cbc.ca/news/science/un-adaptation-gap-report-2026-9.7401510?cmp=rss",
-   "published": "2026-11-04T13:27:28+00:00"
   },
   {
    "outlet": "CBC | World News",
@@ -653,17 +610,24 @@
   },
   {
    "outlet": "CBC | World News",
+   "headline": "Trump lost Congress. 3 presidents before him did, too",
+   "summary": "Donald Trump just joined a rare presidential club of U.S. presidents to lose both the House and Senate in the midterms. CBC's Mike Crawley looks at the former presidents who also faced similar congressional busts. CORRECTION (Nov. 4, 2026): In this video, there is a reference to Donald Trump being the third U.S. president to lose both the House and Senate in the midterms. In fact, he is the fourth",
+   "link": "https://www.cbc.ca/player/play/9.7409351?cmp=rss",
+   "published": "2026-11-04T20:39:59+00:00"
+  },
+  {
+   "outlet": "CBC | World News",
    "headline": "NASA's Swift space telescope plunges to Earth after 22 years in orbit",
    "summary": "One of NASA's premier space telescopes plunged to Earth on Wednesday, ending its 22-year investigation of gamma ray bursts and exploding stars.",
    "link": "https://www.cbc.ca/news/science/swift-space-telescope-9.7409515?cmp=rss",
    "published": "2026-11-04T21:35:06+00:00"
   },
   {
-   "outlet": "Christian Science Monitor",
-   "headline": "Israeli-Palestinian conflict tests limits of free speech for artists",
-   "summary": "Writers and musicians are using their profiles to make political points, but they run the risk of being canceled for their views.",
-   "link": "https://www.csmonitor.com/World/Europe/2026/1103/artists-israeli-palestinian-canceled-free-speech?icid=rss",
-   "published": "2026-11-03T17:30:16+00:00"
+   "outlet": "CBC | World News",
+   "headline": "Midterms ‘bluenami’: The exact moment Trump lost control of Congress | About That",
+   "summary": "Democrats made historic gains in the U.S. midterm elections, winning majority control of both the House and Senate by flipping deep-red seats in several states including Texas, South Carolina and Kansas. Andrew Chang breaks down shifts across key battlegrounds to explain how the 'bluenami' unfolded as traditional Republican strongholds fell. (Photo credits: The Canadian Press, Reuters, Adobe Stock",
+   "link": "https://www.cbc.ca/player/play/9.7409899?cmp=rss",
+   "published": "2026-11-04T23:58:58+00:00"
   },
   {
    "outlet": "Christian Science Monitor",
@@ -685,20 +649,6 @@
    "summary": "Analysts say the Democrats’ success in the midterms could reshape U.S.-Israel ties.",
    "link": "https://www.csmonitor.com/World/Middle-East/2026/1104/israel-us-relationship-democrats-midterms?icid=rss",
    "published": "2026-11-04T20:21:09+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "Youth revolt sweeping Europe holds dire warning for SA",
-   "summary": "Young Europeans are increasingly protesting against a political and economic system they believe has stripped them of security, opportunity and a better future. South Africa’s deeply frustrated and economically marginalised youth could eventually follow suit if inequality, unemployment and political failure remain unaddressed.",
-   "link": "https://www.dailymaverick.co.za/opinionista/2026-11-03-youth-revolt-sweeping-europe-holds-dire-warning-for-sa/",
-   "published": "2026-11-03T16:37:55+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "LOCAL ELECTIONS 2026: Smaller parties in eThekwini set their sights on holding the balance of power",
-   "summary": "Politicians in KwaZulu-Natal are almost done kissing babies and making wild promises. On Wednesday, voters go to the polls in an election that could reshape the province’s political landscape.",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-03-smaller-parties-in-ethekwini-set-their-sights-on-holding-the-balance-of-power/",
-   "published": "2026-11-03T21:47:30+00:00"
   },
   {
    "outlet": "Daily Maverick",
@@ -911,6 +861,13 @@
    "published": "2026-11-04T23:25:05+00:00"
   },
   {
+   "outlet": "Daily Maverick",
+   "headline": "CRACKS IN THE EDIFICE: The night the Maga fever broke and the moral arc bent back towards justice",
+   "summary": "From Mississippi to Texas, voters rejected Trump’s racial politics, immigration crackdown and billionaire-backed Republicans, reshaping the American political landscape ahead of the 2028 presidential election.",
+   "link": "https://www.dailymaverick.co.za/article/2026-11-05-the-night-the-maga-fever-broke-and-the-moral-arc-bent-back-towards-justice/",
+   "published": "2026-11-05T00:34:02+00:00"
+  },
+  {
    "outlet": "DW News",
    "headline": "From rotten food to political opponents: Researchers explore how disgust relates to our beliefs, and why the connection is complicated",
    "summary": "Some studies have linked disgust sensitivity to socially conservative attitudes. But does disgust shape our politics, or do our beliefs shape what we find disgusting?",
@@ -947,9 +904,9 @@
   },
   {
    "outlet": "DW News",
-   "headline": "US midterms: 'Largely true' Iran war led to loss, Trump says",
-   "summary": "The US president still insisted he \"had to do\" the controversial war, after his Vice President Vance also blamed it for the Republican loss. The Democrats now control both the US House and Senate. Follow live.",
-   "link": "https://www.dw.com/en/us-midterms-largely-true-iran-war-led-to-loss-trump-says/live-79829440?maca=en-rss-en-all-1573-rdf",
+   "headline": "Trump says 'largely true' Iran war led to Republicans midterm loss",
+   "summary": "After Democrats won both the House and Senate in a blowout for Republicans, President Donald Trump admitted fuel prices brought on by the Iran war impacted the outcome, but stuck by his decision. DW has more.",
+   "link": "https://www.dw.com/en/trump-says-largely-true-iran-war-led-to-republicans-midterm-loss/live-79829440?maca=en-rss-en-all-1573-rdf",
    "published": "2026-11-04T12:45:00+00:00"
   },
   {
@@ -962,7 +919,7 @@
   {
    "outlet": "DW News",
    "headline": "Germany news: Commerce chief calls for stable US trade relations after midterms, warning that uncertainty over Trump's tariff policies remains",
-   "summary": "German business is pinning its hopes on greater stability in US trade relations after a midterm blow for Donald Trump. Meanwhile, Germany's automakers appear to be feeling less gloomy than in recent years. DW has more.",
+   "summary": "German business is pinning its hopes on greater stability in US trade relations after a midterm blow for Donald Trump. Meanwhile, Germany's automakers appear to be feeling less gloomy than in recent years.",
    "link": "https://www.dw.com/en/germany-news-commerce-chief-calls-for-stable-us-trade-relations-after-midterms-warning-that-uncertainty-over-trump-s-tariff-policies-remains/live-79854127?maca=en-rss-en-all-1573-rdf",
    "published": "2026-11-04T12:58:00+00:00"
   },
@@ -1053,44 +1010,16 @@
   {
    "outlet": "DW News",
    "headline": "Bavarian politician Hubert Aiwanger found dead in Berlin hotel",
-   "summary": "Aiwanger was Bavaria's economic minister and the chairman of the Free Voters Party. The circumstances surrounding his death are still unclear.",
+   "summary": "Aiwanger was Bavaria's Economy Minister and the chairman of the right-wing populist Free Voters party. The circumstances surrounding his death are still unclear.",
    "link": "https://www.dw.com/en/bavarian-politician-hubert-aiwanger-found-dead-in-berlin-hotel/a-79859115?maca=en-rss-en-all-1573-rdf",
    "published": "2026-11-04T21:00:00+00:00"
   },
   {
-   "outlet": "FactCheck.org",
-   "headline": "The 2026 FactCheck Awards",
-   "summary": "As fact-checkers, we watch a lot of ads in the lead-up to elections, and we only write about a fraction of them. Some of them are downright bizarre. As we first started doing 20 years ago -- just for fun -- on Election Day, we're giving out pretend awards to some of the notable ads we came across this campaign cycle. The post The 2026 FactCheck Awards appeared first on FactCheck.org .",
-   "link": "https://www.factcheck.org/2026/11/the-2026-factcheck-awards/",
-   "published": "2026-11-03T16:58:12+00:00"
-  },
-  {
-   "outlet": "Fortune | FORTUNE",
-   "headline": "AMC’s A-List members now make up 20% of its U.S. attendance. Its $4 billion debt is the harder test",
-   "summary": "The typical subscriber sees two or three films a month. Record revenue hasn’t yet erased AMC’s losses or the roughly $4 billion it owes.",
-   "link": "https://fortune.com/2026/11/04/amc-a-list-subscription-members-debt/",
-   "published": "2026-11-04T08:03:00+00:00"
-  },
-  {
-   "outlet": "Fortune | FORTUNE",
-   "headline": "James Talarico was a 23-year-old middle school teacher when an 11-year-old inspired him to run for office—now he’s making history in Texas as Senator",
-   "summary": "James Talarico is now Texas’ first elected Democratic Senator in nearly four decades. And it all started when one struggling student’s story inspired him.",
-   "link": "https://fortune.com/2026/11/04/james-talarico-23-year-old-middle-school-teacher-when-11-year-old-inspired-him-run-for-office-making-history-texas-senator/",
-   "published": "2026-11-04T16:18:41+00:00"
-  },
-  {
-   "outlet": "Fortune | FORTUNE",
-   "headline": "Here’s how the candidates backed by AI super PACs fared",
-   "summary": "AI super PACs spent $79 million this cycle, most of it before November. Here’s what they got for it.",
-   "link": "https://fortune.com/2026/11/04/candidates-backed-by-ai-super-pacs-result/",
-   "published": "2026-11-04T16:49:21+00:00"
-  },
-  {
-   "outlet": "Fortune | FORTUNE",
-   "headline": "House Democrats are eyeing Trump’s pardons and his family’s crypto deals — the last time they ran oversight, his administration ignored subpoenas",
-   "summary": "Bondi refused to answer many questions from Democrats, instead launching personal attacks against these members of the U.S. Senate.",
-   "link": "https://fortune.com/2026/11/04/house-democrats-oversight-trump-pardons-crypto-subpoenas/",
-   "published": "2026-11-04T18:20:10+00:00"
+   "outlet": "DW News",
+   "headline": "Democrats take House and Senate from Republicans in US midterm rout",
+   "summary": "Democrats will control both chambers of Congress after flipping seats in Republican strongholds across the US in an election seen as a repudiation of President Donald Trump.",
+   "link": "https://www.dw.com/en/democrats-take-house-and-senate-from-republicans-in-us-midterm-rout/a-79859416?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-04T23:04:00+00:00"
   },
   {
    "outlet": "Fortune | FORTUNE",
@@ -1098,27 +1027,6 @@
    "summary": "ElevenLabs field CTO Alex Holt has deployed agents across sales, recruiting, and customer service. He's also beginning to embrace multi-agent systems to improve workflows across the $22 billion AI startup.",
    "link": "https://fortune.com/2026/11/04/waters-new-ai-tool-targets-one-of-the-pharmaceutical-industrys-most-tedious-tasks-2/",
    "published": "2026-11-04T18:25:18+00:00"
-  },
-  {
-   "outlet": "Fortune | FORTUNE",
-   "headline": "Airbnb CEO Brian Chesky says ‘founder mode’ cost him almost his entire executive team: ‘They left or they didn’t want to work for me’",
-   "summary": "Chesky was a natural founder but a “terrible CEO,” he said, and fixing that meant losing executives who wouldn’t adapt.",
-   "link": "https://fortune.com/2026/11/04/airbnb-brian-chesky-founder-mode-executive-team/",
-   "published": "2026-11-04T18:38:22+00:00"
-  },
-  {
-   "outlet": "Fortune | FORTUNE",
-   "headline": "Trump approved nearly 90% of disaster aid requests from all-Republican states and only 23% from all-Democratic ones",
-   "summary": "FEMA owes local governments almost $10 billion in reimbursements for recovery work that cities and towns have already paid for.",
-   "link": "https://fortune.com/2026/11/04/trump-disaster-aid-fema-republican-democratic-states-libraries/",
-   "published": "2026-11-04T19:38:32+00:00"
-  },
-  {
-   "outlet": "Fortune | FORTUNE",
-   "headline": "The richest 10% outspend the poorest quarter over 13 to 1 per child on childcare, education and activities — up from about 3 to 1 in the early 1980s",
-   "summary": "Before age 5, children from the poorest fourth of families receive about $44,000 less in total investments than children from the richest fourth.",
-   "link": "https://fortune.com/2026/11/04/richest-families-outspend-poorest-13-to-1-per-child-schools-equalizer/",
-   "published": "2026-11-04T19:38:47+00:00"
   },
   {
    "outlet": "Fortune | FORTUNE",
@@ -1135,18 +1043,39 @@
    "published": "2026-11-04T19:41:44+00:00"
   },
   {
-   "outlet": "Good News Network",
-   "headline": "He Donated His Ultra-rare Blood 545 Times While Visiting Every Blood Bank in Australia",
-   "summary": "Pictured here enjoying jokes and a juice box, Trevor Bergman has now successfully donated his ultra-rare blood at all 85 Australian donation centers. While on his journey, Bergman donated blood 545 times, helping patients from virtually every corner of the land down under. The 59-year-old police officer is one of 150 Australians known to carry […] The post He Donated His Ultra-rare Blood 545 Times",
-   "link": "https://www.goodnewsnetwork.org/ultra-rare-blood-carrier-finishes-grand-tour-around-australia-to-donate-at-all-85-blood-banks/",
-   "published": "2026-11-03T16:30:35+00:00"
+   "outlet": "Fortune | FORTUNE",
+   "headline": "Democrat wins will slow data center construction and force tech to the negotiating table after even Republican stronghold of Texas flips",
+   "summary": "Three Democratic governors elected Tuesday have promised to reexamine data center expansion.",
+   "link": "https://fortune.com/2026/11/04/democrats-midterm-election-2026-anti-data-center-governors-texas-georgia-ohio-ai-infrastructure-big-tech-spending-moratorium-regulations/",
+   "published": "2026-11-04T20:07:50+00:00"
   },
   {
-   "outlet": "Good News Network",
-   "headline": "Loch Ness Is About to Welcome a New Monster Not Seen There in 500 Years–the Beaver!",
-   "summary": "Loch Ness is about to welcome a new monster. This beastie is not to be trifled with: it has razor-sharp teeth and can easily knock down a fully-grown tree. Beavers were last sighted in the area around Scotland’s most famous lake between 1526 and 1527. Now, literally 500 years later, these key ecosystem engineers will […] The post Loch Ness Is About to Welcome a New Monster Not Seen There in 500 Ye",
-   "link": "https://www.goodnewsnetwork.org/loch-ness-is-about-to-welcome-a-new-monster-the-beaver-500-years-since-it-last-lived-there/",
-   "published": "2026-11-03T19:30:09+00:00"
+   "outlet": "Fortune | FORTUNE",
+   "headline": "‘He basically gets to steer a political party’: Elon Musk is $474 million poorer post-election, but it may not have deterred his influence on 2028",
+   "summary": "“It’s not just about who wins,” one political spending expert said. “It's about setting the agenda and what types of issues we talk about.”",
+   "link": "https://fortune.com/2026/11/04/elon-musk-election-spending-2026-2028-republican-influence-doge-spacex-tesla/",
+   "published": "2026-11-04T20:31:23+00:00"
+  },
+  {
+   "outlet": "Fortune | FORTUNE",
+   "headline": "After the midterms, Big Tech’s AI data center problem is only getting bigger",
+   "summary": "On Tuesday, U.S. voters delivered an overwhelming victory for Democratic candidates throughout the country that will upend the halls of power in Washington and data center hotbeds like Texas.",
+   "link": "https://fortune.com/2026/11/04/voters-pull-the-plug-on-big-techs-data-center-boom/",
+   "published": "2026-11-04T21:18:36+00:00"
+  },
+  {
+   "outlet": "Fortune | FORTUNE",
+   "headline": "‘Seismic’ blue wave triggers the sinking of oil prices, energy stocks, and the chances of power permitting reform",
+   "summary": "The overwhelming nature of the Democratic win is making everyone rethink energy strategies from Iran to Texas data centers.",
+   "link": "https://fortune.com/2026/11/04/seismic-blue-wave-sinking-oil-prices-energy-stocks-power-permitting-reform/",
+   "published": "2026-11-04T21:31:52+00:00"
+  },
+  {
+   "outlet": "Fortune | FORTUNE",
+   "headline": "Appeals court tosses lawsuit over Mamdani’s pied-à-terre tax rollout, ruling homeowners can’t sue over notices",
+   "summary": "The decision reverses a Staten Island judgment that ordered the city to redo its notices. Other legal challenges continue.",
+   "link": "https://fortune.com/2026/11/04/appeals-court-tosses-lawsuit-over-mamdanis-pied-a-terre-tax-rollout-ruling-homeowners-cant-sue-over-notices/",
+   "published": "2026-11-04T22:48:32+00:00"
   },
   {
    "outlet": "Good News Network",
@@ -1192,20 +1121,6 @@
   },
   {
    "outlet": "Inside Climate News",
-   "headline": "Is It Better to Speak, or to ‘Hush’?",
-   "summary": "Hi, I’m Kate Waxman, and this is my first edition of Today’s Climate. I’m taking this newsletter over from my colleague Kiley Price, whom I admire for her sharp coverage. I’m a Florida native and was a fellow at Inside Climate News this summer, where I covered climate and environmental justice in my home state. […]",
-   "link": "https://insideclimatenews.org/news/03112026/todays-climate-election-hushing/",
-   "published": "2026-11-03T17:02:38+00:00"
-  },
-  {
-   "outlet": "Inside Climate News",
-   "headline": "Few Repercussions for Oil Firm’s Continued Leaks After Couple’s Death From Toxic Gas",
-   "summary": "This article was first reported by The Examination, a nonprofit newsroom that investigates global health threats. When Rachel Curtis visited her 86-year-old grandmother in Odessa, Texas, last summer, the putrid odor of hydrogen sulfide hit her as soon as she got out of the car. She could smell the toxic gas, which is often compared […]",
-   "link": "https://insideclimatenews.org/news/03112026/few-repercussions-for-oil-firms-continued-leaks-after-couples-death-from-toxic-gas/",
-   "published": "2026-11-03T18:57:19+00:00"
-  },
-  {
-   "outlet": "Inside Climate News",
    "headline": "US Loses a Football Field of Forest Every 2 Minutes",
    "summary": "A new satellite tracking system finds that the United States has lost 350,000 acres of forest land per year—a rate of approximately one football field every two minutes—which is the equivalent of 2.3 billion metric tons of carbon dioxide emissions through the release of stored CO2 in the forests and lost potential carbon storage. Researchers […]",
    "link": "https://insideclimatenews.org/news/03112026/satellite-imagery-tracks-us-forest-loss/",
@@ -1227,10 +1142,52 @@
   },
   {
    "outlet": "Inside Climate News",
-   "headline": "Corpus Christi Approves Water Fines for Industrial Giants as Landslide Election Rocks Texas",
+   "headline": "Corpus Christi Approves Water Charges for Industrial Giants as Landslide Election Rocks Texas",
    "summary": "This story was produced in partnership by Inside Climate News and the Texas Newsroom, the state’s network of public radio stations. Amid a spate of historic political upsets across Texas, voters in the industrial port city of Corpus Christi on Tuesday overwhelmingly approved a citizen-led petition to impose steep fees for water use on the […]",
    "link": "https://insideclimatenews.org/news/04112026/corpus-christi-approves-industrial-water-fines/",
    "published": "2026-11-04T20:21:08+00:00"
+  },
+  {
+   "outlet": "Inside Climate News",
+   "headline": "Democrats Win Control of Georgia’s Energy Regulator",
+   "summary": "Georgia voters have broken the Republican grip on the state’s energy regulator, giving Democrats control of the Public Service Commission for the first time in 30 years. Their victories come amid growing frustration over rising electricity bills, a data center buildout and calls for greater accountability from Georgia Power. On Tuesday, Democrat Peter Hubbard was […]",
+   "link": "https://insideclimatenews.org/news/04112026/georgia-public-service-commission-democrat-majority/",
+   "published": "2026-11-04T22:40:34+00:00"
+  },
+  {
+   "outlet": "Inside Climate News",
+   "headline": "International Coalition of Lawyers and Advocacy Groups Accuses JBS of Money Laundering",
+   "summary": "An international team of lawyers on Wednesday filed a coordinated battery of lawsuits against JBS, the world’s largest meat company, and its financiers, accusing them of money laundering in connection with the destruction of the Amazon rainforest. The 14 legal actions, filed in four European jurisdictions, accuse JBS and its affiliated banks, asset managers, accountants […]",
+   "link": "https://insideclimatenews.org/news/04112026/meat-company-sued-for-money-laundering/",
+   "published": "2026-11-04T23:01:00+00:00"
+  },
+  {
+   "outlet": "Inside Climate News",
+   "headline": "Democrats’ Victory in Texas Raises Potential for Environmental Reform",
+   "summary": "Democrats’ historic sweep of Texas on Tuesday raises new possibilities of environmental reform after more than 30 years of Republican rule in the home of the nation’s oil and gas industry. That includes opportunities to cement safeguards for data center development, lower energy costs and, over time, appoint new commissioners to the state’s regulatory agencies […]",
+   "link": "https://insideclimatenews.org/news/04112026/texas-blue-wave-data-centers/",
+   "published": "2026-11-04T23:06:22+00:00"
+  },
+  {
+   "outlet": "Inside Climate News",
+   "headline": "Conley’s Victory in New York’s Lower Hudson Valley Opens Door to Renewed Climate Action",
+   "summary": "NY-17: Last in a series on the environmental stakes behind one of the nation’s most fiercely contested congressional races. Before midnight, and before any official body had called the race, Republican incumbent Mike Lawler conceded to Democratic challenger Cait Conley in New York’s 17th Congressional District. Conley flipped the closely watched toss-up seat, denying Lawler […]",
+   "link": "https://insideclimatenews.org/news/04112026/new-york-cait-conley-congress-victory-energy-development/",
+   "published": "2026-11-04T23:56:45+00:00"
+  },
+  {
+   "outlet": "Inside Climate News",
+   "headline": "Alabama Power Routinely Bills Ratepayers for Ads Promoting Its Goods and Services. State Regulators Want That Stopped.",
+   "summary": "On a busy election day, the Alabama Public Service Commission requested that Alabama Power voluntarily stop billing customers, effective immediately, for television commercials and other ads it buys to promote various aspects of its business. Alabama Power is the largest electricity provider in Alabama, with territory covering about two-thirds of the state. Though it is […]",
+   "link": "https://insideclimatenews.org/news/04112026/alabama-power-advertising-regulation/",
+   "published": "2026-11-05T01:03:23+00:00"
+  },
+  {
+   "outlet": "Inside Climate News",
+   "headline": "Voters Reject Industry-Backed Ballot Measures With Big Environmental Stakes",
+   "summary": "As a blue wave washed over Election Day, ballot measures across the country showed voters strongly support environmental protection, with notable early outcomes in California and Colorado. Democrats swept Congress on Tuesday, winning control of both houses with notable victories in Ohio, South Carolina, Texas, Michigan and Maine. Results, which are still being tallied Wednesday, […]",
+   "link": "https://insideclimatenews.org/news/04112026/california-voters-reject-industry-energy-measures/",
+   "published": "2026-11-05T01:33:11+00:00"
   },
   {
    "outlet": "KFF Health News",
@@ -1252,13 +1209,6 @@
    "summary": "Democrats’ retaking of Congress doesn’t change President Donald Trump’s control of the veto pen — making the new majority’s aspirations to reverse changes to Medicaid, the Affordable Care Act, and other safety net programs an uphill climb.",
    "link": "https://kffhealthnews.org/insurance/post-midterm-election-healthcare-agenda-democratic-congress/",
    "published": "2026-11-04T20:26:22+00:00"
-  },
-  {
-   "outlet": "Marketplace Morning Report",
-   "headline": "Why so many men are opting out of the workforce",
-   "summary": "It’s a big week for labor market data, including data on wages, unemployment, and job turnover. But before the employment floodgates open, it’s worth looking at a group of workers who have stepped back from the labor force: Men ages 25 to 54 — who were almost all working half a century ago — are participating significantly less today. What gives? Also: a look at how the U.S. trade balance is holdi",
-   "link": "https://www.marketplace.org/episode/2026/11/03/why-so-many-men-are-opting-out-of-the-workforce",
-   "published": "2026-11-03T16:00:00+00:00"
   },
   {
    "outlet": "Marketplace Morning Report",
@@ -1324,11 +1274,11 @@
    "published": "2026-11-04T14:29:35+00:00"
   },
   {
-   "outlet": "NPR",
-   "headline": "For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life",
-   "summary": "In Kherson city, usually seething with Russian drones, friends met at cafes, families were out together and shoppers stocked up. \"The city seems alive,\" said one resident, \"just like it used to be.\"",
-   "link": "https://www.npr.org/2026/11/03/g-s1-151238/ukraine-russia-ceasefire-oleshky-kherson",
-   "published": "2026-11-03T15:54:39+00:00"
+   "outlet": "National Review",
+   "headline": "The End of Fox News Republicanism",
+   "summary": "In its place, for better or worse, is a new generation of political and financial entrepreneurs running operations online.",
+   "link": "https://www.nationalreview.com/2026/11/the-end-of-fox-news-republicanism/",
+   "published": "2026-11-04T23:17:05+00:00"
   },
   {
    "outlet": "NPR",
@@ -1360,13 +1310,6 @@
   },
   {
    "outlet": "NPR Topics: Business",
-   "headline": "When caring for aging family members becomes cost prohibitive",
-   "summary": "AARP reports family caregivers are spending 60% more than they were five years ago. Journalist Paula Span discusses the rising costs of caregiving and senior living, and the options available to us.",
-   "link": "https://www.npr.org/2026/11/03/nx-s1-6026479/when-caring-for-aging-family-members-becomes-cost-prohibitive",
-   "published": "2026-11-03T17:09:56+00:00"
-  },
-  {
-   "outlet": "NPR Topics: Business",
    "headline": "Chicago entrepreneur turns empty downtown office space into vertical gardens",
    "summary": "The pandemic changed how and where the world works, leaving behind a lot of empty office space. One entrepreneur is starting to plant the seeds of a partial solution.",
    "link": "https://www.npr.org/2026/11/03/nx-s1-5944524-e1/chicago-entrepreneur-turns-empty-downtown-office-space-into-vertical-gardens",
@@ -1392,118 +1335,6 @@
    "summary": "On election night, photographers will be in position, ready to snap history-making moments. It's something Pulitzer-prize-winner photographer David Hume Kennerly, has done for decades.",
    "link": "https://www.npr.org/2026/11/03/nx-s1-6005523/legendary-photographer-on-getting-that-perfect-election-night-picture",
    "published": "2026-11-03T22:33:33+00:00"
-  },
-  {
-   "outlet": "PBS NewsHour",
-   "headline": "Democrat Troy Jackson wins election to U.S. Senate from Maine",
-   "summary": "Jackson, 58, a fifth-generation logger and former president of the state Senate, had a little more than 100 days to sell himself to Maine voters after he replaced Graham Platner as the party's nominee in July.",
-   "link": "https://www.pbs.org/newshour/politics/democrat-troy-jackson-wins-election-to-u-s-senate-from-maine",
-   "published": "2026-11-04T06:06:36+00:00"
-  },
-  {
-   "outlet": "PBS NewsHour",
-   "headline": "WATCH: Democrat Annie Andrews' full victory speech after flipping South Carolina Senate seat",
-   "summary": "Andrews' victory in a state President Donald Trump won three times by double digits is a stark defeat for the Republican Party.",
-   "link": "https://www.pbs.org/newshour/politics/watch-democrat-annie-andrews-full-victory-speech-after-flipping-south-carolina-senate-seat",
-   "published": "2026-11-04T06:20:51+00:00"
-  },
-  {
-   "outlet": "PBS NewsHour",
-   "headline": "Democrats win control of U.S. House, in major rebuke to Trump",
-   "summary": "Democrats have won control of the U.S. House in addition to the U.S. Senate, delivering a shockingly decisive rebuke of Republican governance in Washington and ushering in a new era of congressional resistance to President Donald Trump.",
-   "link": "https://www.pbs.org/newshour/politics/democrats-win-control-of-the-u-s-house",
-   "published": "2026-11-04T06:27:26+00:00"
-  },
-  {
-   "outlet": "PBS NewsHour",
-   "headline": "Democrat J.D. Ford wins election to U.S. House in Indiana's 5th Congressional District",
-   "summary": "In an upset that many analysts did not see coming, Democratic nominee J.D. Ford defeated three-term Rep. Victoria Spartz in Indiana's 5th Congressional District in Tuesday's election.",
-   "link": "https://www.pbs.org/newshour/politics/democrat-j-d-ford-wins-election-to-u-s-house-in-indianas-5th-congressional-district",
-   "published": "2026-11-04T06:29:46+00:00"
-  },
-  {
-   "outlet": "PBS NewsHour",
-   "headline": "WATCH: New York Gov. Kathy Hochul speaks after winning reelection",
-   "summary": "This is Hochul's second time being elected governor. She was serving as lieutenant governor when Andrew Cuomo resigned in 2021, and she ascended to take his place.",
-   "link": "https://www.pbs.org/newshour/politics/watch-new-york-gov-kathy-hochul-speaks-after-winning-reelection",
-   "published": "2026-11-04T06:32:22+00:00"
-  },
-  {
-   "outlet": "PBS NewsHour",
-   "headline": "WATCH: Sen. Chuck Schumer speaks after Democrats win control of Senate",
-   "summary": "The longtime Democratic leader told reporters in Washington that \"Americans voted for change\" and that there had been a \"generational remake of the Senate map.\"",
-   "link": "https://www.pbs.org/newshour/politics/watch-sen-chuck-schumer-speaks-after-democrats-win-control-of-senate",
-   "published": "2026-11-04T06:42:06+00:00"
-  },
-  {
-   "outlet": "PBS NewsHour",
-   "headline": "WATCH: Democrat Troy Jackson speaks after Maine Sen. Susan Collins concedes",
-   "summary": "Jackson won election Wednesday to the U.S. Senate representing Maine, defeating Republican incumbent Sen. Susan Collins.",
-   "link": "https://www.pbs.org/newshour/politics/watch-democrat-troy-jackson-speaks-after-maine-sen-susan-collins-concedes",
-   "published": "2026-11-04T06:55:51+00:00"
-  },
-  {
-   "outlet": "PBS NewsHour",
-   "headline": "Democrat Abdul El-Sayed wins election to U.S. Senate from Michigan",
-   "summary": "Progressive Democrat Abdul El-Sayed will become first Muslim U.S. senator.",
-   "link": "https://www.pbs.org/newshour/politics/democrat-abdul-el-sayed-wins-election-to-u-s-senate-from-michigan",
-   "published": "2026-11-04T12:22:33+00:00"
-  },
-  {
-   "outlet": "PBS NewsHour",
-   "headline": "Democrats win governorships in Texas and other GOP-controlled states in rebuke to Republicans",
-   "summary": "The wins delivered a majority of governorships to Democrats for the first time in two decades, allowing them to put up a stronger defense against Trump's second-term agenda.",
-   "link": "https://www.pbs.org/newshour/politics/democrats-win-governorships-in-texas-and-other-gop-controlled-states-in-rebuke-to-republicans",
-   "published": "2026-11-04T12:51:32+00:00"
-  },
-  {
-   "outlet": "PBS NewsHour",
-   "headline": "The U.S. political map? Anyone's guess after Democratic wave",
-   "summary": "Voters took a wrecking ball to the traditional map of political battlegrounds, electing Democrats in states that were long considered reliably Republican.",
-   "link": "https://www.pbs.org/newshour/politics/the-u-s-political-map-anyones-guess-after-democratic-wave",
-   "published": "2026-11-04T15:14:00+00:00"
-  },
-  {
-   "outlet": "PBS NewsHour",
-   "headline": "How Trump and Republicans lost the 2026 midterm elections, according to AP Voter Poll",
-   "summary": "After more than a decade with Donald Trump at the epicenter of U.S. politics, most voters appear exhausted and exasperated by him, according to The AP Voter Poll, a survey of midterm voters in all 50 states.",
-   "link": "https://www.pbs.org/newshour/politics/how-trump-and-republicans-lost-the-2026-midterm-elections-according-to-ap-voter-poll",
-   "published": "2026-11-04T16:19:10+00:00"
-  },
-  {
-   "outlet": "PBS NewsHour",
-   "headline": "Johnson won't seek reelection as House leader after Republican wipeout",
-   "summary": "It's a swift rise and fall for Mike Johnson, often seen as an accidental speaker, who nevertheless drew close to President Donald Trump and led the House GOP during a tumultuous era, with one of the slimmest majorities in modern times.",
-   "link": "https://www.pbs.org/newshour/politics/johnson-wont-seek-reelection-as-house-speaker-after-republican-wipeout",
-   "published": "2026-11-04T16:40:44+00:00"
-  },
-  {
-   "outlet": "PBS NewsHour",
-   "headline": "Vance blames Iran war for GOP midterm losses",
-   "summary": "JD Vance publicly broke from President Donald Trump's defense of the Iran war Wednesday after the Republican Party's deep losses in the midterm elections, attempting to distance himself from voters' clear rebuke of the president as the vice president faces questions about his own political ambitions.",
-   "link": "https://www.pbs.org/newshour/politics/vance-blames-iran-war-for-gop-midterm-losses",
-   "published": "2026-11-04T16:56:43+00:00"
-  },
-  {
-   "outlet": "PBS NewsHour",
-   "headline": "Iranian leaders say midterm results show U.S. voters have rejected Trump's war",
-   "summary": "Concerns about the war, particularly frustration over rising prices for fuel and other goods in the U.S., helped Democrats win control of both chambers of Congress in Tuesday's vote, a sharp setback for President Donald Trump and his Republican Party.",
-   "link": "https://www.pbs.org/newshour/world/iranian-leaders-say-midterm-results-show-u-s-voters-have-rejected-trumps-war",
-   "published": "2026-11-04T17:36:11+00:00"
-  },
-  {
-   "outlet": "PBS NewsHour",
-   "headline": "Democrats usher in a new era with their resounding sweep of the House and the Senate",
-   "summary": "In a nationwide romp, Democrats ousted Republicans from coast to coast, with many surprising places in between, as voters rejected the president's party for the promise of something different for the country.",
-   "link": "https://www.pbs.org/newshour/politics/democrats-usher-in-a-new-era-with-their-resounding-sweep-of-the-house-and-the-senate",
-   "published": "2026-11-04T17:57:49+00:00"
-  },
-  {
-   "outlet": "PBS NewsHour",
-   "headline": "World leaders who sparred with Trump express mix of relief, caution at GOP election rout",
-   "summary": "British Prime Minister Andy Burnham expressed hope the election results would focus minds in Washington and other capitals on ending the Iran war, which has sent fuel prices soaring — a major source of frustration for voters.",
-   "link": "https://www.pbs.org/newshour/world/world-leaders-who-sparred-with-trump-express-mix-of-relief-caution-at-gop-election-rout",
-   "published": "2026-11-04T18:53:24+00:00"
   },
   {
    "outlet": "PBS NewsHour",
@@ -1534,11 +1365,116 @@
    "published": "2026-11-04T21:16:26+00:00"
   },
   {
-   "outlet": "Politico",
-   "headline": "Poll: GOP voters say the party isn’t focused enough on the economy",
-   "summary": "Hours before polls close, a new survey shows a stark disconnect between what Republican voters want their party to focus on and what they say the party actually is focusing on.",
-   "link": "https://www.politico.com/news/2026/11/03/poll-gop-voters-economy-midterms-01145083",
-   "published": "2026-11-03T17:00:00+00:00"
+   "outlet": "PBS NewsHour",
+   "headline": "Democrats win full control of more state governments and the Texas House",
+   "summary": "Democrats in Texas took control of the state House after historic wins for governor and U.S. Senate, part of a series of sweeping gains nationwide in Tuesday's elections that shifted the balance of power across several battleground and Republican-leaning states.",
+   "link": "https://www.pbs.org/newshour/politics/democrats-win-full-control-of-more-state-governments-and-the-texas-house",
+   "published": "2026-11-04T21:50:17+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "Florida sheriff says 2 dead, including suspect, as witnesses report shooting at Tampa office complex",
+   "summary": "Florida authorities said two people were dead, including a suspect, after witnesses reported a shooting Wednesday at Citibank's sprawling business complex that employs thousands in the Tampa area.",
+   "link": "https://www.pbs.org/newshour/nation/florida-sheriff-says-2-dead-including-suspect-as-witnesses-report-shooting-at-tampa-office-complex",
+   "published": "2026-11-04T22:14:47+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "What's next in the investigation of the Learjet crash in Florida that killed 9?",
+   "summary": "Investigators are just beginning the lengthy process of determining why a business jet plummeted from the sky in Florida after encountering a thunderstorm and slammed into the ground with such force that it created a crater and shattered the plane.",
+   "link": "https://www.pbs.org/newshour/nation/whats-next-in-the-investigation-of-the-learjet-crash-in-florida-that-killed-9",
+   "published": "2026-11-04T22:37:20+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "Ex-Prince Andrew called to testify in civil case, 1st royal in 156 years to get witness summons",
+   "summary": "The former Prince Andrew has been called to testify as a witness in a civil fraud trial, marking what is believed to be the first time in more than 150 years that a member of the royal family has received a witness summons, British media reported on Wednesday.",
+   "link": "https://www.pbs.org/newshour/world/ex-prince-andrew-called-to-testify-in-civil-case-1st-royal-in-156-years-to-get-witness-summons",
+   "published": "2026-11-04T22:44:38+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "Shorter days and dark afternoons can trigger depression. Here's how to fight back",
+   "summary": "As winter approaches and daylight hours grow shorter, people prone to seasonal depression can feel it in their bodies and brains.",
+   "link": "https://www.pbs.org/newshour/health/shorter-days-and-dark-afternoons-can-trigger-depression-heres-how-to-fight-back",
+   "published": "2026-11-04T22:57:46+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "Pope Leo XIV welcomes Bob Dylan to the Vatican in a brief visit",
+   "summary": "Leo gave Dylan a rosary, while Dylan presented the pope with a copy of his autobiography, \"Chronicles: Volume One.\"",
+   "link": "https://www.pbs.org/newshour/arts/pope-leo-xiv-welcomes-bob-dylan-to-the-vatican-in-a-brief-visit",
+   "published": "2026-11-04T23:06:26+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "Democratic and GOP strategists on how parties should respond to midterm results",
+   "summary": "For perspective on how both parties are responding to the historic election wins, Geoff Bennett spoke with two strategists from both sides of the political aisle. Mo Elleithee is the former spokesman for the Democratic National Committee, and Doug Heye is a former spokesman for the Republican National Committee.",
+   "link": "https://www.pbs.org/newshour/show/democratic-and-gop-strategists-on-how-parties-should-respond-to-midterm-results",
+   "published": "2026-11-04T23:15:00+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "How the Latino shift to Democrats helped turn Texas blue",
+   "summary": "A major factor in the midterm elections was the number of Latino voters who headed to the polls and supported Democrats. For perspective on this massive swing, Amna Nawaz spoke with María Teresa Kumar, CEO of Voto Latino, an organization that helps register Hispanic and Latino voters.",
+   "link": "https://www.pbs.org/newshour/show/how-the-latino-shift-to-democrats-helped-turn-texas-blue",
+   "published": "2026-11-04T23:20:54+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "OKC's Republican mayor says election wipeout is 'rejection of Trumpism'",
+   "summary": "President Trump has sought to deflect blame for the sweeping Republican losses. But within the party, some are beginning to ask whether they have been too deferential to the president — and whether the GOP needs to rethink its identity. Amna Nawaz discussed what comes next with David Holt, the Republican mayor of Oklahoma City.",
+   "link": "https://www.pbs.org/newshour/show/okcs-republican-mayor-says-election-wipeout-is-rejection-of-trumpism",
+   "published": "2026-11-04T23:25:13+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "New Mexico's Deb Haaland on making history as first Native American woman elected governor",
+   "summary": "The election led to several historic firsts. In New Hampshire, Chris Pappas became the first openly gay man to be elected to the Senate. In Georgia, Keisha Lance Bottoms will be the first Black woman governor. And in New Mexico, Deb Haaland will make history as the first Native American woman to serve as a governor. Haaland joined Geoff Bennett to discuss more.",
+   "link": "https://www.pbs.org/newshour/show/new-mexicos-deb-haaland-on-making-history-as-first-native-american-woman-elected-governor",
+   "published": "2026-11-04T23:30:16+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "'A mandate for change': Progressive Democrat William Lawrence flips House seat in Michigan",
+   "summary": "In Michigan's 7th Congressional District, progressive activist William Lawrence unseated Republican Tom Barrett in one of the year's most competitive House races. Lawrence joined Amna Nawaz to discuss the win and what comes next.",
+   "link": "https://www.pbs.org/newshour/show/a-mandate-for-change-progressive-democrat-william-lawrence-flips-house-seat-in-michigan",
+   "published": "2026-11-04T23:35:28+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "A NASA space telescope plunged back to Earth after a mission that lasted 11 times longer than planned",
+   "summary": "The Swift Observatory's demise came less than three months after a long-shot rescue mission failed.",
+   "link": "https://www.pbs.org/newshour/science/a-nasa-space-telescope-plunged-back-to-earth-after-a-mission-that-lasted-11-times-longer-than-planned",
+   "published": "2026-11-04T23:39:24+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "The issues that drove voters' decisions in the midterms",
+   "summary": "For a deeper dive into the election data and why people voted the way they did, Geoff Bennett and Amna Nawaz spoke with Amy Walter of The Cook Political Report.",
+   "link": "https://www.pbs.org/newshour/show/the-issues-that-drove-voters-decisions-in-the-midterms",
+   "published": "2026-11-04T23:40:31+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "Breaking down the Democrats' big majorities after the blue wave",
+   "summary": "The results of the midterms have set up a two-year power struggle between Trump's White House and the incoming Democratic Congress. Lisa Desjardins takes a look at the races and the potential size of the incoming Democratic majority.",
+   "link": "https://www.pbs.org/newshour/show/breaking-down-the-democrats-big-majorities-after-the-blue-wave",
+   "published": "2026-11-04T23:45:30+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "News Wrap: Officials in Iran welcome midterm results as vote against war",
+   "summary": "In our news wrap Wednesday, top officials in Iran welcomed the results of the U.S. midterm elections, Israeli President Isaac Herzog says he's accepted the results of last week's election and will consult with party leaders on forming a new government and Ukraine's air force says Russia launched more than 300 drones overnight.",
+   "link": "https://www.pbs.org/newshour/show/news-wrap-officials-in-iran-welcome-midterm-results-as-vote-against-war",
+   "published": "2026-11-04T23:50:44+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "Midterm voters rebuke Trump, handing Democrats both chambers of Congress",
+   "summary": "Voters delivered a sweeping rebuke of President Trump and his party in the midterms, handing Democrats major victories and dramatically reshaping the balance of power in Washington. Trump now enters a lame duck phase of his second term, promising both to use his veto power, and also to work across the aisle as he faces the largest Democratic majorities in decades. Liz Landers reports.",
+   "link": "https://www.pbs.org/newshour/show/midterm-voters-rebuke-trump-handing-democrats-both-chambers-of-congress",
+   "published": "2026-11-04T23:55:07+00:00"
   },
   {
    "outlet": "Politico",
@@ -1639,13 +1575,6 @@
    "published": "2026-11-04T20:34:35+00:00"
   },
   {
-   "outlet": "PolitiFact",
-   "headline": "No evidence of an FBI raid that revealed ‘fraudulent ballots’ in Houston",
-   "summary": "More than 20,000 “fraudulent ballots” cast for Democrats were uncovered in an FBI raid of a warehouse in Houston.",
-   "link": "https://politifact.com/factchecks/2026/nov/03/social-media/houston-fbi-raid-fraudulent-ballots-warehouse-false/",
-   "published": "2026-11-03T20:17:55+00:00"
-  },
-  {
    "outlet": "Positive News",
    "headline": "Who needs a golden ticket? The race to future-proof chocolate",
    "summary": "A student has made six bars from cocoa grown in Reading, where varieties are being developed that could help with climate change The post Who needs a golden ticket? The race to future-proof chocolate appeared first on Positive News .",
@@ -1672,20 +1601,6 @@
    "summary": "The post Vermont Was Supposed to Get an Audit of Its Lake Champlain Cleanup. It Never Happened. appeared first on ProPublica .",
    "link": "https://www.propublica.org/article/vermont-clean-water-act-champlain-audit",
    "published": "2026-11-04T15:05:00+00:00"
-  },
-  {
-   "outlet": "Reason",
-   "headline": "Jon Ossoff, Once the Senate's Most Vulnerable Democrat, Won Reelection by Running Against Trump's Corruption",
-   "summary": "Sen. Jon Ossoff (D–Ga.)",
-   "link": "https://reason.com/2026/11/03/jon-ossoff-once-the-senates-most-vulnerable-democrat-won-reelection-by-running-against-trumps-corruption/",
-   "published": "2026-11-04T04:03:57+00:00"
-  },
-  {
-   "outlet": "Reason",
-   "headline": "Indiana Republican Who Said Undocumented Immigrants Shouldn't Get Due Process Has Lost Reelection to Congress",
-   "summary": "Victoria Spartz",
-   "link": "https://reason.com/2026/11/03/indiana-republican-who-said-undocumented-immigrants-shouldnt-get-due-process-has-lost-reelection-to-congress/",
-   "published": "2026-11-04T04:20:35+00:00"
   },
   {
    "outlet": "Reason",
@@ -1954,6 +1869,20 @@
    "published": "2026-11-04T21:15:17+00:00"
   },
   {
+   "outlet": "Reason",
+   "headline": "When You Investigate Trump's Corruption, Don't Make Collateral Damage of the Corporate Bystanders",
+   "summary": "Chuck Schumer, Donald Trump, and Hakeem Jeffries against a purple background",
+   "link": "https://reason.com/2026/11/04/when-you-investigate-trumps-corruption-dont-make-collateral-damage-of-the-corporate-bystanders/",
+   "published": "2026-11-04T22:18:59+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "Trump and MAGA Lost, but Big Government Notched Another Victory",
+   "summary": "Trump in front of the U.S. Capitol",
+   "link": "https://reason.com/2026/11/04/trump-and-maga-lost-but-big-government-notched-another-victory/",
+   "published": "2026-11-04T23:30:10+00:00"
+  },
+  {
    "outlet": "Science News",
    "headline": "How hawkmoths turned their genitals into bat-busting weapons",
    "summary": "In arms race with bats, hawkmoths have evolved three distinct ways to make bat-busting ultrasound using their genitalia.",
@@ -1976,41 +1905,6 @@
   },
   {
    "outlet": "Semafor",
-   "headline": "Big Tech braces for a bluer Washington",
-   "summary": "More than 130 Democratic candidates have run anti-tech ads this cycle, according to data shared first with Semafor.",
-   "link": "https://www.semafor.com/article/11/03/2026/big-tech-braces-for-a-bluer-washington",
-   "published": "2026-11-03T22:29:03+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Banks to review El Niño exposure in client loans",
-   "summary": "The concerns follow warnings from money managers that this year’s extraordinarily powerful El Niño will leave investors with nowhere to hide.",
-   "link": "https://www.semafor.com/article/11/03/2026/banks-to-review-el-nio-exposure-in-client-loans",
-   "published": "2026-11-03T22:30:19+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "US gas prices hit Election Day record",
-   "summary": "Gas prices jumped as Americans headed to the polls, emphasizing how pressing the issue of fuel costs has become for voters.",
-   "link": "https://www.semafor.com/article/11/03/2026/us-gas-prices-hit-election-day-record",
-   "published": "2026-11-03T22:36:10+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "AMD beats estimates on near-doubling of data center revenues",
-   "summary": "The semiconductor giant’s third-quarter earnings beat Wall Street estimates on record demand for its AI chips, boosting one of the year’s best-performing tech stocks after market close.",
-   "link": "https://www.semafor.com/article/11/03/2026/amd-beats-estimates-on-near-doubling-of-data-center-revenues",
-   "published": "2026-11-03T22:44:13+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Republicans underperform as first midterm votes are counted",
-   "summary": "Early results out of Indiana and Kentucky are in line with polling that’s put Democrats well ahead in the battle for Congress.",
-   "link": "https://www.semafor.com/article/11/03/2026/republicans-underperform",
-   "published": "2026-11-04T00:19:18+00:00"
-  },
-  {
-   "outlet": "Semafor",
    "headline": "Democrats poised to claim a House majority bigger than they’d hoped",
    "summary": "The party is making large enough gains to insulate its leaders against unruly blocs in the caucus — particularly on the left.",
    "link": "https://www.semafor.com/article/11/03/2026/democrats-poised-to-claim-a-house-majority-bigger-than-theyd-hoped",
@@ -2029,13 +1923,6 @@
    "summary": "Republicans lost all of their tossup races, including a shocking South Carolina defeat.",
    "link": "https://www.semafor.com/article/11/03/2026/senate-goes-democratic-in-a-generational-wipeout-of-trumps-party",
    "published": "2026-11-04T05:36:40+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Massive blue wave hands Congress to Democrats",
-   "summary": "Trump faces a repudiation of his second term agenda.",
-   "link": "https://www.semafor.com/article/11/03/2026/democrats-take-senate-seats-as-republicans-underperform-in-midterm",
-   "published": "2026-11-04T05:53:31+00:00"
   },
   {
    "outlet": "Semafor",
@@ -2255,6 +2142,48 @@
    "published": "2026-11-04T19:58:41+00:00"
   },
   {
+   "outlet": "Semafor",
+   "headline": "Republicans trade blame for historic midterm loss",
+   "summary": "Vice President JD Vance said the Iran war was the “real reason” for Tuesday’s losses.",
+   "link": "https://www.semafor.com/article/11/04/2026/republicans-trade-blame-for-historic-midterm-loss",
+   "published": "2026-11-04T22:24:54+00:00"
+  },
+  {
+   "outlet": "Semafor",
+   "headline": "Iran takes credit for handing Trump a midterm defeat",
+   "summary": "Republicans’ resounding midterms defeat prompted quiet jubilation in Europe and exultation in Iran.",
+   "link": "https://www.semafor.com/article/11/04/2026/iran-takes-credit-for-handing-trump-a-midterm-defeat",
+   "published": "2026-11-04T22:26:51+00:00"
+  },
+  {
+   "outlet": "Semafor",
+   "headline": "Midterm defeat deals death blow to Trump coalition",
+   "summary": "Commentators argued that the Democratic rout spells the end of US President Donald Trump’s political movement.",
+   "link": "https://www.semafor.com/article/11/04/2026/midterm-defeat-deals-death-blow-to-trump-coalition",
+   "published": "2026-11-04T22:26:56+00:00"
+  },
+  {
+   "outlet": "Semafor",
+   "headline": "Cyberattacks in Europe target supermarkets, blood banks",
+   "summary": "Hackers targeted France’s national blood service amid mounting fears of AI-enabled cyberwarfare.",
+   "link": "https://www.semafor.com/article/11/04/2026/cyberattacks-in-europe-target-supermarkets-blood-banks",
+   "published": "2026-11-04T22:44:56+00:00"
+  },
+  {
+   "outlet": "Semafor",
+   "headline": "FDA grants tentative approval to low-cost HIV shot",
+   "summary": "The potential rollout of a more affordable injection to help prevent HIV infection lifts hopes for reduced AIDS deaths in Africa.",
+   "link": "https://www.semafor.com/article/11/04/2026/fda-grants-tentative-approval-to-low-cost-hiv-shot",
+   "published": "2026-11-04T22:45:16+00:00"
+  },
+  {
+   "outlet": "Semafor",
+   "headline": "Voters' data center rebuke hits some tech companies harder than others",
+   "summary": "Anti-data center measures passed in the US midterms could carry financial consequences for tech giants.",
+   "link": "https://www.semafor.com/article/11/04/2026/data-center-ballot-measures-hit-home-for-tech-giants",
+   "published": "2026-11-05T00:52:47+00:00"
+  },
+  {
    "outlet": "STAT",
    "headline": "STAT+: Amid Mass General Brigham layoffs, CEO pens vague letter, stirring staff anxiety",
    "summary": "A cryptic email sent to Mass General Brigham employees by the health system's CEO is stirring staff anxiety less than two weeks after a round of layoffs.",
@@ -2369,30 +2298,9 @@
   {
    "outlet": "STAT",
    "headline": "STAT+: Pharma critic Bernie Sanders is set to hold major sway over FDA funding bill",
-   "summary": "Sanders could use his role in crafting the bill to push for reforms.",
+   "summary": "Sanders could use his role in crafting the FDA funding bill to push for reforms.",
    "link": "https://www.statnews.com/2026/11/04/bernie-sanders-senate-help-key-role-pdufa-reauthorization/?utm_campaign=rss",
    "published": "2026-11-04T21:17:19+00:00"
-  },
-  {
-   "outlet": "Straight Arrow News",
-   "headline": "Election Day glitches prompt voter anxiety, conspiracy theories",
-   "summary": "Voting machine malfunctions in the New York City suburbs prompted online conspiracies. Voters said it wasn’t that big of a deal.",
-   "link": "https://san.com/cc/election-day-glitches-prompt-voter-anxiety-conspiracy-theories/",
-   "published": "2026-11-03T20:46:13+00:00"
-  },
-  {
-   "outlet": "Straight Arrow News",
-   "headline": "Midterm elections 2026: Live updates",
-   "summary": "Straight Arrow is tracking the country's most closely watched races as control of the Senate and House of Representatives hangs in the balance.",
-   "link": "https://san.com/cc/midterm-elections-2026-live-updates/",
-   "published": "2026-11-03T21:38:34+00:00"
-  },
-  {
-   "outlet": "Straight Arrow News",
-   "headline": "Can you trust tonight’s exit polls? Here’s how they work",
-   "summary": "The numbers you see on TV tonight are reworked once votes are counted. Here’s what’s happening behind the scenes and how much to trust them.",
-   "link": "https://san.com/cc/can-you-trust-tonights-exit-polls-heres-how-they-work/",
-   "published": "2026-11-03T22:31:45+00:00"
   },
   {
    "outlet": "Straight Arrow News",
@@ -2438,7 +2346,7 @@
   },
   {
    "outlet": "Straight Arrow News",
-   "headline": "Democratic women make history as midterm wave extends to governor’s races",
+   "headline": "Democratic women make history as midterm wave extends to governors’ races",
    "summary": "Democratic wins extended well beyond Congress, with five states flipping their governorships from red to blue.",
    "link": "https://san.com/cc/democratic-women-make-history-as-midterm-wave-extends-to-governor-races/",
    "published": "2026-11-04T14:14:06+00:00"
@@ -2512,6 +2420,27 @@
    "summary": "Far-right influencers flooded the internet with claims of widespread voter fraud. Then, the narrative came crashing down.",
    "link": "https://san.com/cc/even-with-no-evidence-of-election-fraud-influencers-didnt-let-facts-get-in-the-way-of-a-good-story/",
    "published": "2026-11-04T21:53:10+00:00"
+  },
+  {
+   "outlet": "Straight Arrow News",
+   "headline": "At Talarico’s election night party, they watched a generational swing unfold by the minute",
+   "summary": "At 10 p.m. local time on election night, the “blue wave” that delivered both houses of Congress to Democrats came crashing into Texas.",
+   "link": "https://san.com/cc/at-talaricos-election-night-party-they-watched-a-generational-swing-unfold-by-the-minute/",
+   "published": "2026-11-04T22:41:18+00:00"
+  },
+  {
+   "outlet": "Straight Arrow News",
+   "headline": "From transgender sports participation to school-paid meals, see how voters chose Tuesday",
+   "summary": "Education was on the ballot in many states, with voters deciding the fate of numerous statewide measures affecting public education.",
+   "link": "https://san.com/cc/from-transgender-sports-participation-to-school-paid-meals-see-how-voters-chose-tuesday/",
+   "published": "2026-11-04T23:11:55+00:00"
+  },
+  {
+   "outlet": "Straight Arrow News",
+   "headline": "How Trump’s redistricting push backfired on Republicans",
+   "summary": "Republicans redrew 15 districts to protect their House majority. Democrats won 12 of them. Here’s what went wrong.",
+   "link": "https://san.com/cc/how-trumps-redistricting-push-backfired-on-republicans/",
+   "published": "2026-11-04T23:42:20+00:00"
   },
   {
    "outlet": "The Conversation",
@@ -2605,18 +2534,25 @@
    "published": "2026-11-04T20:09:29+00:00"
   },
   {
-   "outlet": "The Diplomat",
-   "headline": "With Copyright Complaints, Even Imposters Can Silence Karakalpak Activists",
-   "summary": "An individual claiming to be a Diplomat editor filed a copyright complaint with Meta against a Karakalpak activist. They were an imposter. The post was taken down anyway.",
-   "link": "https://thediplomat.com/2026/11/with-copyright-complaints-even-imposters-can-silence-karakalpak-activists/",
-   "published": "2026-11-03T16:20:00+00:00"
+   "outlet": "The Conversation",
+   "headline": "Why one positive E. coli sample put a Pittsburgh-area community under a boil-water advisory",
+   "summary": "A boil-water advisory in Beaver County has residents and schools adjusting. Water researchers explain what E. coli in tap water means and how utilities make it safe.",
+   "link": "https://theconversation.com/why-one-positive-e-coli-sample-put-a-pittsburgh-area-community-under-a-boil-water-advisory-295827",
+   "published": "2026-11-04T21:53:10+00:00"
   },
   {
-   "outlet": "The Diplomat",
-   "headline": "The Danger of Being a Female Livestreamer in China",
-   "summary": "When a fan thinks he owns you, online entitlement can morph into real-world violence.",
-   "link": "https://thediplomat.com/2026/11/the-danger-of-being-a-female-livestreamer-in-china/",
-   "published": "2026-11-03T18:39:00+00:00"
+   "outlet": "The Conversation",
+   "headline": "Florida just voted for lower property taxes – and that could mean cuts in government services and new housing construction",
+   "summary": "Amendment 3, which cuts property taxes for most homeowners, will also mean a 30% drop in tax revenue for Florida counties.",
+   "link": "https://theconversation.com/florida-just-voted-for-lower-property-taxes-and-that-could-mean-cuts-in-government-services-and-new-housing-construction-295716",
+   "published": "2026-11-04T22:48:26+00:00"
+  },
+  {
+   "outlet": "The Conversation",
+   "headline": "I study polling failures – this time, pollsters were mostly right, if not precise",
+   "summary": "Polls had signaled important gains for Democrats ahead of Election Day, in the most reassuring performance since accurately anticipating Barack Obama’s presidential election in 2008.",
+   "link": "https://theconversation.com/i-study-polling-failures-this-time-pollsters-were-mostly-right-if-not-precise-295433",
+   "published": "2026-11-04T23:10:15+00:00"
   },
   {
    "outlet": "The Diplomat",
@@ -2745,11 +2681,18 @@
    "published": "2026-11-04T19:42:56+00:00"
   },
   {
-   "outlet": "The Guardian",
-   "headline": "Trump claims US will end military aid to Israel by end of this year",
-   "summary": "US president makes surprise election day announcement, saying country does not ‘need’ $4bn annual payment Donald Trump has said that the US will end military aid to Israel at the end of this year in a surprise election day announcement that appeared to be targeted at voters sceptical of US support for Israel and the war in Gaza . In a phone interview with Fox News as voting began on Tuesday mornin",
-   "link": "https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms",
-   "published": "2026-11-03T17:17:11+00:00"
+   "outlet": "The Dispatch",
+   "headline": "The Voters Who Swung 2026",
+   "summary": "Virtually every demographic moved against Trump and Republicans, but some moved more than others.",
+   "link": "https://thedispatch.com/article/midterms-democrats-independents-exit-polls-economy/",
+   "published": "2026-11-04T21:54:30+00:00"
+  },
+  {
+   "outlet": "The Dispatch",
+   "headline": "Liberation Day",
+   "summary": "The end of autocracy and, perhaps, of the Republican hostage crisis.",
+   "link": "https://thedispatch.com/newsletter/boilingfrogs/liberation-day-trump-republican-party/",
+   "published": "2026-11-04T22:54:35+00:00"
   },
   {
    "outlet": "The Guardian",
@@ -2774,9 +2717,9 @@
   },
   {
    "outlet": "The Guardian",
-   "headline": "Rogue UK energy bosses and brokers face crackdown on mis-selling",
-   "summary": "Exclusive: Ofgem to be given powers to issue fines and rein in bonuses for executives who ‘reward themselves while customers suffer’ Energy bosses in the UK will have their bonuses curtailed when suppliers and brokers break the rules under a crackdown on mis-selling. Through the energy independence bill, which will be introduced on Wednesday, Ofgem will be given new powers to order compensation, i",
-   "link": "https://www.theguardian.com/business/2026/nov/04/rogue-energy-bosses-and-brokers-face-crackdown-on-mis-selling",
+   "headline": "How penguin poo is making Antarctic snow melt faster",
+   "summary": "Researchers find the birds’ guano feeds algal blooms that absorb significantly more solar energy Penguin poo is making the Antarctic snow melt faster, a study shows. As temperatures rise, penguins are waddling closer to the south pole, with potential for this previously unrecognised phenomenon to affect a wider area. Snow algae are tiny single-celled plants that make a home in some of the coldest ",
+   "link": "https://www.theguardian.com/environment/2026/nov/04/how-penguin-poo-is-making-antarctic-snow-melt-faster",
    "published": "2026-11-04T06:00:27+00:00"
   },
   {
@@ -2809,27 +2752,6 @@
   },
   {
    "outlet": "The Guardian",
-   "headline": "French blood banks hacked in latest cyber-attack on Europe",
-   "summary": "Temperature and defrosting thresholds raised to ‘very high levels’ at three cold stores stocking vital blood products France’s national blood service has said hackers accessed control systems and boosted temperatures at three cold stores stocking vital blood products, in an apparent escalation of recent cyber-attacks on fridges and freezers across Europe. The French blood service (EFS) said temper",
-   "link": "https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe",
-   "published": "2026-11-04T13:22:28+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Albanese government warned it is ‘sleepwalking into another robodebt scenario’ over use of algorithms and AI",
-   "summary": "Centre for Public Integrity report says mandatory audit and public register of all automated decision-making needed Get our breaking news email , free app or daily news podcast The federal government is “sleepwalking its way into another robodebt” scandal amid a lack of transparency and legislation around use of algorithms and artificial intelligence in decisions, the chief executive of independen",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/05/albanese-government-warned-its-sleepwalking-into-another-robodebt-scenario-over-use-of-algorithms-and-ai",
-   "published": "2026-11-04T14:00:37+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Australia has a bad inflation problem. So why are we middle-of-the pack on the misery index?",
-   "summary": "Comparing Australia to other countries may not be much comfort but does offer some perspective on the economy Get our breaking news email , free app or daily news podcast Is Australia’s inflation problem worse than the rest of the world’s? A day after the Reserve Bank delivered its fifth interest rate hike for the year, increasingly stressed mortgage holders would be justified asking. For Jonathan",
-   "link": "https://www.theguardian.com/business/2026/nov/05/australian-economy-inflation-cost-of-living-misery-index",
-   "published": "2026-11-04T14:00:37+00:00"
-  },
-  {
-   "outlet": "The Guardian",
    "headline": "Endangered giant burrowing frog returns to wild after tadpoles rescued from ashes of black summer fires",
    "summary": "Tadpoles collected from puddles in East Gippsland were transported to Melbourne zoo, where they were raised to metamorphosis and successfully bred in captivity for the first time After the 2019-20 black summer bushfires , scientists in eastern Victoria stumbled across something they had been after for years: puddles of tadpoles from the southern giant burrowing frog, one of the state’s most crypti",
    "link": "https://www.theguardian.com/australia-news/2026/nov/05/giant-burrowing-frog-returns-to-wild-after-tadpoles-rescued-black-summer-fires-australia",
@@ -2855,13 +2777,6 @@
    "summary": "Pedro Sánchez and his socialist-led coalition government are racing to rebuild trust ahead of a snap election, but the task they face is immense • Don’t get This Is Europe delivered to your inbox? Sign up here A week ago today, for the second time in nine months, I got in my car and drove south from Madrid to cover a deadly train crash. At 8.53am last Wednesday, a high-speed train operated by Spai",
    "link": "https://www.theguardian.com/world/2026/nov/04/spains-deadly-train-crashes-have-damaged-public-trust-in-the-system",
    "published": "2026-11-04T15:40:37+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Cambridge asks Post Office inquiry barrister to lead review into death of Jason Arday",
-   "summary": "Jason Beer KC will examine university’s handling of claims against Arday and protection offered to academics in spotlight The lead barrister for the Post Office Horizon inquiry has been appointed to head an independent review into the death of the Cambridge academic Jason Arday. Jason Beer KC will examine the handling of allegations of research and other misconduct made against Arday before his re",
-   "link": "https://www.theguardian.com/uk-news/2026/nov/04/cambridge-university-asks-barrister-to-lead-jason-arday-review",
-   "published": "2026-11-04T15:54:19+00:00"
   },
   {
    "outlet": "The Guardian",
@@ -2901,7 +2816,7 @@
   {
    "outlet": "The Guardian",
    "headline": "The midterms were a thumping rebuke of the US-Israel relationship",
-   "summary": "Even Trump seems to recognize that the relationship has become a political liability, and may never be the same On the eve of a midterm election that ended in an unequivocal rejection of his brand of politics, even Donald Trump seemed to recognize that the US-Israel relationship had become a political liability. Trump’s 11th-hour suggestion, on election morning, that he would cut military aid to I",
+   "summary": "Even Trump seems to recognize that the relationship has become a political liability, and may never be the same Send us your questions about the midterm results Track live results from all 50 states On the eve of a midterm election that ended in an unequivocal rejection of his brand of politics, even Donald Trump seemed to recognize that the US-Israel relationship had become a political liability.",
    "link": "https://www.theguardian.com/us-news/2026/nov/04/israel-relationship-midterm-elections",
    "published": "2026-11-04T19:22:43+00:00"
   },
@@ -2921,29 +2836,8 @@
   },
   {
    "outlet": "The Guardian",
-   "headline": "Fox News suffers ratings slump on bleak election night for Republicans",
-   "summary": "In early, preliminary figures, the news channel trailed several other networks in prime-time viewership On a midterm election night that was a huge disappointment for Republicans , with Democrats taking control of the US House and Senate, the country’s most prominent conservative television network felt the brunt of viewer disillusionment with Donald Trump and his party, according to preliminary a",
-   "link": "https://www.theguardian.com/media/2026/nov/04/fox-news-midterm-ratings",
-   "published": "2026-11-04T20:06:55+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Trump’s wealth dented after Democrats trounce Republicans in midterms",
-   "summary": "Trump Media stock and WLFI coin saw declines but he is still $2.7bn wealthier than when he won election in 2024 Donald Trump ’s wealth is falling along with his political fortunes. Tradable investment assets that helped make the president more than $2bn during his first year in office are collapsing in value the day after the Democrats trounced the Republicans in the midterm elections . Trump Medi",
-   "link": "https://www.theguardian.com/us-news/2026/nov/04/trump-wealth-midterm-elections",
-   "published": "2026-11-04T20:29:09+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Trump boasts about ‘magnificent’ ballroom day after Republican rout",
-   "summary": "US president rhapsodized about ballroom features for more than 20 minutes, with no mention of Democrats’ ‘blue wave’ Less than 24 hours after suffering historic party losses in the US midterm elections , Donald Trump gathered reporters and network TV cameras at the White House to congratulate his team. “The whole thing is a miracle, and it’s all because of you,” the US president said into a microp",
-   "link": "https://www.theguardian.com/us-news/2026/nov/04/trump-ballroom-midterms-reaction",
-   "published": "2026-11-04T20:34:08+00:00"
-  },
-  {
-   "outlet": "The Guardian",
    "headline": "California progressive Randy Villegas ousts longtime Republican in redrawn House district",
-   "summary": "Community college professor unseats incumbent Republican David Valadao in seat redrawn under Prop 50 Democrat Randy Villegas, a community college professor with notable progressive endorsements, has won the race for California ’s 22nd congressional district in an contest that shaped up to be one of the toughest political battles in the state. He unseated the six-term, incumbent Republican congress",
+   "summary": "Community college professor unseats incumbent Republican David Valadao in seat redrawn under Prop 50 Send us your questions about the midterm results Track live results from all 50 states Democrat Randy Villegas, a community college professor with notable progressive endorsements, has won the race for California ’s 22nd congressional district in an contest that shaped up to be one of the toughest ",
    "link": "https://www.theguardian.com/us-news/2026/nov/04/california-22nd-district-house-midterms",
    "published": "2026-11-04T20:37:17+00:00"
   },
@@ -2964,23 +2858,79 @@
   {
    "outlet": "The Guardian",
    "headline": "Telstra apologises after customers mystified by phantom missed call notifications",
-   "summary": "Telco blames its MessageBank service and apologises for customer confusion Get our breaking news email , free app or daily news podcast Thousands of Telstra users have reported phantom calls on their mobile devices, with some receiving delayed missed call notifications or voicemails, sometimes days later. The company acknowledged an issue with its MessageBank service on Wednesday night, saying the",
+   "summary": "Telco blames its MessageBank service and apologises for customer confusion Get our breaking news email , free app or daily news podcast Thousands of Telstra users have reported phantom missed-call notifications on their mobile devices with some messages arriving days after the actual phone calls. The company acknowledged an issue with its MessageBank service on Wednesday but said the issue had bee",
    "link": "https://www.theguardian.com/business/2026/nov/05/telstra-customers-false-missed-call-notifications-apology",
    "published": "2026-11-04T21:10:20+00:00"
   },
   {
    "outlet": "The Guardian",
-   "headline": "Debt relief and aid no replacement for slavery reparations, UK told",
-   "summary": "Leading figures in Caribbean reparatory justice movement speak out after UK PM announced infrastructure package Offers of debt relief and development assistance from the UK cannot be a replacement for reparations for centuries of slavery, leading figures in the Caribbean reparatory justice movement have said. Their comments follow British prime minister Andy Burnham’s announcement on Friday that h",
-   "link": "https://www.theguardian.com/world/2026/nov/04/debt-relief-aid-no-replacement-slavery-reparations-uk-told-caribbean",
-   "published": "2026-11-04T21:10:55+00:00"
+   "headline": "David Jones goes into administration, with store closures expected and thousands of jobs at risk",
+   "summary": "Future of department store in jeopardy after years of steep losses, with outer suburban and regional locations vulnerable Get our breaking news email , free app or daily news podcast Australia’s premier upmarket department store David Jones has collapsed into voluntary administration, putting thousands of jobs at risk and leaving the future of the 188-year-old retailer hanging in the balance. The ",
+   "link": "https://www.theguardian.com/business/2026/nov/05/david-jones-stores-closing-down-collapse-administration",
+   "published": "2026-11-04T22:53:29+00:00"
   },
   {
    "outlet": "The Guardian",
-   "headline": "US midterm elections 2026 live: Democrats hope for more wins in tight races as Trump downplays his role in blue wave",
-   "summary": "Senate contests in Mississippi and Alaska are still too close to call after Republicans suffered historic losses across the country Live results | Republican losses mapped Tell us: how do you feel about the midterm results? Sign up for Breaking News US email Wall Street surged at the open, after Democrats scored historic victories in midterm elections and secured control of US Congress. The Dow Jo",
+   "headline": "UK and Caribbean to begin ‘dialogue’ within next year after slavery reparations call",
+   "summary": "Antigua and Barbuda’s prime minister says there was a consensus at Commonwealth summit on way forward The UK has agreed to “structured dialogue” in the next year with Caribbean nations affected by the slave trade and its legacy, Commonwealth leaders have said. Gaston Browne, Antigua and Barbuda’s prime minister, said there was a “consensus” in discussions between governments about a way forward on",
+   "link": "https://www.theguardian.com/world/2026/nov/04/debt-relief-aid-no-replacement-slavery-reparations-uk-told-caribbean",
+   "published": "2026-11-04T23:51:58+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Milburn review to call for jobs ’revolution’ for young people with disabilities",
+   "summary": "Exclusive: Government should introduce ‘flexi-jobs’ alongside subsidies and skills support, former minister will say The British state should create and subsidise paid jobs for thousands of disabled young people as part of an “opportunity revolution” aimed at reversing years of labour market discrimination, the Milburn review of youth employment will recommend. The review, due to report this month",
+   "link": "https://www.theguardian.com/society/2026/nov/05/milburn-review-jobs-revolution-young-people-disabilities-neets",
+   "published": "2026-11-05T00:01:47+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Pete Hegseth may take fall for Republicans’ midterm losses, despite Trump support",
+   "summary": "JD Vance calls Iran war into question as Thomas Massie files eight articles of impeachment Send us your questions about the US midterms results and Democrats’ ‘blue wave’ Pete Hegseth is increasingly looking like he may take the fall for Republicans’ midterm losses, despite Donald Trump’s vocal support for his defense secretary, even calling him a champion of war. The war in Iran, which voters and",
+   "link": "https://www.theguardian.com/us-news/2026/nov/04/pete-hegseth-republicans-midterm-losses",
+   "published": "2026-11-05T00:41:00+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Hubert Aiwanger, prominent German politician, found dead in Berlin hotel",
+   "summary": "Police and prosecutors open investigation into death of the 55-year-old Bavarian state deputy leader A prominent German politician was found dead in a Berlin hotel on Wednesday, police said, adding they had launched an investigation. The cause of death of Hubert Aiwanger, 55, who was deputy leader of southern Bavaria state, was not immediately clear. Continue reading...",
+   "link": "https://www.theguardian.com/world/2026/nov/05/hubert-aiwanger-dead-german-politician-berlin-hotel",
+   "published": "2026-11-05T00:53:19+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Datacenters were on the ballot. US voters rejected them",
+   "summary": "Voters approved nearly every datacenter moratorium that was on the ballot, dozens in total in Tuesday’s elections Track live results from all 50 states Send us your questions about the US midterms results and Democrats’ ‘blue wave’ There were three big losers in Tuesday’s midterm elections in the US: Donald Trump, Elon Musk and datacenters. Datacenters, the facilities full of semiconductor chips t",
+   "link": "https://www.theguardian.com/us-news/2026/nov/04/datacenters-midterm-elections",
+   "published": "2026-11-05T01:30:14+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Former police officer Beau Lamarre-Condon enters witness box in Sydney double murder trial",
+   "summary": "Lamarre-Condon gives evidence in court after pleading not guilty to murdering Jesse Baird and Luke Davies in early 2024 Live updates: Beau Lamarre-Condon gives evidence in murder trial Get our breaking news email , free app or daily news podcast Former officer Beau Lamarre-Condon has alleged he suffered homophobic abuse when working for New South Wales police, as the 31-year-old gave evidence in h",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/05/beau-lamarre-condon-witness-trial-ntwnfb",
+   "published": "2026-11-05T01:47:59+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "US midterm elections 2026 live: Democratic lead grows in Mississippi Senate race as Republican blame game begins",
+   "summary": "Scott Colom leads Republican Cindy Hyde-Smith by 1,138 votes with 96% of the vote counted – a small but growing margin Live results | Republican losses mapped Tell us: how do you feel about the midterm results? Sign up for Breaking News US email Wall Street surged at the open, after Democrats scored historic victories in midterm elections and secured control of US Congress. The Dow Jones rose 2%, ",
    "link": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
-   "published": "2026-11-04T21:37:02+00:00"
+   "published": "2026-11-05T01:59:10+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Beau Lamarre-Condon trial live updates: accused double murderer gives evidence in high-profile case",
+   "summary": "The 31-year-old former police officer is accused of fatally shooting couple Jesse Baird and Luke Davies in Sydney in 2024 Former police officer Beau Lamarre-Condon enters witness box in Sydney double murder trial Get our breaking news email , free app or daily news podcast Lamarre-Condon has accused his former supervisor of making homophobic remarks while he was an openly gay police officer. “He w",
+   "link": "https://www.theguardian.com/australia-news/live/2026/nov/05/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb",
+   "published": "2026-11-05T02:00:50+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Elon Musk’s nearly half a billion dollars in midterms spending was a flop",
+   "summary": "The tech billionaire set spending record as he poured $446m into campaigns for failed Republican candidates Elon Musk set a record for election spending this year after pouring nearly half a billion dollars into backing Republicans in the US midterm elections . It turned out to be a poor investment. The SpaceX and Tesla CEO contributed at least $446m to Republican-aligned Super Pacs and groups ove",
+   "link": "https://www.theguardian.com/technology/2026/nov/04/elon-musk-midterm-spending-analysis",
+   "published": "2026-11-05T02:00:50+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
@@ -3005,13 +2955,6 @@
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "When polls get it wrong: Statistics vs political reality - opinion",
-   "summary": "Had the polls anticipated the scale of turnout in Arab society, their projections of the balance between the blocs would have been substantially different.",
-   "link": "https://www.jpost.com/opinion/article-913538",
-   "published": "2026-11-04T17:00:00+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
    "headline": "IDF's pursuit of Deif distracted from warning signs Hamas was planning October 7 attack",
    "summary": "Prior to October 7, many still viewed Deif as more important and dangerous than Hamas’s Gaza Chief Yahya Sinwar.",
    "link": "https://www.jpost.com/israel-news/defense-news/article-913848",
@@ -3033,13 +2976,6 @@
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "State Attorney seeks harsher sentence for doctor convicted of rape, sexual abuse of patients",
-   "summary": "In September, the Tel Aviv District Court sentenced Levin for raping the mother of a patient, committing sexual offenses against two patients, and abusing his authority in his treatment.",
-   "link": "https://www.jpost.com/israel-news/article-913852",
-   "published": "2026-11-04T18:44:45+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
    "headline": "Republicans are paying the price at the polls because they don’t put people first - opinion",
    "summary": "Political leadership is not just about winning elections or defending principles. It is about building relationships, earning trust, and standing with people long after the campaign is over.",
    "link": "https://www.jpost.com/opinion/article-913805",
@@ -3047,15 +2983,8 @@
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Philly anti-Israel groups plan boycott of Jewish businesses before Kristallnacht anniversary",
-   "summary": "The graphic explicitly singles out several dining locations in the city, displaying crossed-out warning icons over the names Mac Mart, K'Far Cafe, Huda, Goldie, Dizengoff, and Schlesinger's.",
-   "link": "https://www.jpost.com/diaspora/antisemitism/article-913855",
-   "published": "2026-11-04T19:03:03+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
-   "headline": "Trump weighs firing Hegseth after midterm losses, DeSantis floated as replacement - report",
-   "summary": "Both Trump himself and Vice President JD Vance cited the war with Iran as one of the primary reasons behind the Republicans' losses.",
+   "headline": "Trump backs Hegseth despite reports he is considering replacing defense secretary",
+   "summary": "Trump defended his defense secretary following Republican midterm losses, despite reports that he is consulting advisers about Hegseth's future and considering potential replacements.",
    "link": "https://www.jpost.com/american-politics/article-913858",
    "published": "2026-11-04T19:24:33+00:00"
   },
@@ -3075,24 +3004,10 @@
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "The Israel we could build: What the next gov't should do in its first 100 days - opinion",
-   "summary": "The first hundred days must demonstrate that a different kind of government is possible.",
-   "link": "https://www.jpost.com/opinion/article-913813",
-   "published": "2026-11-04T20:00:00+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
    "headline": "How Israel lost four elections in less than two weeks - analysis",
    "summary": "From Serbia and Brazil to Israel and the US, four elections in 10 days have weakened Israel's diplomatic position, threatened key alliances, and raised questions about its political future.",
    "link": "https://www.jpost.com/israel-news/article-913860",
    "published": "2026-11-04T20:14:58+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
-   "headline": "MDA paramedics partner with SCN to train Jewish security leaders",
-   "summary": "The session marked the first time the organization trained the Security Director Network, a professional body composed of security directors who oversee standards-based security operations.",
-   "link": "https://www.jpost.com/diaspora/article-913862",
-   "published": "2026-11-04T20:49:13+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
@@ -3110,38 +3025,45 @@
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Basketball: Micic puts up 31 points in Tel Aviv derby victory",
-   "summary": "The story on the court was all about Micic and Hapoel’s ability to exploit Maccabi’s defensive shortcomings.",
-   "link": "https://www.jpost.com/sports/article-913867",
-   "published": "2026-11-04T22:33:37+00:00"
+   "headline": "'Trump is right': Michigan senator-elect El-Sayed agrees with president's plan to end Israel aid",
+   "summary": "Newly elected Michigan senator Abdul El-Sayed found common ground with Trump on ending Israel's military aid, but pushed for a complete ban on weapons sales.",
+   "link": "https://www.jpost.com/us-elections/article-913870",
+   "published": "2026-11-04T23:58:46+00:00"
   },
   {
-   "outlet": "The Moscow Times",
-   "headline": "Poland Accuses Russia of ‘Flashlight’ Provocation Along Kaliningrad Border",
-   "summary": "Polish Prime Minister Donald Tusk said Polish and NATO intelligence services received information in recent weeks about possible “acts of diversion or more serious provocations” that could occur near Poland’s border with Russia sometime in early November.",
-   "link": "https://www.themoscowtimes.com/2026/11/03/poland-accuses-russia-of-flashlight-provocation-along-kaliningrad-border-a94167",
-   "published": "2026-11-03T16:10:36+00:00"
+   "outlet": "The Jerusalem Post",
+   "headline": "Trump says he can 'absolutely work with Democrats' despite election losses - report",
+   "summary": "In a phone call with CNBC, the US president pointed to areas of potential cooperation with Democrats, including trade and financial issues, while dismissing concerns over impeachment.",
+   "link": "https://www.jpost.com/us-elections/article-913872",
+   "published": "2026-11-05T00:59:39+00:00"
   },
   {
-   "outlet": "The Moscow Times",
-   "headline": "American Billionaire Leads Swap Plan to Buy Lukoil's Overseas Assets, Sources Say",
-   "summary": "",
-   "link": "https://www.themoscowtimes.com/2026/11/03/american-billionaire-leads-swap-plan-to-buy-lukoils-overseas-assets-sources-say-a94170",
-   "published": "2026-11-03T16:38:00+00:00"
+   "outlet": "The Jerusalem Post",
+   "headline": "Zelensky awards Melania Trump Ukraine's highest honor for women after brokering Oleshky ceasefire",
+   "summary": "Zelensky honored Melania Trump for helping evacuate civilians from Oleshky and reunite Ukrainian children with their families.",
+   "link": "https://www.jpost.com/international/article-913874",
+   "published": "2026-11-05T01:01:08+00:00"
   },
   {
-   "outlet": "The Moscow Times",
-   "headline": "Norway, Denmark, Sweden, Latvia and Czech Republic to Boycott Russia at 2027 Ice Hockey World Championship",
-   "summary": "The CAS decision has also prompted several corporate sponsors to threaten to pull their support from future events.",
-   "link": "https://www.themoscowtimes.com/2026/11/03/norway-denmark-sweden-latvia-and-czech-republic-to-boycott-russia-at-2027-ice-hockey-world-championship-a94171",
-   "published": "2026-11-03T17:03:00+00:00"
+   "outlet": "The Jerusalem Post",
+   "headline": "Isabelle Huppert is the star in ‘The Richest Woman in the World’ - review",
+   "summary": "The Richest Woman in the World, directed by Thierry Klifa, opens in theaters in Israel on Thursday.",
+   "link": "https://www.jpost.com/israel-news/culture/article-913875",
+   "published": "2026-11-05T01:47:35+00:00"
   },
   {
-   "outlet": "The Moscow Times",
-   "headline": "'If You're Afraid, They'll Know': For Foreign Recruits, Deserting Russia’s Army Is a Fraught Gamble",
-   "summary": "Peter, a man from Pakistan, went to Russia for a better life. Instead, he says, he found only misery after being deceived into joining the army.",
-   "link": "https://www.themoscowtimes.com/2026/11/03/if-youre-afraid-theyll-know-for-foreign-recruits-deserting-russias-army-is-a-fraught-gamble-a94166",
-   "published": "2026-11-03T17:04:00+00:00"
+   "outlet": "The Jerusalem Post",
+   "headline": "A caricature no more: Inside iconic designer Dorin Frankfurt’s next act",
+   "summary": "At 75, she’s embracing 3D tech, proving older women shouldn’t slow down.",
+   "link": "https://www.jpost.com/israel-news/culture/article-913877",
+   "published": "2026-11-05T02:24:53+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Palestinian teacher arrested in West Bank over posts praising terrorists, October 7 attack",
+   "summary": "A Palestinian teacher in the West Bank was detained on suspicion of incitement after investigators uncovered months of social media posts allegedly glorifying terrorism.",
+   "link": "https://www.jpost.com/israel-news/crime-in-israel/article-913876",
+   "published": "2026-11-05T02:38:06+00:00"
   },
   {
    "outlet": "The Moscow Times",
