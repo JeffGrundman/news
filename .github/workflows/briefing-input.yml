@@ -2,7 +2,8 @@ name: briefing input
 
 on:
   schedule:
-    - cron: "0 23 * * *"
+    - cron: "17 21 * * *"
+    - cron: "17 23 * * *"
   workflow_dispatch:
 
 permissions:
