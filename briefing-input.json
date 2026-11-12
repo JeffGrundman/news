@@ -1,5 +1,5 @@
 {
- "built": "2026-11-12T14:52:06.704294+00:00",
+ "built": "2026-11-12T15:17:22.049076+00:00",
  "window_hours": 24,
  "part": "briefing-input.json",
  "all_parts": [
@@ -15,10 +15,9 @@
   "CNBC",
   "Daily Maverick",
   "DW News",
-  "Fortune",
-  "Good Good Good"
+  "Fortune"
  ],
- "story_count": 135,
+ "story_count": 139,
  "feeds_with_problems": [
   "https://www.cbc.ca/webfeed/rss/rss-world: Remote end closed connection without response",
   "https://www.positive.news/feed/: no items",
@@ -110,18 +109,18 @@
    "published": "2026-11-12T14:05:17+00:00"
   },
   {
+   "outlet": "Ars Technica",
+   "headline": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
+   "summary": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
+   "link": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
+   "published": "2026-11-12T14:50:17+00:00"
+  },
+  {
    "outlet": "Associated Press, via ABC News",
    "headline": "At COP31, Turkey pushes zero-waste plan to curb climate change",
    "summary": "As world leaders arrive at United Nations climate talks in the Turkish resort town of Antalya, calling for urgent climate action, co-host Turkey also wants to halve the amount of g",
    "link": "https://abcnews.com/Business/wireStory/cop31-turkey-pushes-zero-waste-plan-curb-climate-138046483",
    "published": "2026-11-11T15:54:38+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "Islamic State group-affiliated rebels kill at least 22 in Congo's eastern region",
-   "summary": "A rebel group affiliated with the Islamic State group has killed at least 22 people in Congo's eastern Ituri province",
-   "link": "https://abcnews.com/International/wireStory/islamic-state-group-affiliated-rebels-kill-22-congos-138049699",
-   "published": "2026-11-11T17:01:01+00:00"
   },
   {
    "outlet": "Associated Press, via ABC News",
@@ -139,10 +138,38 @@
   },
   {
    "outlet": "Associated Press, via ABC News",
+   "headline": "UN peacekeepers failed to protect civilians before South Sudan massacre, Amnesty says",
+   "summary": "Amnesty International says U.N. peacekeepers had weeks of warning before an attack killed more than 200 people in South Sudan but failed to do enough to protect civilians",
+   "link": "https://abcnews.com/International/wireStory/peacekeepers-failed-protect-civilians-south-sudan-massacre-amnesty-138059244",
+   "published": "2026-11-11T21:34:11+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
+   "headline": "Poland's president joins a nationalist march as the country reels from the Krakow shooting",
+   "summary": "Polish President Karol Nawrocki joins thousands of right-wing demonstractors at an annual march in the capital to mark Independence Day",
+   "link": "https://abcnews.com/International/wireStory/polands-president-joins-nationalist-march-country-reels-krakow-138059994",
+   "published": "2026-11-11T22:30:06+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
    "headline": "After 40 years, Chilean mother reunites with two children stolen during dictatorship",
    "summary": "Teresita de Jesús Padilla has reunited with her two sons after they were taken from her in Chile four decades ago",
    "link": "https://abcnews.com/International/wireStory/after-40-years-apart-chilean-mother-reunites-children-138062026",
    "published": "2026-11-11T23:43:07+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
+   "headline": "Pope Leo returns to a national celebration in his second homeland of Peru",
+   "summary": "Pope Leo XIV has arrived in his second homeland",
+   "link": "https://abcnews.com/International/wireStory/pope-leo-returns-expected-national-party-homeland-peru-138054377",
+   "published": "2026-11-12T00:51:01+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
+   "headline": "Lawmakers question police chief about wiretaps alleged to target President Prabowo",
+   "summary": "Indonesia’s police chief is set to appear before a parliamentary panel as lawmakers investigate allegations that President Prabowo Subianto was targeted in an illegal wiretapping o",
+   "link": "https://abcnews.com/International/wireStory/indonesian-lawmakers-question-police-chief-wiretaps-alleged-target-138065101",
+   "published": "2026-11-12T02:01:56+00:00"
   },
   {
    "outlet": "Associated Press, via ABC News",
@@ -209,6 +236,13 @@
   },
   {
    "outlet": "Associated Press, via ABC News",
+   "headline": "10th suspect arrested in South Africa over alleged bid to fight in Russia-Ukraine war",
+   "summary": "Authorities have arrested a 10th person for violating South African mercenary laws by attempting to travel to Russia to fight in the war between Russia and Ukraine",
+   "link": "https://abcnews.com/International/wireStory/10th-suspect-arrested-south-africa-alleged-bid-fight-138072640",
+   "published": "2026-11-12T10:59:15+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
    "headline": "What to know as European leaders meet to discuss Ukraine's security, and their own",
    "summary": "Leaders from over 40 European countries are gathering in Dublin for a summit focused on the continent’s fragile security",
    "link": "https://abcnews.com/International/wireStory/european-leaders-meet-dublin-discuss-ukraines-security-138070889",
@@ -216,10 +250,24 @@
   },
   {
    "outlet": "Associated Press, via ABC News",
+   "headline": "Indonesia's vice president resigns as his eligibility and academic credentials are questioned",
+   "summary": "Indonesia’s vice president has resigned as questions grew over his eligibility for the office after recent court rulings disputed his educational credentials",
+   "link": "https://abcnews.com/International/wireStory/indonesias-vice-president-resigns-eligibility-academic-credentials-questioned-138069107",
+   "published": "2026-11-12T11:30:27+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
    "headline": "Far-right UK activist pleads guilty to slashing migrant dinghy in the English Channel",
    "summary": "A British anti-immigration activist has pleaded guilty to slashing a migrant dinghy in the English Channel while a rescuer was aboard",
    "link": "https://abcnews.com/International/wireStory/uk-activist-pleads-guilty-slashing-migrant-dinghy-english-138073480",
    "published": "2026-11-12T11:30:33+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
+   "headline": "A missing teen is found alive after 6 days in the Australian woodlands",
+   "summary": "A 17-year-old boy with autism has been found alive after six days lost in eastern Australian woodlands",
+   "link": "https://abcnews.com/International/wireStory/missing-teen-found-alive-after-6-days-australian-138068466",
+   "published": "2026-11-12T11:49:32+00:00"
   },
   {
    "outlet": "Associated Press, via ABC News",
@@ -251,6 +299,13 @@
   },
   {
    "outlet": "Associated Press, via ABC News",
+   "headline": "Armed robbers flee Paris jewelry store on motorcycles",
+   "summary": "Paris police report that armed robbers have held up a jewelry store in the city before fleeing on motorcycles",
+   "link": "https://abcnews.com/International/wireStory/armed-robbers-flee-paris-jewelry-store-motorcycles-138074429",
+   "published": "2026-11-12T12:42:21+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
    "headline": "Dutch coalition near collapse as 1 party is upset over tax deal with opposition",
    "summary": "Prime Minister Rob Jetten's Dutch coalition appears close to collapse",
    "link": "https://abcnews.com/International/wireStory/dutch-coalition-collapse-1-party-upset-tax-deal-138071590",
@@ -265,17 +320,17 @@
   },
   {
    "outlet": "Associated Press, via ABC News",
+   "headline": "Spain approves housing measures after huge protests. Duration may depend on election",
+   "summary": "Spain’s interim lower house of parliament has ratified housing measures designed to limit evictions and real estate speculation",
+   "link": "https://abcnews.com/International/wireStory/spain-approves-housing-measures-after-huge-protests-duration-138074427",
+   "published": "2026-11-12T12:58:26+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
    "headline": "Yacht captain on reality show 'Below Deck' arrested in Turkey after teenager dies",
    "summary": "A participant from the U.S. reality TV show “Below Deck” has been arrested in Turkey following a fight in Bodrum that left a 17-year-old dead",
    "link": "https://abcnews.com/International/wireStory/yacht-captain-reality-show-below-deck-arrested-turkey-138075373",
    "published": "2026-11-12T13:52:05+00:00"
-  },
-  {
-   "outlet": "BBC News",
-   "headline": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
-   "summary": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy.",
-   "link": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-11T14:56:11+00:00"
   },
   {
    "outlet": "BBC News",
@@ -377,13 +432,6 @@
   },
   {
    "outlet": "BBC News",
-   "headline": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
-   "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
-   "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-12T07:59:33+00:00"
-  },
-  {
-   "outlet": "BBC News",
    "headline": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
    "summary": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
    "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
@@ -412,13 +460,6 @@
   },
   {
    "outlet": "BBC News",
-   "headline": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-   "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
-   "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-12T12:14:51+00:00"
-  },
-  {
-   "outlet": "BBC News",
    "headline": "Watch: The latest in the Jensen Huang Nvidia scandal",
    "summary": "The BBC's China correspondent Laura Bicker explains the timeline of events and what's next for Nvidia as its board considers whether to oust the CEO.",
    "link": "https://www.bbc.co.uk/news/videos/cqz0k70990zpo?at_medium=RSS&at_campaign=rss",
@@ -440,13 +481,6 @@
   },
   {
    "outlet": "BBC News",
-   "headline": "Who could replace Jensen Huang as Nvidia's chief executive?",
-   "summary": "As the boss of the AI resigns, some names have emerged as potential successors.",
-   "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-12T14:11:51+00:00"
-  },
-  {
-   "outlet": "BBC News",
    "headline": "Millions of Ebola dollars going missing as virus spreads, medical charity warns",
    "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
    "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
@@ -458,6 +492,20 @@
    "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
    "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
    "published": "2026-11-12T14:27:30+00:00"
+  },
+  {
+   "outlet": "BBC News",
+   "headline": "Who could replace Jensen Huang as Nvidia's permanent chief executive?",
+   "summary": "Chief financial officer Colette Kress will replace him temporarily, but several others are in the frame as potential successors.",
+   "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-12T14:48:26+00:00"
+  },
+  {
+   "outlet": "BBC News",
+   "headline": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+   "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+   "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-12T14:54:47+00:00"
   },
   {
    "outlet": "BNO News",
@@ -556,13 +604,6 @@
    "summary": "Scout Motors has roughly 212,000 reservations for its Terra pickup and Traveler SUV, CEO Scott Keogh told CNBC.",
    "link": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
    "published": "2026-11-12T14:40:42+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "COALITION COUNTDOWN: Joburg burns, politicians bargain",
-   "summary": "As City Power’s grid buckles and coalition talks heat up, Johannesburg’s voters deserve more than another deal for political survival. What would a people-first coalition look like",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-11-joburg-burns-politicians-bargain/",
-   "published": "2026-11-11T22:16:31+00:00"
   },
   {
    "outlet": "Daily Maverick",
@@ -733,11 +774,11 @@
    "published": "2026-11-12T16:45:32+00:00"
   },
   {
-   "outlet": "DW News",
-   "headline": "Wael Mohya could make German football history at 17",
-   "summary": "At just 17, Gladbach forward Wael Mohya has earned his first Germany call-up. The dual-national talent has chosen the DFB path for now — and could soon make modern national-team hi",
-   "link": "https://www.dw.com/en/wael-mohya-could-make-german-football-history-at-17/a-79919787?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-11-11T15:00:00+00:00"
+   "outlet": "Daily Maverick",
+   "headline": "Gender-responsive budgeting failing women as social grant cuts deepen inequality",
+   "summary": "The government has promised a huge gender-responsive budget, but it is full of contradictions and is offset by cuts in social grants that will deepen women’s vulnerability.",
+   "link": "https://www.dailymaverick.co.za/opinionista/2026-11-12-gender-responsive-budgeting-failing-women-as-social-grant-cuts-deepen-inequality/",
+   "published": "2026-11-12T17:00:51+00:00"
   },
   {
    "outlet": "DW News",
@@ -755,9 +796,9 @@
   },
   {
    "outlet": "DW News",
-   "headline": "Integration of immigrants in Germany: Much has been accomplished but problems remain",
+   "headline": "Why the integration of immigrants in Germany remains a challenge",
    "summary": "The Federal Office for Migration and Refugees has released a new Integration Report. It found that while the integration of people with a migrant background is improving, violent y",
-   "link": "https://www.dw.com/en/integration-of-immigrants-in-germany-much-has-been-accomplished-but-problems-remain/a-79923241?maca=en-rss-en-all-1573-rdf",
+   "link": "https://www.dw.com/en/why-the-integration-of-immigrants-in-germany-remains-a-challenge/a-79923241?maca=en-rss-en-all-1573-rdf",
    "published": "2026-11-11T17:30:00+00:00"
   },
   {
@@ -882,7 +923,7 @@
   {
    "outlet": "DW News",
    "headline": "Nvidia CEO Jensen Huang resigns as scandal mounts over alleged affair with suspected Chinese spy",
-   "summary": "Jensen Huang has resigned from his role as the head of the AI chipmaker over his reported affair with a suspected Chinese spy.",
+   "summary": "Jensen Huang has resigned from his role as the head of the AI chipmaker over his reported affair with a suspected Chinese spy. Nvidia shares plummeted 13% at the opening of trading",
    "link": "https://www.dw.com/en/nvidia-ceo-jensen-huang-resigns-as-scandal-mounts-over-alleged-affair-with-suspected-chinese-spy/a-79931658?maca=en-rss-en-all-1573-rdf",
    "published": "2026-11-12T14:02:00+00:00"
   },
@@ -896,7 +937,7 @@
   {
    "outlet": "Fortune",
    "headline": "Nvidia’s Jensen Huang resigns and CFO Colette tapped as interim chief",
-   "summary": "Huang has been under intense pressure following his confession to infidelity.",
+   "summary": "The Nvidia board also announced the appointment of its first-ever board chair, tech investor Harvey Jones.",
    "link": "https://fortune.com/2026/11/11/nvidia-oust-jensen-huang-spy-affairs/",
    "published": "2026-11-11T23:12:18+00:00"
   },
@@ -920,13 +961,6 @@
    "summary": "Cisco's focus on its people has helped earn it the No. 2 spot on the 2026 Fortune World’s Best Workplaces™ list.",
    "link": "https://fortune.com/2026/11/12/ciscos-people-chief-we-cant-transform-our-workforce-without-fundamentally-rethinking-how-we-lead/",
    "published": "2026-11-12T12:00:00+00:00"
-  },
-  {
-   "outlet": "Fortune",
-   "headline": "Former Sen. Roy Blunt: Trump’s latest China crackdown puts American lives on the line",
-   "summary": "It could hurt American biotech far more than China’s.",
-   "link": "https://fortune.com/2026/11/12/roy-blunt-treasury-coins-act-china-biotech-investment-patients/",
-   "published": "2026-11-12T12:30:00+00:00"
   },
   {
    "outlet": "Fortune",
@@ -957,18 +991,11 @@
    "published": "2026-11-12T14:01:19+00:00"
   },
   {
-   "outlet": "Good Good Good",
-   "headline": "100 poets wrote 100 poems about homelessness — then donated book proceeds back to their unhoused neighbors",
-   "summary": "British poet Andrew Mears lives in North East England, which has some of the highest rates of homelessness in the country.",
-   "link": "https://www.goodgoodgood.co/articles/poets-words-on-ne-street-homelessness",
-   "published": "2026-11-11T18:45:00+00:00"
-  },
-  {
-   "outlet": "Good Good Good",
-   "headline": "For every anti-trans bill that passed in 2026, seven times as many failed: 'It’s grueling work, but it makes a difference'",
-   "summary": "In 2025 and 2026, efforts to roll back LGBTQ+ rights were repeatedly stalled — or stamped out altogether.",
-   "link": "https://www.goodgoodgood.co/articles/anti-trans-rhetoric-bills-government-advocacy",
-   "published": "2026-11-12T14:15:00+00:00"
+   "outlet": "Fortune",
+   "headline": "Andrew Cuomo: Wall Street is ready. Congress needs to catch up",
+   "summary": "Tomorrow’s markets can’t run on yesterday’s rules.",
+   "link": "https://fortune.com/2026/11/12/wall-street-blockchain-tokenized-stocks-24-7-trading-clarity-act-andrew-cuomo/",
+   "published": "2026-11-12T14:36:46+00:00"
   }
  ]
 }

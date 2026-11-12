@@ -1,0 +1,628 @@
+{
+ "built": "2026-11-12T15:17:22.049076+00:00",
+ "window_hours": 24,
+ "part": "briefing-input-3.json",
+ "all_parts": [
+  "briefing-input.json",
+  "briefing-input-2.json",
+  "briefing-input-3.json"
+ ],
+ "outlets_here": [
+  "The Conversation",
+  "The Diplomat",
+  "The Dispatch",
+  "The Guardian",
+  "The Jerusalem Post",
+  "The Moscow Times"
+ ],
+ "story_count": 86,
+ "feeds_with_problems": [
+  "https://www.cbc.ca/webfeed/rss/rss-world: Remote end closed connection without response",
+  "https://www.positive.news/feed/: no items",
+  "https://www.thestar.com.my/rss/business: no items"
+ ],
+ "stories": [
+  {
+   "outlet": "The Conversation",
+   "headline": "The ‘religious left’ may be rising – but Black Christian women have been there all along",
+   "summary": "For years, Black women have been one of the Democratic Party’s steadiest groups of supporters. And for many of those voters, faith helps inspire their politics.",
+   "link": "https://theconversation.com/the-religious-left-may-be-rising-but-black-christian-women-have-been-there-all-along-296110",
+   "published": "2026-11-11T17:47:30+00:00"
+  },
+  {
+   "outlet": "The Conversation",
+   "headline": "You likely have genes that affect how well your medications work – testing for them could improve treatment",
+   "summary": "Researchers found that everyone in a 100,000 sample of people has at least one genetic variant that interacts with common prescriptions.",
+   "link": "https://theconversation.com/you-likely-have-genes-that-affect-how-well-your-medications-work-testing-for-them-could-improve-treatment-296352",
+   "published": "2026-11-11T19:00:24+00:00"
+  },
+  {
+   "outlet": "The Conversation",
+   "headline": "El Salvador is exporting the ‘Bukele model’ to Haiti – but the gang offensive is a gamble for both nations",
+   "summary": "Haiti’s war on gangs is increasingly relying on a patchwork of foreign troops and private militias, making accountability more complicated.",
+   "link": "https://theconversation.com/el-salvador-is-exporting-the-bukele-model-to-haiti-but-the-gang-offensive-is-a-gamble-for-both-nations-296390",
+   "published": "2026-11-11T23:58:06+00:00"
+  },
+  {
+   "outlet": "The Conversation",
+   "headline": "El Niño threatens health, too – early warnings done right can save lives",
+   "summary": "Weather warnings can help save lives by providing advice people can act on before, during and after a disaster.",
+   "link": "https://theconversation.com/el-nino-threatens-health-too-early-warnings-done-right-can-save-lives-295379",
+   "published": "2026-11-12T13:41:18+00:00"
+  },
+  {
+   "outlet": "The Conversation",
+   "headline": "Children are not colorblind: Why early conversations about race are essential",
+   "summary": "Without explicit conversations and learning about race and racial inequality, children might believe stereotypes and draw other false assumptions about others.",
+   "link": "https://theconversation.com/children-are-not-colorblind-why-early-conversations-about-race-are-essential-293500",
+   "published": "2026-11-12T13:41:28+00:00"
+  },
+  {
+   "outlet": "The Conversation",
+   "headline": "While California’s wealth tax failed, states are taking other steps to collect more revenue from the rich",
+   "summary": "Income tax increases and surcharges on high earners are cropping up around the country, along with taxes on the extra homes that the wealthiest Americans own.",
+   "link": "https://theconversation.com/while-californias-wealth-tax-failed-states-are-taking-other-steps-to-collect-more-revenue-from-the-rich-296103",
+   "published": "2026-11-12T13:41:41+00:00"
+  },
+  {
+   "outlet": "The Conversation",
+   "headline": "US demands that Iraq disarms brigades misread the nation’s complicated security landscape",
+   "summary": "Washington has reportedly warned of consequences should Baghdad not rein in pro-Iranian groups.",
+   "link": "https://theconversation.com/us-demands-that-iraq-disarms-brigades-misread-the-nations-complicated-security-landscape-293491",
+   "published": "2026-11-12T13:41:52+00:00"
+  },
+  {
+   "outlet": "The Conversation",
+   "headline": "Rural women in Colorado and nationwide are at higher risk for cervical cancer – at-home test kits can help close the gap",
+   "summary": "At-home testing kits for cervical cancer, alongside HPV vaccines and mobile clinics, can help rural women get the care they need.",
+   "link": "https://theconversation.com/rural-women-in-colorado-and-nationwide-are-at-higher-risk-for-cervical-cancer-at-home-test-kits-can-help-close-the-gap-293083",
+   "published": "2026-11-12T13:42:05+00:00"
+  },
+  {
+   "outlet": "The Conversation",
+   "headline": "Despite intense Islamophobia, Abdul El-Sayed and dozens of other Muslims elected representatives are breaking down barriers",
+   "summary": "Three political scientists found that visible Muslim representation can make public institutions seem fairer and encourage Muslim Americans to participate in politics.",
+   "link": "https://theconversation.com/despite-intense-islamophobia-abdul-el-sayed-and-dozens-of-other-muslims-elected-representatives-are-breaking-down-barriers-296035",
+   "published": "2026-11-12T13:42:15+00:00"
+  },
+  {
+   "outlet": "The Conversation",
+   "headline": "Extreme weather risk is scaring big corporations away from poorer countries – that hurts the companies, too",
+   "summary": "When floods, heat waves and other climate disasters cost companies money, the results can shape their willingness to invest there in the future.",
+   "link": "https://theconversation.com/extreme-weather-risk-is-scaring-big-corporations-away-from-poorer-countries-that-hurts-the-companies-too-295591",
+   "published": "2026-11-12T13:42:26+00:00"
+  },
+  {
+   "outlet": "The Conversation",
+   "headline": "What is ‘food is medicine?’ – 2 experts explain this decades-old approach to healthcare that is taking on new life",
+   "summary": "Food is medicine aims to help patients prevent or manage chronic illnesses by eating food that supports their health.",
+   "link": "https://theconversation.com/what-is-food-is-medicine-2-experts-explain-this-decades-old-approach-to-healthcare-that-is-taking-on-new-life-293312",
+   "published": "2026-11-12T14:04:49+00:00"
+  },
+  {
+   "outlet": "The Diplomat",
+   "headline": "US Mediation in Oleshky Exposes the Limits of China’s Ukraine Diplomacy",
+   "summary": "Why hasn't Beijing used its diplomatic influence to undertake similar humanitarian operations in Russian-occupied areas of Ukraine?",
+   "link": "https://thediplomat.com/2026/11/us-mediation-in-oleshky-exposes-the-limits-of-chinas-ukraine-diplomacy/",
+   "published": "2026-11-11T21:00:00+00:00"
+  },
+  {
+   "outlet": "The Diplomat",
+   "headline": "‘Squad’ Nations to Establish Coordination Hub in the Philippines, Defense Chiefs Say",
+   "summary": "The announcement came after defense ministers from the U.S., Japan, Australia, and the Philippines met in Cebu on October 28.",
+   "link": "https://thediplomat.com/2026/11/squad-nations-to-establish-coordination-hub-in-the-philippines-defense-chiefs-say/",
+   "published": "2026-11-11T23:42:00+00:00"
+  },
+  {
+   "outlet": "The Diplomat",
+   "headline": "Indonesian Vice President Submits Resignation Amid School Credentials Controversy",
+   "summary": "The controversy is connected to the widening rift between President Prabowo Subianto and his predecessor Joko \"Jokowi\" Widodo.",
+   "link": "https://thediplomat.com/2026/11/indonesian-vice-president-submits-resignation-amid-school-credentials-controversy/",
+   "published": "2026-11-12T01:43:00+00:00"
+  },
+  {
+   "outlet": "The Dispatch",
+   "headline": "Vance Seeks Trump’s Mantle Without Trump’s Baggage",
+   "summary": "The VP signals how he’ll spin the midterm debacle for a 2028 run, but will it work?",
+   "link": "https://thedispatch.com/newsletter/next-right/jd-vance-2028-chances-republicans-karl-rove/",
+   "published": "2026-11-11T16:28:55+00:00"
+  },
+  {
+   "outlet": "The Dispatch",
+   "headline": "Middle Fingers",
+   "summary": "A repudiated GOP chooses war.",
+   "link": "https://thedispatch.com/newsletter/boilingfrogs/hegseth-stephen-miller-jim-jordan-republicans-war/",
+   "published": "2026-11-11T22:57:47+00:00"
+  },
+  {
+   "outlet": "The Dispatch",
+   "headline": "The New Right Can’t Run Away from Trump",
+   "summary": "Oren Cass blames Reaganites for problems his own movement created.",
+   "link": "https://thedispatch.com/newsletter/gfile/the-new-right-cant-run-away-from-trump/",
+   "published": "2026-11-12T00:18:24+00:00"
+  },
+  {
+   "outlet": "The Dispatch",
+   "headline": "Gains for Ukraine at the Front, but Fear for Family at Home",
+   "summary": "As the Ukrainian army pushes back against enemy forces in the east, Russia targets civilians in the cities.",
+   "link": "https://thedispatch.com/article/ukraine-war-battlefield-gains-strikes-kyiv/",
+   "published": "2026-11-12T06:00:00+00:00"
+  },
+  {
+   "outlet": "The Dispatch",
+   "headline": "New House Democrats Can Be Today’s ‘Watergate Babies’",
+   "summary": "Like the 1974 class, freshmen members can force reforms to undo years of legislative stagnation.",
+   "link": "https://thedispatch.com/article/house-democrats-reform-watergate-babies/",
+   "published": "2026-11-12T06:02:00+00:00"
+  },
+  {
+   "outlet": "The Dispatch",
+   "headline": "First Amendment, Still Revolutionary",
+   "summary": "Live from FIRE’s free speech Soapbox conference.",
+   "link": "https://thedispatch.com/podcast/advisoryopinions/first-amendment-still-revolutionary/",
+   "published": "2026-11-12T08:00:00+00:00"
+  },
+  {
+   "outlet": "The Dispatch",
+   "headline": "Hegseth Dodges Impeachment—for Now",
+   "summary": "Plus: Nvidia’s board prepares to oust CEO Jensen Huang, Democrat Scott Colom wins Mississippi’s Senate race, and Indian authorities don’t like drugged bananas.",
+   "link": "https://thedispatch.com/newsletter/morning/hegseth-dodges-impeachment-for-now/",
+   "published": "2026-11-12T11:36:14+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Argentinian lawyer mocks UK’s sovereignty claim in Falklands oil case",
+   "summary": "Lawyer says Britain wrong to believe in historic doctrine that crown has sovereignty over parts of oceans Britain should not be permitted to act as a 17th-century colonial power tr",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/11/argentine-lawyer-mocks-uk-sovereignty-claim-in-falklands-oil-case",
+   "published": "2026-11-11T16:05:45+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "KKR and RWE are rich firms. Why do they need a UK state loan for their windfarms? | Nils Pratley",
+   "summary": "National wealth fund is to lend £1bn towards the Vanguard projects – but whether the private equity giant needed help is debatable “This major investment in UK renewables is a vote",
+   "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/11/kkr-rwe-uk-state-loan-vanguard-windfarms",
+   "published": "2026-11-11T18:15:26+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Trump planning new military assault or tighter sanctions, say Iranian officials",
+   "summary": "Regime adviser says Tehran could be forced into pre-emptive strikes if stalemate continues Senior Iranian officials believe the US is planning either further military strikes or an",
+   "link": "https://www.theguardian.com/world/2026/nov/11/trump-planning-military-assault-or-tighter-sanctions-iranian-officials",
+   "published": "2026-11-11T18:47:57+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "‘The world we know is over’ without urgent climate action, leaders tell Cop31",
+   "summary": "Marshall Islands president warns of worsening floods as UN chief calls for a windfall tax on oil and gas firms Failure to provide an overwhelming response to the climate crisis mea",
+   "link": "https://www.theguardian.com/environment/2026/nov/11/the-world-we-know-is-over-marshall-islands-president-cop31",
+   "published": "2026-11-11T18:52:08+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina",
+   "summary": "Leonardo Bertulazzi, 74, awaiting extradition to Italy, reportedly used harness to flee custody A 74-year-old former member of Italy ’s radical Marxist group the Red Brigades has e",
+   "link": "https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina",
+   "published": "2026-11-11T19:00:33+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies",
+   "summary": "Remains believed to have belonged to Africans or Afro-Brazilians repatriated after being flown back by diplomats Two skulls, including that of a man believed to have taken part in ",
+   "link": "https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil",
+   "published": "2026-11-11T22:50:37+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Oil slicks seen from space: the devastating impact of boat strikes on fragile Gulf ecosystems",
+   "summary": "Since the US war on Iran began in February, there have been hundreds of oil spills, posing a ‘generational’ threat to wildlife The vast, dark slicks in the strait of Hormuz are vis",
+   "link": "https://www.theguardian.com/world/2026/nov/12/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems",
+   "published": "2026-11-12T03:00:07+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Historic US ocean liner sinks near Florida to become world’s largest artificial reef",
+   "summary": "SS United States, which set transatlantic speed record during maiden voyage in 1952, is sunk off coast of Destin The historic SS United States has reached the end of its journey at",
+   "link": "https://www.theguardian.com/us-news/2026/nov/11/ss-united-states-sinks-florida-reef",
+   "published": "2026-11-12T03:07:16+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
+   "summary": "In today’s newsletter: US intelligence reportedly believes the former tech executive was recruited by Beijing, raising questions about the security of the AI industry and Trump’s c",
+   "link": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair",
+   "published": "2026-11-12T06:43:31+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Water industry bonus ban to be tightened as Ofwat warns of ‘damage to public trust’",
+   "summary": "Regulator to hasten review over concerns that firms are ‘undermining’ rules to make large payments to bosses Business live – latest updates The water company bonus ban is set to be",
+   "link": "https://www.theguardian.com/business/2026/nov/12/water-industry-bonus-ban-tightened-ofwat",
+   "published": "2026-11-12T07:59:52+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "‘Tourists hate themselves’ – which is why Tasmania is telling them to stay away",
+   "summary": "Island state declares it ‘is not really for tourists’ – but is the marketing strategy just a cheeky piece of reverse psychology? Get our breaking news email , free app or daily new",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/12/tourists-hate-themselves-which-is-why-tasmania-is-telling-people-to-stay-away",
+   "published": "2026-11-12T08:30:57+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "‘He is never leaving the house again’: mother reunites with son missing for six days in Victorian bushland",
+   "summary": "William, 17, was reported missing after straying from his camp near Walhalla in Victoria’s Gippsland region Get our breaking news email , free app or daily news podcast A teenager ",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/12/missing-teenager-walhalla-found-alive-australian-bush",
+   "published": "2026-11-12T09:35:44+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Cop31: how far off target are we? - video",
+   "summary": "As the planet faces unprecedented human-caused global heating, heads of government are meeting in Turkey for the next fortnight for the latest round of climate talks. Madeleine Fin",
+   "link": "https://www.theguardian.com/science/video/2026/nov/12/cop31-how-far-off-target-are-we-video",
+   "published": "2026-11-12T10:00:05+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "‘Like priests who don’t believe in God’: Italy’s anti-vax medics eye return to frontline duty",
+   "summary": "Progress of bill to reinstate struck-off doctors hinged on support from far right figure Roberto Vannacci, whose rise is shaping politics before 2027 elections Antonio Cremasco con",
+   "link": "https://www.theguardian.com/world/2026/nov/12/italy-anti-vax-medics-return-vote-meloni",
+   "published": "2026-11-12T10:20:09+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "First guidelines on attempts to manipulate the ocean put spotlight on geoengineering industry",
+   "summary": "Proponents argue ocean carbon removal is necessary to counteract the effects of the climate crisis but critics say more research is needed A cluster of candy cane-striped smoke sta",
+   "link": "https://www.theguardian.com/environment/2026/nov/12/canada-climate-geoengineering-marine-carbon-credits-biology-ocean-alkalinity-enhancement",
+   "published": "2026-11-12T11:00:47+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Trump the ‘biggest loser’ for scrapping climate action, John Kerry says at Cop31",
+   "summary": "Kerry decries president for ceding clean-energy dominance to China and says climate crisis still a key issue for voters Donald Trump is the “biggest loser we’ve seen in a long time",
+   "link": "https://www.theguardian.com/environment/2026/nov/12/trump-loser-john-kerry-cop31",
+   "published": "2026-11-12T11:00:48+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "European survey reveals 900m galaxies – and possibly secrets of ‘dark universe’",
+   "summary": "Unprecedented view of cosmos provided by Euclid mission throws up many more cases of gravitational lensing A mission to create the largest ever 3D map of the universe has revealed ",
+   "link": "https://www.theguardian.com/science/2026/nov/12/european-euclid-mission-reveals-900m-galaxies-secrets-dark-universe",
+   "published": "2026-11-12T11:08:54+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others",
+   "summary": "Hospital director says 28 wounded in attack on one of few remaining medical facilities in the strip An Israeli airstrike on Nasser hospital in southern Gaza killed six people, incl",
+   "link": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
+   "published": "2026-11-12T12:19:01+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "AI helped UK defy expectations – but will economy’s resilience fizzle out?",
+   "summary": "Despite John Healey’s defiance, the economy faces threats from a tech slowdown and energy bills this winter AI helps UK economy grow at fastest pace for more than two years The for",
+   "link": "https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey",
+   "published": "2026-11-12T13:08:12+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
+   "summary": "After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’ Zimbabwean author Simbarashe Kundi",
+   "link": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story",
+   "published": "2026-11-12T13:14:38+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "‘A second chance’: children guilty of serious offences will no longer have to declare criminal records",
+   "summary": "Government proposal aims to reduce number of children in custody in England and Wales and boost youth employment Children found guilty of robbery, dealing drugs to other children o",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/12/children-criminal-records-england-wales-labour",
+   "published": "2026-11-12T13:44:20+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Poundland owner secures two extra weeks to ensure retail chain’s survival",
+   "summary": "US investment firm Gordon Brothers is ‘taking due care’ to consider if one of three bidders has enough funds Business live – latest updates Poundland’s owner has said it is “taking",
+   "link": "https://www.theguardian.com/business/2026/nov/12/poundland-owner-secures-two-extra-weeks-ensure-retail-chains-survival",
+   "published": "2026-11-12T13:46:34+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "NSW’s latest news Instagram account has an unlikely group behind it: the Labor party",
+   "summary": "Expert warns of ‘huge loophole in political communication laws’ as state government among parties presenting accounts as unaffiliated news sources Get our daily political email , f",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/13/nsw-newsroom-instagram-account-labor-party",
+   "published": "2026-11-12T14:00:42+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "‘It is much, much faster’: could China’s battery-swapping e-trucks be the answer to EV range anxiety?",
+   "summary": "Battery maker CATL aims to have 2,000 swapping stations in China by the end of 2027 and to bring the tech to Europe Every day, Wang Bing drives his big electric lorry to send about",
+   "link": "https://www.theguardian.com/environment/2026/nov/12/china-battery-swapping-e-trucks-catl-ev-range-anxiety",
+   "published": "2026-11-12T14:00:42+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Icac’s drama and dirt files show NSW’s ‘guns for hire’ problem. But neither major party is serious about reform",
+   "summary": "Chris Minns is trying to address the threat of undeclared lobbying but falls well short of what the commission recommended five years ago Get our daily political email , free app o",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/13/icac-chris-minns-nsw-undeclared-lobbying-bill-ntwnfb",
+   "published": "2026-11-12T14:00:44+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "What’s behind Australia’s surge in teen extremism?",
+   "summary": "Young people are being found with ‘hard drives full of what can only be described as gore’, one expert says In March, Guardian Australia revealed that most people who have been cha",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/13/australia-surge-in-teen-extremism-ntwnfb",
+   "published": "2026-11-12T14:00:45+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Two men found guilty over Iranian attempts to ‘eliminate’ UK-based journalists",
+   "summary": "Mostafa Sepahvand and Farhad Javadi Manesh carried out surveillance in an effort to inflict violence on targets Two men of Iranian origin who were hired through social media as par",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists",
+   "published": "2026-11-12T14:07:42+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Time running out for young people to receive meningitis B vaccines in UK",
+   "summary": "Just 28.2% of 18- and 19-year-olds have received their first dose in one-off campaign, UKHSA says The clock is ticking for young people in the UK to receive vaccinations to protect",
+   "link": "https://www.theguardian.com/society/2026/nov/12/time-running-out-young-people-meningitis-b-vaccines-uk",
+   "published": "2026-11-12T14:16:18+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "NAZA: how and where to watch the Guardian’s acclaimed Gaza documentary",
+   "summary": "Film features testimony from 24 Israeli officials involved in surveillance and remote killing of Palestinian civilians • NAZA is in cinemas worldwide and will screen for free on th",
+   "link": "https://www.theguardian.com/global/2026/nov/12/naza-how-to-watch-guardian-acclaimed-gaza-documentary",
+   "published": "2026-11-12T14:23:50+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "US envoys meet Putin as Zelenskyy says Starlink disrupted for Ukraine’s military again - Europe live",
+   "summary": "Restrictions to Starshield ‘directly affect our ability to intercept Russian jet powered drones’, Ukraine’s president says Luxembourg’s PM Luc Frieden looks to be absolutely chuffe",
+   "link": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
+   "published": "2026-11-12T14:24:25+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Farage was guest on Brand podcast after sexual assault investigation began",
+   "summary": "Reform leader this week criticised the Labour party for ‘cosying up to’ and ‘promoting’ disgraced comedian UK politics live – latest updates Nigel Farage appeared on Russell Brand’",
+   "link": "https://www.theguardian.com/politics/2026/nov/12/farage-was-guest-on-brand-podcast-after-sexual-assault-investigation-began",
+   "published": "2026-11-12T14:30:17+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Cop31 live: ‘No one is coming to rescue us,’ Greta Thunberg tells climate summit",
+   "summary": "World leaders including UK prime minister Andy Burnham are addressing the summit today, as talks head into the third day Zack Polanski , leader of the Green party in the UK, critic",
+   "link": "https://www.theguardian.com/environment/live/2026/nov/12/cop31-the-crisis-is-upon-us-now-burnham-due-to-tell-climate-summit",
+   "published": "2026-11-12T14:33:52+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Sadiq Khan joins Labour figures urging PM not to water down electric vehicle targets – UK politics live",
+   "summary": "The mayor of London is the most high-profile figure to weigh into the debate over electric vehicle targets On the Today programme this morning, the Labour MP Bell Ribeiro-Addy , a ",
+   "link": "https://www.theguardian.com/politics/live/2026/nov/12/milburn-review-neets-young-people-welfare-work-latest-news-updates",
+   "published": "2026-11-12T14:36:18+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Israel asks ambassador to Netherlands to clarify after public criticism of Smotrich, Ben-Gvir",
+   "summary": "Vapni called Jewish settler extremists in the West Bank \"thugs and terrorists,\" adding that they all belong in prison.",
+   "link": "https://www.jpost.com/israel-news/article-914621",
+   "published": "2026-11-11T22:17:06+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "How Hamas shaped Gaza's winter flooding narrative: 'It was written before it rained' - exclusive",
+   "summary": "An HonestReporting investigation traces how Hamas-issued Gaza flooding figures spread through international media, raising questions about sourcing, verification, and Israel's wint",
+   "link": "https://www.jpost.com/middle-east/article-914629",
+   "published": "2026-11-11T22:53:52+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "F1 star Lewis Hamilton urges Israel to let aid into Gaza, stop 'genocide' during Rafah visit",
+   "summary": "\"Israel needs to fulfill its obligations under the ceasefire and let the aid trucks in. No excuse,\" he said. \"I don't want us to get used to their suffering. I don't want us to loo",
+   "link": "https://www.jpost.com/israel-news/article-914638",
+   "published": "2026-11-12T03:00:03+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Bedouin hero who rescued 30 Israelis on October 7 sees family's homes demolished by Israel",
+   "summary": "“After everything we did on Oct. 7, running around and risking our lives, doing whatever we could, none of it has any meaning,” he told the Jewish Telegraphic Agency. “In the end, ",
+   "link": "https://www.jpost.com/israel-news/article-914636",
+   "published": "2026-11-12T03:35:32+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Israel targets senior Hamas brigade chief planning attacks from Nasser Hospital in Khan Yunis",
+   "summary": "The IDF said Hamas used Nasser Hospital to store weapons, operate command centers, and plan attacks against Israel before the strike targeted the terror cell.",
+   "link": "https://www.jpost.com/israel-news/defense-news/article-914652",
+   "published": "2026-11-12T08:02:05+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Can Netanyahu launch another war against Iran while leading a caretaker government? - explainer",
+   "summary": "As Eisenkot works to form a government, Netanyahu retains the power to act against Iran. But Israeli law raises questions about launching a new war under a caretaker government.",
+   "link": "https://www.jpost.com/israel-election-2026/article-914655",
+   "published": "2026-11-12T09:00:31+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Liberman warns Netanyahu against 'dragging Israel into war' as Eisenkot gets security briefing",
+   "summary": "Yashar party leader MK Gadi Eisenkot is set to receive a diplomatic and security briefing from Netanyahu and his military secretary at the Prime Minister's Office on Thursday.",
+   "link": "https://www.jpost.com/israel-news/defense-news/article-914665",
+   "published": "2026-11-12T09:49:32+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Netanyahu to convene Israel's Security Cabinet as Eisenkot warns against renewed Iran strikes",
+   "summary": "The security cabinet had reportedly instructed the IDF to increase its readiness for a possible strike on Iran, despite not having met since October 5.",
+   "link": "https://www.jpost.com/israel-election-2026/article-914671",
+   "published": "2026-11-12T10:33:44+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Who is behind Europe’s wave of bomb threats, cyberattacks?",
+   "summary": "“Targeting schools can maximize fear, media attention and pressure on the authorities, while involving relatively low costs and operational risks,” said intelligence expert Daniele",
+   "link": "https://www.jpost.com/international/islamic-terrorism/article-914704",
+   "published": "2026-11-12T13:31:43+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Haredi parties welcome in Eisenkot-led gov't if they accept four principles, Yashar's Meridor says",
+   "summary": "Yashar MK Shaul Meridor said haredi parties could join an Eisenkot-led emergency government if they accept four principles, including universal service and recognition of Hamas as ",
+   "link": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914712",
+   "published": "2026-11-12T14:07:45+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Ondas bets big on Israel with $1b. investment over past year",
+   "summary": "'Investment in Israel is becoming mission critical' says Chief Engineer of Ondas Autonomous Systems Dr. Judith Hocherman-Frommer",
+   "link": "https://www.jpost.com/defense-and-tech/article-914717",
+   "published": "2026-11-12T14:32:15+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Diaspora Ministry moves to ban entry of UK-based Amos Trust activists over Israel BDS push",
+   "summary": "NGO Monitor has also documented alleged links between Euro-Med leadership and Hamas, including claims that senior figures appeared on a list of Hamas operatives and institutions pu",
+   "link": "https://www.jpost.com/israel-news/article-914720",
+   "published": "2026-11-12T14:49:10+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "How could the new US Congress bring about an end to the war with Iran? - explainer",
+   "summary": "Trump is expected to veto any measure to stop the fighting. It takes two-thirds majorities in both chambers to override a veto, meaning Democrats would need Republican support to o",
+   "link": "https://www.jpost.com/american-politics/article-914725",
+   "published": "2026-11-12T15:29:44+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Health Ministry comittee submits recommendations for womens' health system overhaul",
+   "summary": "Israel's Health Ministry is considering sweeping reforms to women's healthcare as studies reveal years-long diagnostic delays, inadequate treatment, and widespread gaps in care.",
+   "link": "https://www.jpost.com/health-and-wellness/article-914715",
+   "published": "2026-11-12T15:40:08+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "At least one killed, several wounded in Washington shooting, suspect barricaded in apartment",
+   "summary": "DC Council member Brooke Pinto said in a post on X that the shooting took place at the VIDA fitness club and that multiple people had been shot.",
+   "link": "https://www.jpost.com/international/article-914728",
+   "published": "2026-11-12T15:41:57+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "House Foreign Affairs Committee hosts first-ever forum with Abraham Accords ambassadors",
+   "summary": "Rep. Brian Mast brought together ambassadors from Israel, the UAE, Bahrain and Morocco with House Foreign Affairs Committee members to discuss the accords’ ‘next chapter.’",
+   "link": "https://www.jpost.com/american-politics/article-914726",
+   "published": "2026-11-12T15:43:01+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "The female paradox: When functioning through trauma masks psychological distress - opinion",
+   "summary": "Women have become a backbone of Israel's wartime resilience, but new research warns that their psychological and physical toll is being overlooked.",
+   "link": "https://www.jpost.com/opinion/article-914481",
+   "published": "2026-11-12T16:00:00+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Miriam Peretz: If Yashar forms a government with an Arab party, my son will leave Knesset",
+   "summary": "Just two days earlier, at her son's swearing-in ceremony at the Knesset, Peretz had struck a different tone, emphasizing the importance of unity and working on behalf of all Israel",
+   "link": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914727",
+   "published": "2026-11-12T16:00:18+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Netanyahu trial judges order Attorney-General Baharav-Miara to appear in court next week",
+   "summary": "The Jerusalem District Court panel said Baharav-Miara must appear on November 18, a day after prosecutors told the court she would not attend a proposed discussion.",
+   "link": "https://www.jpost.com/israel-news/crime-in-israel/article-914732",
+   "published": "2026-11-12T16:11:03+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "AI company stocks plummet after Nvidia CEO Jensen Huang steps down following scandal",
+   "summary": "As the centerpiece of the AI ecosystem, the chipmaker finances infrastructure built around its chips - a strategy that has drawn scrutiny over circular funding and now risks weighi",
+   "link": "https://www.jpost.com/business-and-innovation/article-914734",
+   "published": "2026-11-12T16:19:18+00:00"
+  },
+  {
+   "outlet": "The Moscow Times",
+   "headline": "Russia’s Ambassador to the United States Dies at 66",
+   "summary": "The Foreign Ministry did not disclose the cause of Alexander Darchiev’s death at the age of 66.",
+   "link": "https://www.themoscowtimes.com/2026/11/11/russias-ambassador-to-the-united-states-dies-at-66-a94232",
+   "published": "2026-11-11T16:20:00+00:00"
+  },
+  {
+   "outlet": "The Moscow Times",
+   "headline": "CSTO Strips Armenia of Voting Rights",
+   "summary": "The Russian-led military alliance said Armenia had failed to pay membership dues over the past two years.",
+   "link": "https://www.themoscowtimes.com/2026/11/11/csto-strips-armenia-of-voting-rights-a94231",
+   "published": "2026-11-11T16:33:38+00:00"
+  },
+  {
+   "outlet": "The Moscow Times",
+   "headline": "Spate of Deadly Bear Attacks in Russia Has Left 35 People Dead",
+   "summary": "The latest victim was a security guard at a holiday camp in the Kamchatka region, state-run media reported.",
+   "link": "https://www.themoscowtimes.com/2026/11/11/spate-of-deadly-bear-attacks-in-russia-has-left-35-people-dead-a94234",
+   "published": "2026-11-11T17:12:14+00:00"
+  },
+  {
+   "outlet": "The Moscow Times",
+   "headline": "Russia’s AI Ambitions Take a Hit With Ukrainian Data Center Strikes",
+   "summary": "Russia’s drive to develop “sovereign” AI was already struggling. Then came the drone strikes.",
+   "link": "https://www.themoscowtimes.com/2026/11/11/russias-ai-ambitions-take-a-hit-with-ukrainian-data-center-strikes-a94108",
+   "published": "2026-11-11T17:34:00+00:00"
+  },
+  {
+   "outlet": "The Moscow Times",
+   "headline": "St. Petersburg Car Blast Kills Russian Aerospace Forces Officer",
+   "summary": "The officer was the second Russian military official to be killed in a car bomb explosion in the same neighborhood this year.",
+   "link": "https://www.themoscowtimes.com/2026/11/12/st-petersburg-car-blast-kills-russian-aerospace-forces-officer-a94235",
+   "published": "2026-11-12T09:23:00+00:00"
+  },
+  {
+   "outlet": "The Moscow Times",
+   "headline": "Brazilian Buyers Balk at Price of Russian Diesel Shunned by U.S. Importers – Bloomberg",
+   "summary": "Brazilian traders told Bloomberg that prices weren’t attractive relative to U.S.-made fuel.",
+   "link": "https://www.themoscowtimes.com/2026/11/12/brazilian-buyers-balk-at-price-of-russian-diesel-shunned-by-us-importers-bloomberg-a94239",
+   "published": "2026-11-12T10:46:16+00:00"
+  },
+  {
+   "outlet": "The Moscow Times",
+   "headline": "Over 11K Foreign Fighters Killed in Ukraine – Rosstat Leaks",
+   "summary": "Of the 11,335 foreign fatalities, just over 6,000 of those killed were born outside Russia but had obtained Russian citizenship prior to their deaths.",
+   "link": "https://www.themoscowtimes.com/2026/11/12/over-11k-foreign-fighters-killed-in-ukraine-rosstat-leaks-a94237",
+   "published": "2026-11-12T11:03:10+00:00"
+  },
+  {
+   "outlet": "The Moscow Times",
+   "headline": "U.S. Envoys Leave Kremlin After Putin Talks",
+   "summary": "This week's talks, which yielded no major breakthroughs, were the first direct talks between Russia and Ukraine mediated by the U.S. in nine months.",
+   "link": "https://www.themoscowtimes.com/2026/11/12/us-envoys-arrive-at-kremlin-for-talks-with-putin-on-ukraine-a94236",
+   "published": "2026-11-12T11:36:00+00:00"
+  },
+  {
+   "outlet": "The Moscow Times",
+   "headline": "Zelensky Says Starshield Speed Limited Again",
+   "summary": "“This helps Russians kill more Ukrainians and carry out more accurate strikes on Ukraine,” Zelensky said.",
+   "link": "https://www.themoscowtimes.com/2026/11/12/zelensky-says-starshield-speed-limited-again-a94241",
+   "published": "2026-11-12T11:58:13+00:00"
+  },
+  {
+   "outlet": "The Moscow Times",
+   "headline": "Ukraine War Turns Black Sea Into World’s Deadliest Shipping Lane – WSJ",
+   "summary": "Maritime security firm Ambrey recorded more than 300 attacks in the Black Sea this year as Russia and Ukraine traded strikes on ships and ports.",
+   "link": "https://www.themoscowtimes.com/2026/11/12/ukraine-war-turns-black-sea-into-worlds-deadliest-shipping-lane-wsj-a94243",
+   "published": "2026-11-12T12:23:52+00:00"
+  },
+  {
+   "outlet": "The Moscow Times",
+   "headline": "Finland Says It Detected Strike on Russian Warship in Baltic Sea",
+   "summary": "It was not immediately clear if there were any casualties or what had caused the strike.",
+   "link": "https://www.themoscowtimes.com/2026/11/12/finland-says-it-detected-strike-on-russian-warship-in-baltic-sea-a94245",
+   "published": "2026-11-12T14:03:29+00:00"
+  },
+  {
+   "outlet": "The Moscow Times",
+   "headline": "Russian Officer Appeals to Putin to Drop Fraud Charges Against Scammed Son",
+   "summary": "",
+   "link": "https://www.themoscowtimes.com/2026/11/12/russian-officer-appeals-to-putin-to-drop-fraud-charges-against-scammed-son-a94244",
+   "published": "2026-11-12T14:18:36+00:00"
+  }
+ ]
+}
