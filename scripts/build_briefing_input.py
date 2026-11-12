@@ -1,16 +1,21 @@
-"""Builds briefing-input.json: the last day's stories from every feed listed
-in osmosfeed.yaml, each with outlet, headline, summary, link and time."""
+"""Builds the briefing input: the last day's stories from every feed listed in
+osmosfeed.yaml. The result is split into as many parts as it takes for each part
+to stay under the size one read can handle: briefing-input.json,
+briefing-input-2.json, briefing-input-3.json and so on. Every part lists all the
+part names, so the reader always knows how many there are."""
 
 import json
 import re
 import sys
-import urllib.request
 from datetime import datetime, timedelta, timezone
 from html import unescape
 
 import feedparser
 
-HOURS = 30          # window kept, a little over a day so nothing falls through
+HOURS = 24          # must match rule 1 in the briefing instructions
+MAX_PER_FEED = 25   # newest items per feed
+SUMMARY_CHARS = 180 # keeps the files small enough to read in one go
+
 NAMES = {           # tidy up the names some feeds give themselves
     "Politics": "Politico",
     "POLITICO": "Politico Europe",
@@ -27,15 +32,18 @@ NAMES = {           # tidy up the names some feeds give themselves
     "Environment | The Guardian": "The Guardian",
     "NPR Topics: World": "NPR",
     "NPR Topics: Science": "NPR",
-    "NPR Topics: Health": "NPR",
-    "PolitiFact - Social Feed": "PolitiFact",
+    "NPR Topics: Business": "NPR",
     "PBS News Hour - The Latest": "PBS NewsHour",
     "ABC News: International": "Associated Press, via ABC News",
+    "ABC News: Business": "Associated Press, via ABC News",
     "Deutsche Welle": "DW News",
+    "Business News": "CNBC",
+    "Fortune | FORTUNE": "Fortune",
+    "CBC | World News": "CBC",
+    "CBC News": "CBC",
+    "PolitiFact - Social Feed": "PolitiFact",
+    "PolitiFact": "PolitiFact",
 }
-MAX_PER_FEED = 40   # newest items per feed
-SUMMARY_CHARS = 400
-FETCH_SECONDS = 60  # give up on any feed that does not answer in this time
 
 cutoff = datetime.now(timezone.utc) - timedelta(hours=HOURS)
 
@@ -74,9 +82,7 @@ seen_links = set()
 
 for url in feed_urls():
     try:
-        request = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (news briefing collector)"})
-        with urllib.request.urlopen(request, timeout=FETCH_SECONDS) as response:
-            parsed = feedparser.parse(response.read())
+        parsed = feedparser.parse(url)
     except Exception as exc:                      # noqa: BLE001
         problems.append(f"{url}: {exc}")
         continue
@@ -92,9 +98,7 @@ for url in feed_urls():
             continue
         link = entry.get("link")
         title = clean(entry.get("title", ""))
-        if not link or not title:
-            continue
-        if link in seen_links:
+        if not link or not title or link in seen_links:
             continue
         seen_links.add(link)
         stories.append({
@@ -108,19 +112,52 @@ for url in feed_urls():
         if kept >= MAX_PER_FEED:
             break
 
-stories.sort(key=lambda s: (s["outlet"].lower(), s["published"]), reverse=False)
+stories.sort(key=lambda s: (s["outlet"].lower(), s["published"]))
 
-output = {
-    "built": datetime.now(timezone.utc).isoformat(),
-    "window_hours": HOURS,
-    "story_count": len(stories),
-    "feeds_with_problems": problems,
-    "stories": stories,
-}
+# split into parts small enough to read in one go; an outlet is never split
+PART_BYTES = 60000
 
-with open("briefing-input.json", "w", encoding="utf-8") as handle:
-    json.dump(output, handle, ensure_ascii=False, indent=1)
+def part_name(i):
+    return "briefing-input.json" if i == 0 else f"briefing-input-{i + 1}.json"
 
-print(f"{len(stories)} stories, {len(problems)} feed problems")
+outlets = sorted({s["outlet"] for s in stories}, key=str.lower)
+blocks, current, current_size = [], [], 0
+for name in outlets:
+    group = [s for s in stories if s["outlet"] == name]
+    size = len(json.dumps(group, ensure_ascii=False))
+    if current and current_size + size > PART_BYTES:
+        blocks.append(current)
+        current, current_size = [], 0
+    current.extend(group)
+    current_size += size
+if current:
+    blocks.append(current)
+
+built = datetime.now(timezone.utc).isoformat()
+names = [part_name(i) for i in range(len(blocks))]
+for name, block in zip(names, blocks):
+    with open(name, "w", encoding="utf-8") as handle:
+        json.dump({
+            "built": built,
+            "window_hours": HOURS,
+            "part": name,
+            "all_parts": names,
+            "outlets_here": sorted({s["outlet"] for s in block}, key=str.lower),
+            "story_count": len(block),
+            "feeds_with_problems": problems,
+            "stories": block,
+        }, handle, ensure_ascii=False, indent=1)
+
+# remove parts left over from a bigger collection on an earlier day
+import os
+extra = 1
+while True:
+    stale = part_name(len(blocks) + extra - 1)
+    if stale in names or not os.path.exists(stale):
+        break
+    os.remove(stale)
+    extra += 1
+
+print(f"{len(stories)} stories in {len(blocks)} parts, {len(problems)} feed problems")
 if not stories:
     sys.exit("no stories collected")
