@@ -9,6 +9,7 @@ on:
     - cron: "17 13 * * *"   # 9:17 AM Atlanta (8:17 AM after Nov 1)
     - cron: "17 16 * * *"   # 12:17 PM Atlanta (11:17 AM after Nov 1)
     - cron: "17 22 * * *"   # 6:17 PM Atlanta (5:17 PM after Nov 1)
+    - cron: "0 23 * * *"
   workflow_dispatch:
 
 permissions:
