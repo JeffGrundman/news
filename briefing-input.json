@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T03:01:39.519387+00:00",
+ "built": "2026-11-13T03:41:39.529806+00:00",
  "window_hours": 24,
  "part": "briefing-input.json",
  "all_parts": [
@@ -19,7 +19,7 @@
   "DW News",
   "FactCheck.org"
  ],
- "story_count": 137,
+ "story_count": 136,
  "feeds_with_problems": [
   "https://www.cbc.ca/webfeed/rss/rss-world: Remote end closed connection without response",
   "https://www.positive.news/feed/: no items",
@@ -133,13 +133,6 @@
    "summary": "Men aged 50–69 and at average risk should get PSA screening every two years.",
    "link": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
    "published": "2026-11-12T22:59:51+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "Lawmakers question police chief about wiretaps alleged to target President Prabowo",
-   "summary": "Indonesia’s police chief is set to appear before a parliamentary panel as lawmakers investigate allegations that President Prabowo Subianto was targeted in an illegal wiretapping o",
-   "link": "https://abcnews.com/International/wireStory/indonesian-lawmakers-question-police-chief-wiretaps-alleged-target-138065101",
-   "published": "2026-11-12T02:01:56+00:00"
   },
   {
    "outlet": "Associated Press, via ABC News",
@@ -346,13 +339,6 @@
   },
   {
    "outlet": "BBC News",
-   "headline": "Australian teen missing in bush for six days rescued alive",
-   "summary": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
-   "link": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-12T02:40:18+00:00"
-  },
-  {
-   "outlet": "BBC News",
    "headline": "Famed ship SS United States deliberately sunk off Florida coast to become a reef",
    "summary": "Activists wanted the historic liner to be turned into a museum, but it will instead become the world's largest artificial ocean reef.",
    "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
@@ -507,13 +493,6 @@
   },
   {
    "outlet": "BBC News",
-   "headline": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-   "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
-   "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-12T21:00:42+00:00"
-  },
-  {
-   "outlet": "BBC News",
    "headline": "Search for British woman missing from Tui cruise in Atlantic called off",
    "summary": "The 72-year-old is believed to have gone overboard from the Tui ship on Monday as it headed towards the Caribbean.",
    "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
@@ -535,13 +514,6 @@
   },
   {
    "outlet": "BBC News",
-   "headline": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-   "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
-   "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-12T23:34:05+00:00"
-  },
-  {
-   "outlet": "BBC News",
    "headline": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
    "summary": "BBC's Bernd Debusmann breaks down why Defence Secretary Hegseth's group was reprimanded at Arlington National Cemetery and the history behind its strict rules of conduct.",
    "link": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&at_campaign=rss",
@@ -556,17 +528,31 @@
   },
   {
    "outlet": "BBC News",
+   "headline": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+   "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+   "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-13T02:01:35+00:00"
+  },
+  {
+   "outlet": "BBC News",
+   "headline": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+   "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+   "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-13T02:39:00+00:00"
+  },
+  {
+   "outlet": "BBC News",
+   "headline": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+   "summary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
+   "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-13T02:48:29+00:00"
+  },
+  {
+   "outlet": "BBC News",
    "headline": "Australian footballers will not be charged after hotel incident, police say",
    "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
    "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-13T01:03:59+00:00"
-  },
-  {
-   "outlet": "BNO News",
-   "headline": "Brooklyn building collapse kills at least 2 and injures 17; others possibly missing",
-   "summary": "A three-story residential building collapsed into a construction site in Brooklyn, killing at least two people and injuring 17 others, according to New York City officials. Firefig",
-   "link": "https://bnonews.com/index.php/2026/11/brooklyn-building-collapse-kills-at-least-2-injures-17/",
-   "published": "2026-11-12T02:13:51+00:00"
+   "published": "2026-11-13T03:02:54+00:00"
   },
   {
    "outlet": "BNO News",
@@ -618,6 +604,13 @@
    "published": "2026-11-13T01:32:28+00:00"
   },
   {
+   "outlet": "BNO News",
+   "headline": "All 8 victims of Brooklyn building collapse identified",
+   "summary": "All eight people killed in a building collapse in Brooklyn have been identified. They include a 9-year-old girl and a 10-year-old boy, both from Colombia. The collapse was reported",
+   "link": "https://bnonews.com/index.php/2026/11/all-8-victims-of-brooklyn-building-collapse-identified/",
+   "published": "2026-11-13T03:02:21+00:00"
+  },
+  {
    "outlet": "Carbon Brief",
    "headline": "COP31: How Ed Miliband answered Carbon Brief readers’ questions",
    "summary": "UK foreign secretary and COP veteran Ed Miliband spoke with Carbon Brief earlier today at COP31 in Antalya, Turkey, to… The post COP31: How Ed Miliband answered Carbon Brief reader",
@@ -654,27 +647,6 @@
   },
   {
    "outlet": "Daily Maverick",
-   "headline": "Building collapse in Brooklyn kills at least two, injures more than 10",
-   "summary": "A three-story building next to a construction site collapsed in Brooklyn on Wednesday, killing at least two people and sending more than 10 others to hospital, New York City offici",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-12-building-collapse-in-brooklyn-kills-at-least-two-injures-more-than-10/",
-   "published": "2026-11-12T11:29:05+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "US envoys arrive in Moscow for latest round of Ukrainian peace talks with Putin",
-   "summary": "US envoys Jared Kushner and Steve Witkoff arrived in Moscow on Thursday for talks with Russian President Vladimir Putin, part of their latest push for a peace deal in Ukraine.",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-12-us-envoys-arrive-in-moscow-for-latest-round-of-ukrainian-peace-talks-with-putin/",
-   "published": "2026-11-12T11:29:13+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "China’s Xi says Taiwan ‘reunification’ must happen as history cannot be stopped",
-   "summary": "The tide of history cannot be stopped, Chinese President Xi Jinping said on Thursday, while urging peaceful \"reunification\" with Taiwan and making no mention of using force, though",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-12-chinas-xi-says-taiwan-reunification-must-happen-as-history-cannot-be-stopped/",
-   "published": "2026-11-12T11:29:19+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
    "headline": "LE PIVOT: Dupont at flyhalf for France against Springboks to ‘create something unimaginable, unexpected’",
    "summary": "France’s talismanic scrumhalf Antoine Dupont will start at flyhalf against the Springboks in Paris on Friday. Is this a genius move by coach Fabien Galthié, or simply a situational",
    "link": "https://www.dailymaverick.co.za/article/2026-11-12-dupont-at-flyhalf-for-france-against-springboks-to-create-something-unimaginable-unexpected/",
@@ -703,7 +675,7 @@
   },
   {
    "outlet": "Daily Maverick",
-   "headline": "RESOURCE OPPORTUNITY: Solar panels on the roof can become the bricks to build a house",
+   "headline": "RESOURCE OPPORTUNITY: A visit to a solar panel graveyard reveals new uses rising from waste",
    "summary": "Wear and tear means they all need replacement at some point, but they are full of valuable materials that can be recycled and repurposed.",
    "link": "https://www.dailymaverick.co.za/article/2026-11-12-solar-panels-on-the-roof-can-become-the-bricks-to-build-a-house/",
    "published": "2026-11-12T16:33:19+00:00"
@@ -828,6 +800,27 @@
    "published": "2026-11-13T04:53:53+00:00"
   },
   {
+   "outlet": "Daily Maverick",
+   "headline": "WILDERNESS & WATER: Avocados, unanswered questions and a pristine lake in the firing line",
+   "summary": "A proposed avocado farm near Sedgefield has conservationists asking whether PG Bison’s environmental promises extend beyond the paper they are printed on.",
+   "link": "https://www.dailymaverick.co.za/article/2026-11-13-avocados-unanswered-questions-and-a-pristine-lake-in-the-firing-line/",
+   "published": "2026-11-13T05:30:00+00:00"
+  },
+  {
+   "outlet": "Daily Maverick",
+   "headline": "BOOK EXCERPT: Remembering Sydda Essop, who turned recipes into a social history of the Karoo",
+   "summary": "Through recipes and intimate stories, Sydda Essop documented the people, hospitality and cultural crossings that shape the Karoo’s distinctive food heritage.",
+   "link": "https://www.dailymaverick.co.za/article/2026-11-13-remembering-sydda-essop-who-turned-recipes-into-a-social-history-of-the-karoo/",
+   "published": "2026-11-13T05:30:00+00:00"
+  },
+  {
+   "outlet": "Daily Maverick",
+   "headline": "WHAT WE’RE WATCHING: Street Fighter embraces its old-school roots and mostly lands the knockout",
+   "summary": "Round one! Fight! In Street Fighter, writer-director Kitao Sakurai once more brings to screen Capcom’s long-running historic fighting game series with wild abandon.",
+   "link": "https://www.dailymaverick.co.za/article/2026-11-13-street-fighter-embraces-its-old-school-roots-and-mostly-lands-the-knockout/",
+   "published": "2026-11-13T05:30:00+00:00"
+  },
+  {
    "outlet": "DW News",
    "headline": "Intelligent women get less help at work, study finds",
    "summary": "Women who scored high on intelligence tests were seen as more hostile by their teammates and got less help, a new study finds. High-scoring men faced no such penalty. Research expl",
@@ -840,13 +833,6 @@
    "summary": "Sexual misconduct in the Bundeswehr is far more widespread than previously known, with younger women disproportionately affected. Defense Minister Boris Pistorius has called for a ",
    "link": "https://www.dw.com/en/bundeswehr-study-exposes-widespread-sexual-harassment-in-german-military/a-79926359?maca=en-rss-en-all-1573-rdf",
    "published": "2026-11-12T08:45:00+00:00"
-  },
-  {
-   "outlet": "DW News",
-   "headline": "Australian teen found alive after six days in the bush",
-   "summary": "The teenager was spotted during an aerial search, after spending days navigating rugged terrain. He had fallen down the side of a riverbed two days before being found.",
-   "link": "https://www.dw.com/en/australian-teen-found-alive-after-six-days-in-the-bush/a-79926046?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-11-12T09:14:00+00:00"
   },
   {
    "outlet": "DW News",
@@ -980,6 +966,13 @@
    "summary": "A New York judge has dismissed soccer governing body FIFA's attempts to shield its president from investigation. Europe's UEFA is seeking evidence of wrongdoing by Gianni Infantino",
    "link": "https://www.dw.com/en/fifa-loses-bid-to-block-uefa-evidence-gathering-against-infantino/a-79935807?maca=en-rss-en-all-1573-rdf",
    "published": "2026-11-13T00:02:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "Darth Vader strikes back at auction as his lightsaber from two original Star Wars films reclaims the record from Luke Skywalker's prop",
+   "summary": "Darth Vader's lightsaber sold for nearly $5 million, breaking the record set by Luke Skywalker's in July. The hilt, made from a 1950s camera flash attachment, was used in two of th",
+   "link": "https://www.dw.com/en/darth-vader-strikes-back-at-auction-as-his-lightsaber-from-two-original-star-wars-films-reclaims-the-record-from-luke-skywalker-s-prop/a-79935960?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-13T02:27:00+00:00"
   },
   {
    "outlet": "FactCheck.org",

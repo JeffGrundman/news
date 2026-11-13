@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13T03:01:39.519387+00:00",
+ "built": "2026-11-13T03:41:39.529806+00:00",
  "window_hours": 24,
  "part": "briefing-input-2.json",
  "all_parts": [
@@ -25,7 +25,7 @@
   "Science News",
   "Semafor"
  ],
- "story_count": 137,
+ "story_count": 136,
  "feeds_with_problems": [
   "https://www.cbc.ca/webfeed/rss/rss-world: Remote end closed connection without response",
   "https://www.positive.news/feed/: no items",
@@ -69,13 +69,6 @@
    "summary": "The Pentagon chief dodged impeachment, but his future remains uncertain.",
    "link": "https://foreignpolicy.com/2026/11/12/hegseth-impeachment-congress-democrats-trump/",
    "published": "2026-11-12T22:46:38+00:00"
-  },
-  {
-   "outlet": "Fortune",
-   "headline": "Jensen Huang built Nvidia into a $4 trillion AI giant but owned less than 4% of it, leaving him without the super-voting power to protect his CEO role",
-   "summary": "Huang was the largest individual shareholder, but couldn’t decide the makeup of the board on his own due to the company’s share structure.",
-   "link": "https://fortune.com/2026/11/12/jensen-huang-nvidia-ceo-resignation-ai-chip-founders-voting-power-board-control-mark-zuckerberg-meta-stock-market/",
-   "published": "2026-11-12T18:28:04+00:00"
   },
   {
    "outlet": "Fortune",
@@ -472,7 +465,7 @@
   {
    "outlet": "PBS NewsHour",
    "headline": "Abdul El-Sayed on Democratic leadership, health care access and inspiring a new generation",
-   "summary": "The new wave of Democratic senators are in Washington for orientation and are already facing tough questions about how they plan to govern. One is Abdul El-Sayed of Michigan, the f",
+   "summary": "The new Democratic senators are in Washington for orientation and are already facing tough questions about how they plan to govern. One is Abdul El-Sayed of Michigan, the first Mus",
    "link": "https://www.pbs.org/newshour/show/abdul-el-sayed-on-democratic-leadership-health-care-access-and-inspiring-a-new-generation",
    "published": "2026-11-12T23:35:14+00:00"
   },
@@ -506,7 +499,7 @@
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "What Huang's resignation mean for chipmakers, AI and U.S. national security",
+   "headline": "What Huang's resignation means for chipmakers, AI and U.S. national security",
    "summary": "Nvidia CEO Jensen Huang announced his resignation after it was reported that he had an affair with a businesswoman accused of being a Chinese spy and an extramarital relationship w",
    "link": "https://www.pbs.org/newshour/show/what-huangs-resignation-mean-for-chipmakers-ai-and-u-s-national-security",
    "published": "2026-11-12T23:55:39+00:00"
@@ -555,31 +548,10 @@
   },
   {
    "outlet": "Politico Europe",
-   "headline": "COP 31 : qu’attendre des négociations ?",
-   "summary": "Le président Lula a été accueilli sous les applaudissements à son arrivée, mercredi, à la COP 31 qui se tient à Antalya, en Turquie. Mais mis à part le Brésilien et quelques autres",
-   "link": "https://www.politico.eu/podcast/playbook-paris-podcast/cop-31-quattendre-des-negociations/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "published": "2026-11-12T17:00:04+00:00"
-  },
-  {
-   "outlet": "Politico Europe",
-   "headline": "De grandes villes européennes demandent à l’UE d’interdire les filtres des cigarettes",
-   "summary": "De Bruxelles à Dublin, des municipalités ont rejoint la campagne No (Plastic) Filter, qui mise sur deux lois européennes en cours de révision pour interdire les filtres, ou au moin",
-   "link": "https://www.politico.eu/article/de-grandes-villes-europeennes-demandent-a-lue-dinterdire-les-filtres-des-cigarettes/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "published": "2026-11-12T17:20:22+00:00"
-  },
-  {
-   "outlet": "Politico Europe",
-   "headline": "Climate science says 1.5C is dead. No one wants to bury it.",
-   "summary": "Leaders at COP31 want to keep the totemic goal alive, even after the U.N. declared it impossible to hit.",
-   "link": "https://www.politico.eu/article/climate-science-1-5c-target-global-warming-dead/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "published": "2026-11-12T18:27:58+00:00"
-  },
-  {
-   "outlet": "Politico Europe",
-   "headline": "Putin open to Europe joining Ukraine peace talks, says Witkoff",
-   "summary": "Donald Trump's envoys debriefed Ukrainian leader in Dublin late Thursday after Moscow discussions.",
-   "link": "https://www.politico.eu/article/vladimir-putin-open-to-europe-joining-ukraine-peace-talks-steve-witkoff/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "published": "2026-11-12T20:10:38+00:00"
+   "headline": "Brits don’t want a US-style data center war … yet",
+   "summary": "Polling shows U.K. voters quite like data centers. But MPs near developments are starting to worry.",
+   "link": "https://www.politico.eu/article/brits-dont-want-a-us-style-data-center-war-yet/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "published": "2026-11-12T20:19:18+00:00"
   },
   {
    "outlet": "Politico Europe",
@@ -604,6 +576,20 @@
   },
   {
    "outlet": "Politico Europe",
+   "headline": "Jensen Huang’s fall further exposes EU leaders on AI",
+   "summary": "European leaders are meeting for their first conversation on AI with the tech world in tumult.",
+   "link": "https://www.politico.eu/article/jensen-huang-fall-exposes-eu-leaders-ai-nvidia-european-council/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "published": "2026-11-12T22:53:46+00:00"
+  },
+  {
+   "outlet": "Politico Europe",
+   "headline": "5 things to watch at the Dublin EU leaders’ summit",
+   "summary": "Leaders will discuss Europe’s AI ambitions. But who speaks for Europe in Ukraine talks, how to fund Kyiv, and who replaces Christine Lagarde are also in play.",
+   "link": "https://www.politico.eu/article/5-things-to-watch-dublin-eu-leaders-summit-european-council/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "published": "2026-11-13T03:00:00+00:00"
+  },
+  {
+   "outlet": "Politico Europe",
    "headline": "Dissident leader wants Europe to consider Belarus in broader Ukraine peace deal",
    "summary": "Sviatlana Tsikhanouskaya defends Angela Merkel’s record on Russia and says Europe indulged Alexander Lukashenko as “our son of the bitch.\"",
    "link": "https://www.politico.eu/article/sviatlana-tsikhanouskaya-urges-europe-include-belarus-ukraine-peace-negotiations/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -621,6 +607,13 @@
    "headline": "What will a female president mean for Germany and Europe?",
    "summary": "A rare outbreak of cross-party unity has interrupted months of infighting surrounding Friedrich Merz’s embattled coalition in Berlin. His nomination of Ilse Aigner — a respected co",
    "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/what-will-a-female-president-mean-for-germany-and-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "published": "2026-11-13T03:00:00+00:00"
+  },
+  {
+   "outlet": "Politico Europe",
+   "headline": "EU leaders start Friday’s summit still at odds over who should lead on Ukraine",
+   "summary": "The question of who speaks for Europe has never been more consequential, but the EU doesn't have an answer.",
+   "link": "https://www.politico.eu/article/eu-leaders-start-friday-summit-still-at-odds-over-who-should-lead-on-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
    "published": "2026-11-13T03:00:00+00:00"
   },
   {
