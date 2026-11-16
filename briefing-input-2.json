@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T02:54:04.987147+00:00",
+ "built": "2026-11-16T02:59:14.002541+00:00",
  "window_hours": 24,
  "part": "briefing-input-2.json",
  "all_parts": [
@@ -7,12 +7,13 @@
   "briefing-input-2.json"
  ],
  "outlets_here": [
+  "The Conversation",
+  "The Dispatch",
   "The Guardian",
-  "The Intercept",
   "The Jerusalem Post",
   "The Moscow Times"
  ],
- "story_count": 47,
+ "story_count": 51,
  "feeds_with_problems": [
   "https://www.cbc.ca/webfeed/rss/rss-world: Remote end closed connection without response",
   "https://san.com/feed/: no items",
@@ -24,333 +25,361 @@
  ],
  "stories": [
   {
-   "outlet": "The Guardian",
-   "headline": "University hounded out of Hungary by Orbán reaches out to new government",
-   "summary": "Prospect of partial return to Budapest by Central European University suggests confidence in Hungary’s future A university that Viktor Orbán tried to chase out of Hungary is open t",
-   "link": "https://www.theguardian.com/world/2026/nov/14/university-hungary-orban-soros-ceu",
-   "published": "2026-11-14T05:00:35+00:00"
+   "outlet": "The Conversation",
+   "headline": "Prostate cancer testing now urged for men in their 50s and 60s – a lead author of the new screening guidelines explains why",
+   "summary": "The American Cancer Society has found that the benefits of the PSA blood test outweigh its harms. Black men and those with a family history of prostate cancer may especially benefi",
+   "link": "https://theconversation.com/prostate-cancer-testing-now-urged-for-men-in-their-50s-and-60s-a-lead-author-of-the-new-screening-guidelines-explains-why-296645",
+   "published": "2026-11-15T14:00:41+00:00"
+  },
+  {
+   "outlet": "The Dispatch",
+   "headline": "The Midterms Opened a Door for Faith That Crosses the Aisle",
+   "summary": "A liberal and a conservative say the midterms reopened a 2009 experiment.",
+   "link": "https://thedispatch.com/article/faith-leaders-bipartisan-poverty-midterms/",
+   "published": "2026-11-15T06:00:00+00:00"
+  },
+  {
+   "outlet": "The Dispatch",
+   "headline": "Jewish Americans Are Profoundly Uneasy After the Midterms",
+   "summary": "Why this month’s elections were both encouraging and disconcerting.",
+   "link": "https://thedispatch.com/newsletter/dispatch-faith/jewish-americans-midterms-el-sayed-antisemitism/",
+   "published": "2026-11-15T12:00:00+00:00"
   },
   {
    "outlet": "The Guardian",
-   "headline": "UK-EU breakthrough will allow airport-style checks at Eurotunnel to avoid border ‘chaos’",
-   "summary": "Eurotunnel owner Getlink wants to replicate ‘airport experience’ at Folkestone and Calais, without making people get out of cars Airport-style passport and fingerprinting controls ",
-   "link": "https://www.theguardian.com/travel/2026/nov/14/eurotunnel-drive-in-fingerprint-trial-folkestone-calais-border",
-   "published": "2026-11-14T07:00:38+00:00"
+   "headline": "World leaders head to Asia for back-to-back diplomatic summits",
+   "summary": "Tussle for influence as trade, tech and regional security to take centre stage in China, Philippines and Cambodia meetings World leaders will fly in to Asia for back-to-back high-l",
+   "link": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
+   "published": "2026-11-15T04:00:02+00:00"
   },
   {
    "outlet": "The Guardian",
-   "headline": "Greenpeace boulders may delay building of £12bn windfarms in North Sea",
-   "summary": "Activists dumped rocks off Norfolk coast on site of Burnham-backed project in protest against seabed trawling The giant offshore windfarms backed by Andy Burnham this week may face",
-   "link": "https://www.theguardian.com/environment/2026/nov/14/greenpeace-boulders-norfolk-vanguard-windfarms",
-   "published": "2026-11-14T11:00:43+00:00"
+   "headline": "World’s top court to rule if Myanmar committed genocide against Rohingya",
+   "summary": "International court of justice has never before found a state guilty of genocide, and ruling will have implications for case against Israel The world’s top court will deliver a jud",
+   "link": "https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj",
+   "published": "2026-11-15T06:00:05+00:00"
   },
   {
    "outlet": "The Guardian",
-   "headline": "Eisenkot condemns Netanyahu’s ‘racist’ campaign against Israel’s Arab citizens",
-   "summary": "Prime ministerial hopeful calls Arab minority ‘an integral part of the Israeli story’ as he seeks to form government Israeli prime ministerial hopeful Gadi Eisenkot condemned a “ra",
-   "link": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
-   "published": "2026-11-14T11:11:03+00:00"
+   "headline": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
+   "summary": "‘We think dialogue is a good thing,’ Australian PM says after German chancellor urges the US to work with Europe for peace in Ukraine Australia has endorsed this week’s historic su",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
+   "published": "2026-11-15T06:22:32+00:00"
   },
   {
    "outlet": "The Guardian",
-   "headline": "Choking fires, deadly heat and devastating floods: 2026 in extreme weather",
-   "summary": "People around the world have contended with unprecedented weather events and their fatal effects caused by the climate catastrophe After the world’s hottest summer since records be",
-   "link": "https://www.theguardian.com/world/2026/nov/14/fires-heat-floods-extreme-weather-2026",
-   "published": "2026-11-14T13:00:44+00:00"
+   "headline": "Looking for an ancient tree worth a detour? There’s an app for that",
+   "summary": "Dutch designer sets up an app to help fellow enthusiasts find the great trees of the world While most people spend their holidays sightseeing or lazing by a pool, Hidde Burgmans wo",
+   "link": "https://www.theguardian.com/environment/2026/nov/15/ancient-tree-worth-a-detour-digital-app-",
+   "published": "2026-11-15T08:00:07+00:00"
   },
   {
    "outlet": "The Guardian",
-   "headline": "Underwater salt mine closure in Ohio raises safety and supply concerns for winter",
-   "summary": "Questions remain about reason for leak, safety of drinking water and where salt can be sourced for roads during winter When water last month began gushing through a crack in the ce",
-   "link": "https://www.theguardian.com/us-news/2026/nov/14/salt-mine-ohio-flooding-safety-winter",
-   "published": "2026-11-14T13:00:45+00:00"
+   "headline": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+   "summary": "Fears for national college entrance exam next week as test taker admits sending photos of questions to AI tool The marks attained by the top scorer ⁠on South Korea’s national exam ",
+   "link": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
+   "published": "2026-11-15T08:56:11+00:00"
   },
   {
    "outlet": "The Guardian",
-   "headline": "Indigenous students retrace Lewis and Clark’s historic journey: ‘We can’t protect what we cannot see’",
-   "summary": "Two centuries after the expedition, Indigenous students are conducting a new wildlife survey along the route In 1804, when Thomas Jefferson dispatched Meriwether Lewis and William ",
-   "link": "https://www.theguardian.com/us-news/2026/nov/14/lewis-clark-indigenous-students",
-   "published": "2026-11-14T14:00:46+00:00"
+   "headline": "Surgery by fairy lights and truckloads of fruit: the sanctuary saving Cameroon’s chimpanzees",
+   "summary": "Poaching, trafficking, insurgencies and traditional medicine all threaten the central African primates, but a rehabilitation centre offers a haven in Cameroon Every morning in cent",
+   "link": "https://www.theguardian.com/environment/2026/nov/15/surgery-by-fairy-lights-and-truckloads-of-fruit-the-sanctuary-saving-cameroons-chimpanzees",
+   "published": "2026-11-15T12:00:14+00:00"
   },
   {
    "outlet": "The Guardian",
-   "headline": "Napping Kansas driver whose truck sped on to soccer field and killed two won’t be charged",
-   "summary": "Authorities declined to file charges against napping woman whose truck accelerated on to field during youth game A soccer mom napping in her pickup truck when it suddenly accelerat",
-   "link": "https://www.theguardian.com/us-news/2026/nov/14/kansas-driver-soccer-field-deaths-no-charges",
-   "published": "2026-11-14T14:38:36+00:00"
+   "headline": "Gender-diverse Australian sailors barred from US submarines despite Aukus deal, documents reveal",
+   "summary": "Defence briefing released under freedom of information laws shows ADF beholden to US directives when in training Get our breaking news email , free app or daily news podcast Aukus ",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/16/gender-diverse-australian-sailors-barred-from-us-submarines-despite-aukus-deal-documents-reveal-ntwnfb",
+   "published": "2026-11-15T14:00:19+00:00"
   },
   {
    "outlet": "The Guardian",
-   "headline": "How a US extradition bid over Hamas allegations put a wealthy activist before a Spanish court",
-   "summary": "James ‘Fergie’ Chambers, a Cox Enterprises heir, faced a two-hour hearing about alleged support for Hamas A two-hour hearing in Spain’s high court Friday on the US extradition requ",
-   "link": "https://www.theguardian.com/us-news/2026/nov/14/activist-extradition-gaza-hamas-spanish-court",
-   "published": "2026-11-14T15:00:47+00:00"
+   "headline": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - as it happened",
+   "summary": "Iran has targeted airbase in Bahrain in latest resumption of strikes since september The state-run Bahrain news agency is also carrying the statements of each country in the region",
+   "link": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
+   "published": "2026-11-15T15:59:04+00:00"
   },
   {
    "outlet": "The Guardian",
-   "headline": "A rapid interest rate rise seems inevitable – and households are expected to pick up the tab",
-   "summary": "Raising borrowing costs too far risks laying waste to whatever growth there is in the economy A head of steam is building up behind the Bank of England raising interest rates again",
-   "link": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rise-phillip-inman-inflation-economy",
-   "published": "2026-11-14T16:00:48+00:00"
+   "headline": "Iran launches drone attacks against US military base in Bahrain",
+   "summary": "Strikes cast further doubt on peace talks between Tehran and Washington with increasing risk of escalation Iran has launched drone attacks against a US military base in Bahrain, ca",
+   "link": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
+   "published": "2026-11-15T18:03:56+00:00"
   },
   {
    "outlet": "The Guardian",
-   "headline": "Cold weather health alerts issued for parts of UK on Sunday night",
-   "summary": "UKHSA warns of threat to vulnerable people from frosty conditions expected to last until Thursday More cold health alerts have been issued for parts of the UK on Sunday night and n",
-   "link": "https://www.theguardian.com/uk-news/2026/nov/14/uk-weather-milder-weekend-autumn-freeze-frost",
-   "published": "2026-11-14T16:42:04+00:00"
+   "headline": "Hundreds of thousands of Czechs protest in Prague over media freedom",
+   "summary": "Estimated 350,000 people rally against plan to scrap licence fees and fund broadcasters from state budget Hundreds of thousands of Czechs have rallied in Prague to protest against ",
+   "link": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
+   "published": "2026-11-15T18:20:36+00:00"
   },
   {
    "outlet": "The Guardian",
-   "headline": "Democrat wins Alaska governor’s seat for first time in nearly 30 years",
-   "summary": "Jonathan Kreiss-Tomkins’ victory means Democrats will now hold 30 US governorships after midterm blowout Democrats have captured Alaska ’s governor’s seat for the first time in nea",
-   "link": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins",
-   "published": "2026-11-14T16:58:33+00:00"
+   "headline": "Trident nuclear submarine concludes record underwater deployment",
+   "summary": "HMS Vengeance’s seven-month patrol prompts fears over slow pace of maintenance of ageing fleet and strain on crew A Trident nuclear submarine has concluded a record seven-month dep",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/15/trident-nuclear-submarine-hms-vengeance-record-tour",
+   "published": "2026-11-15T18:50:33+00:00"
   },
   {
    "outlet": "The Guardian",
-   "headline": "NHS England on track to miss key cancer treatment target by 10,000 patients",
-   "summary": "Exclusive: 2,850 more patients a month would need to be treated within 62 days to meet March 2027 goal, as experts warn of failure of leadership Nearly 10,000 more cancer patients ",
-   "link": "https://www.theguardian.com/society/2026/nov/14/nhs-england-62-day-cancer-treatment-target-by-10000-patients",
-   "published": "2026-11-14T17:00:49+00:00"
+   "headline": "LSU star MiLaysia Fulwiley arrested after allegedly striking police officer with car",
+   "summary": "Guard allegedly tried to flee traffic stop in Baton Rouge Tigers say they are aware of situation involving player LSU guard MiLaysia Fulwiley, one of the ninth-ranked Tigers’ leadi",
+   "link": "https://www.theguardian.com/sport/2026/nov/15/lsu-star-milaysia-fulwiley-arrested-after-allegedly-striking-police-officer-with-car",
+   "published": "2026-11-15T19:53:07+00:00"
   },
   {
    "outlet": "The Guardian",
-   "headline": "LGBTQ+ protesters defy crackdown in Turkey to march with Cop31 activists",
-   "summary": "Civil society campaigners form protective cordon around LGBTQ+ campaigners as they unfurl flags and placards Queer and gay protesters defied a crackdown on LGBTQ+ rights in Turkey ",
-   "link": "https://www.theguardian.com/world/2026/nov/14/lgbtq-protesters-defy-crackdown-in-turkey-to-march-with-cop31-activists",
-   "published": "2026-11-14T17:08:18+00:00"
+   "headline": "Somali-American Uber driver brutally assaulted in alleged hate crime in Minnesota",
+   "summary": "Mohamed Yusuf is fighting for his life after alleged attack by passenger who said he did not like driver’s first name A Somali-American Uber driver was allegedly brutally assaulted",
+   "link": "https://www.theguardian.com/us-news/2026/nov/15/somali-american-uber-driver-attack-minnesota",
+   "published": "2026-11-15T21:10:38+00:00"
   },
   {
    "outlet": "The Guardian",
-   "headline": "US officials say flight stoppage stemmed from ‘routine maintenance’ as travel chaos continues",
-   "summary": "Thousands of flights still canceled as officials blamed ageing air control system for nationwide grounding The Trump administration says Friday’s four-hour nationwide Federal Aviat",
-   "link": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos",
-   "published": "2026-11-14T17:11:18+00:00"
+   "headline": "Prince Harry tells Ukrainians they are ‘going to win war’ on surprise trip to Lviv",
+   "summary": "Duke of Sussex meets wounded veterans in city and says country could one day host Invictus Games Prince Harry has told Ukrainian soldiers they are going to win the war with Russia,",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/15/prince-harry-ukraine-war-surprise-trip-invictus-games",
+   "published": "2026-11-15T22:00:24+00:00"
   },
   {
    "outlet": "The Guardian",
-   "headline": "Family of Watford woman set alight ‘desperate for answers’ after attack",
-   "summary": "Appeal for information comes after Brenda Raymond, 80, was set on fire outside her flat on Monday The family of an elderly woman who was set on fire outside a block of flats in Wat",
-   "link": "https://www.theguardian.com/uk-news/2026/nov/14/family-of-watford-woman-set-alight-desperate-for-answers-after-attack",
-   "published": "2026-11-14T17:59:12+00:00"
+   "headline": "Estonia to close all border crossings with Russia after attack on drone maker",
+   "summary": "Authorities say Russian intelligence service ordered attack which Estonian PM links to Tallinn’s support for Ukraine Estonia will close all its border crossings with Russia from 1 ",
+   "link": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker",
+   "published": "2026-11-15T22:17:09+00:00"
   },
   {
    "outlet": "The Guardian",
-   "headline": "Art ‘must not be sacrificed on the altar of corporate profit’, Liberal senator says as AI policy debate rages",
-   "summary": "Andrew McLachlan says he chooses ‘real forests over virtual ones’ as he urges Labor government to consider AI’s impact on artists and environment Get our daily political email , fr",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
-   "published": "2026-11-14T19:00:52+00:00"
+   "headline": "Australia, UK, Canada and Italy urge Israel to allow critical aid to Gaza ahead of winter",
+   "summary": "Four countries call situation ‘entirely reversible’ in joint statement as flooding exacerbates humanitarian crisis Australia, Canada, the United Kingdom and Italy have urged Israel",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/16/australia-uk-canada-italy-urge-israel-critical-aid-gaza-winter-ntwnfb",
+   "published": "2026-11-15T22:28:02+00:00"
   },
   {
    "outlet": "The Guardian",
-   "headline": "Even Labor MPs are at a loss over the Victorian premier’s ‘tough love’ plan for youth offenders",
-   "summary": "Parliamentarians across factional lines share concerns about policy that legal expert says ‘paints the imprisonment of children as therapeutic’ Get our daily political email , free",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/15/victoria-premier-ben-caroll-youth-crime-offenders-plan-ntwnfb",
-   "published": "2026-11-14T19:00:53+00:00"
+   "headline": "‘Pull back the curtain’ on treatment of sexual assault victims in court, says UK government adviser",
+   "summary": "Professor urges ministers to use awareness triggered by Russell Brand conviction to examine use of rape myths in trials The debate triggered by high-profile cases must “pull back t",
+   "link": "https://www.theguardian.com/law/2026/nov/15/examine-courts-treatment-sexual-assault-victims-says-government-adviser",
+   "published": "2026-11-15T23:19:05+00:00"
   },
   {
    "outlet": "The Guardian",
-   "headline": "Philippines’ Carmelle wins first Eurovision contest in Asia",
-   "summary": "Filipino entry, pop and rap song Sobra-Sobra, takes 19-year-old to victory at grand final in Bangkok Carmelle Collado has won the first Eurovision song contest Asia, taking the Phi",
-   "link": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia",
-   "published": "2026-11-14T19:01:32+00:00"
+   "headline": "US officials recover audio from ‘Mississippi miracle’ cruise ship and tanker crash",
+   "summary": "Tank vessel suffered sudden steering failure two minutes before slamming into docked riverboat near New Orleans Federal safety investigators with the National Transportation Safety",
+   "link": "https://www.theguardian.com/us-news/2026/nov/15/audio-new-orleans-mississippi-river-cruise-tanker-crash",
+   "published": "2026-11-15T23:20:59+00:00"
   },
   {
    "outlet": "The Guardian",
-   "headline": "Evacuation zone lifted after bomb found at Illinois ethanol plant",
-   "summary": "Peoria officials said a bomb was found at BioUrja Renewables and later defused; FBI said it is investigating Residents were ordered to evacuate parts of an Illinois community on Fr",
-   "link": "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb",
-   "published": "2026-11-14T20:14:27+00:00"
+   "headline": "‘Loaded with potential’: stage version of TV smash It’s a Sin has the dancefloor at its heart",
+   "summary": "Exclusive: Trailer released for Rambert’s version of Russell T Davies’s show about friendship amid the 80s Aids crisis and the ‘extraordinary freedom’ of clubbing Russell T Davies’",
+   "link": "https://www.theguardian.com/stage/2026/nov/16/stage-version-tv-series-its-a-sin-trailer",
+   "published": "2026-11-16T00:01:27+00:00"
   },
   {
    "outlet": "The Guardian",
-   "headline": "SpaceX’s Starship returns to launch pad from orbit in victory for company",
-   "summary": "Although booster exploded, company caught upper stage for first time in campaign to make megarocket reusable SpaceX’s megarocket Starship returned to its Texas launch tower on Satu",
-   "link": "https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch",
-   "published": "2026-11-14T22:35:06+00:00"
+   "headline": "Burnham pledges early intervention and ‘benefits backstop’ to tackle youth jobs crisis",
+   "summary": "Prime minister promises ‘root-and-branch rethink’ of support for young people as Milburn report advises sweeping changes to some benefits Andy Burnham: The crisis facing Britain’s ",
+   "link": "https://www.theguardian.com/society/2026/nov/15/no-free-lunch-milburn-mcfadden-kuenssberg-uk-benefits-youth-unemployment-neet",
+   "published": "2026-11-16T00:06:13+00:00"
   },
   {
    "outlet": "The Guardian",
-   "headline": "David Jones’ future looks grim. Is Myer next?",
-   "summary": "With Myer’s profitability battered and share price languishing near all-time lows, DJs’ slide into administration raises an uncomfortable question Get our breaking news email , fre",
-   "link": "https://www.theguardian.com/business/2026/nov/15/myer-david-jones-stores-closures-administration",
-   "published": "2026-11-14T23:00:01+00:00"
+   "headline": "Digital finance products used to abuse almost 20% of young women and girls, UK report finds",
+   "summary": "Survey respondents describe current or former partners controlling bank accounts and taking out credit online without full consent Almost one in five young women and girls in the U",
+   "link": "https://www.theguardian.com/society/2026/nov/15/digital-finance-products-abuse-against-young-women-and-girls-report",
+   "published": "2026-11-16T00:08:23+00:00"
   },
   {
    "outlet": "The Guardian",
-   "headline": "UK government to consider changing age of consent after allegations against Russell Brand",
-   "summary": "Deputy prime minister says change would be a massive step but ‘deserves proper consideration and scrutiny’ The government has said it will consider calls to change the age of conse",
-   "link": "https://www.theguardian.com/law/2026/nov/15/uk-government-to-consider-changing-age-of-consent-after-allegations-against-russell-brand",
-   "published": "2026-11-15T00:17:14+00:00"
+   "headline": "Coles investigating ‘cybersecurity incident’ and apologises to customers",
+   "summary": "Supermarket giant says no customer, team or supplier data breached in cyber-attack but recommends customers update passwords Get our breaking news email , free app or daily news po",
+   "link": "https://www.theguardian.com/business/2026/nov/16/coles-cyber-attack-incident-data",
+   "published": "2026-11-16T00:25:13+00:00"
   },
   {
    "outlet": "The Guardian",
-   "headline": "Thunderstorms, giant hail and powerful winds forecast for NSW as wild weather hits east coast",
-   "summary": "Volatile weather predicted after storms on Saturday, with a man in his 20s struck by lightning while swimming on NSW Central Coast Get our breaking news email , free app or daily n",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/15/australia-weather-east-coast-thunderstorms-giant-hail-and-powerful-winds-ettalong-beach-swimmer-lightning-strike",
-   "published": "2026-11-15T01:52:37+00:00"
+   "headline": "Huge waves pummel California coast, forcing closure of popular piers",
+   "summary": "Large waves up to 50ft flooded southern California streets and prompted evacuation warning near coastal city The California coast was pummeled again on Sunday by huge waves that in",
+   "link": "https://www.theguardian.com/us-news/2026/nov/15/california-coast-waves-piers-closed",
+   "published": "2026-11-16T01:00:42+00:00"
   },
   {
    "outlet": "The Guardian",
-   "headline": "Katherine Deves among four NSW upper house candidates revealed by One Nation",
-   "summary": "Party’s NSW leader Mike Newman says contenders are ‘people from the real world’ and not ‘career politicians’ Get our breaking news email , free app or daily news podcast The failed",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/15/katherine-deves-among-four-nsw-upper-house-candidates-revealed-by-one-nation-ntwnfb",
-   "published": "2026-11-15T02:13:20+00:00"
+   "headline": "Elon Musk joins 158,000 others calling for Nvidia to bring back Jensen Huang in open letter",
+   "summary": "Silicon Valley figures back CEO ousted after revelations of affair with suspected Chinese spy, as US treasury secretary urges Nvidia to carry out ‘dramatic shake-up’ Elon Musk and ",
+   "link": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
+   "published": "2026-11-16T01:01:08+00:00"
   },
   {
-   "outlet": "The Intercept",
-   "headline": "Will Senate Religious Freedom Bill Actually Protect Land Sales for Israeli Settlements?",
-   "summary": "Advocates said the bill was necessary because of protests outside synagogues hosting real estate expos for Israeli settlement land. The post Will Senate Religious Freedom Bill Actu",
-   "link": "https://theintercept.com/2026/11/14/religious-freedom-protest-israeli-settlement-sales/",
-   "published": "2026-11-14T10:00:00+00:00"
+   "outlet": "The Guardian",
+   "headline": "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon",
+   "summary": "Pontiff delivers forceful speech on final day in Peru as he travels from high in the Andes into the Amazon Pope Leo XIV has demanded justice for environmental defenders killed for ",
+   "link": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment",
+   "published": "2026-11-16T01:13:44+00:00"
   },
   {
-   "outlet": "The Intercept",
-   "headline": "The Ceaseless Ceasefire",
-   "summary": "Gaza, “peace,” and surviving a zombie conflict. The post The Ceaseless Ceasefire appeared first on The Intercept .",
-   "link": "https://theintercept.com/2026/11/14/israel-gaza-ceasefire-violations/",
-   "published": "2026-11-14T18:59:33+00:00"
+   "outlet": "The Guardian",
+   "headline": "Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’",
+   "summary": "Company insists Alice Huang, who is accused of being a Chinese spy, left business in late 2025 Get our breaking news email , free app or daily news podcast Megaspeed International,",
+   "link": "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang",
+   "published": "2026-11-16T01:17:04+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "MP Helen Haines leaves hospital four weeks after alleged attack and double leg amputation",
+   "summary": "Independent MP says she is ‘overwhelmed’ by thousands of warm wishes and thanked Australians for donations Independent Australian MP Helen Haines has been discharged from hospital,",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
+   "published": "2026-11-16T02:26:24+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Biden accuses Netanyahu of broken promises, prioritizing political survival over Israel in memoir",
-   "summary": "Former US president Joe Biden accused Netanyahu of making promises he never intended to keep and prioritizing his political survival over Israel's long-term interests.",
-   "link": "https://www.jpost.com/international/article-914840",
-   "published": "2026-11-14T05:00:14+00:00"
+   "headline": "Israel is killing Hamas's next generation of commanders - can it break the cycle? - analysis",
+   "summary": "By targeting replacement commanders soon after their appointments, Israel may seek to prevent Hamas's ability to re-establish its command and control.",
+   "link": "https://www.jpost.com/israel-news/defense-news/article-914911",
+   "published": "2026-11-15T09:33:46+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Vance weighs skipping 2028 run after post blaming Iran war for GOP losses angers Trump - report",
-   "summary": "Allies say the vice president is wrestling with the fracturing of the MAGA coalition, the demands of fatherhood, and whether any Republican can win while the Iran war drags on.",
-   "link": "https://www.jpost.com/american-politics/article-914849",
-   "published": "2026-11-14T10:04:15+00:00"
+   "headline": "Trump blames Biden for nationwide grounding of flights, in first address since crisis",
+   "summary": "His comments came after Transportation Secretary Sean Duffy announced that investigators had determined that a contractor's error or a faulty router had caused the nationwide disru",
+   "link": "https://www.jpost.com/international/article-914962",
+   "published": "2026-11-15T16:17:20+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Military boots lead police to classified Gaza border map in Palestinian’s West Bank home",
-   "summary": "When questioned about his boots, the man said they belonged to his son, then told officers he had more military equipment at home.",
-   "link": "https://www.jpost.com/israel-news/defense-news/article-914853",
-   "published": "2026-11-14T11:50:36+00:00"
+   "headline": "UN ambassadors enter Gaza for first time, tour Hamas tunnel with Israeli envoy Danny Danon",
+   "summary": "The visit began at Kibbutz Kfar Aza, one of the communities devastated during Hamas's October 7 attack. The ambassadors were shown the destruction left by the massacre before cross",
+   "link": "https://www.jpost.com/israel-news/article-914964",
+   "published": "2026-11-15T16:58:11+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Antisemitism endures in Putin’s Russia, where tsarist myths and Soviet anti-Zionism meet - analysis",
-   "summary": "Russia officially commemorates the Holocaust, yet tsarist blood libels, Soviet anti-Zionism, and remarks by Putin and Lavrov keep old antisemitic tropes alive.",
-   "link": "https://www.jpost.com/diaspora/antisemitism/article-914855",
-   "published": "2026-11-14T12:01:42+00:00"
+   "headline": "Can ICJ's ruling on Myanmar's Rohingya genocide affect South Africa's case on Israel? - explainer",
+   "summary": "The ICJ's landmark ruling on Myanmar's alleged Rohingya genocide could set a historic precedent for South Africa's genocide case against Israel in Gaza.",
+   "link": "https://www.jpost.com/international/article-914949",
+   "published": "2026-11-15T16:59:35+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Israeli study finds why humans suffer from joint pain while other great apes stay agile",
-   "summary": "The researchers proposed an answer based on hybrid human-chimpanzee cells and other advanced techniques. They reveal that painful joints may be a hidden price we pay for traits tha",
-   "link": "https://www.jpost.com/health-and-wellness/article-914672",
-   "published": "2026-11-14T12:48:58+00:00"
+   "headline": "UK barrister who called for ‘final solution’ for Israel gets four-month suspension, sparking outcry",
+   "summary": "A tribunal found Forz Khan’s LinkedIn posts “antisemitic and/or seriously offensive,” but MP Nick Timothy criticized the four-month suspension as lenient.",
+   "link": "https://www.jpost.com/diaspora/antisemitism/article-914967",
+   "published": "2026-11-15T17:46:20+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "One killed, three wounded in grenade explosion in northern Israel's Kafr Manda",
-   "summary": "A grenade exploded at a business in the northern Arab town on Saturday, killing a woman and wounding three others as police opened an investigation.",
-   "link": "https://www.jpost.com/israel-news/defense-news/article-914861",
-   "published": "2026-11-14T14:53:16+00:00"
+   "headline": "Hamas commander targeted at Nasser Hospital loses leg, suffers severe head injury",
+   "summary": "Israeli sources say Hamas's Khan Yunis commander survived the Nasser Hospital strike but suffered severe head injuries and had his leg amputated.",
+   "link": "https://www.jpost.com/middle-east/article-914977",
+   "published": "2026-11-15T19:10:32+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Trump tells advisers he may hold off on Iran attacks barring new provocations",
-   "summary": "Trump has alternated between threats of escalating the war with new strikes and winding down hostilities, and current and former officials say he does not appear to have made up hi",
-   "link": "https://www.jpost.com/middle-east/iran-news/article-914862",
-   "published": "2026-11-14T15:48:09+00:00"
+   "headline": "Mossad in crisis? Why Roman Gofman's firings and Iran strategy tell a more complicated story",
+   "summary": "The Mossad claimed that the N12 report “recycles old stories and allegations while artificially linking unrelated events and taking them out of context, in an attempt to manufactur",
+   "link": "https://www.jpost.com/israel-news/article-914979",
+   "published": "2026-11-15T20:01:42+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Musk says Nvidia will lose 'critical' deals without Jensen Huang",
-   "summary": "Musk said that while Huang drove supply chain \"brilliantly\" at Nvidia, many such deals were \"a handshake with Jensen, not a written contract.\"",
-   "link": "https://www.jpost.com/business-and-innovation/article-914867",
-   "published": "2026-11-14T17:06:01+00:00"
+   "headline": "Hamas in Britain: How alleged terror operatives made the UK their home - explainer",
+   "summary": "The Jerusalem Post investigated multiple individuals, their connections to Hamas, and their immigration status, revealing a history of alleged Hamas activity in Britain that stretc",
+   "link": "https://www.jpost.com/international/article-914984",
+   "published": "2026-11-15T20:29:52+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Netanyahu buys time as haredi parties weigh Eisenkot coalition, but lacks alternative - analysis",
-   "summary": "Netanyahu is buying time as haredi parties weigh joining Eisenkot, but the prime minister has yet to offer a viable alternative to a change of government.",
-   "link": "https://www.jpost.com/israel-election-2026/article-914868",
-   "published": "2026-11-14T17:58:24+00:00"
+   "headline": "Netanyahu's office linked to Ra'am arrests on Election Day amid election scandal - report",
+   "summary": "In response to the Channel 12 report, the Prime Minister's Office issued a statement roundly denying the allegations.",
+   "link": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914987",
+   "published": "2026-11-15T21:08:28+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Israel fears surprise US strike on Iran as nuclear talks fuel concerns of escalation - analysis",
-   "summary": "To minimize risk of being caught off guard, the IDF is strengthening coordination with the US military and raising its level of alert across intelligence monitoring, early warning,",
-   "link": "https://www.jpost.com/middle-east/iran-news/article-914880",
-   "published": "2026-11-14T22:00:28+00:00"
+   "headline": "'Despicable blood libel’: Jabareen slams Netanyahu over Ra’am Election Day arrests report",
+   "summary": "The Prime Minister’s Office called the N12 report “false,” saying Chief of Staff Ido Norden only connected a source with criminal information to the police.",
+   "link": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914988",
+   "published": "2026-11-15T21:53:07+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Nearly 90 years after a German officer defied Nazis on Kristallnacht, police pledge to protect Jews",
-   "summary": "Over 1,400 synagogues were burned and ransacked, including Germany’s then-largest Neue Synagogue in Berlin. Because of one police officer’s moral conviction, this historic synagogu",
-   "link": "https://www.jpost.com/diaspora/antisemitism/article-914673",
-   "published": "2026-11-14T22:07:24+00:00"
+   "headline": "Jensen Huang considers Nvidia comeback as Silicon Valley allies rally in support - report",
+   "summary": "Silicon Valley leaders, including Elon Musk, are backing Jensen Huang's return to Nvidia despite a board investigation and opposition in Washington.",
+   "link": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-914991",
+   "published": "2026-11-15T22:09:22+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "In the Netherlands, even a souvenir in a Jew's suitcase can become a political issue - opinion",
-   "summary": "From Hebron to Jerusalem, Europe’s settlement boycott overlooks the Jewish communities expelled long before Israel’s founding.",
-   "link": "https://www.jpost.com/opinion/article-914574",
-   "published": "2026-11-14T23:37:52+00:00"
+   "headline": "A warning to the US: Do not repeat the mistakes of Iran's 1979 revolution - opinion",
+   "summary": "My criticism is not directed at Muslims as individuals. It is directed at religious doctrines that I believe conflict with equality, personal freedom, and constitutional rights.",
+   "link": "https://www.jpost.com/opinion/article-914697",
+   "published": "2026-11-15T22:10:50+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "'Israel has always killed children': Albanese's claim echoes history of blood libels - opinion",
-   "summary": "What is an Israeli woman who survived the attack supposed to understand when she hears a UN rapporteur explain why the evidence failed to convince her?",
-   "link": "https://www.jpost.com/opinion/article-914423",
-   "published": "2026-11-14T23:38:48+00:00"
+   "headline": "The open gate: How the West is being walked into the killing field - opinion",
+   "summary": "The awkward problem is Washington’s readiness to confuse diplomatic usefulness with alignment of interests.",
+   "link": "https://www.jpost.com/opinion/article-914684",
+   "published": "2026-11-15T22:14:06+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "How an evolutionary biologist is taking the fight to the 'mutating virus' of anti-Zionism",
-   "summary": "DIASPORA AFFAIRS: Challenging the way Jewish communities confront anti-Israel hostility, Stephanie Spielman argues that the time has come to expose the ideology, rather than endles",
-   "link": "https://www.jpost.com/diaspora/article-914770",
-   "published": "2026-11-14T23:53:31+00:00"
+   "headline": "Despite frigid weather and floods, Hamas stops UN from building weatherproof Gaza shelters - report",
+   "summary": "Hamas operatives threatened the ministry staff with violence if they continued working alongside the UNDP on the project, the PA official told Jusoor News International.",
+   "link": "https://www.jpost.com/middle-east/article-914986",
+   "published": "2026-11-15T22:18:58+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "On the Swiss beat: Boston-born, Zurich-based saxophonist brings his heart to Tel Aviv - interview",
-   "summary": "Considering he has been based in Switzerland for the past eight years, at least Neal Sugarman's trip over here will be shorter, and he won’t have to deal with crippling jet lag.",
-   "link": "https://www.jpost.com/israel-news/culture/article-914685",
-   "published": "2026-11-15T00:02:52+00:00"
+   "headline": "Rocket from Boeing-Lockheed firm fails mid-flight, destroys payload of Amazon satellites",
+   "summary": "Boeing and Lockheed Martin's rocket venture suffered its first mission failure when a Vulcan rocket carrying 40 Amazon Leo satellites failed to reach orbit.",
+   "link": "https://www.jpost.com/international/article-915000",
+   "published": "2026-11-16T00:42:53+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Senior Hamas terrorist targeted in IDF, Shin Bet strike",
-   "summary": "Defense Minister Israel Katz indicated in a social media post shortly after the IDF announcement on Saturday night that the target had been killed. The IDF had not yet confirmed hi",
-   "link": "https://www.jpost.com/israel-news/defense-news/article-914887",
-   "published": "2026-11-15T00:30:30+00:00"
+   "headline": "Third US aircraft carrier enters Middle East as Trump heads to China for talks with Xi, Putin",
+   "summary": "The arrival of the USS Theodore Roosevelt brings three US carrier strike groups into CENTCOM’s area of responsibility as Trump prepares to discuss Iran with the Chinese and Russian",
+   "link": "https://www.jpost.com/middle-east/article-915003",
+   "published": "2026-11-16T01:45:35+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "US Democrat who defeated embattled Republican Max Miller faces harassment probe - report",
-   "summary": "Newly elected US Democrat Brian Poindexter faces a sexual harassment investigation after defeating Republican Max Miller in a closely watched Ohio race.",
-   "link": "https://www.jpost.com/american-politics/article-914879",
-   "published": "2026-11-15T01:18:18+00:00"
+   "headline": "Police recover antique Torah scroll case stolen from Jerusalem synagogue over 20 years ago",
+   "summary": "Police examining the case discovered an inscription with the names of its donors, which then led to an investigation into its origins and rightful ownership.",
+   "link": "https://www.jpost.com/israel-news/article-915006",
+   "published": "2026-11-16T03:23:52+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Katie Zacharia backs 'Bring Back the Boss' push to reinstate ousted Nvidia CEO Jensen Huang",
-   "summary": "Huang, who had resigned as CEO following the revelation of an affair with a suspected Chinese spy, is being considered for a return to the role, according to leaked posts.",
-   "link": "https://www.jpost.com/american-politics/article-914890",
-   "published": "2026-11-15T02:32:22+00:00"
+   "headline": "Liberman's party rules out Netanyahu unity government as Eisenkot faces growing coalition pressure",
+   "summary": "Yisrael Beytenu MK Yulia Malinovsky ruled out joining a Netanyahu-led unity government as Eisenkot struggles to secure a majority amid negotiations with Likud and haredi parties.",
+   "link": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915007",
+   "published": "2026-11-16T04:05:12+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Violence flares in West Bank as Palestinians stone Israeli car, masked rioters attack olive harvest",
-   "summary": "An Israeli driver was lightly hurt when Palestinians threw rocks at a car near Hebron on Saturday, and five Palestinians were wounded when masked rioters attacked an olive harvest ",
-   "link": "https://www.jpost.com/israel-news/defense-news/article-914891",
-   "published": "2026-11-15T02:58:54+00:00"
+   "headline": "Turkey marks Palestinian independence from Jerusalem mission, vows continued support",
+   "summary": "Turkey's consulate in Jerusalem marked 38 years since the Palestinian declaration of independence, calling Palestine a \"sister state\" and pledging to defend Palestinian rights inte",
+   "link": "https://www.jpost.com/middle-east/article-915005",
+   "published": "2026-11-16T04:08:27+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "US Justice Department warns Senator Warren over records preservation",
+   "summary": "The DOJ warned Senator Warren of \"significant legal consequences\" if she failed to preserve records related to potential investigations of Trump.",
+   "link": "https://www.jpost.com/international/article-915008",
+   "published": "2026-11-16T04:28:49+00:00"
   },
   {
    "outlet": "The Moscow Times",
-   "headline": "Zelensky Escalates Criticism of SpaceX Over Speed Caps",
-   "summary": "Zelensky said the speed restrictions made it more difficult for Ukrainian air defense units to intercept Russian jet-powered drones and made Ukrainian cities more vulnerable.",
-   "link": "https://www.themoscowtimes.com/2026/11/14/zelensky-a94262",
-   "published": "2026-11-14T15:16:59+00:00"
+   "headline": "At Least 1 Killed as Ukraine Strikes Industrial Sites Across Russia",
+   "summary": "Ukraine’s military claimed responsibility for strikes in Tatarstan, saying it had targeted the Nizhnekamskneftekhim petrochemical complex.",
+   "link": "https://www.themoscowtimes.com/2026/11/15/at-least-1-killed-as-ukraine-strikes-industrial-sites-across-russia-a94264",
+   "published": "2026-11-15T12:32:23+00:00"
   }
  ]
 }
