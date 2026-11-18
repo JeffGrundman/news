@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T04:05:13.859861+00:00",
+ "built": "2026-11-18T04:34:27.849069+00:00",
  "window_hours": 24,
  "part": "briefing-input-2.json",
  "all_parts": [
@@ -8,7 +8,11 @@
   "briefing-input-3.json"
  ],
  "outlets_here": [
+  "DW News",
+  "FactCheck.org",
+  "Foreign Policy",
   "Fortune",
+  "Good Good Good",
   "Good News Network",
   "Inside Climate News",
   "KFF Health News",
@@ -17,15 +21,11 @@
   "PBS NewsHour",
   "Politico",
   "Politico Europe",
-  "PolitiFact",
   "ProPublica",
   "Reason",
-  "Rest of World",
-  "Science News",
-  "Semafor",
-  "STAT"
+  "Science News"
  ],
- "story_count": 136,
+ "story_count": 127,
  "feeds_with_problems": [
   "https://www.cbc.ca/webfeed/rss/rss-world: Remote end closed connection without response",
   "https://san.com/feed/: no items",
@@ -37,956 +37,893 @@
  ],
  "stories": [
   {
-   "outlet": "Fortune",
-   "headline": "‘Absurd’: Delta CEO says it takes longer to fly from ATL to LGA today than in the 1950s",
-   "summary": "Ed Bastian said at the Fortune 500 Innovation Forum that congested air traffic control infrastructure plays a part and it needs fixing.",
-   "link": "https://fortune.com/2026/11/16/delta-ceo-ed-bastian-atlanta-laguardia-flight-1950s-faa/",
-   "published": "2026-11-16T18:13:32+00:00"
+   "outlet": "DW News",
+   "headline": "Germany news: Plans for Rwanda migrant hub come under fire",
+   "summary": "Human rights groups have slammed plans by Germany and four other EU states to send rejected asylum seekers to Rwanda. In other news, business start-ups in Germany are on track to r",
+   "link": "https://www.dw.com/en/germany-news-plans-for-rwanda-migrant-hub-come-under-fire/live-79965639?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-17T10:15:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "Could the Airbus' €3 billion loan row reignite a US-EU trade dispute?",
+   "summary": "The US says a record €3 billion financing package for Airbus may conflict with a transatlantic aircraft-subsidy truce. EU officials insist the funding complies with market-based ru",
+   "link": "https://www.dw.com/en/could-the-airbus-€3-billion-loan-row-reignite-a-us-eu-trade-dispute/a-79943075?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-17T11:00:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "Ukraine updates: Russia-Crimea bridge appears destroyed after strike",
+   "summary": "Zelenskyy said a strike on the Kerch bridge in Crimea was in response to continued Russian attacks targeting his country's infrastructure. Meanwhile, two bridges were hit in Russia",
+   "link": "https://www.dw.com/en/ukraine-updates-russia-crimea-bridge-appears-destroyed-after-strike/live-79964446?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-17T11:13:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "Klopp and Wirtz offer glimpse of bright German future",
+   "summary": "Germany's fall from grace in recent years has seen the team drift away from the fans. But Monday's drubbing of the Netherlands and the impact of Jürgen Klopp, Florian Wirtz and eme",
+   "link": "https://www.dw.com/en/klopp-and-wirtz-offer-glimpse-of-bright-german-future/a-79968184?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-17T11:55:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "Students' List candidates take seats as Serbian parliament opens",
+   "summary": "Serbia's Student List's candidates have taken their oaths in the inaugural parliament session. As the new majority, they have 90 days to form a government.",
+   "link": "https://www.dw.com/en/students-list-candidates-take-seats-as-serbian-parliament-opens/a-79969166?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-17T12:09:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "US flexes climate action muscle at COP31 despite Trump no-show",
+   "summary": "The US government is snubbing UN climate talks in Turkey. That's prompted a delegation of American lawmakers, mayors and governors to make the trip instead, aiming to show climate ",
+   "link": "https://www.dw.com/en/us-flexes-climate-action-muscle-at-cop31-despite-trump-no-show/a-79968666?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-17T12:16:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "Guinea jails 200 in wildcat gold mining crackdown",
+   "summary": "A Conakry court has jailed 22 former local officials from the gold-rich northeastern Siguiri region, as well as 200 people accused of illegal mining. It's part of a wider crackdown",
+   "link": "https://www.dw.com/en/guinea-jails-200-in-wildcat-gold-mining-crackdown/a-79968808?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-17T12:30:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "APEC summit: What Trump, Xi and Putin want",
+   "summary": "Trump, Xi and Putin will hold their first trilateral meeting on the sidelines of APEC. With different priorities on trade, Ukraine, Iran and arms control, what does each leader hop",
+   "link": "https://www.dw.com/en/apec-summit-what-trump-xi-and-putin-want/a-79970462?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-17T14:25:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "Iran dismisses report of alleged 'dirty bomb' attack on Washington",
+   "summary": "Iran has said CNN's claim that Tehran would attack Washington with a \"dirty bomb\" was an attempt to manufacture further legitimacy to continue the war. Trump has said his administr",
+   "link": "https://www.dw.com/en/iran-dismisses-report-of-alleged-dirty-bomb-attack-on-washington/a-79970741?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-17T14:39:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "Nvidia forms national security committee after Huang affair",
+   "summary": "Nvidia has created a board-level committee for national security and export control. This follows the resignation of CEO Jensen Huang over extramarital affairs, allegedly including",
+   "link": "https://www.dw.com/en/nvidia-forms-national-security-committee-after-huang-affair/a-79970447?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-17T14:53:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "Fresh clashes at the Eritrean border — is Ethiopia sliding into a regional war?",
+   "summary": "As Ethiopian troops push Tigrayan forces toward the Eritrean border, fears of a new regional war are growing. With tensions rising between Ethiopia, Eritrea and Sudan, the Horn of ",
+   "link": "https://www.dw.com/en/fresh-clashes-at-the-eritrean-border-is-ethiopia-sliding-into-a-regional-war/a-79970353?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-17T15:43:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "Rights court rules Turkey must release jailed lawmaker Atalay",
+   "summary": "The European Court of Human Rights has called for the release of imprisoned elected lawmaker Can Atalay. Atalay has been in prison for almost five years despite rulings from the Tu",
+   "link": "https://www.dw.com/en/rights-court-rules-turkey-must-release-jailed-lawmaker-atalay/a-79972462?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-17T15:47:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "Back to 1997: Russia wants NATO to roll back its eastern expansion",
+   "summary": "The Kremlin is reportedly calling on NATO to withdraw from large parts of Eastern Europe. What this would mean for the security of millions of Europeans — and what lies behind Russ",
+   "link": "https://www.dw.com/en/back-to-1997-russia-wants-nato-to-roll-back-its-eastern-expansion/a-79970289?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-17T16:20:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "US and Mexico lose measles-free status",
+   "summary": "The United States lost its measles elimination status after 26 years, the Pan American Health Organization has said. Bolivia and Mexico have also lost their measles elimination sta",
+   "link": "https://www.dw.com/en/us-and-mexico-lose-measles-free-status/a-79973966?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-17T16:40:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "Saudi Arabia: Rights groups raise alarm over rising number of executions",
+   "summary": "Amid the war in Iran, Saudi Arabia's human rights situation remains bleak, with at least 211 executions, corporal punishment and an intensifying crackdown on critics. Is the region",
+   "link": "https://www.dw.com/en/saudi-arabia-rights-groups-raise-alarm-over-rising-number-of-executions/a-79970773?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-17T17:02:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "Deutsche Bank under fire after internal documents made public",
+   "summary": "A cache of internal records outlines the bank's dealings with Jeffrey Epstein, Donald Trump and Russian oligarchs. The German lender has sought to deflect criticism by claiming its",
+   "link": "https://www.dw.com/en/deutsche-bank-under-fire-after-internal-documents-made-public/a-79974543?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-17T18:32:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "EU, ASEAN pursue deeper trade ties, but hurdles remain as businesses struggle with informal barriers",
+   "summary": "2027 could be a landmark year for EU–Southeast Asia trade, with several deals nearing completion. But the harder task will be to ensure that businesses actually use them.",
+   "link": "https://www.dw.com/en/eu-asean-pursue-deeper-trade-ties-but-hurdles-remain-as-businesses-struggle-with-informal-barriers/a-79971350?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-17T18:39:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "Hashim Thaci's second conviction in The Hague reignites debate in Kosovo about justice and the Kosovo Specialist Chambers",
+   "summary": "Former President Hashim Thaci has been convicted of trying to influence witnesses in his war crimes trial. The conviction has reignited debate in Kosovo about the Kosovo Specialist",
+   "link": "https://www.dw.com/en/hashim-thaci-s-second-conviction-in-the-hague-reignites-debate-in-kosovo-about-justice-and-the-kosovo-specialist-chambers/a-79975227?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-17T20:40:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "Nvidia beats Q3 expectations in first report post-Jensen Huang",
+   "summary": "The AI chipmaker said it doubled its third-quarter revenue and confirmed that Jensen Huang would not be reinstated as CEO after a Chinese spy scandal.",
+   "link": "https://www.dw.com/en/nvidia-beats-q3-expectations-in-first-report-post-jensen-huang/a-79975683?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-18T00:34:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "Slovakia: Thousands protest against pro-Kremlin leader Robert Fico",
+   "summary": "Prime Minister Robert Fico has been under fire over his ties to Russia. The rallies were held on the anniversary of the 1989 Velvet Revolution that toppled communism in Czechoslova",
+   "link": "https://www.dw.com/en/slovakia-thousands-protest-against-pro-kremlin-leader-robert-fico/a-79976078?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-18T03:06:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "Pakistani man gets 27 years for foiled plot to kill Trump, Biden",
+   "summary": "A Pakistani man with ties to Iran's government was sentenced to more than 27 years in prison for his role in plotting to kill US politicians, including President Donald Trump.",
+   "link": "https://www.dw.com/en/pakistani-man-gets-27-years-for-foiled-plot-to-kill-trump-biden/a-79976086?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-18T04:03:00+00:00"
+  },
+  {
+   "outlet": "FactCheck.org",
+   "headline": "Unpacking the Partisan Finger-Pointing Over FAA Funding",
+   "summary": "The grounding of thousands of flights on Nov. 13 set off a round of partisan finger-pointing over who’s to blame for the state of the nation’s aging air traffic control system. The",
+   "link": "https://www.factcheck.org/2026/11/unpacking-the-partisan-finger-pointing-over-faa-funding/",
+   "published": "2026-11-17T22:31:17+00:00"
+  },
+  {
+   "outlet": "Foreign Policy",
+   "headline": "America Can’t Racially Profile Its Way to AI Supremacy",
+   "summary": "U.S. public discourse is threatening to make the country even more vulnerable to foreign threats.",
+   "link": "https://foreignpolicy.com/2026/11/17/nvidia-scandal-jensen-huang-racial-profiling-usa-intelligence-ai/",
+   "published": "2026-11-17T12:49:13+00:00"
+  },
+  {
+   "outlet": "Foreign Policy",
+   "headline": "The National Security Case for Permitting Reform",
+   "summary": "Expanding the U.S. grid is vital to staying globally competitive.",
+   "link": "https://foreignpolicy.com/2026/11/17/baaja-national-security-trump-permitting-reform/",
+   "published": "2026-11-17T16:27:29+00:00"
+  },
+  {
+   "outlet": "Foreign Policy",
+   "headline": "The AI Safety Debate Has a Human Rights Blind Spot",
+   "summary": "Instead of writing its own rules, the industry should look to a framework that already exists.",
+   "link": "https://foreignpolicy.com/2026/11/17/ai-human-rights-safety-debate-regulation-united-nations/",
+   "published": "2026-11-17T16:53:25+00:00"
+  },
+  {
+   "outlet": "Foreign Policy",
+   "headline": "European Rearmament Risks Political Peril",
+   "summary": "Some policymakers are out of step with a cost-of-living crisis, as recent unrest shows.",
+   "link": "https://foreignpolicy.com/2026/11/17/europe-rearmament-russia-ukraine-defense-social-spending-protest/",
+   "published": "2026-11-17T17:11:46+00:00"
+  },
+  {
+   "outlet": "Foreign Policy",
+   "headline": "Ecuador’s Fraught Mining Boom",
+   "summary": "President Daniel Noboa’s economic agenda puts him at odds with the constitution.",
+   "link": "https://foreignpolicy.com/2026/11/17/ecuador-mining-boom-noboa-agenda-economics-environment-democracy/",
+   "published": "2026-11-17T17:44:42+00:00"
+  },
+  {
+   "outlet": "Foreign Policy",
+   "headline": "Will Iraqi Kurdistan Break Apart?",
+   "summary": "Amid wider regional conflict, an escalating parliamentary battle threatens to split Iraq’s Kurdish region.",
+   "link": "https://foreignpolicy.com/2026/11/17/kurdistan-iraq-puk-kdp-talabani-barzani-split/",
+   "published": "2026-11-17T19:13:40+00:00"
+  },
+  {
+   "outlet": "Foreign Policy",
+   "headline": "5 Freshmen Democratic Lawmakers to Watch",
+   "summary": "Meet the potential foreign-policy and national security big hitters of the next Congress.",
+   "link": "https://foreignpolicy.com/2026/11/17/freshmen-house-democratic-lawmakers-congress-israel-defense-military/",
+   "published": "2026-11-17T20:31:45+00:00"
+  },
+  {
+   "outlet": "Foreign Policy",
+   "headline": "Xi Makes the Most of Trump’s Asia-Pacific Trip",
+   "summary": "The Chinese president is currying favor with some of the region’s most powerful leaders.",
+   "link": "https://foreignpolicy.com/2026/11/17/china-xi-trade-canada-tariffs-peru-trump-asean-apec/",
+   "published": "2026-11-17T21:52:41+00:00"
   },
   {
    "outlet": "Fortune",
-   "headline": "Days after Microsoft and the FAA went dark, Chase and Wells Fargo customers can’t get to their money",
-   "summary": "Chase blamed a “technical issue” as customers at several big U.S. banks reported trouble moving money on Monday.",
-   "link": "https://fortune.com/2026/11/16/chase-bank-wells-fargo-capital-one-bank-outages/",
-   "published": "2026-11-16T20:35:43+00:00"
+   "headline": "To appoint the next comptroller general of the United States, follow the law",
+   "summary": "Rand Paul and Trump skipped the law’s selection panel",
+   "link": "https://fortune.com/2026/11/17/comptroller-general-gao-appointment-rand-paul-trump-law/",
+   "published": "2026-11-17T19:14:56+00:00"
   },
   {
    "outlet": "Fortune",
-   "headline": "‘We’re having to overcome brand America’: Kraft Heinz CEO says made-in-U.S.A. designation is more ‘complicated’ in appealing to Canadian customers",
-   "summary": "As U.S.-based companies navigate the continued impact of tariffs, brands like Kraft Heinz are figuring out how to woo some non-American consumers.",
-   "link": "https://fortune.com/2026/11/16/kraft-heinz-ceo-brand-america-canadian-consumers-tariff-boycott/",
-   "published": "2026-11-16T20:53:29+00:00"
+   "headline": "Altria CEO says ‘responsibility needs to be at the heart’ of its FDA-regulated nicotine business. It’s part of why it sued the regulator",
+   "summary": "“It should be an even playing field,” Sal Mancuso told Fortune, “not a playing field where bad actors are in a better position than responsible companies like ours.”",
+   "link": "https://fortune.com/2026/11/17/altria-ceo-says-responsibility-needs-to-be-at-the-heart-business-sued-fda/",
+   "published": "2026-11-17T19:37:57+00:00"
   },
   {
    "outlet": "Fortune",
-   "headline": "Top Chamber of Commerce official says the midterms weren’t just about prices: They were about 20 years of 2% growth",
-   "summary": "Neil Bradley warned Washington against “the easy button” of rate caps and price controls. His growth math holds up; his fix is another matter.",
-   "link": "https://fortune.com/2026/11/16/us-chamber-neil-bradley-midterms-growth-easy-button-price-controls/",
-   "published": "2026-11-16T21:32:41+00:00"
+   "headline": "Microsoft’s Satya Nadella praises Jensen Huang, says return as CEO is ‘up to the Nvidia board’",
+   "summary": "Haung recently resigned as Nvidia CEO after admitting to an affair with a woman suspected to be a Chinese spy.",
+   "link": "https://fortune.com/2026/11/17/microsofts-satya-nadella-jensen-huang-a-singular-person-but-its-up-to-nvidia-to-decide-whether-to-bring-him-back-as-ceo/",
+   "published": "2026-11-17T19:58:45+00:00"
   },
   {
    "outlet": "Fortune",
-   "headline": "Michigan’s next governor hasn’t talked to Trump yet—but wants to work with him on a 50% auto tariff set for her first day",
-   "summary": "Benson says she’ll run Michigan as its “CEO,” pairing lower costs with higher wages.",
-   "link": "https://fortune.com/2026/11/16/jocelyn-benson-michigan-governor-trump-auto-tariffs-fortune-500-innovation-forum/",
-   "published": "2026-11-16T21:43:44+00:00"
+   "headline": "Optum’s CEO still works weekends as a pediatrician. What he sees ‘should not happen in America, but it does every single day’",
+   "summary": "Patrick Conway told the Fortune 500 Innovation Forum about a teen who called more than 100 people trying to get mental health care.",
+   "link": "https://fortune.com/2026/11/17/optum-ceo-patrick-conway-pediatrician-weekends-unitedhealth-health-care/",
+   "published": "2026-11-17T21:27:51+00:00"
   },
   {
    "outlet": "Fortune",
-   "headline": "Honeywell Technologies CEO says 50 years of automation have gotten too complex for the humans running it",
-   "summary": "Vimal Kapur says “physical AI” is the fix for hospitals, data centers and refineries where people can no longer keep up with the exceptions.",
-   "link": "https://fortune.com/2026/11/16/honeywell-ceo-vimal-kapur-physical-ai-automation-too-complex-humans/",
-   "published": "2026-11-16T22:04:46+00:00"
+   "headline": "Nvidia raised next year’s sales target by tens of billions of dollars, signaling confidence in its future without Jensen Huang",
+   "summary": "The AI chip company delivered better-than-expected Q3 earnings results, and delivered a strong forecast.",
+   "link": "https://fortune.com/2026/11/17/nvidia-nvda-earnings-q3-2027-revenue-forecast-beat-wall-street-jensen-huang-resignation-colette-kress/",
+   "published": "2026-11-17T21:38:33+00:00"
   },
   {
    "outlet": "Fortune",
-   "headline": "‘Work on what people think is important.’ U.S. Steel’s CEO has advice for Democrats after the midterms: Focus on affordability, not court fights",
-   "summary": "Combatting Trump shouldn’t be the Democrats’ first priority, U.S. Steel CEO David Burritt says.",
-   "link": "https://fortune.com/2026/11/16/us-steel-ceo-democrats-midterms-affordability-court-fights/",
-   "published": "2026-11-16T22:12:47+00:00"
+   "headline": "‘Wolf of Wall Street’ Jordan Belfort on his AI salespeople who are better than humans: ‘What if you have a bad apple that says stuff?’",
+   "summary": "Belfort told Fortune that his AI voice startup, Tone, has about $1 million in revenue, $10 million raised, and an API launching in about a week.",
+   "link": "https://fortune.com/2026/11/17/wolf-of-wall-street-jordan-belfort-startups-tone-ai-voice-tech/",
+   "published": "2026-11-17T22:07:41+00:00"
   },
   {
    "outlet": "Fortune",
-   "headline": "Newly reelected Sen. John Hickenlooper sketches Democrats’ AI line: race China, but regulate frontier models like nuclear weapons and airplanes",
-   "summary": "The Colorado Democrat says AI may not need “unlimited” self-improvement and data centers should pay for their own grid upgrades.",
-   "link": "https://fortune.com/2026/11/16/john-hickenlooper-democrats-ai-outline-frontier-regulation/",
-   "published": "2026-11-16T22:15:16+00:00"
+   "headline": "Yum China CEO Joey Wat: What China’s consumer market can teach global business",
+   "summary": "When I was 15, I worked part-time as a restaurant food runner. It taught me the dignity of hard work and the importance of frontline employees.",
+   "link": "https://fortune.com/2026/11/17/china-consumer-market-lessons-global-business-yum-china-joey-wat/",
+   "published": "2026-11-17T23:00:00+00:00"
   },
   {
    "outlet": "Fortune",
-   "headline": "‘A complete evaporation of confidence’–6 critical things Nvidia, and interim CEO Colette Kress, need to nail on the first Jensen-free earnings call",
-   "summary": "And will Wall Street’s top analysts ask the hard questions with the global investor community watching?",
-   "link": "https://fortune.com/2026/11/16/nvidia-stock-earnings-jensen-huang-colette-kress/",
-   "published": "2026-11-16T23:02:48+00:00"
+   "headline": "Nvidia chair closes the door on Jensen Huang comeback; analysts don’t push on China/Singapore black box",
+   "summary": "Nvidia chair Harvey Jones said the board “does not intend to reinstate Jensen as CEO\" and declined to take any further questions about him.",
+   "link": "https://fortune.com/2026/11/17/nvidia-chair-harvey-jones-jensen-huang-comeback-earnings-call-analysts-china-singapore/",
+   "published": "2026-11-18T00:13:51+00:00"
   },
   {
    "outlet": "Fortune",
-   "headline": "How Airbnb cofounder and US Design Chief Joe Gebbia fixed a $100 million government problem for $1.5 million",
-   "summary": "The US chief design officer says ex-Airbnb engineers brought federal retirement online in six months. Now he wants to do the same for 29,000 government websites.",
-   "link": "https://fortune.com/2026/11/16/airbnb-joe-gebbia-government-retirement-100-million/",
-   "published": "2026-11-16T23:23:58+00:00"
+   "headline": "‘If you don’t act now, it will be existential’: Defense tech CEOs say Pentagon’s ‘Industrial Age’ bureaucracy must adapt",
+   "summary": "The wars in Ukraine and Iran are accelerating demand for defense tech, which went from a taboo investment to a venture capital darling.",
+   "link": "https://fortune.com/2026/11/17/pentagon-defense-tech-shield-ai-bureaucracy/",
+   "published": "2026-11-18T01:11:16+00:00"
+  },
+  {
+   "outlet": "Fortune",
+   "headline": "Nvidia’s tutorial on genuine good governance, needed by tech bros and governistas alike",
+   "summary": "Both camps ignore the real collapse of board oversight.",
+   "link": "https://fortune.com/2026/11/17/nvidia-board-governance-tech-bros-governistas-sonnenfeld/",
+   "published": "2026-11-18T01:14:36+00:00"
+  },
+  {
+   "outlet": "Good Good Good",
+   "headline": "When it comes to inspiring good actions, stories work 22 times better than facts alone",
+   "summary": "Stanford University behavioral scientist Jennifer Aaker studied the impact of a well-told story versus dispensing facts alone.",
+   "link": "https://www.goodgoodgood.co/articles/good-actions-inspiration-new-study",
+   "published": "2026-11-17T15:36:00+00:00"
   },
   {
    "outlet": "Good News Network",
-   "headline": "Good News in History, November 16",
-   "summary": "81 years ago today, UNESCO was first formed to promote world peace by uniting countries through education, the arts, sciences, and culture. Fostering universal respect for all nati",
-   "link": "https://www.goodnewsnetwork.org/events061116/",
-   "published": "2026-11-16T08:00:00+00:00"
+   "headline": "Good News in History, November 17",
+   "summary": "56 years ago today, a patent on the first computer mouse was presented to the engineer and inventor Douglas Engelbart. He became an internet and computer pioneer at the Stanford Re",
+   "link": "https://www.goodnewsnetwork.org/events061117/",
+   "published": "2026-11-17T08:00:00+00:00"
   },
   {
    "outlet": "Good News Network",
-   "headline": "Climbers Lug Endangered and Orphaned Seal Pup Up a Cliff to Safety",
-   "summary": "What began as an exciting hiking trip quickly turned into something else entirely when climbers in Greece found an orphaned seal pup on a beach at the bottom of a cliff. Considered",
-   "link": "https://www.goodnewsnetwork.org/climbers-lug-endangered-and-orphaned-seal-pup-up-a-cliff-to-safety/",
-   "published": "2026-11-16T12:30:00+00:00"
+   "headline": "A Waterfall of Fog and Lots of Lighting, These Images Won the UK’s Weather Photography Awards",
+   "summary": "From a waterfall of fog to almighty storms and sunrises, the winners of the 2026 Weather Photographer of the Year competition have been announced. The competition run by the Royal ",
+   "link": "https://www.goodnewsnetwork.org/a-waterfall-of-fog-and-almighty-storms-these-images-won-the-uks-weather-photography-awards/",
+   "published": "2026-11-17T12:30:18+00:00"
   },
   {
    "outlet": "Good News Network",
-   "headline": "Tokyo Tackles Trash Troubles with New Generation of Robotic Street Waste Bins",
-   "summary": "A new generation of trash bins are aimed at conserving Japanese civic culture while addressing one of the country’s largest tourism headaches. Solar-powered compactors and robots t",
-   "link": "https://www.goodnewsnetwork.org/tokyo-tackles-trash-troubles-with-new-generation-of-robotic-street-waste-bins/",
-   "published": "2026-11-16T14:00:03+00:00"
+   "headline": "Largest Electric Bus Fleet in New York to Serve Bronx Neighborhood Elevated Asthma Rates",
+   "summary": "The largest fleet of electric school buses in New York State is up and running in a South Bronx neighborhood where childhood asthma rates are more than twice the national average. ",
+   "link": "https://www.goodnewsnetwork.org/largest-electric-bus-fleet-in-new-york-to-serve-bronx-neighborhood-riddled-with-asthma/",
+   "published": "2026-11-17T14:00:28+00:00"
   },
   {
    "outlet": "Good News Network",
-   "headline": "30% Drop in Levels of Forever Chemicals in England’s Rivers, 49% in Fish – ‘Brilliant to See’",
-   "summary": "2 prominent chemical compounds prohibited under international law over health concerns are being found at substantially lower concentrations in England’s rivers. Concentrations of ",
-   "link": "https://www.goodnewsnetwork.org/30-drop-in-levels-of-forever-chemicals-in-englands-rivers-49-in-fish-brilliant-to-see/",
-   "published": "2026-11-16T16:30:13+00:00"
+   "headline": "Warren Buffett Gives Away $5.5 Billion in Thanksgiving Gift, Saying Kindness Is Priceless",
+   "summary": "Warren Buffett marked another Thanksgiving by converting thousands of Berkshire Hathaway shares into a charitable donation valued at about $5.5 billion. In a short annual Thanksgiv",
+   "link": "https://www.goodnewsnetwork.org/warren-buffett-gives-away-5-5-billion-thanksgiving-gift/",
+   "published": "2026-11-17T15:55:24+00:00"
   },
   {
    "outlet": "Good News Network",
-   "headline": "Farmer Finds Unknown Seeds in His Attic – and Grows an Ancient ‘Miracle’ Grain",
-   "summary": "From the sun-soaked plains of Parma comes the story of an Italian farmer who accidentally brought on a Biblical resurrection with very modern implications for our food system. Clau",
-   "link": "https://www.goodnewsnetwork.org/farmer-finds-unknown-seeds-in-his-attic-and-grows-an-ancient-miracle-grain/",
-   "published": "2026-11-16T19:30:28+00:00"
+   "headline": "Algeria Returns Kindness Shown by Kansans Who Welcomed its World Cup Team with the Trip of a Lifetime",
+   "summary": "In early November, several exhausted Kansas families touched down in Algeria at 4:30 a.m. and were shocked at what was waiting for them. Dozens of representatives from the country’",
+   "link": "https://www.goodnewsnetwork.org/algeria-returns-kindness-shown-by-kansans-who-welcomed-its-world-cup-team-with-the-trip-of-a-lifetime/",
+   "published": "2026-11-17T16:30:41+00:00"
+  },
+  {
+   "outlet": "Good News Network",
+   "headline": "West Coast’s First Ever Sea Turtle Hatchlings Released into the Pacific (LOOK)",
+   "summary": "Olive ridley sea turtle hatchlings saved from an approaching storm in California were released into the wild over the weekend. It was late September when a female turtle climbed ou",
+   "link": "https://www.goodnewsnetwork.org/west-coasts-first-ever-sea-turtle-hatchlings-released-into-the-pacific-look/",
+   "published": "2026-11-17T19:30:43+00:00"
   },
   {
    "outlet": "Inside Climate News",
-   "headline": "Wildfire Lawsuits Against Utilities Fuel a Debate Over Who Should Pay",
-   "summary": "Trial by Fire: Second in a series about the impacts of wildfire litigation. A week before Christmas 2025, 100-mile-per-hour wind gusts punished the foothills of Boulder, Colorado. ",
-   "link": "https://insideclimatenews.org/news/16112026/wildfire-legal-actions-against-utilities/",
-   "published": "2026-11-16T10:00:00+00:00"
+   "headline": "A Landmark Deal Saved Colorado’s Roan Plateau. Now It’s Headed Back to the Auction Block.",
+   "summary": "Almost a decade after a compromise between the Bureau of Land Management, conservationists and local governments safeguarded about 90 percent of the Roan Plateau in Western Colorad",
+   "link": "https://insideclimatenews.org/news/17112026/colorado-roan-plateau-public-land-oil/",
+   "published": "2026-11-17T09:55:00+00:00"
   },
   {
    "outlet": "Inside Climate News",
-   "headline": "Democrats Signal US Return to Global Climate Talks",
-   "summary": "ANTALYA, Turkey—After their big gains in the 2026 midterm elections, a delegation of Democratic U.S. House members appeared at the United Nations COP31 climate change conference Mo",
-   "link": "https://insideclimatenews.org/news/16112026/congress-democrats-united-states-cop31/",
-   "published": "2026-11-16T21:02:26+00:00"
+   "headline": "Are Multibillion-Dollar Wildfire Payouts Undermining Efforts to Make Forests Less Flammable?",
+   "summary": "Trial by Fire: Third in a series about the impacts of wildfire litigation. The small fire slowly licked its way through a dense growth of pine trees in the Sangre de Cristo Mountai",
+   "link": "https://insideclimatenews.org/news/17112026/wildfire-litigation-complicating-prescribed-burns/",
+   "published": "2026-11-17T10:00:00+00:00"
   },
   {
    "outlet": "Inside Climate News",
-   "headline": "How a Black Democrat Survived Redistricting in Alabama",
-   "summary": "Warren Tidwell is glad the election is over. Tidwell, a community organizer, recognizes there was a sea change on election night. “They say it was a blue wave,” Tidwell said. “Or a",
-   "link": "https://insideclimatenews.org/news/16112026/alabama-congress-redistricting-shomari-figures/",
-   "published": "2026-11-16T23:53:01+00:00"
+   "headline": "The New Rules of Permitting",
+   "summary": "The Senate’s permitting bill would make federal approvals for fossil fuel projects, along with wind and solar, much harder for a future administration to undo. Photo: Getty Images",
+   "link": "https://insideclimatenews.org/news/17112026/baaja-permitting-bill/",
+   "published": "2026-11-17T14:39:34+00:00"
+  },
+  {
+   "outlet": "Inside Climate News",
+   "headline": "California Manure Lagoons Could Be ‘Ticking Time Bombs’ in the Forecasted Monster El Niño",
+   "summary": "Countless manure lagoons on dairy farms across California’s San Joaquin Valley will be vulnerable to serious flooding during what is likely to be a fierce and historic El Niño this",
+   "link": "https://insideclimatenews.org/news/17112026/california-manure-lagoons-el-nino-flooding/",
+   "published": "2026-11-18T00:08:06+00:00"
   },
   {
    "outlet": "KFF Health News",
-   "headline": "These Governors-Elect Campaigned on Expanding Medicaid. It Won’t Be Easy.",
-   "summary": "A handful of states that haven’t fully expanded Medicaid just elected Democratic candidates for governor who campaigned on broadening access to the government health insurance prog",
-   "link": "https://kffhealthnews.org/medicaid/democrats-medicaid-expansion-governors-lance-bottoms-hinojosa-crowley-georgia-texas-wisconsin/",
-   "published": "2026-11-16T10:00:00+00:00"
+   "headline": "Moving to a New State? Your Healthcare Might Get More Complicated",
+   "summary": "New apartment, new friends, new … healthcare hurdles? Medical matters might not be at the top of your list when moving to a new state. But planning ahead will help you get the heal",
+   "link": "https://kffhealthnews.org/insurance/healthq-moving-new-state-new-healthcare-access-insurance/",
+   "published": "2026-11-17T10:00:00+00:00"
   },
   {
    "outlet": "KFF Health News",
-   "headline": "States Offer Perks To Attract Healthcare Workers to Rural Areas — With a Catch",
-   "summary": "States are using some of the $50 billion from the Rural Health Transformation Program to provide incentives to healthcare providers to practice in rural America. But the money come",
-   "link": "https://kffhealthnews.org/rural-health/rural-healthcare-provider-shortage-incentives-service-requirement-hawaii/",
-   "published": "2026-11-16T10:00:00+00:00"
+   "headline": "‘A Hard Time’ as Federal Cuts Hobble Efforts To Stop Overdoses From Tainted Drugs",
+   "summary": "Harm reduction proponents say testing street drugs prevents overdoses by allowing people to make more informed decisions about what they’re using, but the Trump administration cont",
+   "link": "https://kffhealthnews.org/public-health/fentanyl-test-strips-federal-cuts-samhsa-street-drugs-overdose-harm-reduction/",
+   "published": "2026-11-17T10:00:00+00:00"
   },
   {
    "outlet": "National Review",
-   "headline": "She Lived to the Sound of God’s Music",
-   "summary": "Remembering God’s gift to New York City girls and beyond.",
-   "link": "https://www.nationalreview.com/article/she-lived-to-the-sound-of-god-s-music",
-   "published": "2026-11-16T11:00:00+00:00"
+   "headline": "Let’s Stop Fighting Gravity in U.S.-Canada Trade",
+   "summary": "Canada needs the United States. But the U.S. also needs, and greatly benefits from, its relationship with Canada in both trade and security.",
+   "link": "https://www.nationalreview.com/article/let-s-stop-fighting-gravity-in-u-s-canada-trade",
+   "published": "2026-11-17T11:00:00+00:00"
   },
   {
    "outlet": "National Review",
-   "headline": "We Need a Better GOP",
-   "summary": "Every party elite reaches its point of exhaustion, and that’s where the Trump establishment is now.",
-   "link": "https://www.nationalreview.com/article/we-need-a-better-gop",
-   "published": "2026-11-16T11:00:00+00:00"
+   "headline": "Privatize Air Traffic Control",
+   "summary": "The government has demonstrated that it cannot operate this essential service competently.",
+   "link": "https://www.nationalreview.com/article/privatize-air-traffic-control",
+   "published": "2026-11-17T11:00:00+00:00"
   },
   {
    "outlet": "National Review",
-   "headline": "James Talarico’s ‘Incarnational Politics’",
-   "summary": "The new senator from Texas has bad ideas about Christianity and democracy, but the press seems okay with that.",
-   "link": "https://www.nationalreview.com/article/james-talarico-s-incarnational-politics",
-   "published": "2026-11-16T11:00:00+00:00"
+   "headline": "The Return of the War Powers Debate",
+   "summary": "It’s good news that Congress and Trump will soon be fighting about the war in Iran — and about war in general.",
+   "link": "https://www.nationalreview.com/article/the-return-of-the-war-powers-debate",
+   "published": "2026-11-17T11:00:00+00:00"
   },
   {
    "outlet": "National Review",
-   "headline": "A Trump–Xi–Putin Summit Could Remake the World Order",
-   "summary": "Can a triangle of the U.S., China, and Russia create a sustainable equilibrium of power, rules, and values?",
-   "link": "https://www.nationalreview.com/article/a-trump-xi-putin-summit-could-remake-the-world-order",
-   "published": "2026-11-16T11:00:00+00:00"
+   "headline": "What Pro-Lifers Need to Win Elections",
+   "summary": "In election after election, pro-lifers are being outspent and outorganized.",
+   "link": "https://www.nationalreview.com/article/what-pro-lifers-need-to-win-elections",
+   "published": "2026-11-17T11:00:00+00:00"
   },
   {
    "outlet": "National Review",
-   "headline": "Standing Athwart Pumpkin Tyranny",
-   "summary": "Through October and November, this mediocre flavor and scent are in everything everywhere all the time.",
-   "link": "https://www.nationalreview.com/article/standing-athwart-pumpkin-tyranny",
-   "published": "2026-11-16T16:16:38+00:00"
+   "headline": "Alice Huang Was Obviously a Chinese Asset",
+   "summary": "No, Mr. President, the issue is not that she is ‘beautiful’ and ‘comes from China.’",
+   "link": "https://www.nationalreview.com/article/alice-huang-was-obviously-a-chinese-asset",
+   "published": "2026-11-17T20:46:08+00:00"
   },
   {
    "outlet": "National Review",
-   "headline": "What If Democrats Don’t Succumb to Disarray?",
-   "summary": "Even with the left’s infighting, the GOP should not discount the possibility that a lasting majority party could be forged.",
-   "link": "https://www.nationalreview.com/article/what-if-democrats-don-t-succumb-to-disarray",
-   "published": "2026-11-16T19:52:41+00:00"
+   "headline": "The Iran Dirty Bomb Threat Brings Out the Internet’s Useful Idiots",
+   "summary": "Once again, the default instinct online is that America has it coming.",
+   "link": "https://www.nationalreview.com/article/the-iran-dirty-bomb-threat-brings-out-the-internet-s-useful-idiots",
+   "published": "2026-11-17T21:22:23+00:00"
+  },
+  {
+   "outlet": "National Review",
+   "headline": "Trump’s Ukraine-War Realpolitik Isn’t Realistic",
+   "summary": "His policy has the trappings of realism yet is too personal and too hostile to an embattled ally to constitute a true exercise in hardheadedness.",
+   "link": "https://www.nationalreview.com/article/trump-s-ukraine-war-realpolitik-isn-t-realistic",
+   "published": "2026-11-18T01:01:06+00:00"
   },
   {
    "outlet": "NPR",
-   "headline": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
-   "summary": "The trip to China marks Trump's second time this year, and comes as the president and his party faced widespread backlash from voters in the recent midterm elections.",
-   "link": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia",
-   "published": "2026-11-16T10:00:00+00:00"
+   "headline": "Trump to meet Chinese leader Xi Jinping and Russia's Vladimir Putin for joint summit",
+   "summary": "President Trump is off for a series of meetings in Asia that will cover trade, security and a rare trilateral meeting with China and Russia.",
+   "link": "https://www.npr.org/2026/11/17/nx-s1-6042448/trump-to-meet-chinese-leader-xi-jinping-and-russias-vladimir-putin-for-joint-summit",
+   "published": "2026-11-17T09:46:00+00:00"
   },
   {
    "outlet": "NPR",
-   "headline": "Chris Van Hollen says he can beat Chuck Schumer. Here's his case",
-   "summary": "Sen. Chris Van Hollen told NPR's Morning Edition why he believes he can defeat Sen. Chuck Schumer and what he would change about Senate Democratic leadership.",
-   "link": "https://www.npr.org/2026/11/16/nx-s1-6041687/chris-van-hollen-chuck-schumer-senate-leader",
-   "published": "2026-11-16T11:39:14+00:00"
+   "headline": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate",
+   "summary": "Ukrainian drones and missiles struck the Kerch Bridge linking Russia to occupied Crimean, Ukrainian President Volodymyr Zelenskyy said, as Russia reported its forces downed Ukraini",
+   "link": "https://www.npr.org/2026/11/17/g-s1-153946/russia-ukraine-war",
+   "published": "2026-11-17T09:50:45+00:00"
   },
   {
    "outlet": "NPR",
-   "headline": "FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia",
-   "summary": "U.S. Transportation Secretary Sean Duffy said that things could be back to normal at the end of Monday after an FAA ground stop disrupted flights. And, Trump heads to Asia for a hi",
-   "link": "https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip",
-   "published": "2026-11-16T12:08:14+00:00"
+   "headline": "More people are getting the flu. Should you get a flu shot before you travel?",
+   "summary": "Thanksgiving is just around the corner, just as millions of Americans are expected to travel for the holidays. Another thing that's upon us? Cold and flu season.",
+   "link": "https://www.npr.org/2026/11/17/nx-s1-6043086/thanksgiving-travel-cold-flu-vaccine-shot-booster",
+   "published": "2026-11-17T10:00:00+00:00"
   },
   {
    "outlet": "NPR",
-   "headline": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
-   "summary": "Countries are meeting in Geneva to negotiate rules on weapons that can select and kill targets without human intervention. But with the U.S., Russia and Israel resisting legally bi",
-   "link": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
-   "published": "2026-11-16T18:04:50+00:00"
+   "headline": "She went to college to become a social worker. Now she's joined the skilled trades",
+   "summary": "While the rise of AI continues to fuel the debate over whether college is worth the cost, apprenticeships in the skilled trades are having a moment, drawing in people of all backgr",
+   "link": "https://www.npr.org/2026/11/17/nx-s1-6012818/skilled-trades-apprenticeship-college-data-centers-jobs",
+   "published": "2026-11-17T10:00:00+00:00"
   },
   {
    "outlet": "NPR",
-   "headline": "New rule aims to close loophole on chip exports",
-   "summary": "The Commerce Department released a new rule designed to make it harder for China to gain access to America's most powerful computer chips using third-country data centers.",
-   "link": "https://www.npr.org/2026/11/16/nx-s1-6042918/new-rule-aims-to-close-loophole-on-chip-exports",
-   "published": "2026-11-16T22:08:48+00:00"
+   "headline": "Trump arrives in Philippines to kick off Asia trip",
+   "summary": "Manila is President Trump's first stop on a three-day trip that will later take him to China for historic three-way nuclear talks with Chinese President Xi Jinping and Russian Pres",
+   "link": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
+   "published": "2026-11-17T10:43:55+00:00"
   },
   {
    "outlet": "NPR",
-   "headline": "Brain cell mapping lays groundwork for better treatments for conditions like dementia",
-   "summary": "A major effort from brain researchers around the world has yielded a cellular atlas of the basal ganglia — structures key to learning and controlling motor skills.",
-   "link": "https://www.npr.org/2026/11/16/nx-s1-6038924/brain-cell-mapping-lays-groundwork-for-better-treatments-for-conditions-like-dementia",
-   "published": "2026-11-16T23:48:15+00:00"
+   "headline": "Can Google win the AI race without killing its cash cow?",
+   "summary": "In late October, Google had the worst stock day in its history as a public company. The Planet Money newsletter asks: has Google been caught in \"the innovator's dilemma\"?",
+   "link": "https://www.npr.org/sections/planet-money/2026/11/17/g-s1-153933/can-google-win-the-ai-race-without-killing-its-cash-cow",
+   "published": "2026-11-17T11:30:00+00:00"
   },
   {
    "outlet": "NPR",
-   "headline": "Africa: Trading in yuan",
-   "summary": "The dollar has long ruled Africa's financial landscape. But as more countries turn to China's yuan, the balance of economic power could be shifting.",
-   "link": "https://www.npr.org/2026/11/16/nx-s1-6035000/africa-trading-in-yuan",
-   "published": "2026-11-16T23:49:35+00:00"
+   "headline": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
+   "summary": "Trump says he plans to discuss Ukraine during his Asia trip, which contradicts what the White House previously announced. And, Silicon Valley leaders are pushing for Jensen Huang's",
+   "link": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
+   "published": "2026-11-17T12:20:57+00:00"
+  },
+  {
+   "outlet": "NPR",
+   "headline": "Nvidia board says it does not intend to reinstate Jensen Huang as CEO",
+   "summary": "The former Nvidia CEO said he would be \"honored\" to return if the board allowed. But the board says it has no intention of reinstating him.",
+   "link": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
+   "published": "2026-11-17T17:36:31+00:00"
+  },
+  {
+   "outlet": "NPR",
+   "headline": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
+   "summary": "Iran fired drones on Tuesday at a U.S. radar facility in Bahrain, and the U.S. retaliated by firing at Iranian targets along an important shipping route.",
+   "link": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
+   "published": "2026-11-17T18:34:31+00:00"
+  },
+  {
+   "outlet": "NPR",
+   "headline": "Nvidia tries to get back to business",
+   "summary": "Nvidia quarterly earnings are in. But the biggest question isn't about past business performance it's about the company's future leadership.",
+   "link": "https://www.npr.org/2026/11/17/nx-s1-6044197/nvidia-tries-to-get-back-to-business",
+   "published": "2026-11-17T22:18:51+00:00"
+  },
+  {
+   "outlet": "NPR",
+   "headline": "Xi said China would welcome American students for exchanges. What's the reality?",
+   "summary": "President Trump and China's leader Xi Jinping are due to meet in the Chinese city of Shenzhen. At their last summit in September, Xi said he will welcome 100,000 American students ",
+   "link": "https://www.npr.org/2026/11/17/nx-s1-6026589/xi-said-china-would-welcome-american-students-for-exchanges-whats-the-reality",
+   "published": "2026-11-17T22:41:53+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "Trump administration moves to block China from indirect access to American AI tech",
-   "summary": "The Trump administration has issued new rules to restrict remote access to advanced U.S. computing chips and servers.",
-   "link": "https://www.pbs.org/newshour/science/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-tech",
-   "published": "2026-11-16T18:51:20+00:00"
+   "headline": "Trump administration details its $50 billion request for aviation system improvements",
+   "summary": "The Trump administration has formally updated its request to lawmakers for $50.1 billion to modernize the nation's air traffic control system and to make other improvements at airp",
+   "link": "https://www.pbs.org/newshour/politics/trump-administration-details-its-50-billion-request-for-aviation-system-improvements",
+   "published": "2026-11-17T19:27:51+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "Third U.S. aircraft carrier in Middle East as Trump keeps options open in Iran war",
-   "summary": "A third American aircraft carrier has arrived in the Middle East. A U.S. official speaking on the condition of anonymity on Monday confirmed the USS Theodore Roosevelt's arrival in",
-   "link": "https://www.pbs.org/newshour/world/third-u-s-aircraft-carrier-in-middle-east-as-trump-keeps-options-open-in-iran-war",
-   "published": "2026-11-16T19:02:29+00:00"
+   "headline": "'The symbol of the occupation': Ukraine destroys span of Kerch Bridge linking Russia with Crimea",
+   "summary": "Ukrainian President Volodymyr Zelenskyy portrayed the bridge operation as a masterstroke following a weekslong effort by Ukrainian forces to gradually wear down Russian air defense",
+   "link": "https://www.pbs.org/newshour/world/the-symbol-of-the-occupation-ukraine-destroys-span-of-kerch-bridge-linking-russia-with-crimea",
+   "published": "2026-11-17T19:40:56+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "Freeman Johnson, the oldest of the dwindling number of Pearl Harbor survivors, dies at 106",
-   "summary": "Freeman Johnson was below deck working on a boiler of the USS St. Louis when the Japanese attack happened in December 1941.",
-   "link": "https://www.pbs.org/newshour/nation/freeman-johnson-the-oldest-of-the-dwindling-number-of-pearl-harbor-survivors-dies-at-106",
-   "published": "2026-11-16T19:12:02+00:00"
+   "headline": "Van Hollen's bid to replace Schumer puts pressure on Democrats to take sides",
+   "summary": "The Dec. 1 contest has put Senate Democrats on edge and has forced what could become an ugly public fight immediately after major victories in the midterm elections.",
+   "link": "https://www.pbs.org/newshour/politics/van-hollens-bid-to-replace-schumer-puts-pressure-on-democrats-to-take-sides",
+   "published": "2026-11-17T19:52:58+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "Technical issue at JPMorgan Chase triggers online delays for major U.S. banks",
-   "summary": "Chase said Monday that the technical problems were not the result of a cyberattack, and that it was working to bring banking services back online by the end of the day Monday.",
-   "link": "https://www.pbs.org/newshour/nation/customers-at-major-banks-are-experiencing-issues-accessing-their-accounts",
-   "published": "2026-11-16T19:32:41+00:00"
+   "headline": "400 largest U.S. data centers produced more carbon dioxide in a year than Denmark, study finds",
+   "summary": "Researchers estimated electricity use by the centers produced around 28.3 million tons of carbon dioxide, according to a study in Monday's Nature Sustainability.",
+   "link": "https://www.pbs.org/newshour/nation/400-largest-u-s-data-centers-produced-more-carbon-dioxide-in-a-year-than-denmark-study-finds",
+   "published": "2026-11-17T20:31:08+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "Read the full White House memo requiring agencies to get approval before testifying in front of Congress",
-   "summary": "In a new memorandum obtained by PBS News on Monday, White House counsel Will Scharf is directing all federal agencies and executive departments to get approval from White House leg",
-   "link": "https://www.pbs.org/newshour/politics/read-the-full-white-house-memo-requiring-agencies-to-get-approval-before-testifying-in-front-of-congress",
-   "published": "2026-11-16T21:00:32+00:00"
+   "headline": "The long wait is almost over. Here's what to know about the upcoming release of 'Grand Theft Auto VI'",
+   "summary": "After a 13-year wait since its last main installment, \"Grand Theft Auto VI\" is preparing for another big score.",
+   "link": "https://www.pbs.org/newshour/arts/the-long-wait-is-almost-over-heres-what-to-know-about-the-upcoming-release-of-grand-theft-auto-vi",
+   "published": "2026-11-17T21:22:58+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "WATCH: 'You never notice broken windows, obviously,' Trump tells Black reporter",
-   "summary": "President Donald Trump berated NBC News White House correspondent Yamiche Alcindor on Monday after she asked him to respond to critics who say he was too focused on construction pr",
-   "link": "https://www.pbs.org/newshour/politics/watch-you-never-notice-broken-windows-obviously-trump-tells-black-reporter",
-   "published": "2026-11-16T21:34:29+00:00"
+   "headline": "Trump arrives in Philippines to kick off Asia trip with economic deals and talks with allies",
+   "summary": "President Donald Trump arrived in the Philippines on Tuesday, where he met with regional partners, sought to formalize a trade deal and get a break from a series of setbacks at hom",
+   "link": "https://www.pbs.org/newshour/world/trump-arrives-in-philippines-to-kick-off-asia-trip-with-economic-deals-and-talks-with-allies",
+   "published": "2026-11-17T21:23:57+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "Understaffing and unexpected fire behavior led to firefighter deaths, investigation finds",
-   "summary": "Unexpected fire behavior, chronic understaffing, a lack of highly trained employees and a new policy to quash fires quickly were among the factors that contributed to the deaths of",
-   "link": "https://www.pbs.org/newshour/nation/understaffing-and-unexpected-fire-behavior-led-to-firefighter-deaths-investigation-finds",
-   "published": "2026-11-16T22:47:26+00:00"
+   "headline": "Ex-CEO Jensen Huang signals interest in returning to Nvidia after resigning amid scandal",
+   "summary": "He resigned last week following revelations of an extramarital affair with an alleged Chinese spy.",
+   "link": "https://www.pbs.org/newshour/economy/ex-ceo-jensen-huang-signals-interest-in-returning-to-nvidia-after-resigning-amid-scandal",
+   "published": "2026-11-17T21:40:17+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "New documentary explores history of crime and punishment in America",
-   "summary": "A new PBS documentary, \"Crime and Punishment in America,\" traces the evolution of policing, prisons and the criminal justice system across four centuries. Directed by Lynn Novick a",
-   "link": "https://www.pbs.org/newshour/show/new-documentary-explores-history-of-crime-and-punishment-in-america",
-   "published": "2026-11-16T23:20:00+00:00"
+   "headline": "Can the U.S. regain its measles elimination status? Here's what to know",
+   "summary": "The U.S. has lost its measles-elimination status for the first time in 26 years, an international health organization determined Tuesday.",
+   "link": "https://www.pbs.org/newshour/health/can-the-u-s-regain-its-measles-elimination-status-heres-what-to-know",
+   "published": "2026-11-17T21:44:07+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "'It's close to bulletproof,' doctor says of MMR vaccine as measles cases rise",
-   "summary": "Global health authorities are expected to announce that the U.S. has lost its status as a country where measles is eliminated, a public health milestone it achieved 26 years ago. T",
-   "link": "https://www.pbs.org/newshour/show/its-close-to-bulletproof-doctor-says-of-mmr-vaccine-as-measles-cases-rise",
-   "published": "2026-11-16T23:25:20+00:00"
+   "headline": "Apple joins the list of recent tech breakdowns after an update goes awry",
+   "summary": "Apple acknowledged on its system status page that its Apple Music, App Store and AppleCare services suffered full outages.",
+   "link": "https://www.pbs.org/newshour/nation/apple-joins-the-list-of-recent-tech-breakdowns-after-an-update-goes-awry",
+   "published": "2026-11-17T22:26:17+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "Trump backs campaign to reinstate Huang as CEO of Nvidia",
-   "summary": "Huang resigned last week from Nvidia, apparently ousted by the board after revelations that he had extramarital affairs, both with a Chinese businesswoman suspected of being an int",
-   "link": "https://www.pbs.org/newshour/politics/trump-backs-campaign-to-reinstate-huang-as-ceo-of-nvidia",
-   "published": "2026-11-16T23:25:54+00:00"
+   "headline": "Nvidia chair says board does not intend to reinstate Jensen Huang as CEO",
+   "summary": "The announcement followed Huang's statement earlier in the day that he would come back to lead the chipmaker if the board invited him.",
+   "link": "https://www.pbs.org/newshour/nation/nvidia-chair-says-board-does-not-intend-to-reinstate-jensen-huang-as-ceo",
+   "published": "2026-11-17T22:31:31+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "Why many white South Africans who left are migrating back home",
-   "summary": "President Trump has alleged that violence in South Africa has targeted the country's white minority. While his administration has had a strict ban on refugee admissions, it has car",
-   "link": "https://www.pbs.org/newshour/show/why-many-white-south-african-who-left-are-migrating-back-home",
-   "published": "2026-11-16T23:30:58+00:00"
+   "headline": "Doctors are raising concerns about U.S. babies born with measles",
+   "summary": "Congenital measles happens when a pregnant woman passes the virus to her fetus in the womb and can lead to serious complications or even be deadly for newborns.",
+   "link": "https://www.pbs.org/newshour/health/doctors-are-raising-concerns-about-u-s-babies-born-with-measles",
+   "published": "2026-11-17T22:52:41+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "Tamara Keith and Amy Walter on Trump's summit with Xi and Putin",
-   "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including President Trump's trip to Asia, hi",
-   "link": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-trumps-summit-with-xi-and-putin",
-   "published": "2026-11-16T23:35:35+00:00"
+   "headline": "What a 194-year-old tortoise could teach humans about living longer",
+   "summary": "What secrets might a 194-year-old tortoise have for humans when it comes to living longer? William Brangham examines the remarkable life of Jonathan.",
+   "link": "https://www.pbs.org/newshour/show/what-a-194-year-old-tortoise-could-teach-humans-about-living-longer",
+   "published": "2026-11-17T23:20:03+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "United Airlines says it resolved a technology issue that delayed departing flights",
-   "summary": "United Airlines said Monday that it had resolved a technology issue that delayed departing flights, just days after a malfunction in the Federal Aviation Administration's network p",
-   "link": "https://www.pbs.org/newshour/nation/united-airlines-says-it-resolved-a-technology-issue-that-delayed-departing-flights",
-   "published": "2026-11-16T23:36:10+00:00"
+   "headline": "China and Canada expand tariff relief while relations with the U.S. are strained",
+   "summary": "Chinese President Xi Jinping and Canadian Prime Minister Mark Carney both praised the strategic partnership they agreed to pursue this year and pointed to improving economic ties.",
+   "link": "https://www.pbs.org/newshour/world/china-and-canada-expand-tariff-relief-while-relations-with-the-u-s-are-strained",
+   "published": "2026-11-17T23:20:17+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "U.S. works to close loophole that let China access advanced AI chips",
-   "summary": "The Trump administration announced new rules today to further restrict China's access to advanced chips for the use of AI. It comes as questions are mounting about how the Commerce",
-   "link": "https://www.pbs.org/newshour/show/u-s-works-to-close-loophole-that-let-china-access-advanced-ai-chips",
-   "published": "2026-11-16T23:40:37+00:00"
+   "headline": "North Dakota museum gives Great Plains artists a bigger stage",
+   "summary": "The North Dakota Museum of Art in Grand Forks is bringing great art to the Great Plains. It's also supporting artists in a region where gaining visibility and a market can be tough",
+   "link": "https://www.pbs.org/newshour/show/north-dakota-museum-gives-great-plains-artists-a-bigger-stage",
+   "published": "2026-11-17T23:25:07+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "News Wrap: Trump departs for trip to Asia, meetings with Xi and Putin",
-   "summary": "In our news wrap Monday, President Trump left for Asia, where he'll meet regional leaders, followed by talks with Chinese President Xi Jinping and Russia's Vladimir Putin, Ukrainia",
-   "link": "https://www.pbs.org/newshour/show/news-wrap-trump-departs-for-trip-to-asia-meetings-with-xi-and-putin",
-   "published": "2026-11-16T23:45:40+00:00"
+   "headline": "Study reveals energy demands and emissions of America's data centers",
+   "summary": "The 400 largest data centers in the United States emit more greenhouse gas emissions in one year than the entire nation of Denmark, according to a new report from Harvard Universit",
+   "link": "https://www.pbs.org/newshour/show/study-reveals-energy-demands-and-emissions-of-americas-data-centers",
+   "published": "2026-11-17T23:30:10+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "What went wrong with air traffic control and will more FAA funding fix it?",
-   "summary": "To discuss what went wrong to cause Friday's nationwide ground stop, and the funding fight that is brewing in Washington, Amna Nawaz sat down with aviation correspondent Miles O'Br",
-   "link": "https://www.pbs.org/newshour/show/what-went-wrong-with-air-traffic-control-and-will-more-faa-funding-fix-it",
-   "published": "2026-11-16T23:50:53+00:00"
+   "headline": "Biden releases memoir recounting his presidency and decision to drop out in 2024",
+   "summary": "Almost two years after leaving office, former President Joe Biden has penned a memoir about his time in the White House. \"Promise Me, America,\" is out, but Biden isn't out doing th",
+   "link": "https://www.pbs.org/newshour/show/biden-releases-memoir-recounting-his-presidency-and-decision-to-drop-out-in-2024",
+   "published": "2026-11-17T23:35:45+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "Trump administration seeks to deflect responsibility for nationwide ground stop",
-   "summary": "Three days after air travel was halted in the longest nationwide ground stop since 9/11, the focus has turned to how the air traffic control network can be fixed. The Trump adminis",
-   "link": "https://www.pbs.org/newshour/show/trump-administration-seeks-to-deflect-responsibility-for-nationwide-ground-stop",
-   "published": "2026-11-16T23:55:00+00:00"
+   "headline": "What's in Trump's $50 billion air traffic control overhaul plan",
+   "summary": "The Trump administration is seeking $50 billion to modernize the nation's air traffic control system following last week's massive nationwide ground stop. But the proposal could fa",
+   "link": "https://www.pbs.org/newshour/show/whats-in-trumps-50-billion-air-traffic-control-overhaul-plan",
+   "published": "2026-11-17T23:40:35+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "Pope bids 'hasta luego' to Peru as he wraps up marathon South America trip",
-   "summary": "Pope Leo XIV bid farewell to his beloved second homeland of Peru on Monday with an \"hasta luego,\" after a marathon 12-day South American tour that tested his stamina after lung can",
-   "link": "https://www.pbs.org/newshour/world/pope-bids-hasta-luego-to-peru-as-he-wraps-up-marathon-south-america-trip",
-   "published": "2026-11-17T00:09:49+00:00"
+   "headline": "News Wrap: U.S. no longer considered a measles-free nation",
+   "summary": "In our news wrap Tuesday, international health officials say the United States is no longer considered a measles-free nation, a Harvard study shows cellphone bans in some schools a",
+   "link": "https://www.pbs.org/newshour/show/news-wrap-u-s-no-longer-considered-a-measles-free-nation",
+   "published": "2026-11-17T23:45:34+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "Judge sets March retrial date for Lindsay Clancy in deaths of her 3 children",
-   "summary": "A Massachusetts judge on Monday scheduled Lindsay Clancy's retrial for late March after prosecutors signaled that — at least for now — they intend to prosecute her again on first-d",
-   "link": "https://www.pbs.org/newshour/nation/judge-sets-march-retrial-date-for-lindsay-clancy-in-deaths-of-her-3-children",
-   "published": "2026-11-17T00:23:23+00:00"
+   "headline": "A look at China's technology industry amid AI race with the U.S.",
+   "summary": "President Trump began a 48-hour visit to Asia with a summit of regional countries in the Philippines. On Wednesday, the president heads to China for meetings with Russian President",
+   "link": "https://www.pbs.org/newshour/show/a-look-at-chinas-technology-industry-amid-ai-race-with-the-u-s",
+   "published": "2026-11-17T23:50:29+00:00"
   },
   {
    "outlet": "PBS NewsHour",
-   "headline": "Trump appeals to state and federal courts to erase hush money criminal conviction",
-   "summary": "A federal appeals court is weighing whether it can — or should — intervene in President Donald Trump's hush money case now that a New York State appellate court has heard arguments",
-   "link": "https://www.pbs.org/newshour/politics/trump-appeals-to-state-and-federal-courts-to-erase-hush-money-criminal-conviction",
-   "published": "2026-11-17T00:48:19+00:00"
+   "headline": "What a string of tech problems reveals about America's digital vulnerabilities",
+   "summary": "A string of major technology failures is raising new questions about the reliability and security of systems millions of Americans depend on every day. The incidents are said to be",
+   "link": "https://www.pbs.org/newshour/show/what-a-string-of-tech-problems-reveals-about-americas-digital-vulnerabilities",
+   "published": "2026-11-17T23:55:05+00:00"
   },
   {
    "outlet": "Politico",
-   "headline": "Schumer’s challenger",
+   "headline": "Democrats see an immigration opening despite Stephen Miller’s rise",
+   "summary": "Several moderate Democrats have already placed calls to the White House and Trump administration officials to express a willingness to work together.",
+   "link": "https://www.politico.com/news/2026/11/17/democrats-trump-immigration-reform-01168941",
+   "published": "2026-11-17T09:45:00+00:00"
+  },
+  {
+   "outlet": "Politico",
+   "headline": "Inside the Trump administration’s divisions over China",
    "summary": "",
-   "link": "https://www.politico.com/video/2026/11/16/schumers-challenger-2230544",
-   "published": "2026-11-16T10:45:00+00:00"
+   "link": "https://www.politico.com/video/2026/11/17/inside-the-trump-administrations-divisions-over-china-2231033",
+   "published": "2026-11-17T10:45:00+00:00"
+  },
+  {
+   "outlet": "Politico",
+   "headline": "Cornyn links Nvidia scandal to perception of Trump admin corruption",
+   "summary": "The outgoing Texas Republican senator said “the buck stops with [Trump]” when pressed on whether the White House plays a role in the appearance of corruption and self-dealing.",
+   "link": "https://www.politico.com/news/2026/11/17/cornyn-trump-nvidia-corruption-perceptions-01170190",
+   "published": "2026-11-17T19:13:36+00:00"
+  },
+  {
+   "outlet": "Politico",
+   "headline": "Mary Peltola unseats Sen. Dan Sullivan, giving Dems a 56-seat Senate majority",
+   "summary": "It's the first time in 18 years a Democrat has won a Senate race in the state.",
+   "link": "https://www.politico.com/news/2026/11/17/mary-peltola-wins-alaska-senate-01172129",
+   "published": "2026-11-18T03:24:10+00:00"
   },
   {
    "outlet": "Politico Europe",
-   "headline": "UK hands Palantir two-year reprieve on NHS contract",
-   "summary": "Health minister James Frith described the extension of Palantir's NHS contract as “a bridge, not the destination.”",
-   "link": "https://www.politico.eu/article/uk-hands-palantir-two-year-reprieve-on-nhs-contract/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "published": "2026-11-16T18:12:39+00:00"
+   "headline": "The 5 Labour groups that matter as Burnham shows his hand on welfare",
+   "summary": "The prime minister’s proposals to alter social security will need support across his parliamentary party to succeed.",
+   "link": "https://www.politico.eu/article/5-labour-group-matter-andy-burnham-welfare-social-security/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "published": "2026-11-17T18:04:31+00:00"
   },
   {
    "outlet": "Politico Europe",
-   "headline": "Concurrence : l’UEFA et une fédération de grands clubs de football européens visées par une plainte",
-   "summary": "L’Union des clubs européens estime que l’accord d’exclusivité conclu entre l’UEFA et une puissante organisation de clubs de football enfreint le droit européen de la concurrence.",
-   "link": "https://www.politico.eu/article/concurrence-luefa-et-une-federation-de-grands-clubs-de-football-europeens-vises-par-une-plainte/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "published": "2026-11-16T18:30:50+00:00"
+   "headline": "Dutch resist ‘unacceptable’ US bid to tighten semiconductor export controls",
+   "summary": "The bipartisan MATCH Act would tighten restrictions on ASML's sales to China, drawing objections from The Hague.",
+   "link": "https://www.politico.eu/article/dutch-resist-unacceptable-us-bid-to-tighten-semiconductor-export-controls-asml/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "published": "2026-11-17T18:18:50+00:00"
   },
   {
    "outlet": "Politico Europe",
-   "headline": "What Britain and the EU still don’t understand about each other",
-   "summary": "It's a crunch week for U.K. and EU relations — and a chance to fall for some decades-long misunderstandings.",
-   "link": "https://www.politico.eu/article/uk-eu-understand-andy-burnham-brexit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "published": "2026-11-16T21:00:00+00:00"
+   "headline": "US scolds Ukraine over deep strikes ahead of fresh Russia peace talks",
+   "summary": "German Defense Minister Boris Pistorius slammed the U.S. criticism as a \"stupid thing.\"",
+   "link": "https://www.politico.eu/article/us-scold-ukraine-strikes-russia-peace-talks-elbridge-colby/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "published": "2026-11-17T19:53:42+00:00"
   },
   {
    "outlet": "Politico Europe",
-   "headline": "Brexit diminished us, Burnham says as he tees up closer EU ties",
-   "summary": "The British prime minister said Brexit was \"the first domino to fall in a global move towards isolationism and protectionism.\"",
-   "link": "https://www.politico.eu/article/andy-burnham-brexit-diminished-britain-pushes-closer-eu-ties-lord-mayors-speech/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "published": "2026-11-16T22:48:21+00:00"
+   "headline": "Ukrainian standoff: Will Le Pen visit Zelenskyy? Or will Zelenskyy visit Le Pen?",
+   "summary": "Zelenskyy’s office declined to comment when asked whether he would accept Le Pen's invitation to meet in Paris or Brussels.",
+   "link": "https://www.politico.eu/article/marine-le-pen-volodymyr-zelenskyy-meeting-france-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "published": "2026-11-17T20:55:19+00:00"
   },
   {
    "outlet": "Politico Europe",
-   "headline": "French presidential rivals take aim at Le Pen in debate",
-   "summary": "The far-right leader and four other candidates were quizzed on cost-of-living issues.",
-   "link": "https://www.politico.eu/article/france-election-2027-presidential-candidates-target-marine-le-pen-tv-debate/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "published": "2026-11-16T23:27:47+00:00"
+   "headline": "Climate advisers warn UK ministers: Don’t meddle with electric vehicle rules",
+   "summary": "The government is consulting on changes to rules on vehicle emissions.",
+   "link": "https://www.politico.eu/article/climate-electric-vehicles-uk-experts-emissions/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "published": "2026-11-18T00:01:00+00:00"
   },
   {
    "outlet": "Politico Europe",
-   "headline": "5 takeaways from interview with Spanish election favorite Feijóo",
-   "summary": "The conservative leader discussed Trump, Morocco, Spain’s public finances and the relationship with far right",
-   "link": "https://www.politico.eu/article/5-takeaways-from-interview-with-spanish-election-favorite-alberto-nunez-feijoo/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "published": "2026-11-17T03:00:00+00:00"
+   "headline": "Europe fears Putin is stringing Trump along on Ukraine",
+   "summary": "Officials worry peace talks are going nowhere. They'll take part anyway.",
+   "link": "https://www.politico.eu/article/europe-vladimir-putin-not-serious-about-ukraine-peace-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "published": "2026-11-18T03:00:00+00:00"
   },
   {
    "outlet": "Politico Europe",
-   "headline": "More than cash: EU defense spending push is ‘game-changer’ for industry, says arms boss",
-   "summary": "Panu Routila says the bloc's next seven-year budget would give the defense industry more planning and investment stability.",
-   "link": "https://www.politico.eu/article/finnish-arms-company-patria-boss-keen-on-eu-defense-spending-push/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "published": "2026-11-17T03:00:00+00:00"
+   "headline": "The ‘bad boys of Brexit’ are getting a boost from Burnham’s EU reset",
+   "summary": "Veteran anti-EU campaigners are firing up to challenge the U.K. prime minister's bid to forge new ties with the bloc — and trying to get over some historical rivalries.",
+   "link": "https://www.politico.eu/article/andy-burnham-brexit-debate-boris-johnson-nigel-farage-eu-rejoin/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "published": "2026-11-18T03:00:00+00:00"
   },
   {
    "outlet": "Politico Europe",
-   "headline": "I took the EU selection test. Here’s how it went.",
-   "summary": "With 175,000 applicants and just 1,490 jobs, the competition to clinch a dream job in the EU has never been tougher.",
-   "link": "https://www.politico.eu/article/epso-eu-institutions-entrance-test-process/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "published": "2026-11-17T03:00:00+00:00"
+   "headline": "Commission takes EU’s Middle East spotlight as Kallas’ Israel channel stays frozen",
+   "summary": "Commissioner Dubravka Šuica’s expanding role is sharpening a broader contest over who speaks for the EU abroad.",
+   "link": "https://www.politico.eu/article/european-commission-middle-east-kaja-kallas-israel/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "published": "2026-11-18T03:00:00+00:00"
   },
   {
    "outlet": "Politico Europe",
-   "headline": "EU’s Kallas fights to find a role in Ukraine peace talks",
-   "summary": "Bloc's top diplomat said foreign ministers want a more direct role in Ukraine peace talks after leaders selected a team of national security advisers for the job.",
-   "link": "https://www.politico.eu/article/eu-kaja-kallas-fights-to-find-a-role-in-ukraine-peace-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "published": "2026-11-17T03:00:00+00:00"
+   "headline": "Same purchase, different protection",
+   "summary": "The CCD2 has a single market problem. Consumers should receive the same treatment, no matter where they are in the bloc.",
+   "link": "https://www.politico.eu/sponsored-content/same-purchase-different-protection/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "published": "2026-11-18T03:00:00+00:00"
   },
   {
    "outlet": "Politico Europe",
-   "headline": "What the EU can learn from Mark Carney on digital sovereignty",
-   "summary": "Building autonomy does not mean countries need to isolate.",
-   "link": "https://www.politico.eu/sponsored-content/what-the-eu-can-learn-from-mark-carney-on-digital-sovereignty/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "published": "2026-11-17T04:00:00+00:00"
-  },
-  {
-   "outlet": "PolitiFact",
-   "headline": "There is no evidence a nationwide blackout is expected Nov. 17. Online claims are unfounded",
-   "summary": "A nationwide 90-day blackout will happen Nov. 17, 2026.",
-   "link": "https://politifact.com/factchecks/2026/nov/16/tiktok-posts/blackout-nov-17-trump-us-emergency/",
-   "published": "2026-11-16T21:58:38+00:00"
+   "headline": "Trump trifft Putin und Xi: Was bedeutet das für den Ukraine-Gipfel in Berlin?",
+   "summary": "Während der Kanzler die Koalition der Willigen morgen zur Ukraine-Unterstützung in Berlin versammelt, inszeniert sich Donald Trump heute schon am anderen Ende der Welt. Beim Gipfel",
+   "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/trump-trifft-putin-und-xi-was-bedeutet-das-fur-den-ukraine-gipfel-in-berlin/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "published": "2026-11-18T04:30:00+00:00"
   },
   {
    "outlet": "ProPublica",
-   "headline": "Three of the Financial Sins That Left Chicago $55 Billion in Debt — and Counting",
-   "summary": "The post Three of the Financial Sins That Left Chicago $55 Billion in Debt — and Counting appeared first on ProPublica .",
-   "link": "https://www.propublica.org/article/chicago-debt-crisis-pensions-parking-meters-police-misconduct",
-   "published": "2026-11-16T09:55:00+00:00"
+   "headline": "I Photographed Her Parents as They Were Sentenced for Her Twin’s Death. Years Later, I Photographed Her Life.",
+   "summary": "The post I Photographed Her Parents as They Were Sentenced for Her Twin’s Death. Years Later, I Photographed Her Life. appeared first on ProPublica .",
+   "link": "https://www.propublica.org/article/faith-healing-child-photo-essay",
+   "published": "2026-11-17T10:00:00+00:00"
   },
   {
    "outlet": "ProPublica",
-   "headline": "Chicago Is $55 Billion in Debt, With No End in Sight. It’s a Threat to City Services.",
-   "summary": "The post Chicago Is $55 Billion in Debt, With No End in Sight. It’s a Threat to City Services. appeared first on ProPublica .",
-   "link": "https://www.propublica.org/article/chicago-debt-burden-public-health-safety",
-   "published": "2026-11-16T10:00:00+00:00"
+   "headline": "Democrats in Washington Move to Ban Data Centers on Public Lands",
+   "summary": "The post Democrats in Washington Move to Ban Data Centers on Public Lands appeared first on ProPublica .",
+   "link": "https://www.propublica.org/article/public-land-data-center-ban-burgum-congress",
+   "published": "2026-11-17T10:30:00+00:00"
   },
   {
    "outlet": "ProPublica",
-   "headline": "Corporations Are Using Trump’s Tariff Refunds on Bonuses Rather Than Reimbursing Consumers",
-   "summary": "The post Corporations Are Using Trump’s Tariff Refunds on Bonuses Rather Than Reimbursing Consumers appeared first on ProPublica .",
-   "link": "https://www.propublica.org/article/trump-tariff-refunds-corporate-bonuses",
-   "published": "2026-11-16T11:00:00+00:00"
+   "headline": "A Federal Women’s Prison Became a “Rape Club.” After Officials Shut It Down, Rampant Abuse Continued Elsewhere.",
+   "summary": "The post A Federal Women’s Prison Became a “Rape Club.” After Officials Shut It Down, Rampant Abuse Continued Elsewhere. appeared first on ProPublica .",
+   "link": "https://www.propublica.org/article/federal-womens-prison-sexual-abuse-reform-dublin-bop",
+   "published": "2026-11-17T11:00:00+00:00"
+  },
+  {
+   "outlet": "ProPublica",
+   "headline": "They Suffered Brain Injuries After Riding a Six Flags Roller Coaster. Regulators Pinned the Blame on Them.",
+   "summary": "The post They Suffered Brain Injuries After Riding a Six Flags Roller Coaster. Regulators Pinned the Blame on Them. appeared first on ProPublica .",
+   "link": "https://www.propublica.org/article/california-six-flags-x2-roller-coaster-brain-injuries-calosha",
+   "published": "2026-11-17T19:20:00+00:00"
   },
   {
    "outlet": "Reason",
    "headline": "Open Thread",
    "summary": "What’s on your mind?",
-   "link": "https://reason.com/volokh/2026/11/16/open-thread-390/",
-   "published": "2026-11-16T08:00:00+00:00"
+   "link": "https://reason.com/volokh/2026/11/17/open-thread-391/",
+   "published": "2026-11-17T08:00:00+00:00"
   },
   {
    "outlet": "Reason",
-   "headline": "Brickbat: Too Curious",
-   "summary": "Holly Passmore",
-   "link": "https://reason.com/2026/11/16/brickbat-too-curious/",
-   "published": "2026-11-16T09:00:40+00:00"
+   "headline": "Brickbat: Granny Goodness",
+   "summary": "Joseph Billittier's mug shot",
+   "link": "https://reason.com/2026/11/17/brickbat-granny-goodness/",
+   "published": "2026-11-17T09:00:02+00:00"
   },
   {
    "outlet": "Reason",
-   "headline": "How Milei Won",
-   "summary": "Javier Milei amidst a large crowd",
-   "link": "https://reason.com/2026/11/16/how-milei-won/",
-   "published": "2026-11-16T11:00:11+00:00"
+   "headline": "Before the Falklands War, Islanders and Argentines Were Neighbors",
+   "summary": "A new history recovers the connections between the Falkland Islands and Argentina before their competing nationalisms took over.",
+   "link": "https://reason.com/2026/11/17/what-the-falklands-war-made-us-forget/",
+   "published": "2026-11-17T11:00:52+00:00"
   },
   {
    "outlet": "Reason",
-   "headline": "Democrats Won on Economics and Corruption. They're Obsessed with Disarming Americans.",
-   "summary": "A handgun in jail behind blue bars",
-   "link": "https://reason.com/2026/11/16/democrats-won-on-economics-and-corruption-theyre-obsessed-with-disarming-americans/",
-   "published": "2026-11-16T12:00:23+00:00"
+   "headline": "Supreme Court To Weigh Trump's Unilateral Suspension of Asylum Protections at Southern Border",
+   "summary": "Asylum seekers in front of photo of the Supreme Court building",
+   "link": "https://reason.com/2026/11/17/supreme-court-to-weigh-trumps-unilateral-suspension-of-asylum-protections-at-southern-border/",
+   "published": "2026-11-17T12:00:02+00:00"
   },
   {
    "outlet": "Reason",
-   "headline": "Today in Supreme Court History: November 16, 1939",
-   "summary": "11/16/1939: Justice Pierce Butler dies. The post Today in Supreme Court History: November 16, 1939 appeared first on Reason Magazine.",
-   "link": "https://reason.com/volokh/2026/11/16/today-in-supreme-court-history-november-16-1939-8/",
-   "published": "2026-11-16T12:00:24+00:00"
+   "headline": "Today in Supreme Court History: November 17, 1880",
+   "summary": "11/17/1880: The United States and China sign treaty that protects Chinese laborers residing in the United States. This treaty was… The post Today in Supreme Court History: November",
+   "link": "https://reason.com/volokh/2026/11/17/today-in-supreme-court-history-november-17-1880-8/",
+   "published": "2026-11-17T12:00:28+00:00"
   },
   {
    "outlet": "Reason",
-   "headline": "No Pseudonymity in Ex-Associate's Sexual Assault Claim Against Major Law Firm",
-   "summary": "\"Permitting Doe to proceed pseudonymously while the Firm defends itself publicly, particularly where there seems to be material factual disputes between the parties, presents an un",
-   "link": "https://reason.com/volokh/2026/11/16/no-pseudonymity-in-ex-associates-sexual-assault-claim-against-major-law-firm/",
-   "published": "2026-11-16T13:01:15+00:00"
+   "headline": "How Was the Cold War Won?",
+   "summary": "The book cover of Roger Zakheim’s ‘Peace Through Strength’",
+   "link": "https://reason.com/2026/11/17/how-was-the-cold-war-won/",
+   "published": "2026-11-17T13:00:36+00:00"
   },
   {
    "outlet": "Reason",
-   "headline": "School Board Member Seeks \"Better Sense of How\" Church \"Approaches Issues of Diversity, Equity, and Inclusion Around Their Messaging\" …",
-   "summary": "\"around some key issues relevant to marginalized communities,\" including as to \"the Church's views on same-sex marriage, '[a]ccess to safe and affordable abortion,' '[a]ccess to ge",
-   "link": "https://reason.com/volokh/2026/11/16/school-board-member-seeks-better-sense-of-how-church-approaches-issues-of-diversity-equity-and-inclusion-around-their-messaging/",
-   "published": "2026-11-16T13:32:54+00:00"
+   "headline": "Inside the Administration's Chip Divide",
+   "summary": "Donald Trump and Howard Lutnick",
+   "link": "https://reason.com/2026/11/17/inside-the-administrations-chip-divide/",
+   "published": "2026-11-17T14:30:43+00:00"
   },
   {
    "outlet": "Reason",
-   "headline": "Why the FAA Keeps Failing",
-   "summary": "People sitting in an airport",
-   "link": "https://reason.com/2026/11/16/why-the-faa-keeps-failing/",
-   "published": "2026-11-16T14:30:24+00:00"
+   "headline": "In MLB's Salary Cap Fight, the Players Union Has a Last Resort No One Is Talking About",
+   "summary": "Dodgers pitcher Tarik Skubal is pictured in the middle of his throwing motion, wearing a white Dodgers jersey with blue script and a blue baseball hat.",
+   "link": "https://reason.com/2026/11/17/in-mlbs-salary-cap-fight-the-players-union-has-a-last-resort-no-one-is-talking-about/",
+   "published": "2026-11-17T16:55:48+00:00"
   },
   {
    "outlet": "Reason",
-   "headline": "The Virginia Bar Shows More Sense than the Williamsburg Commonwealth Attorney",
-   "summary": "Williamsburg authorities may believe letting a young child walk to a pond is a criminal offense, but it is no obstacle to practicing law.",
-   "link": "https://reason.com/volokh/2026/11/16/the-virginia-bar-shows-more-sense-than-the-williamsburg-commonwealth-attorney/",
-   "published": "2026-11-16T16:04:22+00:00"
+   "headline": "Free Speech Unmuted: The Devil and Free Speech",
+   "summary": "Can a state capitol allow private groups to put up holiday displays while turning away the Satanic Temple? Jane Bambauer… The post Free Speech Unmuted: The Devil and Free Speech ap",
+   "link": "https://reason.com/volokh/2026/11/17/free-speech-unmuted-the-devil-and-free-speech/",
+   "published": "2026-11-17T17:11:57+00:00"
   },
   {
    "outlet": "Reason",
-   "headline": "Washington May Permit Nudity-Focused Businesses \"to Set Entry Requirements Based on Genitalia\"",
-   "summary": "Billy Binion (Reason) reports: The Washington State Human Rights Commission (WSHRC) voted last month to permit businesses to set entry… The post Washington May Permit Nudity-Focuse",
-   "link": "https://reason.com/volokh/2026/11/16/washington-may-permit-nudity-focused-businesses-to-set-entry-requirements-based-on-genitalia/",
-   "published": "2026-11-16T16:12:50+00:00"
+   "headline": "The U.S. Spends Half What France Does on Public Pensions. But Congress Is Making the Same Mistakes.",
+   "summary": "Capitol Building",
+   "link": "https://reason.com/2026/11/17/the-u-s-spends-half-what-france-does-on-public-pensions-but-congress-is-making-the-same-mistakes/",
+   "published": "2026-11-17T17:15:19+00:00"
   },
   {
    "outlet": "Reason",
-   "headline": "Border Agents Seized and Copied an Immigration Policy Critic's Phone Without a Warrant",
-   "summary": "An ICE agent looking at a smartphone",
-   "link": "https://reason.com/2026/11/16/border-agents-seized-and-copied-an-immigration-policy-critics-phone-without-a-warrant/",
-   "published": "2026-11-16T16:33:45+00:00"
+   "headline": "Court Ordered Social Media Personality to Stop Posting About Teenagers He Accused as to Nolan Wells' Death",
+   "summary": "The temporary restraining order was issued without giving the defendant, who posts as BoogieLowdown, a chance to respond.",
+   "link": "https://reason.com/volokh/2026/11/17/court-ordered-social-media-personality-to-stop-posting-about-teenagers-he-accused-as-to-nolan-wells-death/",
+   "published": "2026-11-17T18:11:42+00:00"
   },
   {
    "outlet": "Reason",
-   "headline": "The Feds Own a $1 Billion Stake in the Military Contractor Being Blamed for the Air Traffic Meltdown",
-   "summary": "Sean Duffy",
-   "link": "https://reason.com/2026/11/16/the-feds-own-a-1-billion-stake-in-the-military-contractor-being-blamed-for-the-air-traffic-meltdown/",
-   "published": "2026-11-16T17:05:35+00:00"
+   "headline": "\"Original Meaning and the Freedom of Speech and Press: Some Illustrative Examples\"",
+   "summary": "This short new article of mine has now been published in the Notre Dame Law Review. The Introduction: There are many… The post \"Original Meaning and the Freedom of Speech and Press",
+   "link": "https://reason.com/volokh/2026/11/17/original-meaning-and-the-freedom-of-speech-and-press-some-illustrative-examples/",
+   "published": "2026-11-17T18:22:29+00:00"
   },
   {
    "outlet": "Reason",
-   "headline": "How the War Made Journalism Harder in Iran",
-   "summary": "Iranian military personnel",
-   "link": "https://reason.com/2026/11/16/how-the-war-made-journalism-harder-in-iran/",
-   "published": "2026-11-16T17:34:39+00:00"
+   "headline": "New York Wants To Force Social Media Apps To Display Mental Health Warnings. Critics Are Suing.",
+   "summary": "People stand behind a podium with a Netchoice logo on it",
+   "link": "https://reason.com/2026/11/17/new-york-wants-to-force-social-media-apps-to-display-mental-health-warnings-critics-are-suing/",
+   "published": "2026-11-17T20:05:41+00:00"
   },
   {
    "outlet": "Reason",
-   "headline": "A Florida City Says It Will Stop Sponsoring a St. Patrick's Day Parade, Citing a New Anti-DEI Law",
-   "summary": "a St. Patrick's Day parade in Delray Beach, Florida",
-   "link": "https://reason.com/2026/11/16/a-florida-city-says-it-will-stop-sponsoring-a-st-patricks-day-parade-citing-a-new-anti-dei-law/",
-   "published": "2026-11-16T19:45:33+00:00"
+   "headline": "Sikh Restaurant Owner in Britain Arrested for Social Media Post Amid Spat Over Halal Meat",
+   "summary": "Khushi Harman Kapoor next to pictures of his restaurant",
+   "link": "https://reason.com/2026/11/17/sikh-restaurant-owner-in-britain-arrested-for-social-media-post-amid-spat-over-halal-meat/",
+   "published": "2026-11-17T20:41:44+00:00"
   },
   {
    "outlet": "Reason",
-   "headline": "New PBS Documentary Explores the History of Criminal Justice in the U.S.",
-   "summary": "Black and white photo portraits",
-   "link": "https://reason.com/2026/11/16/new-pbs-documentary-explores-the-history-of-criminal-justice-in-the-u-s/",
-   "published": "2026-11-16T20:36:25+00:00"
+   "headline": "'Designed To Inflict a Maximal Burden': Courts Are Really Unhappy With CBP Seizing Americans' Phones",
+   "summary": "A CBP officer speaks with a person",
+   "link": "https://reason.com/2026/11/17/designed-to-inflict-a-maximal-burden-courts-are-really-unhappy-with-cbp-seizing-americans-phones/",
+   "published": "2026-11-17T21:04:57+00:00"
   },
   {
    "outlet": "Reason",
-   "headline": "Alaska (Once Again) Votes To Keep Ranked Choice Voting",
-   "summary": "A hand fills in bubbles on Alaska's ranked choice ballot. Candidates include Larry Doe (Registered Democrat), Mac Allen (Registered Republican), Edna Mode (Undeclared), and Tiffany",
-   "link": "https://reason.com/2026/11/16/alaska-once-again-votes-to-keep-ranked-choice-voting/",
-   "published": "2026-11-16T21:00:57+00:00"
-  },
-  {
-   "outlet": "Reason",
-   "headline": "Trump's New Chip Export Rule Targets China but Exempts TikTok's Parent Company",
-   "summary": "Semiconductor",
-   "link": "https://reason.com/2026/11/16/trumps-new-chip-export-rule-targets-china-but-exempts-tiktoks-parent-company/",
-   "published": "2026-11-16T22:14:01+00:00"
-  },
-  {
-   "outlet": "Reason",
-   "headline": "Justices Thomas and Alito on State Requirements That Continuing Professional Education Discuss Certain Topics",
-   "summary": "From Justice Thomas's dissent from denial of certiorari today in Khatibi v. Yip, joined by Justice Alito (Justice Gorsuch voted… The post Justices Thomas and Alito on State Require",
-   "link": "https://reason.com/volokh/2026/11/16/justices-thomas-and-alito-on-state-requirements-that-continuing-professional-education-discuss-certain-topics/",
-   "published": "2026-11-16T22:57:40+00:00"
-  },
-  {
-   "outlet": "Reason",
-   "headline": "Why Is America's Air Traffic Control so Broken?",
-   "summary": "Katherine Mangu-Ward appears on the left. Reem Ibrahim appears on the right. An image of Transportation Secretary Duffy appears behind them. Bold text across the top of the screen ",
-   "link": "https://reason.com/podcast/2026/11/16/why-is-americas-air-traffic-control-so-broken/",
-   "published": "2026-11-16T23:14:40+00:00"
-  },
-  {
-   "outlet": "Reason",
-   "headline": "Justice Thomas on the Second Amendment in \"Sensitive Places\"",
-   "summary": "From Justice Thomas's statement respecting the denial of certiorari in Novotny v. Moore: Maryland is one of several States that… The post Justice Thomas on the Second Amendment in ",
-   "link": "https://reason.com/volokh/2026/11/16/justice-thomas-on-the-second-amendment-in-sensitive-places/",
-   "published": "2026-11-16T23:42:28+00:00"
-  },
-  {
-   "outlet": "Rest of World",
-   "headline": "The small African lab sounding the alarm on AI bioweapons",
-   "summary": "Photograph showing Georgina an AI Engineer building and working on the user interface of the new model Moremi.",
-   "link": "https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-   "published": "2026-11-16T11:00:23+00:00"
+   "headline": "Trump Can't Stop Talking About His Vanity Projects Because He Will Never Get the Gratitude He Craves",
+   "summary": "President Donald Trump against a background of the Kennedy Center for the Performing Arts",
+   "link": "https://reason.com/2026/11/17/trump-cant-stop-talking-about-his-vanity-projects-because-he-will-never-get-the-gratitude-he-craves/",
+   "published": "2026-11-17T21:35:25+00:00"
   },
   {
    "outlet": "Science News",
-   "headline": "Most transgender youth satisfied after choosing hormone therapy",
-   "summary": "In the largest such study yet, 97 percent of U.S. transgender and gender diverse young people say taking hormone therapy was the right decision.",
-   "link": "https://www.sciencenews.org/article/hormone-therapy-transgender-youth",
-   "published": "2026-11-16T14:00:00+00:00"
+   "headline": "What to know about kratom and its powerful derivatives",
+   "summary": "Scientists and toxicologists are sounding the alarm on the chemicals derived from kratom leaves, which have strong opioid-like properties.",
+   "link": "https://www.sciencenews.org/article/kratom-pain-addictive-potential-danger",
+   "published": "2026-11-17T13:00:00+00:00"
   },
   {
    "outlet": "Science News",
-   "headline": "We know how to stop computer worms. But what if AI helps them persist?",
-   "summary": "AI worms aren't real-world threats yet. But tests show they can adapt and spread like octopuses or slime molds, exploiting each device's weaknesses.",
-   "link": "https://www.sciencenews.org/article/ai-computer-worm-cyberattack-octopus",
-   "published": "2026-11-16T16:00:00+00:00"
-  },
-  {
-   "outlet": "Science News",
-   "headline": "What the Trump administration’s focus on AI and quantum means for science",
-   "summary": "Research on AI and quantum science has been favored under Trump, but some scientists are concerned about what it has displaced.",
-   "link": "https://www.sciencenews.org/article/trump-ai-quantum-science",
-   "published": "2026-11-16T18:30:00+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Personal wealth boom helps Four Seasons to record-breaking year",
-   "summary": "Alejandro Reynal said the company has ‘experienced a lot of tailwinds’ at Semafor’s Silicon Valley & The World.",
-   "link": "https://www.semafor.com/article/11/16/2026/four-seasons-ceo-says-2026-will-be-the-best-year-on-record",
-   "published": "2026-11-16T18:30:32+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "US won’t restrict foreign tech companies in allied countries, State Dept. official says",
-   "summary": "The top State Department official discussed the Nvidia controversy and US efforts to secure AI supply chains during an appearance at Semafor’s Silicon Valley & The World.",
-   "link": "https://www.semafor.com/article/11/16/2026/us-wont-restrict-foreign-tech-companies-in-allied-countries-helberg-says",
-   "published": "2026-11-16T19:09:59+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Altimeter’s Gerstner says Nvidia’s board should keep door open to Huang’s return: ‘Get this right’",
-   "summary": "Altimeter Capital CEO Brad Gerstner says the board should take its time because Nvidia is “critical to the future” of the US.",
-   "link": "https://www.semafor.com/article/11/16/2026/altimeters-gerstner-urges-nvidias-board-to-reconsider-huangs-ouster-to-get-this-right",
-   "published": "2026-11-16T19:32:04+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Citigroup CEO Jane Fraser sees 'demand side problem' for AI",
-   "summary": "Fraser discussed investors increasing selectivity around AI and the bank’s growing relationships in China.",
-   "link": "https://www.semafor.com/article/11/16/2026/citigroup-ceo-jane-fraser-sees-demand-side-problem-for-ai",
-   "published": "2026-11-16T19:44:10+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Binance chief acknowledges hack ‘shouldn’t have happened’",
-   "summary": "Binance co-CEO Richard Teng said at Semafor’s Silicon Valley & The World that the company had previously underinvested in compliance.",
-   "link": "https://www.semafor.com/article/11/16/2026/binance-chief-acknowledges-hack-shouldnt-have-happened",
-   "published": "2026-11-16T19:58:18+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Trump's former AI czar criticizes rush to judgment on ex-Nvidia CEO",
-   "summary": "David Sacks wouldn’t weigh in on whether Jensen Huang should be reinstated.",
-   "link": "https://www.semafor.com/article/11/16/2026/sacks-criticizes-rush-to-judgment-on-ex-nvidia-ceo",
-   "published": "2026-11-16T20:11:38+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Advocates dub midterms the ‘care election’",
-   "summary": "Some exit polling suggests voters want the next Congress to focus on issues like paid leave and child care.",
-   "link": "https://www.semafor.com/article/11/16/2026/advocates-dub-midterms-the-care-election",
-   "published": "2026-11-16T21:04:41+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "North Korea outreach in the mix for Trump’s Asia swing",
-   "summary": "The president met with the North Korean leader during his first term, but has yet to organize a second-term meeting.",
-   "link": "https://www.semafor.com/article/11/16/2026/north-korea-outreach-in-the-mix-for-trumps-asia-swing",
-   "published": "2026-11-16T21:10:13+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "'Heroes have flaws': Sam Altman says he has personal empathy for Jensen Huang",
-   "summary": "The OpenAI CEO said at Semafor’s Silicon Valley & The World that Jensen Huang has “long been a hero of mine. Heroes have flaws.”",
-   "link": "https://www.semafor.com/article/11/16/2026/altman-says-he-has-personal-empathy-for-jensen-huang",
-   "published": "2026-11-16T21:14:06+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Elon Musk’s policy difficulty prevents Starlink’s South Africa entry",
-   "summary": "South Africa’s President Cyril Ramaphosa said at Semafor’s Silicon Valley & The World that Elon Musk failed to understand the impact of apartheid on Black South Africans.",
-   "link": "https://www.semafor.com/article/11/16/2026/musks-policy-difficulty-prevents-starlinks-south-africa-entry",
-   "published": "2026-11-16T21:14:51+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Bill Ackman says it’s ‘unlikely’ he’ll get involved to bring Huang back",
-   "summary": "Ackman, an outspoken activist investor who runs Pershing Square Capital Management, has come to Huang’s defense, but acknowledged that the situation presents “a pretty interesting ",
-   "link": "https://www.semafor.com/article/11/16/2026/bill-ackman-says-its-unlikely-hell-get-involved-to-bring-huang-back",
-   "published": "2026-11-16T21:40:36+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Replit CEO calls Huang’s ouster ‘attack’ on open models",
-   "summary": "Amjad Masad said at Semafor’s Silicon Valley & The World that US open-model companies rely on Jensen Huang as “the premier champion.”",
-   "link": "https://www.semafor.com/article/11/16/2026/replit-ceo-calls-jensen-huangs-ouster-attack-on-open-models",
-   "published": "2026-11-16T22:43:27+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "AI makes everyone more vulnerable, AT&T CEO says",
-   "summary": "John Stankey said at Semafor’s Silicon Valley & The World that he’s not a doomer about AI, but sees anxiety levels high because of cybersecurity risks.",
-   "link": "https://www.semafor.com/article/11/16/2026/ai-makes-everyone-more-vulnerable",
-   "published": "2026-11-16T22:44:16+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "US tech extends slide ahead of Nvidia earnings",
-   "summary": "US tech stocks slid further in anticipation of Nvidia’s first post-Jensen Huang earnings report, Anthropic’s IPO, and interim rules to close the remote access chip loophole.",
-   "link": "https://www.semafor.com/article/11/16/2026/us-tech-extends-slide-ahead-of-nvidia-earnings",
-   "published": "2026-11-16T22:55:45+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "‘America needs to have more Jensens’: Perplexity CEO lauds Huang as industry titan",
-   "summary": "Aravind Srinivas said at Semafor’s Silicon Valley & The World that the ousted Nvidia CEO remains an example of how American entrepreneurs should run a business.",
-   "link": "https://www.semafor.com/article/11/16/2026/america-needs-to-have-more-jensens-perplexity-ceo-lauds-huang-as-industry-titan",
-   "published": "2026-11-16T23:18:49+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "United Airlines, major US banks report system outages",
-   "summary": "The disruption elevated concerns about the durability of US digital infrastructure days after a tech failure grounded commercial flights nationwide.",
-   "link": "https://www.semafor.com/article/11/16/2026/united-airlines-major-us-banks-report-system-outages",
-   "published": "2026-11-17T00:16:50+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "AI agents still act like ‘Day 1 employees,’ Glean CEO says",
-   "summary": "Arvind Jain said he doesn’t worry about AI eliminating humans’ jobs yet because the technology isn’t powerful enough.",
-   "link": "https://www.semafor.com/article/11/16/2026/ai-agents-still-act-like-day-1-employees-glean-ceo-says",
-   "published": "2026-11-17T00:28:49+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "AI leaders helping drive ‘unnaturally negative’ narrative, Palo Alto Networks CEO says",
-   "summary": "Nikesh Arora said concerns about risks are needlessly outweighing the benefits of AI in the public conversation.",
-   "link": "https://www.semafor.com/article/11/16/2026/ai-leaders-helping-drive-unnaturally-negative-narrative-palo-alto-networks-ceo-says",
-   "published": "2026-11-17T00:48:42+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Democrats dig in for grueling leadership fight",
-   "summary": "Chuck Schumer faces a challenge from within his party despite their mammoth election wins.",
-   "link": "https://www.semafor.com/article/11/16/2026/democrats-dig-in-for-grueling-leadership-fight-schumer-van-hollen",
-   "published": "2026-11-17T00:49:14+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Bloom Energy sees 'nothing but a huge opportunity' amid AI headwinds",
-   "summary": "CEO KR Sridhar said at Semafor’s Silicon Valley & The World that power use continues to surge across the economy and that “AI happens to be a catalyst.”",
-   "link": "https://www.semafor.com/article/11/16/2026/bloom-energy-sees-nothing-but-a-huge-opportunity",
-   "published": "2026-11-17T01:06:06+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Trump cyber director: FAA, other outages not a cyberattack",
-   "summary": "Sean Cairncross also said at Semafor’s Silicon Valley & The World that more details would likely emerge about the White House’s voluntary AI framework.",
-   "link": "https://www.semafor.com/article/11/16/2026/trump-cyber-director-ai-labs-extremely-good-about-sharing-models",
-   "published": "2026-11-17T01:11:52+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "OpenAI CFO says latest funding round was unplanned, prompted by news report",
-   "summary": "Sarah Friar said at Semafor’s Silicon Valley & The World that the frontier lab’s latest fundraise was “opportunistic.”",
-   "link": "https://www.semafor.com/article/11/16/2026/openai-cfo-says-latest-funding-round-was-unplanned-prompted-by-news-report",
-   "published": "2026-11-17T01:24:10+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Medical students should ‘learn the hard way,’ AI startup CEO says",
-   "summary": "Cognitive offloading is “really acute,” OpenEvidence CEO Daniel Nadler said at Semafor’s Silicon Valley & The World.",
-   "link": "https://www.semafor.com/article/11/16/2026/medical-students-should-learn-the-hard-way-ai-startup-ceo-says",
-   "published": "2026-11-17T01:48:44+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "The tech industry has a public image problem, Arianna Huffington says",
-   "summary": "Huffington also said at Semafor’s Silicon Valley & The World that Jensen Huang lacked wisdom.",
-   "link": "https://www.semafor.com/article/11/16/2026/the-tech-industry-has-a-public-image-problem-arianna-huffington-says",
-   "published": "2026-11-17T01:58:31+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Singapore discussing effect of new chip rules with US, minister says",
-   "summary": "Josephine Teo told Semafor’s Silicon Valley & The World she’s in touch with the US State Department.",
-   "link": "https://www.semafor.com/article/11/16/2026/singapore-working-to-gauge-effect-of-new-us-chip-rules-minister-says",
-   "published": "2026-11-17T02:16:56+00:00"
-  },
-  {
-   "outlet": "STAT",
-   "headline": "STAT+: With Stephen Miller as chief of staff, Kennedy’s MAHA agenda is reinvigorated",
-   "summary": "The appointment of Stephen Miller as White House chief of staff has health secretary RFK Jr. invigorated. A top deputy is telling people it's go time for MAHA.",
-   "link": "https://www.statnews.com/2026/11/16/stephen-miller-chief-of-staff-boosts-power-of-kennedy-maha/?utm_campaign=rss",
-   "published": "2026-11-16T09:30:00+00:00"
-  },
-  {
-   "outlet": "STAT",
-   "headline": "Opinion: Medical school should start after students take the Step 1 exam",
-   "summary": "“It’s time for a radical reimagining of medical education,” write Rachel Fabi and Amy Caruso Brown.",
-   "link": "https://www.statnews.com/2026/11/16/medical-school-step-1-exam-redesign-proposal/?utm_campaign=rss",
-   "published": "2026-11-16T09:30:00+00:00"
-  },
-  {
-   "outlet": "STAT",
-   "headline": "After difficult two years, medical school group’s leadership isn’t letting its guard down post midterms",
-   "summary": "After a tumultuous two years entangled in many consequential health and science policy debates, AAMCs isn’t ready to let its guard down.",
-   "link": "https://www.statnews.com/2026/11/16/aamc-ceo-david-skorton-qa-challenges-academic-medicine/?utm_campaign=rss",
-   "published": "2026-11-16T09:30:00+00:00"
-  },
-  {
-   "outlet": "STAT",
-   "headline": "BeOne, Hengrui top list of China’s most powerful drugmakers",
-   "summary": "A new STAT-WireScreen index ranks China's most valuable publicly traded biotech companies. See which one topped the list.",
-   "link": "https://www.statnews.com/2026/11/16/beone-hengrui-top-list-of-chinas-most-powerful-drugmakers/?utm_campaign=rss",
-   "published": "2026-11-16T09:30:00+00:00"
-  },
-  {
-   "outlet": "STAT",
-   "headline": "Opinion: STAT+: Candles and long baths can’t fix burned-out physicians",
-   "summary": "The language around self-care for doctors puts the onus on them to fix themselves. But the system is to blame, writes Frances Mei Hardin.",
-   "link": "https://www.statnews.com/2026/11/16/doctors-self-care-limits-literature-systems/?utm_campaign=rss",
-   "published": "2026-11-16T09:30:00+00:00"
-  },
-  {
-   "outlet": "STAT",
-   "headline": "STAT+: Versant, Lilly put $100 million behind new startup aimed at solving one of gene therapy’s thorniest issues",
-   "summary": "Versant Ventures, Eli Lilly, and a handful of other investors will pour $100 million into a new startup devoted to solving a thorny gene therapy challenge.",
-   "link": "https://www.statnews.com/2026/11/16/versant-lilly-put-100-million-behind-new-startup-aimed-at-solving-one-of-gene-therapys-thorniest-issues/?utm_campaign=rss",
-   "published": "2026-11-16T10:00:00+00:00"
-  },
-  {
-   "outlet": "STAT",
-   "headline": "STAT+: Venture capitalist John Doerr says AI company, named for his late brother, could help fix primary care",
-   "summary": "Venture capitalist John Doerr on Tom Health, a new AI tool for primary care: \"I think this is one of the best possible uses of AI.\"",
-   "link": "https://www.statnews.com/2026/11/16/ai-company-tom-health-fix-primary-care-new-tool/?utm_campaign=rss",
-   "published": "2026-11-16T11:00:00+00:00"
-  },
-  {
-   "outlet": "STAT",
-   "headline": "STAT+: Bladder cancer immunotherapy from CG Oncology reduced risk of tumor recurrence",
-   "summary": "CG Oncology's bladder cancer immunotherapy reduced risk of tumor recurrence by 68% — results that may change how physicians treat certain patients.",
-   "link": "https://www.statnews.com/2026/11/16/bladder-cancer-immunotherapy-reduced-tumor-recurrence-cg-oncology/?utm_campaign=rss",
-   "published": "2026-11-16T13:00:00+00:00"
-  },
-  {
-   "outlet": "STAT",
-   "headline": "STAT+: Helus’ psychedelic drug improved depression in study but faces safety questions",
-   "summary": "A psychedelic drug from Helus Pharma improved depression in a study, but is facing safety questions with a number of serious adverse events reported.",
-   "link": "https://www.statnews.com/2026/11/16/helus-psychedelics-depression-phase-3-trial/?utm_campaign=rss",
-   "published": "2026-11-16T13:07:47+00:00"
-  },
-  {
-   "outlet": "STAT",
-   "headline": "Democrats settle on a message: ‘Medicare for More’",
-   "summary": "It doesn’t have quite the same ring to it as “Medicare for All.” But House Dems have coalesced around a policy priority to expand health care access:",
-   "link": "https://www.statnews.com/2026/11/16/health-news-democrats-settle-on-medicare-for-more-message/?utm_campaign=rss",
-   "published": "2026-11-16T13:37:10+00:00"
-  },
-  {
-   "outlet": "STAT",
-   "headline": "STAT+: Pharmalittle: We’re reading about GLP-1 use, Covid-19 vaccine investment returns, and more",
-   "summary": "During July and August 2025, approximately 1 in 10 U.S. adults reported taking a GLP-1 medication during the previous year",
-   "link": "https://www.statnews.com/pharmalot/2026/11/16/glp1-use-covid-19-vaccines-return-on-investment/?utm_campaign=rss",
-   "published": "2026-11-16T14:17:01+00:00"
-  },
-  {
-   "outlet": "STAT",
-   "headline": "STAT+: Suing Joe the Plumber and Microsoft, and diminishing raises",
-   "summary": "Health care providers turn to the courts to get paid, and how insurance costs are eating your paycheck.",
-   "link": "https://www.statnews.com/2026/11/16/providers-sue-employers-to-collect-payment-health-insurance-costs-climb/?utm_campaign=rss",
-   "published": "2026-11-16T16:52:09+00:00"
-  },
-  {
-   "outlet": "STAT",
-   "headline": "STAT+: Biotech’s rebound isn’t lifting all boats equally",
-   "summary": "Biotech is having a good year, though you wouldn't necessarily know it from how investors are treating positive clinical data.",
-   "link": "https://www.statnews.com/2026/11/16/biotech-news-rebound-isnt-lifting-all-boats-equally/?utm_campaign=rss",
-   "published": "2026-11-16T16:56:33+00:00"
-  },
-  {
-   "outlet": "STAT",
-   "headline": "STAT+: NIAID acting head John Powers III appointed as the permanent director",
-   "summary": "The acting director of NIAID, John Powers III, will become the permanent director, the agency announced Monday.",
-   "link": "https://www.statnews.com/2026/11/16/john-powers-appointed-niaid-director/?utm_campaign=rss",
-   "published": "2026-11-16T17:47:11+00:00"
-  },
-  {
-   "outlet": "STAT",
-   "headline": "STAT+: Expert warns of battleground over global access to newer GLP-1 drugs for obesity",
-   "summary": "How obesity medications may become the next big battleground over access to medicines in lower-income countries.",
-   "link": "https://www.statnews.com/pharmalot/2026/11/16/semaglutide-obesity-glp1-access-medicines-low-income-countries/?utm_campaign=rss",
-   "published": "2026-11-16T18:18:25+00:00"
-  },
-  {
-   "outlet": "STAT",
-   "headline": "STAT+: In a win for MAHA, FDA creates new regulatory category for the supplement NAC",
-   "summary": "The supplement NAC has been widely available for years, but exists in a legal gray area.",
-   "link": "https://www.statnews.com/2026/11/16/fda-proposes-new-category-supplement-nac/?utm_campaign=rss",
-   "published": "2026-11-16T18:54:06+00:00"
-  },
-  {
-   "outlet": "STAT",
-   "headline": "STAT+: Federal judge issues final ruling blocking U.S. plan to limit visa length for grad students, postdocs",
-   "summary": "A proposal by the Trump administration to cap the amount of time foreign students and scholars can spend in the country has been struck down in court.",
-   "link": "https://www.statnews.com/2026/11/16/judge-rejects-visa-limits-international-researchers-upholds-duration-of-status-policy/?utm_campaign=rss",
-   "published": "2026-11-16T19:59:14+00:00"
-  },
-  {
-   "outlet": "STAT",
-   "headline": "STAT+: FDA approves new breast cancer drug, providing new option for some patients, boost for Roche",
-   "summary": "The FDA approved a new breast cancer drug from Roche, teeing up the launch of a medicine the company has said could become its top-selling product ever.",
-   "link": "https://www.statnews.com/2026/11/16/fda-approves-new-roche-breast-cancer-drug/?utm_campaign=rss",
-   "published": "2026-11-16T20:56:47+00:00"
-  },
-  {
-   "outlet": "STAT",
-   "headline": "STAT+: New Trump regulation promises to crush ‘fraudsters.’ All the savings come from Medicare Advantage",
-   "summary": "New Trump regulation promises to crush ‘fraudsters.’ All the savings come from Medicare Advantage.",
-   "link": "https://www.statnews.com/2026/11/16/cms-proposes-more-agressive-audits-medicare-advantage-crush/?utm_campaign=rss",
-   "published": "2026-11-16T23:45:36+00:00"
+   "headline": "The U.S. just lost its measles elimination status. What now?",
+   "summary": "Data collected since January 2025 show that the measles virus has been circulating for more than a year, a sign that the virus is now endemic.",
+   "link": "https://www.sciencenews.org/article/measles-us-elimination-status-vaccine",
+   "published": "2026-11-17T16:09:29+00:00"
   }
  ]
 }
