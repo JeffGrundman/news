@@ -7,6 +7,9 @@ part names, so the reader always knows how many there are."""
 import json
 import re
 import sys
+import time
+import urllib.error
+import urllib.request
 from datetime import datetime, timedelta, timezone
 from html import unescape
 
@@ -45,7 +48,87 @@ NAMES = {           # tidy up the names some feeds give themselves
     "PolitiFact": "PolitiFact",
 }
 
+# Many news sites turn away requests that announce themselves as a script
+# (feedparser's default), answering with an error page that has no items.
+# Ask the way a browser does instead.
+HEADERS = {
+    "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                   "(KHTML, like Gecko) Chrome/131.0 Safari/537.36"),
+    "Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.9, */*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9",
+}
+TIMEOUT = 30
+ATTEMPTS = 3
+
+# Outlet names exactly as the briefing instructions list them. A feed whose name
+# comes out differently is flagged so the NAMES table can be fixed.
+APPROVED = {
+    "BBC News", "PBS NewsHour", "BNO News", "ProPublica", "Haaretz", "DW News",
+    "Science News", "The Conversation", "Christian Science Monitor",
+    "Foreign Policy", "The Dispatch", "Semafor", "NPR", "The Star (Malaysia)",
+    "Carbon Brief", "Inside Climate News", "Positive News", "Ars Technica", "CBC",
+    "Reason", "National Review", "Straight Arrow News", "The Kyiv Independent",
+    "The Moscow Times", "The Diplomat", "Daily Maverick", "Rest of World",
+    "The Guardian", "Associated Press, via ABC News", "Politico", "Politico Europe",
+    "PolitiFact", "FactCheck.org", "Good News Network", "Good Good Good",
+    "The Times of Israel", "The Jerusalem Post", "The Intercept", "STAT",
+    "KFF Health News", "Fortune", "CNBC",
+}
+
 cutoff = datetime.now(timezone.utc) - timedelta(hours=HOURS)
+
+
+# Name each outlet by the web address of its feed, so a feed that renames
+# itself (or a new feed added later) still lands under the right outlet.
+DOMAINS = {
+    "bbci.co.uk": "BBC News", "dw.com": "DW News", "theguardian.com": "The Guardian",
+    "cbc.ca": "CBC", "arstechnica.com": "Ars Technica",
+    "nationalreview.com": "National Review",
+    "abcnews.go.com": "Associated Press, via ABC News",
+    "pbs.org": "PBS NewsHour", "npr.org": "NPR", "sciencenews.org": "Science News",
+    "propublica.org": "ProPublica", "csmonitor.com": "Christian Science Monitor",
+    "theconversation.com": "The Conversation", "thedispatch.com": "The Dispatch",
+    "semafor.com": "Semafor", "san.com": "Straight Arrow News", "reason.com": "Reason",
+    "insideclimatenews.org": "Inside Climate News",
+    "themoscowtimes.com": "The Moscow Times", "thediplomat.com": "The Diplomat",
+    "restofworld.org": "Rest of World", "jpost.com": "The Jerusalem Post",
+    "positive.news": "Positive News", "goodnewsnetwork.org": "Good News Network",
+    "goodgoodgood.co": "Good Good Good", "bnonews.com": "BNO News",
+    "dailymaverick.co.za": "Daily Maverick", "politico.com": "Politico",
+    "politico.eu": "Politico Europe", "politifact.com": "PolitiFact",
+    "factcheck.org": "FactCheck.org", "statnews.com": "STAT",
+    "kffhealthnews.org": "KFF Health News", "fortune.com": "Fortune",
+    "cnbc.com": "CNBC", "thestar.com.my": "The Star (Malaysia)",
+    "kyivindependent.com": "The Kyiv Independent", "carbonbrief.org": "Carbon Brief",
+    "theintercept.com": "The Intercept", "timesofisrael.com": "The Times of Israel",
+    "foreignpolicy.com": "Foreign Policy", "haaretz.com": "Haaretz",
+}
+
+
+def outlet_for(url):
+    host = re.sub(r"^https?://", "", url).split("/")[0].lower()
+    for domain, name in DOMAINS.items():
+        if host == domain or host.endswith("." + domain):
+            return name
+    return None
+
+
+def fetch(url):
+    """Download a feed. Returns (bytes, None) or (None, reason)."""
+    reason = "unknown error"
+    for attempt in range(ATTEMPTS):
+        try:
+            req = urllib.request.Request(url, headers=HEADERS)
+            with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
+                return resp.read(), None
+        except urllib.error.HTTPError as exc:
+            reason = f"HTTP {exc.code}"
+            if exc.code in (401, 403, 404, 410):
+                break                     # retrying will not help
+        except Exception as exc:          # noqa: BLE001
+            reason = f"{type(exc).__name__}: {exc}"
+        time.sleep(3 * (attempt + 1))
+    return None, reason
 
 
 def feed_urls():
@@ -81,16 +164,23 @@ problems = []
 seen_links = set()
 
 for url in feed_urls():
+    body, reason = fetch(url)
+    if body is None:
+        problems.append(f"{url}: {reason}")
+        continue
     try:
-        parsed = feedparser.parse(url)
+        parsed = feedparser.parse(body)
     except Exception as exc:                      # noqa: BLE001
-        problems.append(f"{url}: {exc}")
+        problems.append(f"{url}: could not read feed ({exc})")
         continue
     if not parsed.entries:
-        problems.append(f"{url}: no items")
+        start = body[:200].decode("utf-8", "replace").strip().replace("\n", " ")
+        problems.append(f"{url}: no items (page began: {start[:80]})")
         continue
     raw_name = clean(parsed.feed.get("title", "")) or url
-    outlet = NAMES.get(raw_name, raw_name)
+    outlet = outlet_for(url) or NAMES.get(raw_name, raw_name)
+    if outlet not in APPROVED:
+        problems.append(f"{url}: outlet name not recognised: {outlet!r}")
     kept = 0
     for entry in parsed.entries:
         when = published(entry)
