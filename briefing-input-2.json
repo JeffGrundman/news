@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T02:18:10.564887+00:00",
+ "built": "2026-11-20T03:58:36.744553+00:00",
  "window_hours": 24,
  "part": "briefing-input-2.json",
  "all_parts": [
@@ -275,13 +275,6 @@
   },
   {
    "outlet": "Fortune",
-   "headline": "Social Security has less than 6 years before a 22% cut. A Senate chairman’s fix is to borrow $190 trillion and call it the ‘Stop Scaring Seniors Act’",
-   "summary": "A nonpartisan watchdog called Ron Johnson’s proposal a “cynical pander that ducks all the real decisions.”",
-   "link": "https://fortune.com/2026/11/19/social-security-22-percent-cut-ron-johnson-stop-scaring-seniors-act-borrow-190-trillion-crfb/",
-   "published": "2026-11-19T21:15:41+00:00"
-  },
-  {
-   "outlet": "Fortune",
    "headline": "Bill Ackman is asking the wrong question about Nvidia",
    "summary": "Nvidia can’t afford to keep waiting for Jensen Huang",
    "link": "https://fortune.com/2026/11/19/bill-ackman-nvidia-jensen-huang-reinstatement-board/",
@@ -307,6 +300,13 @@
    "summary": "The blockbuster public debut delivered one of Wall Street’s largest underwriting paydays in history.",
    "link": "https://fortune.com/2026/11/19/anthropics-ipo-nets-goldman-sachs-and-morgan-stanley-113-million-apiece-in-fees-eclipsing-their-spacex-paydays/",
    "published": "2026-11-19T23:38:22+00:00"
+  },
+  {
+   "outlet": "Fortune",
+   "headline": "Maybank’s tech chief isn’t rushing to put agentic AI in front of customers: ‘You don’t want to put trust in jeopardy’",
+   "summary": "Maybank CTO Giorgio Migliarina says the bank wants AI agents to auditable and predictable before it makes them customer-facing.",
+   "link": "https://fortune.com/2026/11/19/maybank-pursuing-gradual-agentic-ai-rollout/",
+   "published": "2026-11-20T03:01:39+00:00"
   },
   {
    "outlet": "Good Good Good",
@@ -716,52 +716,10 @@
   },
   {
    "outlet": "Politico Europe",
-   "headline": "Présidentielle : pourquoi les youtubeurs ne veulent pas être régulés comme les télés",
-   "summary": "Dans un entretien à POLITICO, l’Umicc défend fermement ses positions face aux règles de pluralisme que veut soumettre l'Arcom aux créateurs de contenus.",
-   "link": "https://www.politico.eu/article/presidentielle-pourquoi-les-youtubeurs-ne-veulent-pas-etre-regules-comme-la-tele/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "published": "2026-11-19T12:11:50+00:00"
-  },
-  {
-   "outlet": "Politico Europe",
-   "headline": "Nigel Farage is back in Brussels",
-   "summary": "The veteran Brexiteer is in town to attack Andy Burnham's efforts at building bridges with the EU.",
-   "link": "https://www.politico.eu/article/nigel-farage-is-back-in-brussels/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "published": "2026-11-19T12:50:25+00:00"
-  },
-  {
-   "outlet": "Politico Europe",
-   "headline": "Video: EU-Gesundheitskommissar wird aus Protest gegen Pestizidregeln mit „Asche“ beworfen",
-   "summary": "Olivér Várhelyi wollte gerade auf einem Krebsgipfel das Wort ergreifen, als eine graue Substanz auf ihn geworfen wurde.",
-   "link": "https://www.politico.eu/article/video-eu-gesundheitskommissar-wird-aus-protest-gegen-pestizidregeln-mit-asche-beworfen/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "published": "2026-11-19T12:54:22+00:00"
-  },
-  {
-   "outlet": "Politico Europe",
-   "headline": "Startups call on Commission to salvage or scrap EU Inc proposal",
-   "summary": "Lobby groups call on Brussels to withdraw and resubmit after proposal for new corporate form was watered down by EU member countries.",
-   "link": "https://www.politico.eu/article/eu-startup-lobby-groups-call-upon-commission-to-withdraw-eu-inc-proposal/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "published": "2026-11-19T13:00:00+00:00"
-  },
-  {
-   "outlet": "Politico Europe",
-   "headline": "Britain shouldn’t rush to a second Brexit referendum, say pro-EU Lib Dems",
-   "summary": "Al Pinkerton, the party's Europe spokesperson, says the public would have “an expectation” there would be a referendum on rejoining the bloc.",
-   "link": "https://www.politico.eu/article/britain-brexit-referendum-liberal-democrats-al-pinkerton/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "published": "2026-11-19T15:51:21+00:00"
-  },
-  {
-   "outlet": "Politico Europe",
-   "headline": "After Putin talks, Trump tells Europe it could save lives and cash if Ukraine war ends",
-   "summary": "The U.S. president followed up his meeting with Russian and Chinese leaders with a surprise call to Berlin.",
-   "link": "https://www.politico.eu/article/donald-trump-presses-european-leaders-about-ukraine-aid-after-vladimir-putin-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "published": "2026-11-19T16:38:37+00:00"
-  },
-  {
-   "outlet": "Politico Europe",
-   "headline": "Zucman, le retour",
-   "summary": "Un manifeste publié ce vendredi, un “sommet contre l’oligarchie internationale” samedi, une proposition de taxe supplémentaire : Gabriel Zucman est de retour au premier plan. Engag",
-   "link": "https://www.politico.eu/podcast/playbook-paris-podcast/zucman-le-retour/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "published": "2026-11-19T16:53:19+00:00"
+   "headline": "Ukraine has a French election problem",
+   "summary": "Presidential leading candidates Jean-Luc Mélenchon and Marine Le Pen are both likely to change France’s position toward Ukraine if elected.",
+   "link": "https://www.politico.eu/article/ukraine-france-election-problem/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "published": "2026-11-19T19:19:47+00:00"
   },
   {
    "outlet": "Politico Europe",
@@ -769,6 +727,13 @@
    "summary": "As AI reveals deeply hidden vulnerabilities, idealist coders and non-profits say they’re running on fumes trying to maintain the web's core vitals.",
    "link": "https://www.politico.eu/article/ai-internet-website-shutdown-hack-cyberattack/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
    "published": "2026-11-19T19:32:08+00:00"
+  },
+  {
+   "outlet": "Politico Europe",
+   "headline": "Costa eyes tax on Big Tech to boost EU budget after Trump’s poor midterms showing",
+   "summary": "Supporters of the levy say Donald Trump's defeat in the midterm elections finally opens an opportunity.",
+   "link": "https://www.politico.eu/article/antonio-costa-tax-big-tech-eu-budget-trump-midterms/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "published": "2026-11-19T19:35:28+00:00"
   },
   {
    "outlet": "Politico Europe",
@@ -783,6 +748,41 @@
    "summary": "The British PM is in Brussels to ink a host of post-Brexit agreements — and start talking about what comes next.",
    "link": "https://www.politico.eu/article/eu-uk-summit-live-updates/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
    "published": "2026-11-19T23:05:00+00:00"
+  },
+  {
+   "outlet": "Politico Europe",
+   "headline": "Delay Another Day: How James Bond can save the EU",
+   "summary": "A series of EU-themed 007 movies? Yes please.",
+   "link": "https://www.politico.eu/article/delay-another-day-james-bond-help-robert-pattinson-save-eu/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "published": "2026-11-20T03:00:00+00:00"
+  },
+  {
+   "outlet": "Politico Europe",
+   "headline": "UK ‘playing catch up’ with Nordic countries on crisis preparations, says minister",
+   "summary": "Dan Jarvis told POLITICO’s Westminster Insider that Britain has “a lot we can learn” from Norway, which advises citizens to keep enough food and water to survive for a week.",
+   "link": "https://www.politico.eu/article/uk-catch-up-nordic-countries-crisis-preparation-dan-jarvis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "published": "2026-11-20T03:00:00+00:00"
+  },
+  {
+   "outlet": "Politico Europe",
+   "headline": "5 takeaways from the Spanish election debate",
+   "summary": "The two main party leaders clashed over corruption, migration and the economy, as polls point to a possible conservative government backed by the far right.",
+   "link": "https://www.politico.eu/article/spain-election-debate-5-takeaways-pedro-sanchez-alberto-nunez-feijoo/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "published": "2026-11-20T03:00:00+00:00"
+  },
+  {
+   "outlet": "Politico Europe",
+   "headline": "Stockpiling Britain: Does Westminster know something we don’t?",
+   "summary": "A ‘Black Sky event’ — a major blackout that could knock out communications, disrupt food supplies and bring everyday life to a standstill — is among the scenarios emergency planner",
+   "link": "https://www.politico.eu/podcast/westminster-insider/stockpiling-britain-does-westminster-know-something-we-dont/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "published": "2026-11-20T03:00:00+00:00"
+  },
+  {
+   "outlet": "Politico Europe",
+   "headline": "What does Europe want from Andy Burnham’s reconciliation bid?",
+   "summary": "This week’s EU-UK reset has been long in the making. After the final squeeze by negotiators, will the summit pave the way for a closer relationship and maybe even lead to Britain r",
+   "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/what-does-europe-want-from-andy-burnhams-reconciliation-bid/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "published": "2026-11-20T03:00:00+00:00"
   },
   {
    "outlet": "ProPublica",
@@ -825,13 +825,6 @@
    "summary": "The post The U.S. Paid Insurers Billions to Cover Civilians Harmed in War. Even the Government Says the System Is Ripe for Fraud. appeared first on ProPublica .",
    "link": "https://www.propublica.org/article/civilian-workers-war-injuries-insurance-companies",
    "published": "2026-11-19T16:15:00+00:00"
-  },
-  {
-   "outlet": "Reason",
-   "headline": "Bernie Sanders' 'Superintelligence' Ban Would Criminalize Today's AI for What Tomorrow's AI Might Do",
-   "summary": "Greg Casar and Bernie Sanders",
-   "link": "https://reason.com/2026/11/19/bernie-sanders-superintelligence-ban-would-criminalize-todays-ai-for-what-tomorrows-ai-might-do/",
-   "published": "2026-11-19T14:45:35+00:00"
   },
   {
    "outlet": "Reason",
@@ -1000,6 +993,13 @@
    "summary": "Alaska Senate candidate Mary Peltola (on the left) and Senator Dan Sullivan (on the right)",
    "link": "https://reason.com/volokh/2026/11/19/trump-justice-department-drops-attempt-to-block-certification-of-alaska-senate-election-result-in-voter-confusion-case/",
    "published": "2026-11-20T00:33:02+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "Second Amendment Roundup: Major New Film \"Firearms and the AR-15 Rifle\"",
+   "summary": "The mechanics and features of America’s leading rifle are explained for the bench and bar.",
+   "link": "https://reason.com/volokh/2026/11/19/second-amendment-roundup-major-new-film-firearms-and-the-ar-15-rifle/",
+   "published": "2026-11-20T02:22:06+00:00"
   },
   {
    "outlet": "Rest of World",

@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T02:18:10.564887+00:00",
+ "built": "2026-11-20T03:58:36.744553+00:00",
  "window_hours": 24,
  "part": "briefing-input.json",
  "all_parts": [
@@ -17,7 +17,7 @@
   "CNBC",
   "Daily Maverick"
  ],
- "story_count": 121,
+ "story_count": 125,
  "feeds_with_problems": [
   "https://san.com/feed/: no items (page began: <!doctype html> <html lang=\"en\"> <head> \t<meta charset=\"utf-8\"> \t<meta name=\"vie)",
   "https://www.positive.news/feed/: HTTP 403",
@@ -183,13 +183,6 @@
   },
   {
    "outlet": "Associated Press, via ABC News",
-   "headline": "For Putin, sharing a spotlight with Trump and Xi boosts his profile on the global stage",
-   "summary": "For Russian President Vladimir Putin, the three-way meeting with Donald Trump and Xi Jinping offered a much-coveted chance for the Kremlin leader to demonstrate that he heads a sup",
-   "link": "https://abcnews.com/International/wireStory/putin-sharing-spotlight-trump-xi-boosts-profile-global-138265640",
-   "published": "2026-11-19T14:02:14+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
    "headline": "Trump, Xi and Putin hold rare 3-way talks on nuclear risks but emerge with no major breakthroughs",
    "summary": "Three leaders who view their nations as the world’s superpowers have sat around a table together for the first time to talk about reducing nuclear risks and resolving conflicts",
    "link": "https://abcnews.com/International/wireStory/china-russia-us-agree-reforms-boosting-fuel-supplies-138269362",
@@ -350,11 +343,25 @@
    "published": "2026-11-19T21:23:36+00:00"
   },
   {
-   "outlet": "BBC News",
-   "headline": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
-   "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
-   "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-19T02:59:06+00:00"
+   "outlet": "Associated Press, via ABC News",
+   "headline": "Asia shares drop on AI worries, echoing Wall Street's decline despite the strong Anthropic debut",
+   "summary": "Asian shares are dropping during a wide selloff in issues related to artificial intelligence and computer chips",
+   "link": "https://abcnews.com/Business/wireStory/asia-shares-drop-ai-worries-echoing-wall-streets-138309523",
+   "published": "2026-11-20T03:36:37+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
+   "headline": "Senate backs bill to speed up permitting reviews, force data centers to pay for energy costs",
+   "summary": "The Senate has approved bipartisan legislation aimed at speeding up permitting reviews to build power plants, transmission lines and other energy infrastructure as lawmakers seek t",
+   "link": "https://abcnews.com/Business/wireStory/senate-backs-bill-speed-permitting-reviews-force-data-138308461",
+   "published": "2026-11-20T03:36:58+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
+   "headline": "El Salvador President Nayib Bukele seeks third term while attacking gangs in Haiti",
+   "summary": "El Salvador’s President Nayib Bukele has officially launched his bid for reelection in the February elections",
+   "link": "https://abcnews.com/International/wireStory/el-salvador-president-nayib-bukele-seeks-term-attacking-138309430",
+   "published": "2026-11-20T03:39:07+00:00"
   },
   {
    "outlet": "BBC News",
@@ -547,6 +554,13 @@
   },
   {
    "outlet": "BBC News",
+   "headline": "Why Canada is embracing AI data centres while the US pushes back",
+   "summary": "Shark Tank's Kevin O'Leary is among the big investors looking to Canada as a data centre development destination, while his US project faces local opposition.",
+   "link": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-20T00:13:24+00:00"
+  },
+  {
+   "outlet": "BBC News",
    "headline": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
    "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
    "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
@@ -600,6 +614,20 @@
    "summary": "A northeast Georgia man has been charged with international money laundering and destroying evidence after authorities accused him of sending more than $26,000 to people and groups",
    "link": "https://bnonews.com/index.php/2026/11/georgia-man-charged-with-laundering-money-tied-to-isis/",
    "published": "2026-11-20T02:08:54+00:00"
+  },
+  {
+   "outlet": "BNO News",
+   "headline": "Quinnipiac University’s main campus on lockdown over possible gunman",
+   "summary": "Quinnipiac University’s main campus in Connecticut is on lockdown as police investigate reports of a possible gunman, the university said in an alert. The university issued its fir",
+   "link": "https://bnonews.com/index.php/2026/11/quinnipiac-university-in-connecticut-on-lockdown-over-reports-of-gunman/",
+   "published": "2026-11-20T02:34:45+00:00"
+  },
+  {
+   "outlet": "BNO News",
+   "headline": "Fire in an apartment building near France kills 1, injures 30",
+   "summary": "One person was killed and about 30 others were injured in a fire at an apartment building east of Paris, according to local officials. About half of those injured were firefighters",
+   "link": "https://bnonews.com/index.php/2026/11/fire-in-an-apartment-building-near-france-kills-1-injures-30/",
+   "published": "2026-11-20T03:45:28+00:00"
   },
   {
    "outlet": "CBC",
@@ -698,41 +726,6 @@
    "summary": "Gap on Thursday announced Ashley Kechter as the new CEO of Athleta. The retailer also reported mixed fiscal third-quarter earnings.",
    "link": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
    "published": "2026-11-19T23:54:20+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "US, China can help end Ukraine war, Trump tells Xi before trilateral with Putin",
-   "summary": "US President Donald Trump told his Chinese counterpart Xi Jinping on Thursday that they should both help end the war in Ukraine ahead of their unprecedented three-way meeting with ",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-19-us-china-can-help-end-ukraine-war-trump-tells-xi-before-trilateral-with-putin/",
-   "published": "2026-11-19T10:45:43+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "MALNUTRITION OP-ED: SA needs these policies in the mission to end stunting",
-   "summary": "South Africa is on a mission to end stunting, and the Department of Agriculture is a key player in delivering that plan. It’s one of several departments on a task team, led by the ",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-19-sa-needs-these-policies-in-the-mission-to-end-stunting/",
-   "published": "2026-11-19T11:30:00+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "ECD CRIMINALISED: Orange Farm crèche principal convicted over missing permit only City of Joburg could unlock",
-   "summary": "A 63-year-old Orange Farm early childhood development (ECD) practitioner has been handed a suspended criminal sentence for operating without a health permit – despite the City of J",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-19-orange-farm-early-childhood-development-principal-convicted-after-citys-27-year-failure-to-issue-lease/",
-   "published": "2026-11-19T14:04:22+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "Watch – Why the markets make no sense right now",
-   "summary": "",
-   "link": "https://www.dailymaverick.co.za/video/2026-11-19-watch-why-the-markets-make-no-sense-right-now/",
-   "published": "2026-11-19T16:38:00+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "Community Innovation: From polluted canals to new horizons — imagining Gqeberha’s future",
-   "summary": "In 2025, 41 artists, students and academics visited some of Gqeberha’s most polluted and important natural spaces to imagine what the metro could look like in 2055. A year later, w",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-19-from-polluted-canals-to-new-horizons-imagining-gqeberhas-future/",
-   "published": "2026-11-19T16:43:16+00:00"
   },
   {
    "outlet": "Daily Maverick",
@@ -873,6 +866,41 @@
    "summary": "The FF Plus could not resolve tension between the DA and ActionSA as Gauteng coalition negotiations stall and ANC-led governing options gain support.",
    "link": "https://www.dailymaverick.co.za/article/2026-11-20-ff-plus-fails-to-broker-da-actionsa-coalition-as-gauteng-talks-stall/",
    "published": "2026-11-20T00:35:22+00:00"
+  },
+  {
+   "outlet": "Daily Maverick",
+   "headline": "Alibaba defrauded shareholders by concealing ties to suspected spy in Nvidia scandal, lawsuit says",
+   "summary": "NEW YORK, Nov 19 (Reuters) - Alibaba was sued on Thursday in New York by shareholders who accused the Chinese e-commerce giant of defrauding them by concealing its ties to the susp",
+   "link": "https://www.dailymaverick.co.za/article/2026-11-20-alibaba-defrauded-shareholders-by-concealing-ties-to-suspected-spy-in-nvidia-scandal-lawsuit-says/",
+   "published": "2026-11-20T05:05:57+00:00"
+  },
+  {
+   "outlet": "Daily Maverick",
+   "headline": "Trump ousts cyber director after tech outages spark criticism",
+   "summary": "WASHINGTON, Nov 19 (Reuters) - White House national cyber director Sean Cairncross was \"fired\" from his job, a person close to the White House said on Thursday, days after technolo",
+   "link": "https://www.dailymaverick.co.za/article/2026-11-20-trump-ousts-cyber-director-after-tech-outages-spark-criticism-friday-20th-november-2026-0338/",
+   "published": "2026-11-20T05:07:59+00:00"
+  },
+  {
+   "outlet": "Daily Maverick",
+   "headline": "Haiti police operation kills 34 suspected gang members in capital",
+   "summary": "PORT-AU-PRINCE, Nov 19 (Reuters) - A police operation in Haiti killed at least 34 alleged gang members on Thursday, the force said after a major operation in the south of Port-au-P",
+   "link": "https://www.dailymaverick.co.za/article/2026-11-20-haiti-police-operation-kills-34-suspected-gang-members-in-capital/",
+   "published": "2026-11-20T05:10:01+00:00"
+  },
+  {
+   "outlet": "Daily Maverick",
+   "headline": "Motor racing-Nike to become Formula One’s official apparel and uniform partner",
+   "summary": "LAS VEGAS, Nov 19 (Reuters) - Formula One's push to turn its rapid global growth into a broader lifestyle business took another step on Thursday with the announcement of a long-ter",
+   "link": "https://www.dailymaverick.co.za/article/2026-11-20-motor-racing-nike-to-become-formula-ones-official-apparel-and-uniform-partner/",
+   "published": "2026-11-20T05:11:31+00:00"
+  },
+  {
+   "outlet": "Daily Maverick",
+   "headline": "WHAT WE’RE WATCHING: VisionQuest — Marvel’s latest miniseries has big ideas, but not enough human feeling",
+   "summary": "With Paul Bettany leading an impressive cast, VisionQuest on Disney+ caps the MCU series trilogy initiated by acclaimed WandaVision and Agatha All Along. However, with original sho",
+   "link": "https://www.dailymaverick.co.za/article/2026-11-20-visionquest-marvels-latest-miniseries-has-big-ideas-but-not-enough-human-feeling/",
+   "published": "2026-11-20T05:30:00+00:00"
   }
  ]
 }
