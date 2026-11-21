@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T02:12:02.453788+00:00",
+ "built": "2026-11-21T03:58:28.249089+00:00",
  "window_hours": 24,
  "part": "briefing-input-2.json",
  "all_parts": [
@@ -8,6 +8,7 @@
   "briefing-input-3.json"
  ],
  "outlets_here": [
+  "FactCheck.org",
   "Foreign Policy",
   "Fortune",
   "Good News Network",
@@ -23,7 +24,7 @@
   "Science News",
   "Semafor"
  ],
- "story_count": 146,
+ "story_count": 148,
  "feeds_with_problems": [
   "https://san.com/feed/: no items (page began: <!doctype html> <html lang=\"en\"> <head> \t<meta charset=\"utf-8\"> \t<meta name=\"vie)",
   "https://www.positive.news/feed/: HTTP 403",
@@ -34,6 +35,20 @@
   "https://www.haaretz.com/cmlink/1.4605090: HTTP 403"
  ],
  "stories": [
+  {
+   "outlet": "FactCheck.org",
+   "headline": "Former Trump Administration Health Adviser Misleads About mRNA Flu Vaccine",
+   "summary": "Former Health and Human Services Department adviser Calley Means has misleadingly suggested that the new mRNA influenza vaccine from Moderna isn’t safe and doesn’t work well. Less ",
+   "link": "https://www.factcheck.org/2026/11/former-trump-administration-health-adviser-misleads-about-mrna-flu-vaccine/",
+   "published": "2026-11-20T20:17:08+00:00"
+  },
+  {
+   "outlet": "FactCheck.org",
+   "headline": "Trump’s Misguided Claim That ‘They’ Waited to Lower Gas Prices Until After the Midterms",
+   "summary": "Gasoline prices have been trending downward, dropping about 75 cents per gallon since Sept. 24, though prices are still about 69 cents higher than this time a year ago. In a social",
+   "link": "https://www.factcheck.org/2026/11/trumps-misguided-claim-that-they-waited-to-lower-gas-prices-until-after-the-midterms/",
+   "published": "2026-11-20T21:24:01+00:00"
+  },
   {
    "outlet": "Foreign Policy",
    "headline": "The Other Summitry in Shenzhen",

@@ -1,5 +1,5 @@
 {
- "built": "2026-11-21T02:12:02.453788+00:00",
+ "built": "2026-11-21T03:58:28.249089+00:00",
  "window_hours": 24,
  "part": "briefing-input.json",
  "all_parts": [
@@ -15,10 +15,9 @@
   "CBC",
   "CNBC",
   "Daily Maverick",
-  "DW News",
-  "FactCheck.org"
+  "DW News"
  ],
- "story_count": 132,
+ "story_count": 136,
  "feeds_with_problems": [
   "https://san.com/feed/: no items (page began: <!doctype html> <html lang=\"en\"> <head> \t<meta charset=\"utf-8\"> \t<meta name=\"vie)",
   "https://www.positive.news/feed/: HTTP 403",
@@ -157,10 +156,24 @@
   },
   {
    "outlet": "Associated Press, via ABC News",
+   "headline": "Dozens of inmates in Romania step onto the stage for the 15th edition of a prison theater festival",
+   "summary": "A drama festival in Romania gives dozens of prison inmates a brief respite from life behind bars as they perform on stage at a renowned theater in the capital",
+   "link": "https://abcnews.com/International/wireStory/dozens-inmates-romania-step-stage-15th-edition-prison-138312303",
+   "published": "2026-11-20T05:52:21+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
    "headline": "Rohingya in Bangladesh welcome UN court's genocide verdict but say they want to go home to Myanmar",
    "summary": "Rohingya refugees in Bangladesh have welcomed the ruling by the United Nations' top court in the Netherlands that held Myanmar responsible for genocide",
    "link": "https://abcnews.com/International/wireStory/rohingya-bangladesh-courts-genocide-verdict-home-myanmar-138313372",
    "published": "2026-11-20T07:37:05+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
+   "headline": "US deportees in South Sudan went hungry as guards pocketed money from relatives, families say",
+   "summary": "Migrants deported by the Trump administration to countries other than their own have endured hunger, thirst and other deprivations",
+   "link": "https://abcnews.com/International/wireStory/us-deportees-south-sudan-hungry-guards-pocketed-money-138312302",
+   "published": "2026-11-20T07:38:23+00:00"
   },
   {
    "outlet": "Associated Press, via ABC News",
@@ -301,6 +314,27 @@
    "summary": "A bruising sell-off in artificial intelligence stocks on Friday pulled the S&P 500 down 3.7%, dragging the index to its worst weekly loss in more than 18 months, and knocking the N",
    "link": "https://abcnews.com/Business/wireStory/asia-shares-drop-ai-worries-echoing-wall-streets-138309523",
    "published": "2026-11-21T00:34:14+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
+   "headline": "Phumzile Mlambo-Ngcuka, former South Africa deputy president and UN Women chief, dies at 71",
+   "summary": "Former South African Deputy President Phumzile Mlambo-Ngcuka has died at 71",
+   "link": "https://abcnews.com/International/wireStory/phumzile-mlambo-ngcuka-former-south-africa-deputy-president-138337313",
+   "published": "2026-11-21T03:43:29+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
+   "headline": "All 146 Air Niugini plane passengers and crew safe after an emergency landing in Philippines",
+   "summary": "An Air Niugini plane carrying 146 passengers and crew from Hong Kong to Papua New Guinea has safely made an emergency landing in a southern Philippine city due to a warning of a po",
+   "link": "https://abcnews.com/International/wireStory/146-air-niugini-plane-passengers-crew-safe-after-138336593",
+   "published": "2026-11-21T03:43:44+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
+   "headline": "Magnitude 6.7 earthquake shakes Peru's Andes",
+   "summary": "A magnitude 6.7 earthquake has shaken the Andes in central Peru with no immediate reports of damage or casualties",
+   "link": "https://abcnews.com/International/wireStory/magnitude-67-earthquake-shakes-perus-andes-damage-casualties-138334341",
+   "published": "2026-11-21T03:53:18+00:00"
   },
   {
    "outlet": "BBC News",
@@ -504,20 +538,6 @@
    "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
    "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
    "published": "2026-11-21T02:09:46+00:00"
-  },
-  {
-   "outlet": "BNO News",
-   "headline": "Quinnipiac University’s main campus on lockdown over possible gunman",
-   "summary": "Quinnipiac University’s main campus in Connecticut is on lockdown as police investigate reports of a possible gunman, the university said in an alert. The university issued its fir",
-   "link": "https://bnonews.com/index.php/2026/11/quinnipiac-university-in-connecticut-on-lockdown-over-reports-of-gunman/",
-   "published": "2026-11-20T02:34:45+00:00"
-  },
-  {
-   "outlet": "BNO News",
-   "headline": "Fire in an apartment building near France kills 1, injures 30",
-   "summary": "One person was killed and about 30 others were injured in a fire at an apartment building east of Paris, according to local officials. About half of those injured were firefighters",
-   "link": "https://bnonews.com/index.php/2026/11/fire-in-an-apartment-building-near-france-kills-1-injures-30/",
-   "published": "2026-11-20T03:45:28+00:00"
   },
   {
    "outlet": "BNO News",
@@ -800,6 +820,13 @@
    "published": "2026-11-20T19:05:24+00:00"
   },
   {
+   "outlet": "Daily Maverick",
+   "headline": "WAR IN EUROPE: Ukrainian children abducted, tortured and forced to fight for Russia",
+   "summary": "About 1.6 million children live in Russian-occupied parts of Ukraine. Crimes against them are committed every day as Russia tries to turn them into Russians, says Ukraine’s human r",
+   "link": "https://www.dailymaverick.co.za/article/2026-11-21-ukrainian-children-abducted-tortured-and-forced-to-fight-for-russia/",
+   "published": "2026-11-21T05:30:00+00:00"
+  },
+  {
    "outlet": "DW News",
    "headline": "Have we missed our chance to stop climate change?",
    "summary": "From record-breaking heat to devastating floods and wildfires, the warning signs are everywhere. Can rising temperatures still be brought under control?",
@@ -940,18 +967,18 @@
    "published": "2026-11-21T00:03:00+00:00"
   },
   {
-   "outlet": "FactCheck.org",
-   "headline": "Former Trump Administration Health Adviser Misleads About mRNA Flu Vaccine",
-   "summary": "Former Health and Human Services Department adviser Calley Means has misleadingly suggested that the new mRNA influenza vaccine from Moderna isn’t safe and doesn’t work well. Less ",
-   "link": "https://www.factcheck.org/2026/11/former-trump-administration-health-adviser-misleads-about-mrna-flu-vaccine/",
-   "published": "2026-11-20T20:17:08+00:00"
+   "outlet": "DW News",
+   "headline": "UK anti-migrant activist jailed for slashing Channel dinghy",
+   "summary": "Daniel Thomas, known as \"Danny Tommo,\" slashed a dinghy with a knife while a French rescue worker was on board. The incident was livestreamed to a large social media audience amid ",
+   "link": "https://www.dw.com/en/uk-anti-migrant-activist-jailed-for-slashing-channel-dinghy/a-80007576?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-21T02:47:00+00:00"
   },
   {
-   "outlet": "FactCheck.org",
-   "headline": "Trump’s Misguided Claim That ‘They’ Waited to Lower Gas Prices Until After the Midterms",
-   "summary": "Gasoline prices have been trending downward, dropping about 75 cents per gallon since Sept. 24, though prices are still about 69 cents higher than this time a year ago. In a social",
-   "link": "https://www.factcheck.org/2026/11/trumps-misguided-claim-that-they-waited-to-lower-gas-prices-until-after-the-midterms/",
-   "published": "2026-11-20T21:24:01+00:00"
+   "outlet": "DW News",
+   "headline": "Brazil ex-president Jair Bolsonaro taken to hospital over abdominal pain",
+   "summary": "Jair Bolsonaro has been hospitalized in Brasilia with intestinal obstruction. The former far-right Brazilian leader is receiving pain medications, his son Carlos said.",
+   "link": "https://www.dw.com/en/brazil-ex-president-jair-bolsonaro-taken-to-hospital-over-abdominal-pain/a-80007648?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-21T03:16:00+00:00"
   }
  ]
 }
