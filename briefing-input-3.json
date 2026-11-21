@@ -1,5 +1,5 @@
 {
- "built": "2026-11-20T03:58:36.744553+00:00",
+ "built": "2026-11-21T02:12:02.453788+00:00",
  "window_hours": 24,
  "part": "briefing-input-3.json",
  "all_parts": [
@@ -8,704 +8,332 @@
   "briefing-input-3.json"
  ],
  "outlets_here": [
-  "Semafor",
   "STAT",
   "The Conversation",
   "The Diplomat",
   "The Dispatch",
   "The Guardian",
-  "The Intercept",
   "The Jerusalem Post",
   "The Moscow Times"
  ],
- "story_count": 139,
+ "story_count": 111,
  "feeds_with_problems": [
   "https://san.com/feed/: no items (page began: <!doctype html> <html lang=\"en\"> <head> \t<meta charset=\"utf-8\"> \t<meta name=\"vie)",
   "https://www.positive.news/feed/: HTTP 403",
   "https://www.thestar.com.my/rss/News/World: HTTP 404",
   "https://kyivindependent.com/feed/: HTTP 404",
+  "https://theintercept.com/feed/?rss: HTTP 500",
   "https://www.timesofisrael.com/feed/: HTTP 403",
   "https://www.haaretz.com/cmlink/1.4605090: HTTP 403"
  ],
  "stories": [
   {
-   "outlet": "Semafor",
-   "headline": "Democrats seem to back away from shutdown over Iran war",
-   "summary": "Democrats currently have a limited number of options to influence the sitting Republican majority’s funding plans.",
-   "link": "https://www.semafor.com/article/11/19/2026/democrats-seem-to-back-away-from-shutdown-over-iran-war",
-   "published": "2026-11-19T09:52:39+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Republicans turn to Democrats for Pentagon money",
-   "summary": "Republicans don’t have 50 votes for a party-line bill.",
-   "link": "https://www.semafor.com/article/11/19/2026/republicans-turn-to-democrats-for-pentagon-money",
-   "published": "2026-11-19T09:52:51+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Tech antitrust would be high on Van Hollen’s agenda",
-   "summary": "The Maryland Democrat, a candidate for Senate majority leader, had signaled support for bipartisan antitrust legislation that stalled out in 2022.",
-   "link": "https://www.semafor.com/article/11/19/2026/tech-antitrust-would-be-high-on-van-hollens-agenda",
-   "published": "2026-11-19T09:53:07+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Expats leave Riyadh as Houthi strikes persist",
-   "summary": "With many offices and schools closed, foreign workers in the Saudi capital are increasingly moving elsewhere.",
-   "link": "https://www.semafor.com/article/11/19/2026/expats-leave-riyadh-as-houthi-strikes-persist",
-   "published": "2026-11-19T11:50:31+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "In reversal, IMF forecasts growth for UAE",
-   "summary": "The emirates have slowly started to regain momentum thanks to rebounding trade, aviation, tourism, and oil sales.",
-   "link": "https://www.semafor.com/article/11/19/2026/imf-reverses-uaes-growth-forecast-from-october-estimate",
-   "published": "2026-11-19T13:23:43+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "ICJ finds Myanmar guilty of 'genocidal intent' against Rohingya",
-   "summary": "The decision has huge consequences for ongoing conflicts today: South Africa has brought a similar case against Israel over its war in Gaza.",
-   "link": "https://www.semafor.com/article/11/19/2026/icj-finds-myanmar-guilty-of-genocidal-intent-against-rohingya",
-   "published": "2026-11-19T13:31:05+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Trump, Xi and Putin hold landmark talks in Shenzhen",
-   "summary": "The trio argued their 80 minute meeting would help undergird global stability, but talks were hampered by the leaders’ geopolitical disputes.",
-   "link": "https://www.semafor.com/article/11/19/2026/trump-xi-and-putin-hold-landmark-talks-in-shenzhen",
-   "published": "2026-11-19T13:32:19+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Heightened hostilities in the Middle East reignite conflict",
-   "summary": "The US and Iran traded strikes on their military facilities, ending a two-month lull.",
-   "link": "https://www.semafor.com/article/11/19/2026/heightened-hostilities-in-the-middle-east-reignite-conflict",
-   "published": "2026-11-19T13:32:56+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Anthropic raises record sums in IPO",
-   "summary": "The firm’s listing — which together with a private placement drew in $107 billion — has been key to reversing a recent tech swoon.",
-   "link": "https://www.semafor.com/article/11/19/2026/anthropic-poised-for-record-ipo-in-bellwether-for-ai-boom",
-   "published": "2026-11-19T13:34:10+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "The US and Venezuela reestablish military ties",
-   "summary": "Bilateral relations have shifted massively in the months since Washington ousted former Venezuelan dictator Nicolás Maduro.",
-   "link": "https://www.semafor.com/article/11/19/2026/us-venezuela-military-ties-grow-closer",
-   "published": "2026-11-19T13:35:06+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Tech leaders seek distance from Trump",
-   "summary": "The Democratic party’s huge new electoral majority has led some Big Tech executives to walk back links to the White House.",
-   "link": "https://www.semafor.com/article/11/19/2026/tech-leaders-distance-themselves-from-trump-administration-following-midterms-defeat",
-   "published": "2026-11-19T13:41:23+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "'A love letter to the mystery of death'",
-   "summary": "Best known for “Goodnight Moon,” Margaret Wise Brown authored this 64-page prose poem for her dying partner.",
-   "link": "https://www.semafor.com/article/11/18/2026/a-love-letter-to-the-mystery-of-death",
-   "published": "2026-11-19T15:06:02+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "FDA's long-term vacancy",
-   "summary": "Heidi Overton’s pulled nomination sets up a long-term vacancy.",
-   "link": "https://www.semafor.com/article/11/19/2026/fdas-long-term-vacancy",
-   "published": "2026-11-19T16:18:10+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Conservative states warm to billionaire tax",
-   "summary": "Poll finds support for a Democratic funding idea in Florida and Texas.",
-   "link": "https://www.semafor.com/article/11/19/2026/conservative-states-warm-to-billionaire-tax",
-   "published": "2026-11-19T16:36:02+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Anthropic makes record market debut",
-   "summary": "Anthropic’s IPO raised $81.3 billion from the sale of 980 million shares, with a $26 billion private placement bringing the total haul to $107.3 billion.",
-   "link": "https://www.semafor.com/article/11/19/2026/anthropic-makes-record-market-debut",
-   "published": "2026-11-19T17:03:40+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Anthropic IPO heightens Washington’s tech scrutiny",
-   "summary": "A bipartisan Senate quartet introduced legislation on Thursday that would require publicly traded companies to disclose more information about AI.",
-   "link": "https://www.semafor.com/article/11/19/2026/anthropic-ipo-heightens-washingtons-tech-scrutiny",
-   "published": "2026-11-19T21:04:04+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Anthropic's IPO mints thousands of new millionaires and several billionaires",
-   "summary": "Anthropic’s record-shattering IPO valued the five-year-old company at more than $1 trillion.",
-   "link": "https://www.semafor.com/article/11/19/2026/anthropics-ipo-mints-thousands-of-new-millionaires-and-several-billionaires",
-   "published": "2026-11-19T22:16:34+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Third-party breach exposes JPMorgan, Visa, and Mastercard customer data",
-   "summary": "The hack intensified the public’s cyber paranoia following a string of technological failures.",
-   "link": "https://www.semafor.com/article/11/19/2026/third-party-breach-exposes-jpmorgan-visa-and-mastercard-customer-data",
-   "published": "2026-11-19T22:19:12+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Trump, Xi, and Putin pledge to boost oil production",
-   "summary": "The leaders vowed to increase supplies of refined petroleum for the “benefit of all nations,” following a rare trilateral summit.",
-   "link": "https://www.semafor.com/article/11/19/2026/trump-xi-and-putin-pledge-to-boost-oil-production",
-   "published": "2026-11-19T22:20:23+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "'Grand Theft Auto VI' sales set to top more than $3 billion in first week",
-   "summary": "The initial sales will likely eclipse the lifetime grosses of some of the biggest films and concert tours, prompting commentators to salute an era-defining entertainment product.",
-   "link": "https://www.semafor.com/article/11/19/2026/gta-vi-sales-set-to-top-more-than-3-billion-in-first-week",
-   "published": "2026-11-19T22:27:25+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "AMD shares fall after report flags China exposure",
-   "summary": "A short-seller flagged AMD’s reliance on Chinese markets and supply chains, amid scrutiny of US chip sales to China.",
-   "link": "https://www.semafor.com/article/11/19/2026/amd-shares-fall-after-report-flags-china-exposure",
-   "published": "2026-11-19T22:31:47+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "‘It’s been a rough go’: Lumentum’s CEO on his $115 billion Marvell deal",
-   "summary": "The chip companies are looking to join forces right as the AI trade wobbles.",
-   "link": "https://www.semafor.com/article/11/19/2026/its-been-a-rough-go-lumentums-ceo-on-his-115-billion-marvell-deal",
-   "published": "2026-11-19T22:50:58+00:00"
-  },
-  {
-   "outlet": "Semafor",
-   "headline": "Thune: Trump and Democrats will have to negotiate on debt",
-   "summary": "The outgoing Senate majority leader has a long list of priorities to get done, from judges to college sports. One major item will fall to 2027.",
-   "link": "https://www.semafor.com/article/11/19/2026/thune-trump-and-democrats-will-have-to-negotiate-on-debt",
-   "published": "2026-11-19T23:30:38+00:00"
+   "outlet": "STAT",
+   "headline": "STAT+: UnitedHealth sues to reverse downgraded Medicare Advantage quality scores",
+   "summary": "UnitedHealth Group joined the ranks of insurers that have sued the federal government over lowered Medicare Advantage ratings, with billions at stake.",
+   "link": "https://www.statnews.com/2026/11/20/unitedhealth-cms-medicare-advantage-lawsuit-star-rating/?utm_campaign=rss",
+   "published": "2026-11-20T07:23:34+00:00"
   },
   {
    "outlet": "STAT",
-   "headline": "STAT+: Before midterm losses, MAHA spent on itself instead of candidates",
-   "summary": "MAHA PAC spent more at a D.C. steakhouse than it did on the House race of a key ally.",
-   "link": "https://www.statnews.com/2026/11/19/maha-pac-how-it-spent-money-insiders-candidates-nonprofit/?utm_campaign=rss",
-   "published": "2026-11-19T09:30:00+00:00"
+   "headline": "Patients have little say in how brain implant trials are done. Ian Burkhart wants to change that",
+   "summary": "Ian Burkhart, founder of a coalition of brain implant trial participants, says device developers should give patients more agency in research.",
+   "link": "https://www.statnews.com/2026/11/20/ian-burkhart-how-brain-implant-trials-can-serve-patients-better/?utm_campaign=rss",
+   "published": "2026-11-20T09:30:00+00:00"
   },
   {
    "outlet": "STAT",
-   "headline": "Opinion: STAT+: I’m a cardiologist. I’m a little puzzled about the blockbuster new study on deprescribing statins",
-   "summary": "STAT columnist Vishal Khetpal examines the STREAM trial and its findings about discontinuing use of statins.",
-   "link": "https://www.statnews.com/2026/11/19/deprescribing-statins-study-stream-trial-aha-questions/?utm_campaign=rss",
-   "published": "2026-11-19T09:30:00+00:00"
+   "headline": "FDA’s search for a new leader, and China’s largest drugmakers",
+   "summary": "This week on \"The Readout LOUD\" podcast: the FDA is again searching for a new leader and a closely tracked lung cancer drug suffers an agency rejection.",
+   "link": "https://www.statnews.com/2026/11/20/new-fda-commissioner-summit-lung-cancer-drug-readout-loud-podcast/?utm_campaign=rss",
+   "published": "2026-11-20T09:30:00+00:00"
   },
   {
    "outlet": "STAT",
-   "headline": "STAT+: In cancer drug development, the spotlight shifts onto Erasca’s KRAS-targeted treatment",
-   "summary": "Did the biotech company Erasca find a more potent, better-tolerated pan-RAS cancer drug than Revolution Medicines?",
-   "link": "https://www.statnews.com/2026/11/19/erasca-kras-targeted-treatment-new-data-pancreatic-cancer/?utm_campaign=rss",
-   "published": "2026-11-19T11:30:00+00:00"
+   "headline": "Opinion: More doctors should prescribe exercise after a concussion",
+   "summary": "Nearly everyone caring for me had been trying to keep me safe. My ski instructor expected something hard of me. I needed both.",
+   "link": "https://www.statnews.com/2026/11/20/concussion-exercise-dark-room-leddy-robert-perske-cardiology/?utm_campaign=rss",
+   "published": "2026-11-20T09:30:00+00:00"
   },
   {
    "outlet": "STAT",
-   "headline": "STAT+: Merck, Isomorphic Labs partner to develop oncology drug candidates",
-   "summary": "Merck and Isomorphic Labs said they are entering into a research collaboration to discover small molecule candidates in oncology.",
-   "link": "https://www.statnews.com/2026/11/19/merck-isomorphic-labs-partner-to-develop-oncology-drug-candidates/?utm_campaign=rss",
-   "published": "2026-11-19T11:45:00+00:00"
+   "headline": "Opinion: More surgeons in Africa isn’t enough when only 10% are women",
+   "summary": "The systems built to grow global surgery are not required to measure the number of women surgeons.",
+   "link": "https://www.statnews.com/2026/11/20/women-surgeon-shortage-global-cosecsa-lancet-commission-mukagaju-africa-making-of-a-surgeon/?utm_campaign=rss",
+   "published": "2026-11-20T09:30:00+00:00"
   },
   {
    "outlet": "STAT",
-   "headline": "Sanders’ ‘Medicare for All’ plan accrues more liberal and moderate support in Congress",
-   "summary": "Sen. Bernie Sanders pushed back on assumptions that Trump would veto an expanded Medicare plan. “I am not absolutely certain that Trump would not sign it,” he said.",
-   "link": "https://www.statnews.com/2026/11/19/health-news-sanders-medicare-for-all-plan-accrues-more-support-in-congress/?utm_campaign=rss",
-   "published": "2026-11-19T12:59:54+00:00"
+   "headline": "Researchers explore possibility of a CTE blood test",
+   "summary": "21 football players donated blood while they were alive and then gave their brains to CTE research after death. Here's what scientists found.",
+   "link": "https://www.statnews.com/2026/11/20/health-news-researchers-explore-possibility-of-cte-blood-test/?utm_campaign=rss",
+   "published": "2026-11-20T13:53:10+00:00"
   },
   {
    "outlet": "STAT",
-   "headline": "STAT+: Pharmalittle: We’re reading about a Merck AI deal, China and the pharma supply chain, and more",
-   "summary": "Merck is entering a research collaboration with Isomorphic Labs, the AI drug designer built on a Nobel-winning technology",
-   "link": "https://www.statnews.com/pharmalot/2026/11/19/merck-isomorphic-ai-deal-china-pharmaceutical-supply-chain/?utm_campaign=rss",
-   "published": "2026-11-19T13:36:33+00:00"
+   "headline": "STAT+: Early results for Alterome’s KRAS drug for pancreas, lung and colon cancer arrive",
+   "summary": "Alterome presented preliminary Phase 1 results of its drug “selectively” targeting a range of KRAS mutations — drivers of cancers in the pancreas, lung and colon:",
+   "link": "https://www.statnews.com/2026/11/20/biotech-news-early-results-for-alterome-kras-drug-arrive/?utm_campaign=rss",
+   "published": "2026-11-20T14:01:41+00:00"
   },
   {
    "outlet": "STAT",
-   "headline": "STAT+: Epic defends competitive practices; promises AI access to records",
-   "summary": "In this edition of STAT Health Tech: EHR giant, Epic defends its competitive tactics, new data on AI and health care costs, and HLTH news.",
-   "link": "https://www.statnews.com/2026/11/19/epic-defends-competitive-practices-promises-ai-access-health-tech/?utm_campaign=rss",
-   "published": "2026-11-19T14:21:08+00:00"
+   "headline": "STAT+: Pharmalittle: We’re reading about Sanofi eyeing Insmed, AI speeding drug development, and more",
+   "summary": "Sanofi weighs an Insmed takeover, the FDA slams J&J over misleading bladder cancer drug claims, and more pharma news:",
+   "link": "https://www.statnews.com/pharmalot/2026/11/20/sanofi-eyeing-insmed-ai-speeding-drug-development/?utm_campaign=rss",
+   "published": "2026-11-20T14:16:35+00:00"
   },
   {
    "outlet": "STAT",
-   "headline": "National Academies report calls for faster decisions on publication retractions and corrections",
-   "summary": "The National Academies urged the scientific community to respond more aggressively to claims of errors or manipulated data in published research",
-   "link": "https://www.statnews.com/2026/11/19/national-academies-report-proposes-faster-research-retractions/?utm_campaign=rss",
-   "published": "2026-11-19T16:00:00+00:00"
+   "headline": "STAT+: Up and down the ladder: The latest comings and goings",
+   "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
+   "link": "https://www.statnews.com/pharmalot/2026/11/20/up-and-down-the-ladder-latest-comings-and-goings-jobs-2/?utm_campaign=rss",
+   "published": "2026-11-20T15:52:19+00:00"
   },
   {
    "outlet": "STAT",
-   "headline": "STAT+: MAHA PAC’s steakhouse spend",
-   "summary": "MAHA PAC's curious spending decisions, and a close look at what's next for the FDA.",
-   "link": "https://www.statnews.com/2026/11/19/maha-pac-midterm-election-spending-fda-questions-after-heidi-overton/?utm_campaign=rss",
-   "published": "2026-11-19T16:30:07+00:00"
+   "headline": "STAT+: Medicare pilot will test ‘food is medicine’ and other lifestyle programs to counter chronic diseases",
+   "summary": "Medicare does not cover many of the lifestyle interventions that could keep people from getting sick in the first place.",
+   "link": "https://www.statnews.com/2026/11/20/kennedy-food-is-medicine-maha-elevate-pilot/?utm_campaign=rss",
+   "published": "2026-11-20T19:04:04+00:00"
   },
   {
    "outlet": "STAT",
-   "headline": "STAT+: Peptide market poised to explode with new Hims and Noom launches",
-   "summary": "Two telehealth giants rolled out peptide programs this week after HHS made it easier for compounding pharmacies to offer drugs like BPC-157.",
-   "link": "https://www.statnews.com/2026/11/19/hims-noom-enter-peptide-market-mainstream-products-health-risks/?utm_campaign=rss",
-   "published": "2026-11-19T16:59:47+00:00"
+   "headline": "STAT+: Is MAHA’s think tank in the tank? Tax filings show low reserves",
+   "summary": "Tax filings show the MAHA Institute spent more than $1 million in 2025, ending its first year with just $171,000 as events and overhead drained its cash.",
+   "link": "https://www.statnews.com/2026/11/20/maha-institute-tax-filings-rfk-jr-health-agenda-spending/?utm_campaign=rss",
+   "published": "2026-11-20T20:26:10+00:00"
   },
   {
    "outlet": "STAT",
-   "headline": "STAT+: Lawmakers want U.S. biotech to outcompete China",
-   "summary": "Lawmakers leading the congressional BIOTech Caucus say Washington needs to act in the sector — and fast:",
-   "link": "https://www.statnews.com/2026/11/19/biotech-news-lawmakers-want-us-biotech-to-outcompete-china/?utm_campaign=rss",
-   "published": "2026-11-19T17:04:46+00:00"
+   "headline": "ICE detention of Princeton scientist rattles academia",
+   "summary": "A graduate student who is a scientific researcher at Princeton was detained by ICE while traveling home after presenting at a neuroscience conference.",
+   "link": "https://www.statnews.com/2026/11/20/princeton-researcher-eva-yi-xie-ice-detention-rattles-interational-scholars/?utm_campaign=rss",
+   "published": "2026-11-20T21:19:27+00:00"
   },
   {
    "outlet": "STAT",
-   "headline": "Study raises doubts about combining vaccine, monoclonal antibody to protect against malaria",
-   "summary": "A monoclonal antibody holds promise in preventing malaria, but researchers found it interfered with a new vaccine when used in babies.",
-   "link": "https://www.statnews.com/2026/11/19/malaria-monoclonal-antibody-l9ls-vaccine-r21-infant-study-mali/?utm_campaign=rss",
-   "published": "2026-11-19T22:20:00+00:00"
-  },
-  {
-   "outlet": "STAT",
-   "headline": "Opinion: The U.S. lost measles elimination status. The next Congress should help restore it",
-   "summary": "Infectious disease physician and STAT “ID Consult” columnist Krutika Kuppalli offers Congress a must-do list on measles.",
-   "link": "https://www.statnews.com/2026/11/19/measles-elimination-status-congress-should-prioritize-restoration/?utm_campaign=rss",
-   "published": "2026-11-19T22:55:19+00:00"
-  },
-  {
-   "outlet": "STAT",
-   "headline": "STAT+: Big drugmakers tell House committee they will halt clinical trials at some hospitals in China",
-   "summary": "Big drugmakers tell U.S. House committee they will halt clinical trials at some hospitals in China.",
-   "link": "https://www.statnews.com/pharmalot/2026/11/19/china-pharma-biotech-clinical-trials-security-risk-patents-drug-development/?utm_campaign=rss",
-   "published": "2026-11-20T00:00:00+00:00"
+   "headline": "STAT+: FDA rejects Capricor Therapeutics’ Duchenne therapy, a decision that was a long time coming",
+   "summary": "The FDA said it had rejected a cell therapy intended for patients with Duchenne muscular dystrophy developed by Capricor Therapeutics.",
+   "link": "https://www.statnews.com/2026/11/20/fda-rejects-capricor-duchenne-therapy/?utm_campaign=rss",
+   "published": "2026-11-20T23:43:53+00:00"
   },
   {
    "outlet": "The Conversation",
-   "headline": "Type 1 and Type 2 diabetes therapies show great promise – but treatment is only effective if people can access it",
-   "summary": "More than 830 million people across the world live with diabetes, and the numbers are climbing – but cures could be within reach.",
-   "link": "https://theconversation.com/type-1-and-type-2-diabetes-therapies-show-great-promise-but-treatment-is-only-effective-if-people-can-access-it-296795",
-   "published": "2026-11-19T13:39:52+00:00"
+   "headline": "How a Pittsburgh-born umpire painted baseball history onto the ball itself",
+   "summary": "A Pittsburgh-born umpire turned folk artist spent decades inking players, stats and legendary moments onto baseballs, turning them into miniature monuments.",
+   "link": "https://theconversation.com/how-a-pittsburgh-born-umpire-painted-baseball-history-onto-the-ball-itself-295293",
+   "published": "2026-11-20T13:43:27+00:00"
   },
   {
    "outlet": "The Conversation",
-   "headline": "What is ‘intergenerational trauma’? A social worker explains how one generation’s experiences can affect descendants",
-   "summary": "Effects of a traumatic event or long-term traumatic circumstances can cross generations – but resilience can too.",
-   "link": "https://theconversation.com/what-is-intergenerational-trauma-a-social-worker-explains-how-one-generations-experiences-can-affect-descendants-295045",
-   "published": "2026-11-19T13:40:19+00:00"
+   "headline": "Paid sick leave laws are no guarantee for Philly’s immigrant restaurant workers",
+   "summary": "Doctor’s note requirements, industry norms and fear of retaliation prevent many immigrant restaurant workers in Philadelphia from using paid sick leave.",
+   "link": "https://theconversation.com/paid-sick-leave-laws-are-no-guarantee-for-phillys-immigrant-restaurant-workers-295534",
+   "published": "2026-11-20T13:43:39+00:00"
   },
   {
    "outlet": "The Conversation",
-   "headline": "Independent, Gen Z and Latino voters helped deliver a Democratic wave in 2026 – but that doesn’t mean a lasting realignment",
-   "summary": "Midterm election results do not necessarily mean voters have changed their party loyalties. Instead, it may reflect an electorate increasingly willing to hold both parties accounta",
-   "link": "https://theconversation.com/independent-gen-z-and-latino-voters-helped-deliver-a-democratic-wave-in-2026-but-that-doesnt-mean-a-lasting-realignment-296211",
-   "published": "2026-11-19T13:40:39+00:00"
+   "headline": "Preventable vision loss affects more than a billion people globally - and uneven access to care is the major culprit",
+   "summary": "As the global population ages, the number of people suffering from vision loss is expected to increase.",
+   "link": "https://theconversation.com/preventable-vision-loss-affects-more-than-a-billion-people-globally-and-uneven-access-to-care-is-the-major-culprit-294770",
+   "published": "2026-11-20T13:43:49+00:00"
   },
   {
    "outlet": "The Conversation",
-   "headline": "Lowering fuel-efficiency standards for cars could cost Americans more, not save them money",
-   "summary": "A recent Trump administration policy change was based on incorrect assumptions about consumers’ views on fuel efficiency and convenience.",
-   "link": "https://theconversation.com/lowering-fuel-efficiency-standards-for-cars-could-cost-americans-more-not-save-them-money-295706",
-   "published": "2026-11-19T13:40:54+00:00"
+   "headline": "El Niño created a skiers’ paradise in Chile – now it’s Sierra Nevada and Southern Rockies’ turn",
+   "summary": "What happens on the slopes in Chile holds clues for the western US snow season. But all that precipitation can also bring trouble.",
+   "link": "https://theconversation.com/el-nino-created-a-skiers-paradise-in-chile-now-its-sierra-nevada-and-southern-rockies-turn-290792",
+   "published": "2026-11-20T13:44:10+00:00"
   },
   {
    "outlet": "The Conversation",
-   "headline": "Abbott spent 12 years neglecting Texas air pollution – a new governor can start cleaning it up",
-   "summary": "An atmospheric scientist explains how the outgoing Texas governor sidestepped federal rules on soot, smog and haze – and what his successor can do about it.",
-   "link": "https://theconversation.com/abbott-spent-12-years-neglecting-texas-air-pollution-a-new-governor-can-start-cleaning-it-up-296400",
-   "published": "2026-11-19T13:41:07+00:00"
+   "headline": "Is it genuine love – or obsessive passion? Kierkegaard, the father of existentialism, had some thoughts",
+   "summary": "Philosopher Søren Kierkegaard is best known for his writing on faith and existentialism, but love is also a central focus.",
+   "link": "https://theconversation.com/is-it-genuine-love-or-obsessive-passion-kierkegaard-the-father-of-existentialism-had-some-thoughts-291950",
+   "published": "2026-11-20T13:44:44+00:00"
   },
   {
    "outlet": "The Conversation",
-   "headline": "Oscar Wilde had a surprising rapport with Colorado miners – why it is hard to imagine that happening today",
-   "summary": "The 19th-century elite aesthete Oscar Wilde established connections with audiences in the Western US.",
-   "link": "https://theconversation.com/oscar-wilde-had-a-surprising-rapport-with-colorado-miners-why-it-is-hard-to-imagine-that-happening-today-294318",
-   "published": "2026-11-19T13:41:21+00:00"
+   "headline": "Trump administration may fund white South Africans to document ‘hateful rhetoric and violent acts’",
+   "summary": "After slashing foreign aid for the promotion of democracy, the State Department is giving $1 million to AfriForum, an NGO that advocates on behalf of Afrikaners in South Africa.",
+   "link": "https://theconversation.com/trump-administration-may-fund-white-south-africans-to-document-hateful-rhetoric-and-violent-acts-296360",
+   "published": "2026-11-20T13:45:01+00:00"
   },
   {
    "outlet": "The Conversation",
-   "headline": "Eurovision took its song contest to Asia – bringing its political drama and cultural tropes along for the ride",
-   "summary": "The first Asian edition of the Eurovision Song Contest marked a key step in the competition’s global expansion.",
-   "link": "https://theconversation.com/eurovision-took-its-song-contest-to-asia-bringing-its-political-drama-and-cultural-tropes-along-for-the-ride-291750",
-   "published": "2026-11-19T13:42:28+00:00"
+   "headline": "‘SNL’ ‘Sister’ sketch nails the failures of US healthcare policy",
+   "summary": "Medicare and Medicaid provide limited help with caregiving for older adults – and that means unpaid relatives often bear big burdens.",
+   "link": "https://theconversation.com/snl-sister-sketch-nails-the-failures-of-us-healthcare-policy-297022",
+   "published": "2026-11-20T13:45:11+00:00"
   },
   {
    "outlet": "The Conversation",
-   "headline": "Nvidia isn’t the first company to dump a misbehaving CEO – history shows it’s in the interest of corporate boards to act",
-   "summary": "Board members are becoming more aware of the personal job consequences that stem from their performance and entanglement in misconduct.",
-   "link": "https://theconversation.com/nvidia-isnt-the-first-company-to-dump-a-misbehaving-ceo-history-shows-its-in-the-interest-of-corporate-boards-to-act-296800",
-   "published": "2026-11-19T13:42:38+00:00"
-  },
-  {
-   "outlet": "The Conversation",
-   "headline": "US and Iran once practiced diplomacy through archaeology – that legacy need not lie in ruins",
-   "summary": "Damage to heritage sites across Iran has been reported since the onset of war with Israel and the US in February.",
-   "link": "https://theconversation.com/us-and-iran-once-practiced-diplomacy-through-archaeology-that-legacy-need-not-lie-in-ruins-292886",
-   "published": "2026-11-19T13:42:48+00:00"
-  },
-  {
-   "outlet": "The Conversation",
-   "headline": "Myanmar genocide ruling is a watershed moment in international justice – with huge ramifications for other cases",
-   "summary": "The International Court of Justice’s historic finding against the leaders who directed attacks against the Rohingya may affect other cases, including against Israel.",
-   "link": "https://theconversation.com/myanmar-genocide-ruling-is-a-watershed-moment-in-international-justice-with-huge-ramifications-for-other-cases-296987",
-   "published": "2026-11-19T17:06:27+00:00"
-  },
-  {
-   "outlet": "The Conversation",
-   "headline": "Xi-Putin-Trump summit was heavy on symbolism, light on substance – and not exactly a Yalta II",
-   "summary": "At an eagerly anticipated summit, the leaders of China, Russia and US discussed nuclear weapons – but not much else.",
-   "link": "https://theconversation.com/xi-putin-trump-summit-was-heavy-on-symbolism-light-on-substance-and-not-exactly-a-yalta-ii-297087",
-   "published": "2026-11-19T18:43:22+00:00"
-  },
-  {
-   "outlet": "The Conversation",
-   "headline": "A doctor’s guide to surviving — and enjoying — holiday feasting while on GLP-1 medication",
-   "summary": "By minding your body’s fullness cues you can indulge in your favorite holiday foods and traditions while maintaining your progress with these drugs.",
-   "link": "https://theconversation.com/a-doctors-guide-to-surviving-and-enjoying-holiday-feasting-while-on-glp-1-medication-295301",
-   "published": "2026-11-19T19:09:59+00:00"
+   "headline": "Whether it’s ‘Sister’ or your own sister, the burden that caring for aging parents puts on women is no joke",
+   "summary": "About 1 in 4 US adults are family caregivers.",
+   "link": "https://theconversation.com/whether-its-sister-or-your-own-sister-the-burden-that-caring-for-aging-parents-puts-on-women-is-no-joke-297041",
+   "published": "2026-11-20T19:58:13+00:00"
   },
   {
    "outlet": "The Diplomat",
-   "headline": "Takaichi Meets Putin a Day After Suspected Russian Aircraft Violate Japanese Airspace",
-   "summary": "Russian military flights near Japan and Taiwan raise questions about Moscow’s message to Beijing.",
-   "link": "https://thediplomat.com/2026/11/takaichi-meets-putin-a-day-after-suspected-russian-aircraft-violate-japanese-airspace/",
-   "published": "2026-11-19T12:52:00+00:00"
+   "headline": "COP31: Why India’s Stress on Country-led Just Transition Pathways Is Justified",
+   "summary": "India cannot allow the energy transition to further outpace the socio-economic transition of millions dependent on coal.",
+   "link": "https://thediplomat.com/2026/11/cop31-why-indias-stress-on-country-led-just-transition-pathways-is-justified/",
+   "published": "2026-11-20T02:53:00+00:00"
   },
   {
    "outlet": "The Diplomat",
-   "headline": "The ICJ Just Recognized the Genocide of the Rohingya. What’s Next?",
-   "summary": "The international community must recognize that the well-being of the Rohingya is inseparable from the well-being of Myanmar.",
-   "link": "https://thediplomat.com/2026/11/the-icj-just-recognized-the-genocide-of-the-rohingya-whats-next/",
-   "published": "2026-11-19T13:02:00+00:00"
+   "headline": "The Inflation of Kim Yo Jong’s Statements",
+   "summary": "The supreme leader’s sister is speaking out more frequently. There is a risk in that.",
+   "link": "https://thediplomat.com/2026/11/the-inflation-of-kim-yo-jongs-statements/",
+   "published": "2026-11-20T03:03:00+00:00"
   },
   {
    "outlet": "The Diplomat",
-   "headline": "At APEC, Lee Urges Asia-Pacific Leaders to Back Talks With North Korea",
-   "summary": "The South Korean president made his appeal in Shenzhen, hoping to entice fellow leaders to address North Korea issues.",
-   "link": "https://thediplomat.com/2026/11/at-apec-lee-urges-asia-pacific-leaders-to-back-talks-with-north-korea/",
-   "published": "2026-11-19T13:43:00+00:00"
+   "headline": "The ICJ’s Myanmar Genocide Ruling: What Comes Next?",
+   "summary": "The verdict marked broke new legal ground, but enforcing the judgment on Naypyidaw will not be easy.",
+   "link": "https://thediplomat.com/2026/11/the-icjs-myanmar-genocide-ruling-what-comes-next/",
+   "published": "2026-11-20T05:15:00+00:00"
   },
   {
    "outlet": "The Diplomat",
-   "headline": "ICJ Delivers Historic Verdict: Myanmar Guilty of Genocide Against the Rohingya",
-   "summary": "Myanmar's security forces killed thousands of Rohingya civilians and committed \"widespread sexual violence\" against women and \"extreme violence\" against children, the court said.",
-   "link": "https://thediplomat.com/2026/11/icj-delivers-historic-verdict-myanmar-guilty-of-genocide-against-the-rohingya/",
-   "published": "2026-11-19T13:50:00+00:00"
+   "headline": "What the Trump-Xi-Putin Meeting at Shenzhen Means for Pakistan",
+   "summary": "Islamabad sees the consensus on nuclear risk reduction and non-use as a validation of its warnings over the dangers of confrontation between nuclear-armed states.",
+   "link": "https://thediplomat.com/2026/11/what-the-trump-xi-putin-meeting-at-shenzhen-means-for-pakistan/",
+   "published": "2026-11-20T10:29:00+00:00"
   },
   {
    "outlet": "The Diplomat",
-   "headline": "Are Kazakhs Giving Up on Civic Action?",
-   "summary": "With a politically tense year coming to an end, a new national survey suggests that Kazakhs are increasingly disillusioned with the country's political life, feeling that engagemen",
-   "link": "https://thediplomat.com/2026/11/are-kazakhs-giving-up-on-civic-action/",
-   "published": "2026-11-19T14:15:00+00:00"
+   "headline": "From ASEAN to APEC: Highlights From a Busy Week of Asian Summitry",
+   "summary": "The real action was on the sidelines, including a Quad leaders meeting in Manila and a Putin-Trump-Xi trilateral in Shenzhen.",
+   "link": "https://thediplomat.com/2026/11/from-asean-to-apec-highlights-from-a-busy-week-of-asian-summitry/",
+   "published": "2026-11-20T13:21:00+00:00"
   },
   {
    "outlet": "The Diplomat",
-   "headline": "China, Russia, US Talk UN Reform, Nuclear Risks, and Ukraine at Trilateral Summit",
-   "summary": "Xi seems to have been a reluctant host who decided to turn the event to his own advantage.",
-   "link": "https://thediplomat.com/2026/11/china-russia-us-talk-un-reform-nuclear-risks-and-ukraine-at-trilateral-summit/",
-   "published": "2026-11-19T15:26:00+00:00"
+   "headline": "Jensen Huang, Alice Huang, and Gender Bias",
+   "summary": "Jensen Huang's affair acted as a magnet for controversial takes on gender dynamics, particularly in the workplace.",
+   "link": "https://thediplomat.com/2026/11/jensen-huang-alice-huang-and-gender-bias/",
+   "published": "2026-11-20T13:26:00+00:00"
   },
   {
    "outlet": "The Diplomat",
-   "headline": "Uzbek Professor Reportedly Convicted of Espionage in Kazakhstan",
-   "summary": "Neither Kazakh nor Uzbek authorities have commented on the case, with Dr. Ikboljon Qoraboyev’s relatives stating that he’s been sentenced to 10 years.",
-   "link": "https://thediplomat.com/2026/11/uzbek-professor-reportedly-convicted-of-espionage-in-kazakhstan/",
-   "published": "2026-11-19T15:46:00+00:00"
+   "headline": "China’s Downstream Nations Need a Collective Voice",
+   "summary": "Across Asia’s river basins, upper-riparian infrastructure proceeds unilaterally, without consultation to downstream states. China’s mega-dam in Tibet is just the latest example.",
+   "link": "https://thediplomat.com/2026/11/chinas-downstream-nations-need-a-collective-voice/",
+   "published": "2026-11-20T13:59:00+00:00"
   },
   {
    "outlet": "The Diplomat",
-   "headline": "Mongolia’s President Steps Down Amid Corruption Allegations",
-   "summary": "Yet more turnover in Mongolia’s leadership highlights factional politics and a lack of accountability mechanisms.",
-   "link": "https://thediplomat.com/2026/11/mongolias-president-steps-down-amid-corruption-allegations/",
-   "published": "2026-11-19T17:01:00+00:00"
+   "headline": "ICJ’s Genocide Verdict on Myanmar and the Ramifications for Israel",
+   "summary": "Legal experts warn of a potential backlash against the ICJ after its Rohingya ruling.",
+   "link": "https://thediplomat.com/2026/11/icjs-genocide-verdict-on-myanmar-and-the-ramifications-for-israel/",
+   "published": "2026-11-20T14:08:00+00:00"
   },
   {
    "outlet": "The Diplomat",
-   "headline": "China Ratchets Up Its Weaponization of Trade",
-   "summary": "China’s expansive export-control system is in key respects modeled on that of the United States. But there is an important difference.",
-   "link": "https://thediplomat.com/2026/11/china-ratchets-up-its-weaponization-of-trade/",
-   "published": "2026-11-19T18:34:00+00:00"
+   "headline": "Uzbekistan’s Energy Sector Faces the Perfect Storm",
+   "summary": "They way forward requires immense investment. But international investors need legal certainty and protection from political interference.",
+   "link": "https://thediplomat.com/2026/11/uzbekistans-energy-sector-faces-the-perfect-storm/",
+   "published": "2026-11-20T14:35:00+00:00"
+  },
+  {
+   "outlet": "The Diplomat",
+   "headline": "China Is Investing in Africa’s Factory Moment. Will It Stay?",
+   "summary": "Chinese companies are increasing investments in African manufacturing and processing. Will they also buy from local suppliers and train local engineers?",
+   "link": "https://thediplomat.com/2026/11/china-is-investing-in-africas-factory-moment-will-it-stay/",
+   "published": "2026-11-20T14:43:00+00:00"
+  },
+  {
+   "outlet": "The Diplomat",
+   "headline": "Taiwan’s Local Elections: The Races to Watch",
+   "summary": "Your guide to the most competitive races – and the ones that could impact the 2028 presidential election.",
+   "link": "https://thediplomat.com/2026/11/taiwans-local-elections-the-races-to-watch/",
+   "published": "2026-11-20T15:35:00+00:00"
+  },
+  {
+   "outlet": "The Diplomat",
+   "headline": "Demography Is the Achilles’ Heel of Dictatorships – Including China",
+   "summary": "The longer the Chinese government relied on bogus population figures, the more difficult it became to admit that it had been manipulating them.",
+   "link": "https://thediplomat.com/2026/11/demography-is-the-achilles-heel-of-dictatorships-including-china/",
+   "published": "2026-11-20T15:53:00+00:00"
+  },
+  {
+   "outlet": "The Diplomat",
+   "headline": "Russia’s Changing Positions on North Korea Sanctions and Denuclearization",
+   "summary": "Russia once held firm on denuclearization and reluctantly accepted sanctions as a necessary tool. Those days are over.",
+   "link": "https://thediplomat.com/2026/11/russias-changing-positions-on-north-korea-sanctions-and-denuclearization/",
+   "published": "2026-11-20T17:58:00+00:00"
+  },
+  {
+   "outlet": "The Diplomat",
+   "headline": "A Moment of New Hope for the Rohingya Community",
+   "summary": "Rohingya refugees who have spent nearly a decade in crowded camps finally see justice with the ICJ's ruling. Now they are hoping for meaningful action that will allow them to retur",
+   "link": "https://thediplomat.com/2026/11/a-moment-of-new-hope-for-the-rohingya-community/",
+   "published": "2026-11-20T18:20:00+00:00"
   },
   {
    "outlet": "The Dispatch",
-   "headline": "How True to Life Was SNL’s ‘Sister’ Skit?",
-   "summary": "The skit resonated, but the caregiving landscape is far more nuanced.",
-   "link": "https://thedispatch.com/article/snl-sister-skit-mulaney-elder-care/",
-   "published": "2026-11-19T06:00:00+00:00"
+   "headline": "The Perils of the Olden Days",
+   "summary": "A new book argues that nostalgia isn’t necessarily based on accurate perceptions.",
+   "link": "https://thedispatch.com/article/past-nostalgia-gore-disease-death/",
+   "published": "2026-11-20T06:00:00+00:00"
   },
   {
    "outlet": "The Dispatch",
-   "headline": "Movember Is More Than Mustaches",
-   "summary": "The Australia-based charity has notched some wins in men’s health over the past two decades.",
-   "link": "https://thedispatch.com/article/movember-mustaches-prostate-cancer-messaging/",
-   "published": "2026-11-19T06:00:00+00:00"
+   "headline": "Trump, Xi, and Putin: The Three Caudillos",
+   "summary": "The American president came to Shenzhen with no agenda, no deliverables, no clue.",
+   "link": "https://thedispatch.com/article/trump-xi-and-putin-the-three-caudillos/",
+   "published": "2026-11-20T06:00:00+00:00"
   },
   {
    "outlet": "The Dispatch",
-   "headline": "The West Bank’s Dangerous Crossroads",
-   "summary": "The territory remains a tinderbox.",
-   "link": "https://thedispatch.com/article/israeli-arabs-palestinians-west-bank-occupation/",
-   "published": "2026-11-19T06:00:00+00:00"
+   "headline": "The Blue Wave Wasn’t Powered by Jewish Voters",
+   "summary": "While Democrats made gains among multiple groups, the party’s support from Jewish voters remained flat.",
+   "link": "https://thedispatch.com/article/democrats-jewish-voters-midterms-el-sayed/",
+   "published": "2026-11-20T06:01:00+00:00"
   },
   {
    "outlet": "The Dispatch",
-   "headline": "Impeachment Is Fine, but Have We Tried Laws?",
-   "summary": "This isn’t a moment to indulge in catharsis. It’s time to place robust and enforceable constraints on the presidency.",
-   "link": "https://thedispatch.com/article/democratic-majority-impeachment-laws-congress/",
-   "published": "2026-11-19T06:01:00+00:00"
+   "headline": "Money Isn’t Everything",
+   "summary": "And other lessons from the most expensive election ever.",
+   "link": "https://thedispatch.com/article/midterm-ad-spending-democrats-tariffs-abortion-trump-epstein/",
+   "published": "2026-11-20T06:01:00+00:00"
   },
   {
    "outlet": "The Dispatch",
-   "headline": "In Going Public, Anthropic Seeks to Dominate the AI Race",
-   "summary": "The AI developer intends to fund its massive computing needs without ceding key decisions to its shareholders.",
-   "link": "https://thedispatch.com/article/anthropic-ipo-ai-race-amodei/",
-   "published": "2026-11-19T06:02:00+00:00"
+   "headline": "Is the U.S. Facing a Coordinated Cyberattack?",
+   "summary": "Probably not, but America needs to be prepared for such a scenario.",
+   "link": "https://thedispatch.com/article/outages-cyber-attack-faa-chase/",
+   "published": "2026-11-20T06:02:00+00:00"
   },
   {
    "outlet": "The Dispatch",
-   "headline": "Should Lame Ducks Hibernate?",
-   "summary": "What is the correct way to think about the advice and consent role constitutionally, morally, and ethically?",
-   "link": "https://thedispatch.com/podcast/advisoryopinions/should-lame-ducks-hibernate/",
-   "published": "2026-11-19T08:00:00+00:00"
+   "headline": "What Will Democrats Do With the Gavel?",
+   "summary": "Plus: Grand Theft Auto VI and the death of monoculture.",
+   "link": "https://thedispatch.com/podcast/dispatch-podcast/what-will-democrats-do-with-the-gavel/",
+   "published": "2026-11-20T08:00:00+00:00"
   },
   {
    "outlet": "The Dispatch",
-   "headline": "Anthropic’s Record-Breaking Public Offering",
-   "summary": "Plus: Officials say the recent tech outages weren’t cyberattacks, Grand Theft Auto VI is on sale, and San Diego’s newest firefighters are goated.",
-   "link": "https://thedispatch.com/newsletter/morning/anthropics-record-breaking-public-offering/",
-   "published": "2026-11-19T11:30:46+00:00"
+   "headline": "Why Is Everything Breaking?",
+   "summary": "Plus: Trump’s Shenzhen summit with Xi and Putin ends without a breakthrough, the Justice Department taps a new prosecutor for its Mar-a-Lago probe, and parents don’t like intimidat",
+   "link": "https://thedispatch.com/newsletter/morning/why-is-everything-breaking/",
+   "published": "2026-11-20T11:30:24+00:00"
   },
   {
    "outlet": "The Dispatch",
-   "headline": "America’s AI Revolution Is Going to Need a Lot More Space",
-   "summary": "If voter concerns threaten America’s crucial lead in the data center race, we can look to the skies.",
-   "link": "https://thedispatch.com/newsletter/dispatch-markets/data-centers-outer-space-chips-orbit/",
-   "published": "2026-11-19T20:52:11+00:00"
+   "headline": "The New Right Can’t Win Without Godzilla",
+   "summary": "The movement that rode Trump’s coattails thinks it can succeed on its own. It can’t.",
+   "link": "https://thedispatch.com/newsletter/gfile/vance-new-right-veep-curse/",
+   "published": "2026-11-20T22:53:36+00:00"
   },
   {
    "outlet": "The Dispatch",
-   "headline": "The Replacement",
-   "summary": "Has Rubio usurped Vance as Trump’s heir apparent?",
-   "link": "https://thedispatch.com/newsletter/boilingfrogs/trump-rubio-vance-2028/",
-   "published": "2026-11-19T23:47:56+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "One in four women globally unable to refuse sex within marriage, says UN",
-   "summary": "Almost half of women in west and central Africa cannot withhold consent, with girls worst affected, UNFPA finds One in four women around the world have no power of consent if their",
-   "link": "https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
-   "published": "2026-11-19T04:00:16+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
-   "summary": "Global energy watchdog forecasts huge rise as US and China turn to fossil fuels to power AI growth agendas The world’s datacentres will create 70% more carbon emissions within the ",
-   "link": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
-   "published": "2026-11-19T05:00:18+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Violent protests and killings in Bangladesh ahead of exiled Sheikh Hasina’s planned return",
-   "summary": "Awami League party called for ⁠nationwide protest on Thursday after the government rejected Hasina’s request for passport Parts of Bangladesh were shut down Thursday as protests by",
-   "link": "https://www.theguardian.com/world/2026/nov/19/bangladesh-violent-protest-sheikh-hasina-planned-return",
-   "published": "2026-11-19T06:58:33+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Race to replant five South African baobabs after export blocked",
-   "summary": "The trees, intended for an unnamed buyer in Georgia, were reportedly dug up without the necessary permits Environmentalists in South Africa are racing to replant five centuries-old",
-   "link": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
-   "published": "2026-11-19T11:03:24+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "‘It’s a biohazard’: Native communities in US south-west try to recover after flooding intensified by El Niño",
-   "summary": "Residents and local groups band together after severe flooding submerged a New Mexico town in toxic water On the night of 23 October, Jimmie Goodman was trying to get some rest whe",
-   "link": "https://www.theguardian.com/us-news/2026/nov/19/el-nino-flooding-native-communities",
-   "published": "2026-11-19T12:30:47+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Eight injured after driver in Israel repeatedly rams car into Palestinians",
-   "summary": "Arab MPs accuse politicians of fuelling hostility as footage shows driver accelerating towards Palestinians at four locations in Kafr Qasim Eight people were injured on Wednesday e",
-   "link": "https://www.theguardian.com/world/2026/nov/19/car-rams-into-palestinian-residents-four-times-in-israeli-city-kafr-qasim",
-   "published": "2026-11-19T12:36:37+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
-   "summary": "First incursion across boundary since ceasefire deal comes as Eisenkot seeks to form government without Netanyahu The Israeli military crossed into Hamas-controlled central Gaza on",
-   "link": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
-   "published": "2026-11-19T12:40:46+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "What is at stake at the EU-UK summit in Brussels?",
-   "summary": "Leaders will wrestle with easing Brexit red tape, restoring emissions trading and opening up youth mobility UK politics live – latest updates The EU and UK will hold a long-awaited",
-   "link": "https://www.theguardian.com/politics/2026/nov/19/eu-uk-summit-explainer-burnham-brexit-brussels",
-   "published": "2026-11-19T13:11:23+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Myanmar committed genocide against Rohingya minority, world’s top court rules",
-   "summary": "Judgment finds ‘intent to destroy a substantial part of the Rohingya population’ after case seen as critical test for dealing with most serious of state crimes Myanmar committed ge",
-   "link": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar",
-   "published": "2026-11-19T13:52:10+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Trump takes 500 actions to weaken cancer protections, new report says",
-   "summary": "Natural Resources Defense Council shows how federal rules changes will increase public’s exposure to carcinogens Amid a rise in early onset cancer , the Trump administration has ta",
-   "link": "https://www.theguardian.com/us-news/2026/nov/05/trump-cancer-carcinogen-regulation",
-   "published": "2026-11-19T14:15:15+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "New page in history? Xi, Trump and Putin summit was more of a footnote",
-   "summary": "Far from the grand ambitions declared in Yalta in 1945, Shenzhen felt like a meeting in search of an agenda It is arguably true, given it was the first such meeting of the leaders ",
-   "link": "https://www.theguardian.com/world/2026/nov/19/new-page-in-history-xi-trump-and-putin-summit-was-more-of-a-footnote",
-   "published": "2026-11-19T15:35:01+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Cop31 as it happened: Fossil fuels dumped from latest draft deal at climate summit",
-   "summary": "New draft decision omits cause of climate crisis in blow to vulnerable countries on penultimate day of UN climate talks Ethiopia can show that taking strong action to solve the cli",
-   "link": "https://www.theguardian.com/environment/live/2026/nov/19/cop31-climate-turkey-live-news-updates-",
-   "published": "2026-11-19T16:09:06+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "‘Everyone struggled for this justice’: tears in court as Rohingya vindicated in Myanmar genocide ruling",
-   "summary": "Relief in the immediate aftermath of a landmark ruling, but what happens next is in the hands of governments around the world There were tears in the halls of The Hague in the Neth",
-   "link": "https://www.theguardian.com/global-development/2026/nov/19/everyone-struggled-for-this-justice-tears-in-court-as-rohingya-vindicated-in-myanmar-genocide-ruling",
-   "published": "2026-11-19T16:15:52+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Trump accused of falling asleep during Xi Jinping speech at Apec summit in China",
-   "summary": "US president appeared to doze off while Chinese leader made speech, but White House insisted he was awake Donald Trump was, again, accused of falling asleep during a televised even",
-   "link": "https://www.theguardian.com/us-news/2026/nov/19/trump-apec-asleep-china",
-   "published": "2026-11-19T17:12:11+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
-   "summary": "Xi, Putin and Trump outline priorities that include UN reform, boosting oil supplies and ‘protection of diplomatic immunity’ China, Russia and the US say they have agreed a peace s",
-   "link": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
-   "published": "2026-11-19T17:13:23+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Myanmar ruling gives new relevance to genocide convention and is ‘full of messages’ for Israel",
-   "summary": "Hailed as ‘a rare moment of justice’, judges’ decision sets out a roadmap for assessing the question of intent The international court of justice (ICJ) verdict making Myanmar the f",
-   "link": "https://www.theguardian.com/law/2026/nov/19/myanmar-ruling-new-relevance-genocide-convention-messages-israel",
-   "published": "2026-11-19T17:14:55+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Is Europe now in the shadow of a Trump, Putin and Xi alliance? – podcast",
-   "summary": "Andy Burnham is meeting western leaders in Berlin and Brussels this week, to discuss Ukraine and closer ties to the EU. Meanwhile, Donald Trump, Vladimir Putin and Xi Jinping have ",
-   "link": "https://www.theguardian.com/politics/audio/2026/nov/19/is-europe-in-shadow-of-trump-putin-xi-alliance-podcast",
-   "published": "2026-11-19T17:23:36+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Cop31 told it risks being ‘ghost’ summit as all mentions of fossil fuels removed from draft text",
-   "summary": "Draft agreement also fails to show how developing countries will receive financial help to deal with climate crisis Cop31 live – latest updates Every mention of fossil fuels has be",
-   "link": "https://www.theguardian.com/environment/2026/nov/19/cop31-risks-becoming-ghost-summit-after-all-mentions-of-fossil-fuels-removed-from-draft-text",
-   "published": "2026-11-19T17:58:21+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Ukraine allies warn ‘Yalta format’ will not bring about peace – as it happened",
-   "summary": "Berlin meeting of the ‘coalition of the willing’ comes after Trump declared Putin a ‘friend’ during trilateral meeting with Xi in China For what it’s worth, the China-US-Russia ‘pe",
-   "link": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-   "published": "2026-11-19T18:03:54+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "UK and EU plan first talks on sending refused asylum seekers to third countries",
-   "summary": "Two sides to commit to discussing third-country hubs as part of reset pact after five-country deal with Rwanda The UK and the EU plan to establish formal talks for the first time a",
-   "link": "https://www.theguardian.com/uk-news/2026/nov/19/uk-eu-talks-asylum-seekers-third-country-hubs",
-   "published": "2026-11-19T19:02:45+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Grand Theft Auto fans skip work and pull all-nighters to play new instalment",
-   "summary": "Hotly anticipated Bonnie and Clyde-inspired adventure GTA VI has gamers glued to their screens around the world Grand Theft Auto fans around the world pulled all-nighters, skipped ",
-   "link": "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-six-fans-skip-work-pull-all-nighters",
-   "published": "2026-11-19T20:07:23+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
-   "summary": "Britain makes concessions on youth mobility scheme as negotiations on food and farming go down to the wire British and European negotiators were closing in on a reset deal on Thurs",
-   "link": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
-   "published": "2026-11-19T20:52:05+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Thomas Markle, Meghan’s father, is competent to face child sex abuse images case",
-   "summary": "Judge in Florida says an expert has determined the 82-year-old estranged father of the Duchess of Sussex is mentally competent to face charges An expert has determined that Thomas ",
-   "link": "https://www.theguardian.com/us-news/2026/nov/19/thomas-markle-mentally-competent",
-   "published": "2026-11-19T22:05:18+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Mark Speakman resigns and says Liberals face ‘existential threat’ as NSW exodus continues",
-   "summary": "Former NSW opposition leader warns party against becoming ‘Labor lite’ or ‘One Nation lite’ in late-night speech Get our breaking news email , free app or daily news podcast Former",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
-   "published": "2026-11-19T22:17:09+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Howard-era minister Sharman Stone dies via voluntary assisted dying, aged 75",
-   "summary": "The former Liberal MP had fought a long battle against glioblastoma, an aggressive form of brain cancer Get our daily political email , free app or daily news podcast Former Libera",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/20/howard-era-minister-sharman-stone-dies-via-voluntary-assisted-dying-aged-75",
-   "published": "2026-11-19T23:07:02+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "An elevator, a brick wall and a bathroom: scientists use gravity to send ‘practically unblockable’ message",
-   "summary": "Australian physicists chose to transmit the word ‘gravity’ in binary code through brick wall Get our breaking news email , free app or daily news podcast Australian scientists have",
-   "link": "https://www.theguardian.com/science/2026/nov/20/scientists-communicate-using-gravity-elevator-brick-wall-bathroom-experiment",
-   "published": "2026-11-19T23:30:26+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "US warned supplying nuclear-powered submarines to Australia would diminish its own fleet for ‘many years’",
-   "summary": "Congressional Budget Office also questions whether Australian-flagged vessels could be compelled into a conflict with China under Aukus deal Get our breaking news email , free app ",
-   "link": "https://www.theguardian.com/world/2026/nov/20/aukus-defence-us-warned-supplying-nuclear-powered-submarines-to-australia-would-diminish-its-own-fleet-for-many-years",
-   "published": "2026-11-20T00:16:29+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Religion should be removed from terrorism definition under Australian law as it gives ‘false credibility’, watchdog says",
-   "summary": "Independent National Security Legislation Monitor says reference to religion has ‘contributed to discrimination and violence against religious minorities’ Get our breaking news ema",
-   "link": "https://www.theguardian.com/law/2026/nov/20/religion-should-removed-from-terrorism-definition-australian-law-gives-false-credibility-watchdog-ntwnfb",
-   "published": "2026-11-20T00:19:57+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "US army postpones plan to detonate bomb-making chemical amid outcry",
-   "summary": "The controlled detonation can lead to a plume containing lead particles, worrying residents and state officials The US army has delayed its plan to detonate a stash of bomb-making ",
-   "link": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
-   "published": "2026-11-20T02:30:10+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Is it time to change the UK age of consent? – podcast",
-   "summary": "After Russell Brand’s conviction and accusations against David Walliams, campaigners are calling for a staggered age of consent. Nosheen Iqbal speaks to the columnist Polly Hudson ",
-   "link": "https://www.theguardian.com/news/audio/2026/nov/20/is-it-time-to-change-the-uk-age-of-consent-podcast",
-   "published": "2026-11-20T03:00:19+00:00"
+   "headline": "Rescue Mission",
+   "summary": "Can Democrats stop Trump’s sellout of Ukraine?",
+   "link": "https://thedispatch.com/newsletter/boilingfrogs/trump-putin-ukraine-democrats-congress/",
+   "published": "2026-11-20T23:11:05+00:00"
   },
   {
    "outlet": "The Guardian",
@@ -715,291 +343,466 @@
    "published": "2026-11-20T03:14:07+00:00"
   },
   {
-   "outlet": "The Intercept",
-   "headline": "U.S. Drug War in Mexico Fueled More Murders, Violence, and Drug Deaths",
-   "summary": "A new report by the World Peace Foundation and Costs of War argues that the Trump administration’s militarized Mexico policy is destined to fail. The post U.S. Drug War in Mexico F",
-   "link": "https://theintercept.com/2026/11/19/us-war-drug-mexico-violence/",
-   "published": "2026-11-19T15:00:00+00:00"
+   "outlet": "The Guardian",
+   "headline": "Iraq university’s removal of male professors teaching women sparks weeks of protests",
+   "summary": "Al-Qadisiyah University’s move a sign of the country’s slide into a Taliban-like gender segregation, say activists The removal of male professors teaching female students at a univ",
+   "link": "https://www.theguardian.com/global-development/2026/nov/20/iraqi-university-ban-men-teaching-women-protests",
+   "published": "2026-11-20T05:00:23+00:00"
   },
   {
-   "outlet": "The Intercept",
-   "headline": "Everyone’s Talking About Air Travel. No One’s Talking About How ICE Flights Make It Less Safe.",
-   "summary": "Trump’s immigration crackdown is fueling a safety crisis that’s gone relatively unnoticed in the public panic over flying. The post Everyone’s Talking About Air Travel. No One’s Ta",
-   "link": "https://theintercept.com/2026/11/19/ice-air-deportation-flights-faa-safety/",
-   "published": "2026-11-19T16:11:07+00:00"
+   "outlet": "The Guardian",
+   "headline": "Race to be next UN secretary general exposes divisions among world powers",
+   "summary": "Debate about dominance of permanent five members could reignite if major powers block Costa Rican frontrunner The race to become the next UN secretary general could reach a decisiv",
+   "link": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers",
+   "published": "2026-11-20T05:00:24+00:00"
   },
   {
-   "outlet": "The Intercept",
-   "headline": "ICE Spreads Misinformation About Securing Your iPhone. Here’s How to Really Do It.",
-   "summary": "No, your iPhone isn’t acting as a covert microphone by default — but there are steps you can take to secure your device. The post ICE Spreads Misinformation About Securing Your iPh",
-   "link": "https://theintercept.com/2026/11/19/ice-misinformation-iphone-security/",
-   "published": "2026-11-19T17:06:48+00:00"
+   "outlet": "The Guardian",
+   "headline": "Baby born with heart abnormalities ‘didn’t have a chance’ after non-medical free birth, NSW inquest hears",
+   "summary": "Inquest into the deaths of four babies after free and home births hears routine checks and follow-up may have saved their lives Get our breaking news email , free app or daily news",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/20/routine-checks-may-have-saved-babies-lives-freebirth-inquest-nsw-ntwnfb",
+   "published": "2026-11-20T06:51:54+00:00"
   },
   {
-   "outlet": "The Intercept",
-   "headline": "After Democrats’ Midterm Romp, What’s Stopping Governors From Commuting Death Sentences?",
-   "summary": "California Gov. Gavin Newsom spared the lives of 548 people on death row. Other governors might follow suit. The post After Democrats’ Midterm Romp, What’s Stopping Governors From ",
-   "link": "https://theintercept.com/2026/11/19/death-penalty-commutations-execution-newsom-dewine/",
-   "published": "2026-11-19T19:08:35+00:00"
+   "outlet": "The Guardian",
+   "headline": "Vape users hospitalised after losing consciousness, prompting public health warning in New South Wales",
+   "summary": "Testing confirms presence of etomidate, a strong and fast-acting sedative used as a general anaesthetic overseas but not registered for medical use in Australia Get our breaking ne",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/20/vape-users-hospitalised-after-losing-consciousness-prompting-public-health-warning-in-new-south-wales",
+   "published": "2026-11-20T07:17:01+00:00"
   },
   {
-   "outlet": "The Intercept",
-   "headline": "Just Rinse It Off, Army Says Before Blowing Up Five Tons of Lead Compound",
-   "summary": "The Army appears to be winging its detonation of unstable lead azide at its Iowa ammunition plant. The post Just Rinse It Off, Army Says Before Blowing Up Five Tons of Lead Compoun",
-   "link": "https://theintercept.com/2026/11/19/iowa-lead-ammunition-detonation-army/",
-   "published": "2026-11-19T19:37:59+00:00"
+   "outlet": "The Guardian",
+   "headline": "Week in wildlife: Christmas crabs, a shy possum and baboons taking liberties",
+   "summary": "This week’s best wildlife photographs from around the world Continue reading...",
+   "link": "https://www.theguardian.com/environment/gallery/2026/nov/20/week-in-wildlife-christmas-crabs-a-shy-possum-and-baboons-taking-liberties",
+   "published": "2026-11-20T08:00:25+00:00"
   },
   {
-   "outlet": "The Intercept",
-   "headline": "Elon Musk Thinks You’re an Idiot",
-   "summary": "The man with a custom dark MAGA hat rebrands: “I’m not sure what MAGA means.” The post Elon Musk Thinks You’re an Idiot appeared first on The Intercept .",
-   "link": "https://theintercept.com/2026/11/19/elon-musk-rebrand-moderate-trump/",
-   "published": "2026-11-19T20:31:00+00:00"
+   "outlet": "The Guardian",
+   "headline": "California’s coastal communities on alert as biggest waves in years hit state",
+   "summary": "Hazard warnings issued throughout week after powerful swells and waves of more than 9 metres recorded Multiple coastal hazard warnings were issued this week across California as su",
+   "link": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
+   "published": "2026-11-20T09:03:20+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "California investigates Nvidia over whether chip exports ended up in China",
+   "summary": "State attorney says scandal ‘raises bright red flags’ and aims to find out if company misled investors California has served an investigative subpoena on Nvidia after a scandal tha",
+   "link": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
+   "published": "2026-11-20T09:18:30+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "‘Weak and dizzy’: the secretive ICE force-feeding tactics that ended a Cuban father’s hunger strike",
+   "summary": "Exclusive: Luis Alejandro Cora Pérez says in messages to Guardian from inside Texas facility pain of force-feeding caused him to break strike The text message that came from inside",
+   "link": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
+   "published": "2026-11-20T11:00:31+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "US reacts cautiously to Myanmar genocide ruling as EU praises ‘critical’ role of UN’s top court",
+   "summary": "Reactions to ICJ ruling underline global divisions over court with China raising concerns about judicial overreach The US has greeted with caution the world’s highest court’s rulin",
+   "link": "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law",
+   "published": "2026-11-20T11:57:43+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "How the war in Iran turned the Gulf into a climate catastrophe – video explainer",
+   "summary": "The war between the US, Israel and Iran has turned the strait of Hormuz, one of the world’s busiest oil shipping routes, into a battlefield, but also the centre of a deepening envi",
+   "link": "https://www.theguardian.com/world/video/2026/nov/20/how-the-war-in-iran-turned-the-gulf-into-a-climate-catastrophe-video-explainer",
+   "published": "2026-11-20T12:00:38+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "These US fishers see offshore wind as a ‘godsend’. Trump wants to shut it down",
+   "summary": "Despite the president’s attacks, Sea Services is training New England fishers in offshore wind construction and providing them with a second income stream On a rainy September morn",
+   "link": "https://www.theguardian.com/environment/2026/nov/20/offshore-wind-farms-trump-fishers",
+   "published": "2026-11-20T14:00:31+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "As the Coalition stares down One Nation in NSW, a new threat is rising: the teals",
+   "summary": "The opposition’s struggle is creating an opportunity for progressive independents who are boosted by shrewd political operator Chris Minns Get our daily political email , free app ",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/21/coalition-one-nation-teals-new-threat-sydney",
+   "published": "2026-11-20T14:00:32+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "US Senate approves bill to speed up permitting reviews for energy projects and datacenters",
+   "summary": "Bipartisan legislation now goes to the House amid concerns by some Democrats and environmental groups The Senate approved bipartisan legislation on Thursday aimed at speeding up pe",
+   "link": "https://www.theguardian.com/us-news/2026/nov/20/senate-energy-datacenters-review-bill",
+   "published": "2026-11-20T15:09:09+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "US army postpones plan to detonate bomb-making chemical amid outcry",
+   "summary": "Controlled detonation could lead to plume containing lead particles, worrying residents and state officials The US army has delayed its plan to detonate a stash of bomb-making chem",
+   "link": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
+   "published": "2026-11-20T15:39:48+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
+   "summary": "President of European Council says EU ‘remains open to have the closest possible relationship’ with the UK Senior correspondent Making today’s reset deal contingent on a further ag",
+   "link": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
+   "published": "2026-11-20T17:59:55+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Factious climate talks enter overtime without new draft deal in sight – as it happened",
+   "summary": "Fossil fuels and climate finance among deep divisions that have pushed UN summit beyond its official end Antalya 2026 is the “worst Cop ever”, civil society activists have said in ",
+   "link": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
+   "published": "2026-11-20T18:11:16+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "No one else in Reform is suitable to lead the party, Nigel Farage says",
+   "summary": "Farage issues warning to potential rivals and says he will fight next election as leader if ‘still here and fit and healthy’ Nigel Farage has said he does not see another person wh",
+   "link": "https://www.theguardian.com/politics/2026/nov/20/nigel-farage-leadership-reform-uk-party",
+   "published": "2026-11-20T18:11:25+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Denmark to expel Russian diplomat over alleged Moscow link to attempted killing of rapper",
+   "summary": "Russian intelligence thought to be behind plan to kill US-Ukrainian musician Kyivstoner before concert in Denmark Denmark’s foreign minister has said Russia’s defence attache in Co",
+   "link": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
+   "published": "2026-11-20T18:16:12+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Two men killed after glider crashes into Loch Leven in Scotland",
+   "summary": "The pair had taken off from the Scottish Gliding Centre at nearby Portmoak on a training flight Two men have been killed after their glider crashed into Loch Leven, a large body of",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/20/glider-crash-loch-leven-scotland",
+   "published": "2026-11-20T18:20:09+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Misty-eyed Burnham gambles on closer ties with EU as he throws down gauntlet to Tories and Reform",
+   "summary": "PM challenges rivals to rebuff plan he says could add 0.5% annual growth to economy and offer young people hope Several sentences into a slightly convoluted answer about where UK-E",
+   "link": "https://www.theguardian.com/politics/2026/nov/20/andy-burnham-uk-eu-brussels-summit",
+   "published": "2026-11-20T18:22:50+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Indian man sentenced to 19 years in prison for conspiring to kill Sikh separatist in New York",
+   "summary": "Nikhil Gupta admitted to plotting with Indian government official to hire hitman to murder dual US-Canadian citizen An Indian ⁠man was sentenced to more ⁠than 19 ​years in US priso",
+   "link": "https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist",
+   "published": "2026-11-20T18:24:12+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "What to know about the US permitting bill, from datacenters to Trump’s arch",
+   "summary": "Environmental groups are aghast, but supporters say bill might be only chance to speed up clean energy projects The US Senate has passed a bill to fast-track energy and datacenter ",
+   "link": "https://www.theguardian.com/us-news/2026/nov/20/what-to-know-permitting-bill-energy-passed",
+   "published": "2026-11-20T18:26:08+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Spain frees wealthy US-sought activist on bail as Irish police raid Dublin home",
+   "summary": "Pro-Palestinian donor James ‘Fergie’ Chambers released as court considers extradition request In a blur of events surrounding the Trump administration’s effort to extradite James “",
+   "link": "https://www.theguardian.com/world/2026/nov/20/james-fergie-chambers-bail-spain",
+   "published": "2026-11-20T18:34:13+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Florida mechanic found guilty of murdering British woman who attorney says came to US to die",
+   "summary": "Dwain Hall was convicted of stabbing Sonia Exelby, a music teacher who prosecutors say suffered from mental illness A Florida mechanic has been found guilty of stabbing to death a ",
+   "link": "https://www.theguardian.com/us-news/2026/nov/20/florida-man-guilty-murder-british-woman",
+   "published": "2026-11-20T18:36:30+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Police arrest teacher who missed sentencing after indecent assault conviction",
+   "summary": "Sally-Anne Bowen was found guilty of having sexual relationships with two pupils at a boys’ school in the 1980s A chemistry teacher who had sexual relationships with two pupils at ",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing",
+   "published": "2026-11-20T19:00:11+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "JP Morgan boss says he will find ways to offset ‘unfair’ rise in UK tax on banks",
+   "summary": "Jamie Dimon says he is ‘setting an example’ in seeking to claw back Labour’s increase in surcharge, from 3% to 6% Jamie Dimon, the chief executive of JP Morgan, has said he will fi",
+   "link": "https://www.theguardian.com/business/2026/nov/20/jp-morgan-jamie-dimon-uk-tax-hike-bank-surcharge",
+   "published": "2026-11-20T19:38:59+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Cop31 talks go into overtime as debate rages over lack of fossil fuels in draft deal",
+   "summary": "African ministers say they ‘didn’t come here to beg’, with civil society groups calling it the ‘worst Cop ever’ Crucial climate talks headed into overtime on the last official day ",
+   "link": "https://www.theguardian.com/environment/2026/nov/20/cop31-talks-overtime-fossil-fuels-vanish-from-draft-deal",
+   "published": "2026-11-20T20:04:46+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
+   "summary": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout Who are Anthropic’s seven co-founders",
+   "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+   "published": "2026-11-20T21:38:17+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
+   "summary": "President gives wide-ranging White House press conference and says he has ‘fantastic relationships’ with Putin and Xi Donald Trump threatened on Friday to impose “tremendous penalt",
+   "link": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
+   "published": "2026-11-20T21:47:41+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "French police officers found guilty of racist assault on black music producer",
+   "summary": "Beating of Michel Zecler in 2020 sparked outrage over police brutality after it was caught on security cameras Three French police officers who beat a black music producer they sai",
+   "link": "https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer",
+   "published": "2026-11-20T22:23:53+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "NSW passes Mount Pleasant coalmine law as Greens claim change an attempt to head off One Nation",
+   "summary": "Labor says allowing mine to increase production reflects ‘gravity of situation facing hundreds of workers’ – but critics call it ‘unprecedented and dangerous’ Get our breaking news",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/21/nsw-passes-hunter-valley-coalmine-law-as-greens-claim-change-an-attempt-to-head-off-one-nation-ntwnfb",
+   "published": "2026-11-20T23:09:57+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Victorian Greens seek urgent injunction over how-to-vote cards mimicking party’s branding but preferencing it last",
+   "summary": "Exclusive: Independent candidate Tosh-Jake Finnigan’s cards instruct people to vote in a way that would benefit Liberal party Get our daily political email , free app or daily news",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
+   "published": "2026-11-21T00:26:56+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Man accused of sparking deadly Los Angeles wildfire found guilty",
+   "summary": "Verdict in case against former Uber driver Jonathan Rinderknecht comes after first trial ended with hung jury The 30-year-old accused of sparking the deadly Palisades fire in Los A",
+   "link": "https://www.theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict",
+   "published": "2026-11-21T01:43:15+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "ICJ Myanmar ruling could undermine Israel's defense against Gaza genocide charges - analysis",
-   "summary": "ICJ ruling on Myanmar genocide could complicate Israel's defense against South Africa's Gaza genocide allegations, as judges adopt broader standards for proving genocidal acts.",
-   "link": "https://www.jpost.com/international/article-915465",
-   "published": "2026-11-19T13:46:20+00:00"
+   "headline": "As Netanyahu's rivals struggle to compromise, Israel's next government hangs in the balance",
+   "summary": "POLITICAL AFFAIRS: Gadi Eisenkot had the votes to elect a Knesset speaker, but forming a government will require that some of the parties backing him give up what they want.",
+   "link": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915528",
+   "published": "2026-11-20T11:46:43+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Eisenkot bloc, Likud to meet Sunday for continued talks on potential unity government",
-   "summary": "The statement went on to criticize the Eisenkot-led bloc for relying on the support of Arab parties to advance legislation and oust Knesset speaker Amir Ohana (Likud).",
-   "link": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915505",
-   "published": "2026-11-19T17:49:32+00:00"
+   "headline": "Israel, US could launch joint strike on Iran within two weeks, former Navy chief predicts",
+   "summary": "\"In the current window of opportunity, I believe there will be a combined American-Israeli strike on Iran within the next two weeks because there is simply no other choice,\" Marom ",
+   "link": "https://www.jpost.com/middle-east/iran-news/article-915587",
+   "published": "2026-11-20T13:44:44+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Nearly two-thirds of Jewish population projected to live in Israel by 2070, Pew predicts",
-   "summary": "The survey - 'The Future of World Religions: Population Growth Projections, 2020-2070' - projects future changes in the size and geographic distribution of seven religious groups.",
-   "link": "https://www.jpost.com/diaspora/article-915514",
-   "published": "2026-11-19T18:28:26+00:00"
+   "headline": "‘An evidentiary collapse’: How October 7 forced a rethink of sexual violence investigations",
+   "summary": "JUSTICE AFFAIRS: For Bitton, who initially questioned whether she had anything to contribute in the aftermath of the massacre, her role ultimately lay in reimagining how justice co",
+   "link": "https://www.jpost.com/israel-news/crime-in-israel/article-915532",
+   "published": "2026-11-20T16:25:54+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Denmark's oldest-ever person revealed to have been local leader for Nazi Party during WWII",
-   "summary": "Despite available records showing she joined the Danish National Socialist Workers Party in August 1941, Schwalbe initially denied knowing much about the party.",
-   "link": "https://www.jpost.com/diaspora/antisemitism/article-915521",
-   "published": "2026-11-19T19:19:30+00:00"
+   "headline": "New West Bank city aims to house 200,000, serve as security buffer for central Israel",
+   "summary": "The Samaria Regional Council is advancing plans for a new city near Rosh Ha'ayin, with 60,000 housing units and a projected population of 200,000.",
+   "link": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915598",
+   "published": "2026-11-20T17:17:08+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "IDF targets Hezbollah missile facility after terrorists return to site in Lebanon",
-   "summary": "The strike was carried out under intelligence guidance and targeted the entrances to the facility to prevent Hezbollah from restoring its operations, according to the military.",
-   "link": "https://www.jpost.com/israel-news/defense-news/article-915527",
-   "published": "2026-11-19T20:04:33+00:00"
+   "headline": "Israel seeks expanded Middle East coalition of states for possible Iran strikes",
+   "summary": "Such a coalition would aim to shorten the duration of the campaign and concentrate strikes on Iran's key military and strategic assets.",
+   "link": "https://www.jpost.com/middle-east/iran-news/article-915599",
+   "published": "2026-11-20T17:32:25+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Netanyahu asked Mossad head about covert op. against Iran without notifying IDF chief Zamir",
-   "summary": "Back on November 6, Channel 12 reported that Netanyahu and Gofman had jointly planned an operation against Iran, but that it was blocked by a mix of Zamir and US President Donald T",
-   "link": "https://www.jpost.com/israel-news/defense-news/article-915529",
-   "published": "2026-11-19T20:32:21+00:00"
+   "headline": "Three years after the Nova massacre on October 7, what does recovery look like?",
+   "summary": "SOCIAL AFFAIRS: At a conference in Jaffa, clinicians, researchers, and families explore the distance between getting through the week and living a life no longer governed by trauma",
+   "link": "https://www.jpost.com/israel-news/article-915526",
+   "published": "2026-11-20T18:26:15+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Iran using deadlier missiles to target ships in Strait of Hormuz, US source tells 'Post'",
-   "summary": "“That is a significantly higher volume than what was passing through the strait even before the war,” the official said.",
-   "link": "https://www.jpost.com/middle-east/iran-news/article-915531",
-   "published": "2026-11-19T20:52:16+00:00"
+   "headline": "IDF's top wanted terrorist in northern West Bank surrenders after years of pursuit",
+   "summary": "Ahmed Ya'akoub, wanted for years over shooting and explosive attacks, surrendered after repeated IDF operations failed to capture him in the West Bank.",
+   "link": "https://www.jpost.com/israel-news/defense-news/article-915603",
+   "published": "2026-11-20T20:10:08+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Trump says after talks with Xi, Putin, a deal limiting nuclear weapons will be hard to reach",
-   "summary": "\"I love the concept of it, but in terms of pure negotiation, it’s a very hard thing for me as a president to do,\" Trump told Reuters by phone as he flew back to Washington.",
-   "link": "https://www.jpost.com/international/article-915544",
-   "published": "2026-11-19T22:37:02+00:00"
+   "headline": "Israel warns Qatari-backed UN mediator resolution could restrict strikes on Hamas",
+   "summary": "The initiative has raised concerns in Israel over its potential implications for military operations against terrorist organizations involved in diplomatic negotiations.",
+   "link": "https://www.jpost.com/international/article-915607",
+   "published": "2026-11-20T21:55:54+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Trump pushes decision on new Iran strikes into next year: ‘We’ve got time’",
-   "summary": "Trump had previously suggested Iran would be more willing to make a deal after the US midterms, which Republicans lost.",
-   "link": "https://www.jpost.com/american-politics/article-915546",
-   "published": "2026-11-20T00:04:43+00:00"
+   "headline": "Woman killed, two children injured after car explodes in central Israel's Tira",
+   "summary": "A 32-year-old woman was critically injured, and two children were moderately injured in a car explosion in Tira. Police suspect a criminal incident.",
+   "link": "https://www.jpost.com/israel-news/crime-in-israel/article-915609",
+   "published": "2026-11-20T22:33:00+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Cryptocurrency trader makes a fortune thanks to fictional currency from GTA 6",
-   "summary": "An anonymous crypto trader purchased a coin inspired by the coveted video game, took advantage of confusion between two competing coins, and racked up a return of nearly 66,000%.",
-   "link": "https://www.jpost.com/crypto-currency/article-915547",
-   "published": "2026-11-20T00:20:02+00:00"
+   "headline": "US Senate unanimously passes resolution honoring Fiona the hippo after her death",
+   "summary": "Fiona’s condition deteriorated after she swallowed a knitted hat that a child visitor had accidentally let fall into her enclosure.",
+   "link": "https://www.jpost.com/international/article-915610",
+   "published": "2026-11-20T22:52:48+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Regev orders dismissal hearings, sanctions after transit passenger assault",
-   "summary": "Transportation Minister Miri Regev declared \"zero tolerance\" for violence and summoned both the implicated workers and the transit operator to face disciplinary action.",
-   "link": "https://www.jpost.com/israel-news/article-915549",
-   "published": "2026-11-20T01:01:10+00:00"
+   "headline": "IDF strikes Hamas terror meeting in Gaza, one suspect killed in West Bank incident",
+   "summary": "IDF forces and local security responded to the incident in the West Bank. A local security coordinator fired into the air before aiming at one of the suspects, who died as a result",
+   "link": "https://www.jpost.com/israel-news/article-915611",
+   "published": "2026-11-20T23:27:34+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "UN experts alarmed by attacks on West Bank activists, journalists, say Israel removing ‘witnesses’",
-   "summary": "The experts pointed to the detention of a Palestinian activist in Burin and an assault on journalists near Umm al-Khair, among other incidents.",
-   "link": "https://www.jpost.com/israel-news/article-915548",
-   "published": "2026-11-20T01:08:40+00:00"
+   "headline": "Iran still hopes diplomacy can end war with US, Foreign Minister Araghchi tells newspaper",
+   "summary": "Araghchi added that Iran was seeking \"an agreement that would ensure there was no further war.\"",
+   "link": "https://www.jpost.com/middle-east/iran-news/article-915613",
+   "published": "2026-11-21T00:05:34+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Mosque torched in northern Israel’s Ed-Dahi; Hebrew graffiti reading ‘Tefillin revenge’ found",
-   "summary": "The arson prompted speculation of retaliation for an alleged antisemitic attack on a synagogue in nearby Afula last month.",
-   "link": "https://www.jpost.com/israel-news/crime-in-israel/article-915551",
-   "published": "2026-11-20T01:17:10+00:00"
+   "headline": "GTA VI shatters entertainment records with $3.79 billion in first-day sales",
+   "summary": "Rockstar Games' GTA VI sold 32.5 million copies before launch and generated $3.79 billion in its first day, surpassing Hollywood's biggest box office blockbuster, Avengers: Endgame",
+   "link": "https://www.jpost.com/business-and-innovation/article-915614",
+   "published": "2026-11-21T00:40:22+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Fears of espionage: Why were phones collected aboard Trump's Air Force One?",
-   "summary": "Journalists traveling with Trump were ordered on Thursday to place phones used in China in signal-blocking bags amid concerns over cyberespionage.",
-   "link": "https://www.jpost.com/international/article-915552",
-   "published": "2026-11-20T01:37:32+00:00"
+   "headline": "Anti-Zionism’s next frontier is Western military action against Israel - opinion",
+   "summary": "The movement's refusal to condemn Hamas's atrocities has paved the way for increasingly extreme rhetoric, including calls to attack Israel.",
+   "link": "https://www.jpost.com/opinion/article-915475",
+   "published": "2026-11-21T00:54:52+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "'Oh my God, it’s Tehran': B-2 pilots reveal dramatic moments of attack on nuclear facilities",
-   "summary": "15 years of prep and global decoys: B-2 pilots reveal the story behind Operation Midnight Hammer, from Iran’s last-minute concrete to the fireball that lit up the mountains.",
-   "link": "https://www.jpost.com/middle-east/article-915554",
-   "published": "2026-11-20T02:30:23+00:00"
+   "headline": "NFL suspends star wide receiver Puka Nacua following allegations of antisemitism, assault",
+   "summary": "A civil suit filed in March alleged that the Los Angeles Rams wideout said “f— all the Jews.”",
+   "link": "https://www.jpost.com/diaspora/antisemitism/article-915615",
+   "published": "2026-11-21T01:02:46+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Poland expects to sign $50 billion nuclear plant deal with Westinghouse, Bechtel early next year",
-   "summary": "The three-reactor plant on the Baltic coast is expected to supply about 10% of Poland’s electricity, with the first reactor due online in 2036.",
-   "link": "https://www.jpost.com/international/article-915555",
-   "published": "2026-11-20T03:14:23+00:00"
+   "headline": "US Congress, CODEPINK, and the political hypocrisy behind its anti-Israel protests - opinion",
+   "summary": "Elected officials and journalists have no reason to accept the roles of permanent defendant and victim assigned to them by activists who believe they hold exclusive ownership of mo",
+   "link": "https://www.jpost.com/opinion/article-915153",
+   "published": "2026-11-21T01:20:09+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Israel's strategic depth lies in its global Jewish Diaspora - opinion",
-   "summary": "With little territory to trade for time, Israel depends on military strength, international allies, and a Jewish Diaspora whose support is vital but far from guaranteed.",
-   "link": "https://www.jpost.com/opinion/article-915558",
-   "published": "2026-11-20T04:08:06+00:00"
+   "headline": "Thanksgiving in Israel? Why the Jewish state should adopt the American holiday - opinion",
+   "summary": "We the people of Israel have overcome countless tragedies, and yet we endure, which is clearly an excellent reason for us to be thankful.",
+   "link": "https://www.jpost.com/opinion/article-915452",
+   "published": "2026-11-21T01:49:48+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Czech PM Babiš tours Israel’s Arrow missile defense unit, Czech defense minister meets Katz",
-   "summary": "Babiš and his delegation toured an Arrow unit and the Israel Missile Defense Organization, which develops Arrow, David’s Sling, and Iron Dome.",
-   "link": "https://www.jpost.com/israel-news/article-915559",
-   "published": "2026-11-20T04:49:51+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
-   "headline": "Israeli joint mission trains Ghanaian students to build custom rehab gear for disabled youth",
-   "summary": "Israeli engineers and rehab specialists teamed up to turn bamboo and recycled plastic into custom mobility devices for children, building a permanent innovation hub.",
-   "link": "https://www.jpost.com/israel-news/article-915557",
-   "published": "2026-11-20T05:01:42+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
-   "headline": "Judge orders US agriculture chief to stop sending religious emails from official account",
-   "summary": "\"The Court ORDERS that the Secretary must recognize certain boundaries when communicating religious messages,\" US District Judge Trina Thompson said.",
-   "link": "https://www.jpost.com/international/article-915563",
-   "published": "2026-11-20T05:41:59+00:00"
+   "headline": "Saudi Arabia says it intercepts three Houthi missiles targeting Riyadh",
+   "summary": "Saudi Arabia intercepted three Houthi ballistic missiles targeting Riyadh, days after an attack damaged the capital's tallest skyscraper, as cross-border strikes intensify.",
+   "link": "https://www.jpost.com/middle-east/article-915616",
+   "published": "2026-11-21T02:35:34+00:00"
   },
   {
    "outlet": "The Moscow Times",
-   "headline": "Traffic Suspended Over Crimean Bridge After Attack, Moscow-Installed Official Says",
-   "summary": "The attack is the third time the bridge has been targeted by Ukraine in as many days.",
-   "link": "https://www.themoscowtimes.com/2026/11/19/traffic-suspended-over-crimean-bridge-after-attack-moscow-installed-official-says-a94306",
-   "published": "2026-11-19T07:00:00+00:00"
+   "headline": "8 Killed Across Ukraine as Russia Strikes Bridges in Kyiv",
+   "summary": "",
+   "link": "https://www.themoscowtimes.com/2026/11/20/3-killed-in-bridge-strikes-on-kyiv-mayor-says-a94324",
+   "published": "2026-11-20T08:24:00+00:00"
   },
   {
    "outlet": "The Moscow Times",
-   "headline": "China and Russia Release ‘Peace Declaration’ After Trump, Xi, Putin Meeting",
-   "summary": "\"We are really making history,\" Trump said at the beginning. “No peace was ever forged by declining opportunities for engagement.”",
-   "link": "https://www.themoscowtimes.com/2026/11/19/us-china-can-help-end-ukraine-war-trump-tells-xi-before-trilateral-with-putin-a94307",
-   "published": "2026-11-19T09:53:00+00:00"
+   "headline": "‘He’s No Spy’: Former Colleagues Open Up About Japanese Journalist Arrested in Russia",
+   "summary": "After weeks of silence around the case, people in Japan who knew or met Yuki Imai during his journalism career have begun to speak out.",
+   "link": "https://www.themoscowtimes.com/2026/11/20/hes-no-spy-former-colleagues-open-up-about-japanese-journalist-arrested-in-russia-2-a94303",
+   "published": "2026-11-20T09:13:00+00:00"
   },
   {
    "outlet": "The Moscow Times",
-   "headline": "Wildberries Quietly Expands in Georgia Through Ruling Party-Linked Firm, Think Tank Says",
-   "summary": "Records show that Wildberries’ Georgian franchise partner has acquired state-owned land, leased warehouse space and taken steps to launch a ride-hailing service.",
-   "link": "https://www.themoscowtimes.com/2026/11/19/wildberries-quietly-expands-in-georgia-through-ruling-party-linked-firm-think-tank-says-a94308",
-   "published": "2026-11-19T11:01:50+00:00"
+   "headline": "Ukrainian Drones Target Smolensk Region Fertilizer Plant",
+   "summary": "The Dorogobuzh chemical plant, which was targeted, accounts for around 11% of Russia’s ammonium nitrate production.",
+   "link": "https://www.themoscowtimes.com/2026/11/20/ukrainian-drones-target-smolensk-region-fertilizer-plant-a94325",
+   "published": "2026-11-20T10:05:20+00:00"
   },
   {
    "outlet": "The Moscow Times",
-   "headline": "Russia Has Delayed $116Bln in State Construction Projects Since Invading Ukraine",
-   "summary": "The projects already behind schedule and those yet to break ground are together worth roughly what Russia spends on the war in six months.",
-   "link": "https://www.themoscowtimes.com/2026/11/19/russia-has-delayed-116bln-in-state-construction-projects-since-invading-ukraine-a94310",
-   "published": "2026-11-19T11:20:00+00:00"
+   "headline": "Russia Pushes Back Against U.S. Idea of NATO-Style Security Guarantees for Ukraine",
+   "summary": "Ryabkov also confirmed that a potential visit to Moscow by representatives from Britain, Germany and France was being worked on.",
+   "link": "https://www.themoscowtimes.com/2026/11/20/russia-pushes-back-against-us-idea-of-nato-style-security-guarantees-for-ukraine-a94326",
+   "published": "2026-11-20T10:16:00+00:00"
   },
   {
    "outlet": "The Moscow Times",
-   "headline": "Daytime Ukrainian Attack Injures 11 in Kursk",
-   "summary": "The barrage comes amid a sharp rise inside Russia from Ukrainian attacks, with 44 of this year’s 583 fatalities occurring in the Kursk region.",
-   "link": "https://www.themoscowtimes.com/2026/11/19/kursk-daytime-ukrainian-attack-injures-11-in-kursk-a94309",
-   "published": "2026-11-19T11:31:10+00:00"
+   "headline": "Russia Seeks More Flights Bypassing Moscow as Drone Disruptions Mount",
+   "summary": "The Transportation Ministry wants to redirect airline subsidies to expand direct flights between regions as drone threats repeatedly force Moscow’s airports to suspend operations.",
+   "link": "https://www.themoscowtimes.com/2026/11/20/russia-seeks-more-flights-bypassing-moscow-as-drone-disruptions-mount-a94329",
+   "published": "2026-11-20T10:43:34+00:00"
   },
   {
    "outlet": "The Moscow Times",
-   "headline": "U.S. Indicts Russian National for Stalking Palantir Employees as ‘Foreign Agent’",
-   "summary": "According to court documents, unidentified co-conspirators recruited D’iu on Telegram and helped him illegally cross the Texas-Mexico border in July.",
-   "link": "https://www.themoscowtimes.com/2026/11/19/us-indicts-russian-national-for-stalking-palantir-employees-as-foreign-agent-a94313",
-   "published": "2026-11-19T13:18:14+00:00"
+   "headline": "Tankers Carrying Russian Diesel Divert to Brazil After U.S. Buyers Balk – The Maritime Executive",
+   "summary": "According to Maritime Executive, New Jersey governor Mikie Sherrill warned terminal operators and fuel companies not to receive the fuel.",
+   "link": "https://www.themoscowtimes.com/2026/11/20/tankers-carrying-russian-diesel-divert-to-brazil-after-us-buyers-balk-the-maritime-executive-a94327",
+   "published": "2026-11-20T11:08:31+00:00"
   },
   {
    "outlet": "The Moscow Times",
-   "headline": "Putin Vows ‘Painful’ Retaliation to Crimean Bridge Attacks",
-   "summary": "“After the strikes on the Crimean Bridge, we won’t negotiate,” Putin said at the APEC summit in Shenzhen.",
-   "link": "https://www.themoscowtimes.com/2026/11/19/putin-vows-painful-retaliation-to-crimean-bridge-attacks-a94315",
-   "published": "2026-11-19T13:35:00+00:00"
+   "headline": "Ex-Head of Russian Youth Patriotism Center Arrested on Embezzlement Charges",
+   "summary": "The center, which is overseen by Russia’s federal youth agency, runs programs aimed at fostering patriotism among children and young people.",
+   "link": "https://www.themoscowtimes.com/2026/11/20/ex-head-of-russian-youth-patriotism-center-arrested-on-embezzlement-charges-a94330",
+   "published": "2026-11-20T11:41:41+00:00"
   },
   {
    "outlet": "The Moscow Times",
-   "headline": "A New Yalta? In China, Putin Gets What He Wants – Mostly.",
-   "summary": "Even if Putin came away from Shenzhen without establishing spheres of influence, sitting down with Trump and Xi was a diplomatic win in itself.",
-   "link": "https://www.themoscowtimes.com/2026/11/19/a-new-yalta-in-china-putin-gets-what-he-wants-mostly-a94314",
-   "published": "2026-11-19T14:09:00+00:00"
-  },
-  {
-   "outlet": "The Moscow Times",
-   "headline": "Regions Calling: For Russia’s Intense Wildfire Season, It’s a Wrap",
-   "summary": "Fires blazed farther north in Yakutia, while the area burned in Buryatia plunged. What explains Russia’s uneven wildfire season?",
-   "link": "https://www.themoscowtimes.com/2026/11/19/regions-calling-for-russias-intense-wildfire-season-its-a-wrap-a94316",
-   "published": "2026-11-19T15:11:00+00:00"
-  },
-  {
-   "outlet": "The Moscow Times",
-   "headline": "China Tightens Export Controls on Drone Parts Used by Russia",
-   "summary": "Some of the engines covered by the rules are used in Shahed drones that Russia assembles at its Alabuga facility in the republic of Tatarstan.",
-   "link": "https://www.themoscowtimes.com/2026/11/19/china-tightens-export-controls-on-drone-parts-used-by-russia-a94318",
-   "published": "2026-11-19T15:46:47+00:00"
-  },
-  {
-   "outlet": "The Moscow Times",
-   "headline": "Ex-Deputy Defense Minister Ruslan Tsalikov Jailed 10 Years for Corruption",
-   "summary": "The court found Tsalikov guilty on 12 counts of embezzlement totaling 6.58 billion rubles ($80.2 million), laundering more than 500 million rubles ($6 million) in stolen funds and ",
-   "link": "https://www.themoscowtimes.com/2026/11/19/ex-deputy-defense-minister-ruslan-tsalikov-jailed-10-years-for-corruption-a94317",
-   "published": "2026-11-19T16:31:54+00:00"
-  },
-  {
-   "outlet": "The Moscow Times",
-   "headline": "EU Bars People Living in Russia From Erasmus+ Exchange Program",
-   "summary": "The restriction applies regardless of citizenship and covers Erasmus Mundus scholarships, which fund study in joint master’s programs.",
-   "link": "https://www.themoscowtimes.com/2026/11/19/eu-bars-people-living-in-russia-from-erasmus-exchange-program-a94320",
-   "published": "2026-11-19T17:05:51+00:00"
-  },
-  {
-   "outlet": "The Moscow Times",
-   "headline": "Russia's Africa Corps Deploys New Drone in Mali as Strikes Increase, Analysis Says",
-   "summary": "Russia's Africa Corps has around 2,500 men fighting alongside Mali's military government against a range of separatist rebels and militants.",
-   "link": "https://www.themoscowtimes.com/2026/11/19/russias-africa-corps-deploys-new-drone-in-mali-as-strikes-increase-analysis-says-a94321",
-   "published": "2026-11-19T17:21:19+00:00"
+   "headline": "Putin Awards State Humanitarian Prize to Patriarch Kirill on His 80th Birthday",
+   "summary": "Past recipients include writer Alexander Solzhenitsyn, cosmonaut Valentina Tereshkova and former French President Jacques Chirac.",
+   "link": "https://www.themoscowtimes.com/2026/11/20/putin-awards-state-humanitarian-prize-to-patriarch-kirill-on-his-80th-birthday-a94328",
+   "published": "2026-11-20T11:52:59+00:00"
   },
   {
    "outlet": "The Moscow Times",
    "headline": "Netherlands Summons Russian Ambassador as Kyiv Embassy Hit",
    "summary": "The Russian Embassy in the Netherlands had said it was becoming \"increasingly difficult to regard the Netherlands as a mere bystander\" in the war in Ukraine.",
-   "link": "https://www.themoscowtimes.com/2026/11/19/netherlands-summons-russian-ambassador-as-kyiv-embassy-hit-a94322",
-   "published": "2026-11-19T17:28:39+00:00"
+   "link": "https://www.themoscowtimes.com/2026/11/20/netherlands-summons-russian-ambassador-as-kyiv-embassy-hit-a94322",
+   "published": "2026-11-20T12:23:00+00:00"
   },
   {
    "outlet": "The Moscow Times",
-   "headline": "Russia and Georgia Resume Direct Dialogue With Official Meeting in Minsk, Moscow Says",
-   "summary": "The neighbors have had no diplomatic relations since fighting a brief war in 2008.",
-   "link": "https://www.themoscowtimes.com/2026/11/19/russia-and-georgia-resume-direct-dialogue-with-official-meeting-in-minsk-moscow-says-a94323",
-   "published": "2026-11-19T18:23:00+00:00"
+   "headline": "Poland Condemns Russian 'Provocation' After 3 Airspace Violations",
+   "summary": "The latest incident comes after European countries warned against any attempt to decide a peace in Ukraine over their heads.",
+   "link": "https://www.themoscowtimes.com/2026/11/20/poland-condemns-russian-provocation-after-3-airspace-violations-a94331",
+   "published": "2026-11-20T12:25:00+00:00"
+  },
+  {
+   "outlet": "The Moscow Times",
+   "headline": "Russia Accuses Estonia of Erecting New Iron Curtain With Border Closure, Says It Will Respond",
+   "summary": "Estonia's government said it would close its road border crossings with Russia on security grounds from Dec. 1.",
+   "link": "https://www.themoscowtimes.com/2026/11/20/russia-accuses-estonia-of-erecting-new-iron-curtain-with-border-closure-says-it-will-respond-a94333",
+   "published": "2026-11-20T12:33:01+00:00"
+  },
+  {
+   "outlet": "The Moscow Times",
+   "headline": "Russia Has No Timeline for Crimean Bridge Repairs, Deputy PM Says",
+   "summary": "Deputy Prime Minister Marat Khusnullin said both the steel arch and the main beam supporting the roadway were damaged in this week's Ukrainian strikes.",
+   "link": "https://www.themoscowtimes.com/2026/11/20/russia-has-no-timeline-for-crimean-bridge-repairs-deputy-pm-says-a94332",
+   "published": "2026-11-20T13:40:21+00:00"
+  },
+  {
+   "outlet": "The Moscow Times",
+   "headline": "Russian Stocks Fall After No Breakthrough at Putin-Trump-Xi Summit",
+   "summary": "The benchmark ruble-denominated MOEX index dropped below 2,400 points in morning trading for the first time since mid-October.",
+   "link": "https://www.themoscowtimes.com/2026/11/20/russian-stocks-fall-after-no-breakthrough-at-putin-trump-xi-summit-a94334",
+   "published": "2026-11-20T14:20:46+00:00"
+  },
+  {
+   "outlet": "The Moscow Times",
+   "headline": "Russia Summons Romanian Ambassador Over Youth Athletes Visa Denial",
+   "summary": "",
+   "link": "https://www.themoscowtimes.com/2026/11/20/russia-summons-romanian-ambassador-over-youth-athletes-visa-denial-a94336",
+   "published": "2026-11-20T15:47:14+00:00"
+  },
+  {
+   "outlet": "The Moscow Times",
+   "headline": "Putin Tells Ukrainians to ‘Come Over to Our Side’ Despite War",
+   "summary": "Putin’s comments were part of a documentary marking the 80th birthday of Russian Orthodox Church head Patriarch Kirill.",
+   "link": "https://www.themoscowtimes.com/2026/11/20/putin-tells-ukrainians-to-come-over-to-our-side-despite-war-a94337",
+   "published": "2026-11-20T16:22:10+00:00"
   }
  ]
 }
