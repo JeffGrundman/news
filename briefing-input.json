@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T01:16:01.933840+00:00",
+ "built": "2026-11-22T03:09:35.601477+00:00",
  "window_hours": 24,
  "part": "briefing-input.json",
  "all_parts": [
@@ -33,7 +33,7 @@
   "The Conversation",
   "The Dispatch"
  ],
- "story_count": 140,
+ "story_count": 138,
  "feeds_with_problems": [
   "https://san.com/feed/: no items (page began: <!doctype html> <html lang=\"en\"> <head> \t<meta charset=\"utf-8\"> \t<meta name=\"vie)",
   "https://www.positive.news/feed/: HTTP 403",
@@ -147,7 +147,7 @@
    "headline": "Paolo Bulgari, jeweler who turned family business into global brand, dies at 89",
    "summary": "His family praised his humanity and entrepreneurial talent.",
    "link": "https://abcnews.com/Business/wireStory/paolo-bulgari-italian-jeweler-turned-family-business-global-138350529",
-   "published": "2026-11-22T00:01:38+00:00"
+   "published": "2026-11-22T00:26:27+00:00"
   },
   {
    "outlet": "BBC News",
@@ -235,13 +235,6 @@
   },
   {
    "outlet": "BBC News",
-   "headline": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-   "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-   "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-21T23:31:17+00:00"
-  },
-  {
-   "outlet": "BBC News",
    "headline": "How a teen gamer and his mother helped rescue a missing girl",
    "summary": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
    "link": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
@@ -260,6 +253,13 @@
    "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
    "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
    "published": "2026-11-22T00:10:44+00:00"
+  },
+  {
+   "outlet": "BBC News",
+   "headline": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+   "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+   "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-22T01:25:03+00:00"
   },
   {
    "outlet": "BNO News",
@@ -389,13 +389,6 @@
   },
   {
    "outlet": "DW News",
-   "headline": "UK anti-migrant activist jailed for slashing Channel dinghy",
-   "summary": "Daniel Thomas, known as \"Danny Tommo,\" slashed a dinghy with a knife while a French rescue worker was on board. The incident was livestreamed to a large social media audience amid ",
-   "link": "https://www.dw.com/en/uk-anti-migrant-activist-jailed-for-slashing-channel-dinghy/a-80007576?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-11-21T02:47:00+00:00"
-  },
-  {
-   "outlet": "DW News",
    "headline": "Brazil ex-President Jair Bolsonaro taken to hospital over abdominal pain",
    "summary": "Jair Bolsonaro has been hospitalized in Brasilia with intestinal obstruction. The former far-right Brazilian leader is receiving pain medications, his son Carlos said.",
    "link": "https://www.dw.com/en/brazil-ex-president-jair-bolsonaro-taken-to-hospital-over-abdominal-pain/a-80007648?maca=en-rss-en-all-1573-rdf",
@@ -481,7 +474,7 @@
   {
    "outlet": "DW News",
    "headline": "Mexican special forces arrest drug kingpin 'Chapo Isidro'",
-   "summary": "The alleged leader of the Beltran Leyva gang and one of the FBI's most wanted fugitives, known as 'Chapo Isidro,' was captured by the Mexican military following a raid and a shooto",
+   "summary": "The alleged leader of the Beltran Leyva gang and one of the FBI's most wanted fugitives, known as \"Chapo Isidro,\" was captured by the Mexican military following a raid and a shooto",
    "link": "https://www.dw.com/en/mexican-special-forces-arrest-drug-kingpin-chapo-isidro/a-80010745?maca=en-rss-en-all-1573-rdf",
    "published": "2026-11-21T18:30:00+00:00"
   },
@@ -512,13 +505,6 @@
    "summary": "The same infrastructure that secures America’s advantage in chips and cloud services gives Chinese AI models a platform to spread.",
    "link": "https://fortune.com/2026/11/21/data-centers-us-chips-serve-chinese-models/",
    "published": "2026-11-21T10:00:00+00:00"
-  },
-  {
-   "outlet": "Fortune",
-   "headline": "Tech investor Bill Gurley says workers who went through the ‘college conveyor belt’ and chased safe jobs are at high risk of AI automation",
-   "summary": "Prolific tech investor Bill Gurley says college has turned into a “pressure cooker.” The workers most likely to weather AI disruption are not just tech-savvy—but passionate.",
-   "link": "https://fortune.com/article/tech-investor-bill-gurley-says-college-grads-at-high-risk-of-ai-automation/",
-   "published": "2026-11-21T14:24:02+00:00"
   },
   {
    "outlet": "Fortune",
@@ -575,6 +561,13 @@
    "summary": "\"To keep AI funding flowing, Xi needs a buoyant stock market.\"",
    "link": "https://fortune.com/2026/11/21/ai-bust-china-economy-xi-jinping-property-crash-stock-market/",
    "published": "2026-11-21T21:45:12+00:00"
+  },
+  {
+   "outlet": "Fortune",
+   "headline": "Stock market correction? Whatever — Wall Street is bullish on 2027, and one chief investment officer sees the S&P 500 soaring 45% to 10,000",
+   "summary": "\"We expect the equity bull market to continue.\"",
+   "link": "https://fortune.com/2026/11/21/stock-market-correction-sp500-2027-forecasts-ai-boom-fed-rate-hikes/",
+   "published": "2026-11-22T00:02:17+00:00"
   },
   {
    "outlet": "Good Good Good",
@@ -732,7 +725,7 @@
   },
   {
    "outlet": "NPR",
-   "headline": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
+   "headline": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
    "summary": "Fausto Isidro Meza Flores, better known as \"El Chapo Isidro,\" was one of the FBI's most wanted fugitives. His arrest in northwest Mexico on Saturday has sparked violence in the reg",
    "link": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
    "published": "2026-11-21T18:08:55+00:00"
@@ -876,13 +869,6 @@
    "summary": "The post Why Is the World Still Counting on Unproven Carbon Capture Technology? appeared first on ProPublica .",
    "link": "https://www.propublica.org/article/carbon-capture-and-storage-climate-models",
    "published": "2026-11-21T10:00:00+00:00"
-  },
-  {
-   "outlet": "Reason",
-   "headline": "En Banc Fifth Circuit Declares House COVID Proxy Voting Rule Unconstitutional",
-   "summary": "While purporting to offer narrow relief confined to a limited portion of the bill in Texas, the court places a bullseye on broad legislation.",
-   "link": "https://reason.com/volokh/2026/11/20/en-banc-fifth-circuit-declares-house-covid-proxy-voting-rule-unconstitutional/",
-   "published": "2026-11-21T01:17:46+00:00"
   },
   {
    "outlet": "Reason",
