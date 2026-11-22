@@ -1,11 +1,10 @@
 {
- "built": "2026-11-21T03:58:28.249089+00:00",
+ "built": "2026-11-22T01:16:01.933840+00:00",
  "window_hours": 24,
  "part": "briefing-input.json",
  "all_parts": [
   "briefing-input.json",
-  "briefing-input-2.json",
-  "briefing-input-3.json"
+  "briefing-input-2.json"
  ],
  "outlets_here": [
   "Ars Technica",
@@ -13,11 +12,28 @@
   "BBC News",
   "BNO News",
   "CBC",
+  "Christian Science Monitor",
   "CNBC",
   "Daily Maverick",
-  "DW News"
+  "DW News",
+  "Fortune",
+  "Good Good Good",
+  "Good News Network",
+  "Inside Climate News",
+  "KFF Health News",
+  "National Review",
+  "NPR",
+  "PBS NewsHour",
+  "Politico",
+  "Politico Europe",
+  "ProPublica",
+  "Reason",
+  "Science News",
+  "STAT",
+  "The Conversation",
+  "The Dispatch"
  ],
- "story_count": 136,
+ "story_count": 140,
  "feeds_with_problems": [
   "https://san.com/feed/: no items (page began: <!doctype html> <html lang=\"en\"> <head> \t<meta charset=\"utf-8\"> \t<meta name=\"vie)",
   "https://www.positive.news/feed/: HTTP 403",
@@ -25,295 +41,22 @@
   "https://kyivindependent.com/feed/: HTTP 404",
   "https://theintercept.com/feed/?rss: HTTP 500",
   "https://www.timesofisrael.com/feed/: HTTP 403",
-  "https://www.haaretz.com/cmlink/1.4605090: HTTP 403"
+  "https://www.haaretz.com/cmlink/1.4605090: no items (page began: <!DOCTYPE html><html lang=\"he\" dir=\"rtl\"><head><meta charSet=\"utf-8\"/><link rel=)"
  ],
  "stories": [
   {
    "outlet": "Ars Technica",
-   "headline": "Trump admin still won't let Wi-Fi giant TP-Link sell its latest routers in US",
-   "summary": "TP-Link's struggle illustrates how Trump admin wields control over device makers.",
-   "link": "https://arstechnica.com/tech-policy/2026/11/trump-admin-still-wont-let-wi-fi-giant-tp-link-sell-its-latest-routers-in-us/",
-   "published": "2026-11-20T12:00:43+00:00"
+   "headline": "“Race realism” isn’t realistic—and it isn’t good science",
+   "summary": "Modern genetics does not support claims of innate racial differences in intelligence.",
+   "link": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
+   "published": "2026-11-21T12:01:13+00:00"
   },
   {
    "outlet": "Ars Technica",
-   "headline": "Science has a home here at Ars—please help keep it that way",
-   "summary": "Your support for Ars matters more now than ever.",
-   "link": "https://arstechnica.com/staff/2026/11/science-has-a-home-here-at-ars-please-help-keep-it-that-way/",
-   "published": "2026-11-20T12:15:36+00:00"
-  },
-  {
-   "outlet": "Ars Technica",
-   "headline": "Only the Seminole Tribe can offer online gambling in Florida—and they're furious at DraftKings",
-   "summary": "Gambling? We're just swapping contracts!",
-   "link": "https://arstechnica.com/tech-policy/2026/11/seminole-tribe-tries-to-stop-draftkings-illegal-gambling-in-florida/",
-   "published": "2026-11-20T12:30:29+00:00"
-  },
-  {
-   "outlet": "Ars Technica",
-   "headline": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone",
-   "summary": "Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine.",
-   "link": "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/",
-   "published": "2026-11-20T13:35:45+00:00"
-  },
-  {
-   "outlet": "Ars Technica",
-   "headline": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
-   "summary": "Bondholders want SpaceX’s valuable chip collateral kept on Earth and within reach.",
-   "link": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/",
-   "published": "2026-11-20T14:15:21+00:00"
-  },
-  {
-   "outlet": "Ars Technica",
-   "headline": "US will soon announce root cause behind FAA nationwide ground stop",
-   "summary": "Former FAA insider on reducing the risks of upgrading a decades-old network.",
-   "link": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/",
-   "published": "2026-11-20T14:52:51+00:00"
-  },
-  {
-   "outlet": "Ars Technica",
-   "headline": "Valve says it might have to raise the price of supply-limited Steam Machines",
-   "summary": "\"We don't yet know the number we are able to make, and at what price...\"",
-   "link": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
-   "published": "2026-11-20T16:11:21+00:00"
-  },
-  {
-   "outlet": "Ars Technica",
-   "headline": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
-   "summary": "Modeling predicts plume of neurotoxic lead could reach up to 100 miles away.",
-   "link": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/",
-   "published": "2026-11-20T19:21:50+00:00"
-  },
-  {
-   "outlet": "Ars Technica",
-   "headline": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
-   "summary": "CTIA said jamming test showed \"interference... up to two and a half miles away.\"",
-   "link": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
-   "published": "2026-11-20T19:52:59+00:00"
-  },
-  {
-   "outlet": "Ars Technica",
-   "headline": "NASA’s new Moon plan is taking shape, but some big questions remain",
-   "summary": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"",
-   "link": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
-   "published": "2026-11-20T20:26:33+00:00"
-  },
-  {
-   "outlet": "Ars Technica",
-   "headline": "Watching as a giant star swallowed its neighbor and exploded",
-   "summary": "A recent brightening turned out to be from a star orbiting inside another.",
-   "link": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
-   "published": "2026-11-20T20:41:17+00:00"
-  },
-  {
-   "outlet": "Ars Technica",
-   "headline": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-   "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
-   "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-   "published": "2026-11-20T20:59:08+00:00"
-  },
-  {
-   "outlet": "Ars Technica",
-   "headline": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
-   "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
-   "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
-   "published": "2026-11-20T21:47:10+00:00"
-  },
-  {
-   "outlet": "Ars Technica",
-   "headline": "Google rolls out new search homepage with AI chat history and no search button",
-   "summary": "Google search is making it even easier to access AI tools on the search page.",
-   "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
-   "published": "2026-11-20T21:58:29+00:00"
-  },
-  {
-   "outlet": "Ars Technica",
-   "headline": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
-   "summary": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
-   "link": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
-   "published": "2026-11-20T22:16:51+00:00"
-  },
-  {
-   "outlet": "Ars Technica",
-   "headline": "Trump FCC declares California isn't allowed to enforce phone service rules",
-   "summary": "FCC preempts state rules that require AT&T to keep offering home phone service.",
-   "link": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
-   "published": "2026-11-20T22:28:24+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "Senate approves bill to speed up permitting reviews, force data centers to pay for energy costs",
-   "summary": "The Senate has approved bipartisan legislation aimed at speeding up permitting reviews to build power plants, transmission lines and other energy infrastructure as lawmakers seek t",
-   "link": "https://abcnews.com/Business/wireStory/senate-backs-bill-speed-permitting-reviews-force-data-138308461",
-   "published": "2026-11-20T04:34:16+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "(Not) up in the air: Travelers' trepidations spike as Thanksgiving nears and tech hiccups abound",
-   "summary": "At this point, it’s practically as much of a Thanksgiving tradition as turkey and stuffing— crowded airports, long lines, jam-packed flights, the ever-present worry about delays an",
-   "link": "https://abcnews.com/Business/wireStory/air-travelers-trepidations-spike-thanksgiving-nears-tech-hiccups-138312490",
-   "published": "2026-11-20T05:52:04+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "Dozens of inmates in Romania step onto the stage for the 15th edition of a prison theater festival",
-   "summary": "A drama festival in Romania gives dozens of prison inmates a brief respite from life behind bars as they perform on stage at a renowned theater in the capital",
-   "link": "https://abcnews.com/International/wireStory/dozens-inmates-romania-step-stage-15th-edition-prison-138312303",
-   "published": "2026-11-20T05:52:21+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "Rohingya in Bangladesh welcome UN court's genocide verdict but say they want to go home to Myanmar",
-   "summary": "Rohingya refugees in Bangladesh have welcomed the ruling by the United Nations' top court in the Netherlands that held Myanmar responsible for genocide",
-   "link": "https://abcnews.com/International/wireStory/rohingya-bangladesh-courts-genocide-verdict-home-myanmar-138313372",
-   "published": "2026-11-20T07:37:05+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "US deportees in South Sudan went hungry as guards pocketed money from relatives, families say",
-   "summary": "Migrants deported by the Trump administration to countries other than their own have endured hunger, thirst and other deprivations",
-   "link": "https://abcnews.com/International/wireStory/us-deportees-south-sudan-hungry-guards-pocketed-money-138312302",
-   "published": "2026-11-20T07:38:23+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "El Salvador President Nayib Bukele seeks third term while attacking gangs in Haiti",
-   "summary": "El Salvador’s President Nayib Bukele has officially launched his bid for reelection in the February elections",
-   "link": "https://abcnews.com/International/wireStory/el-salvador-president-nayib-bukele-seeks-term-attacking-138309430",
-   "published": "2026-11-20T07:38:27+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "At an Italian hedgehog hospital, tiny patients face the strain of a warming climate",
-   "summary": "Italy's only hedgehog rescue center is overwhelmed with underweight hoglets due to climate change",
-   "link": "https://abcnews.com/International/wireStory/italian-hedgehog-hospital-tiny-patients-face-strain-warming-138312300",
-   "published": "2026-11-20T07:38:28+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "A long-buried ancient library in Rome opens to the public after restoration",
-   "summary": "The ancient Ulpia Library in Rome has been restored and is reopening to the public this week",
-   "link": "https://abcnews.com/International/wireStory/long-buried-ancient-library-rome-opens-public-after-138307336",
-   "published": "2026-11-20T07:41:51+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "How major US stock indexes fared Thursday 11/19/2026",
-   "summary": "The U.S. stock market tumbled again as AI stocks kept falling on worries their boom may be over",
-   "link": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-thursday-11192026-138303454",
-   "published": "2026-11-20T07:43:01+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "Get rich quick, or lose it all: The shared fun and frustration of Monopoly's capitalist world",
-   "summary": "Monopoly, with its colorful money and metal tokens, is a game night staple that has entertained and frustrated players for decades",
-   "link": "https://abcnews.com/Business/wireStory/rich-quick-lose-shared-fun-frustration-monopolys-capitalist-138302392",
-   "published": "2026-11-20T07:43:31+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "Xi projects China’s global influence after hosting Trump and Putin at APEC",
-   "summary": "China’s President Xi Jinping has emerged from the Asia-Pacific Economic Cooperation summit with a diplomatic win, reinforcing his global standing despite limited substantive progre",
-   "link": "https://abcnews.com/International/wireStory/xi-projects-chinas-global-influence-after-hosting-trump-138313749",
-   "published": "2026-11-20T07:45:48+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "Troops from 11 countries drill in Poland for potential postwar Ukraine mission",
-   "summary": "Thousands of European troops are taking part in a major military exercise in southeastern Poland",
-   "link": "https://abcnews.com/International/wireStory/european-troops-11-countries-drill-poland-potential-postwar-138313096",
-   "published": "2026-11-20T07:48:16+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "A rare EU-UK summit as Andy Burnham seeks to mend Brexit damage",
-   "summary": "A decade after Britain voted to leave the European Union, top EU officials are meeting with Prime Minister Andy Burnham on Friday, looking to mend more fences and possibly pave a w",
-   "link": "https://abcnews.com/Business/wireStory/rare-eu-uk-summit-andy-burnham-seeks-mend-138313078",
-   "published": "2026-11-20T07:49:18+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "Sydney man charged with car bomb plot and downloading Islamic State group material",
-   "summary": "Australian police have arrested a man in the greater Sydney area on charges of researching how to build a car bomb and downloading violent material inspired by the Islamic State gr",
-   "link": "https://abcnews.com/International/wireStory/sydney-man-charged-car-bomb-plot-downloading-islamic-138312769",
-   "published": "2026-11-20T07:49:52+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "Russian attacks on Kyiv kill 3, cripple bridges and cut power",
-   "summary": "Russia has launched missiles and drones across Kyiv, killing three people and injuring nine",
-   "link": "https://abcnews.com/International/wireStory/russian-attacks-kyiv-kill-3-cripple-bridges-cut-138313948",
-   "published": "2026-11-20T08:51:45+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "Russian missile crash in Poland likely an intentional provocation, Polish leader says",
-   "summary": "Russian missile crash in Poland likely an intentional provocation as European militaries hold drills, Polish leader says",
-   "link": "https://abcnews.com/International/wireStory/unidentified-object-appears-crashed-poland-after-russian-attacks-138315055",
-   "published": "2026-11-20T12:16:46+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "France probes suspected leaks of confidential information to Le Pen’s far-right party",
-   "summary": "French authorities are investigating whether a former Interior Ministry official leaked confidential information to Marine Le Pen's far-right National Rally",
-   "link": "https://abcnews.com/International/wireStory/france-probes-suspected-leaks-confidential-information-le-pens-138315239",
-   "published": "2026-11-20T13:45:29+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "Saudi Arabia intercepts more Yemen Houthi missiles and drones, and other Mideast news",
-   "summary": "Saudi Arabia says Iran-backed Houthi rebels have fired more missiles and drones at the kingdom",
-   "link": "https://abcnews.com/International/wireStory/saudi-arabia-intercepts-yemen-houthi-missiles-drones-mideast-138314659",
-   "published": "2026-11-20T13:46:20+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "Myanmar dismisses the UN court's ruling on its responsibility for Rohingya genocide as 'unfair'",
-   "summary": "Myanmar’s government has dismissed a landmark judgment by the United Nations’ top court finding the country guilty of genocide against its Rohingya minority as “unfair.”",
-   "link": "https://abcnews.com/International/wireStory/myanmar-dismisses-courts-ruling-responsibility-rohingya-genocide-unfair-138313854",
-   "published": "2026-11-20T13:46:32+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "UN climate talks in Turkey risk being ‘worst COP ever’ as fossil fuels go unmentioned",
-   "summary": "Negotiators are still seeking concrete commitments for nations to transition away from fossil fuels, as this year's U.N. climate summit reaches its final day",
-   "link": "https://abcnews.com/Business/wireStory/nations-seek-deeper-fossil-fuel-cuts-annual-climate-138313843",
-   "published": "2026-11-20T13:47:55+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "Workers and students protest across Europe as a strike in Italy disrupts services",
-   "summary": "Workers and students are protesting across Europe on Friday as a nationwide strike disrupted transport and school services in Italy and demonstrators gathered in several countries ",
-   "link": "https://abcnews.com/International/wireStory/italy-strike-draws-workers-students-nationwide-protests-wages-138314660",
-   "published": "2026-11-20T15:43:51+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "Denmark accuses Russian intelligence of plotting to kill American Ukrainian on its soil",
-   "summary": "Authorities thwarted the attempted killing of an American Ukrainian citizen on Danish soil in a plot allegedly orchestrated by Russian intelligence services",
-   "link": "https://abcnews.com/International/wireStory/denmark-accuses-russian-intelligence-plotting-kill-american-ukrainian-138323497",
-   "published": "2026-11-20T17:59:38+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "Bolivian festival seeks to return guinea pig to nations' rituals",
-   "summary": "Guinea pigs, known as cuy in the Andes region, have enjoyed a day in their honor in Bolivia with races, and beauty and weight contests, organized by students promoting the rodent’s",
-   "link": "https://abcnews.com/International/wireStory/bolivian-festival-seeks-return-guinea-pig-nations-rituals-138333056",
-   "published": "2026-11-21T00:17:04+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "Haiti strikes deal with El Salvador to build new prisons after minister visit",
-   "summary": "Haiti announces an agreement with El Salvador for the construction of a new prison",
-   "link": "https://abcnews.com/International/wireStory/haiti-strikes-deal-el-salvador-build-new-prisons-138332512",
-   "published": "2026-11-21T00:17:44+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
-   "summary": "A bruising sell-off in artificial intelligence stocks on Friday pulled the S&P 500 down 3.7%, dragging the index to its worst weekly loss in more than 18 months, and knocking the N",
-   "link": "https://abcnews.com/Business/wireStory/asia-shares-drop-ai-worries-echoing-wall-streets-138309523",
-   "published": "2026-11-21T00:34:14+00:00"
+   "headline": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+   "summary": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
+   "link": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+   "published": "2026-11-21T22:12:41+00:00"
   },
   {
    "outlet": "Associated Press, via ABC News",
@@ -337,487 +80,277 @@
    "published": "2026-11-21T03:53:18+00:00"
   },
   {
-   "outlet": "BBC News",
-   "headline": "More climate money for Africa? Europe says use what's already pledged",
-   "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
-   "link": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-20T05:03:43+00:00"
+   "outlet": "Associated Press, via ABC News",
+   "headline": "Black music producer's lawyer hails landmark ruling as French court finds racist police violence",
+   "summary": "A French court has acknowledged the racist nature of a violent incident involving police officers and sentenced them to prison",
+   "link": "https://abcnews.com/International/wireStory/black-music-producers-lawyer-hails-landmark-ruling-french-138340923",
+   "published": "2026-11-21T12:45:56+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
+   "headline": "Missile attack on Zelenskyy's hometown in central Ukraine kills 2 and wounds scores",
+   "summary": "A Russian strike on Ukrainian President Volodymyr Zelenskyy's hometown, Kryvyi Rih, has killed two people and wounded 60 others",
+   "link": "https://abcnews.com/International/wireStory/ballistic-missile-attack-zelenskyys-hometown-central-ukraine-kills-138340723",
+   "published": "2026-11-21T12:47:10+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
+   "headline": "A 10% drop for the stock market is unnerving, but it's not that unusual",
+   "summary": "The U.S. stock market has dropped 10% from its high set last month amid concerns about the growing hurdles faced by the high-flying artificial intelligence industry",
+   "link": "https://abcnews.com/Business/wireStory/10-drop-stock-market-unnerving-unusual-138341954",
+   "published": "2026-11-21T14:21:31+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
+   "headline": "Athlete swims in Strait of Hormuz to highlight Iran war's impact on wildlife",
+   "summary": "British endurance swimmer Lewis Pugh has swum the Strait of Hormuz to highlight environmental threats during ongoing conflict",
+   "link": "https://abcnews.com/International/wireStory/endurance-athlete-swims-strait-hormuz-highlight-iran-wars-138338972",
+   "published": "2026-11-21T19:22:13+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
+   "headline": "Iran strikes 3 tankers as it shows off missile launchers, and other Mideast news",
+   "summary": "Iran has unveiled a new missile launcher at an underground facility",
+   "link": "https://abcnews.com/Business/wireStory/iran-strikes-3-tankers-shows-off-missile-launchers-138345075",
+   "published": "2026-11-21T20:26:21+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
+   "headline": "11 killed in burst of violence in northern Mexico after capture of cartel leader",
+   "summary": "At least 11 people have been killed in a burst of violence in Mexico’s Sinaloa state",
+   "link": "https://abcnews.com/International/wireStory/mexico-detains-top-cartel-boss-el-chapo-isidro-138341584",
+   "published": "2026-11-21T20:50:13+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
+   "headline": "Taiwan warns Canada’s Carney that deeper ties with China come with risks",
+   "summary": "Canadian Prime Minister Mark Carney has tried to deepen trade ties with China.",
+   "link": "https://abcnews.com/International/wireStory/taiwan-warns-canada-faces-china-risks-carney-cautioned-138346706",
+   "published": "2026-11-21T20:50:14+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
+   "headline": "At least 24 dead in Nigeria when boat going to funeral capsizes",
+   "summary": "Authorities haven't said how many passengers were believed to be on board.",
+   "link": "https://abcnews.com/International/wireStory/24-dead-nigeria-boat-capsizes-carrying-people-funeral-138348287",
+   "published": "2026-11-21T21:54:54+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
+   "headline": "Climate talks in overtime as nations wrestle with response to worsening global warming",
+   "summary": "Negotiators at the United Nations climate talks in Turkey are working an extra day in an attempt to reach a final agreement to address global warming",
+   "link": "https://abcnews.com/Business/wireStory/climate-talks-overtime-nations-wrestle-response-worsening-global-138340261",
+   "published": "2026-11-21T23:06:13+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
+   "headline": "Paolo Bulgari, jeweler who turned family business into global brand, dies at 89",
+   "summary": "His family praised his humanity and entrepreneurial talent.",
+   "link": "https://abcnews.com/Business/wireStory/paolo-bulgari-italian-jeweler-turned-family-business-global-138350529",
+   "published": "2026-11-22T00:01:38+00:00"
   },
   {
    "outlet": "BBC News",
-   "headline": "Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage",
-   "summary": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.",
-   "link": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-20T05:59:56+00:00"
+   "headline": "Man convicted of starting Palisades fire in Los Angeles",
+   "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+   "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-21T04:34:00+00:00"
   },
   {
    "outlet": "BBC News",
-   "headline": "Wildlife conservation cash targets ex-colliery sites",
-   "summary": "The project aims to create and restore habitats for amphibians and lizards at sites in Yorkshire.",
-   "link": "https://www.bbc.co.uk/news/articles/cmx2785nzpw2o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-20T06:21:50+00:00"
+   "headline": "Trafalgar Square Christmas tree felled in Norway",
+   "summary": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two.",
+   "link": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-21T08:10:03+00:00"
   },
   {
    "outlet": "BBC News",
-   "headline": "South Korea catches 111 students with new measures against exam cheating",
-   "summary": "The students were caught with banned smart devices while taking the high-stakes Suneung exam.",
-   "link": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-20T10:16:19+00:00"
+   "headline": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+   "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+   "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-21T08:10:25+00:00"
   },
   {
    "outlet": "BBC News",
-   "headline": "What are heat pumps and how much do they cost?",
-   "summary": "The government wants more homes to have heat pumps to cut fossil fuel use and drive down energy bills.",
-   "link": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-20T10:24:52+00:00"
-  },
-  {
-   "outlet": "BBC News",
-   "headline": "Texas death-row inmate screams as execution takes more than one hour",
-   "summary": "This prolonged execution comes weeks after Christa Pike survived the lethal injection of the same drug.",
-   "link": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-20T12:42:37+00:00"
-  },
-  {
-   "outlet": "BBC News",
-   "headline": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-   "summary": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
-   "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-20T13:01:16+00:00"
-  },
-  {
-   "outlet": "BBC News",
-   "headline": "What we know about the latest Russian missile strikes on Ukraine",
-   "summary": "Russia struck bridges and railway stations in the capital Kyiv in a major attack.",
-   "link": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-20T15:14:01+00:00"
-  },
-  {
-   "outlet": "BBC News",
-   "headline": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
-   "summary": "Carys Douglas, 23, made her stage debut this year in Anton Chekhov's play, The Seagull, in the US.",
-   "link": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-20T15:55:02+00:00"
-  },
-  {
-   "outlet": "BBC News",
-   "headline": "Nearly 600 women killed in South Africa within three months",
-   "summary": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
-   "link": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-20T15:55:16+00:00"
-  },
-  {
-   "outlet": "BBC News",
-   "headline": "Cost of living protests sweep across Europe",
-   "summary": "Thousands marched across European cities on Friday to protest against the cost of living and other issues.",
-   "link": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-20T16:45:34+00:00"
-  },
-  {
-   "outlet": "BBC News",
-   "headline": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-   "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
-   "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-20T17:49:48+00:00"
-  },
-  {
-   "outlet": "BBC News",
-   "headline": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
-   "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
-   "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-20T19:27:49+00:00"
-  },
-  {
-   "outlet": "BBC News",
-   "headline": "Gérard Depardieu and French author investigated over sexual allegations",
-   "summary": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
-   "link": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-20T19:45:20+00:00"
-  },
-  {
-   "outlet": "BBC News",
-   "headline": "Trump threatens ban on US firms building AI data centres overseas",
-   "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-   "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-20T20:54:12+00:00"
-  },
-  {
-   "outlet": "BBC News",
-   "headline": "What the new UK-EU deal could mean for future post-Brexit relations",
-   "summary": "The BBC's political and Europe editors analyse the new agreements between the UK and EU.",
-   "link": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-20T21:43:22+00:00"
+   "headline": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+   "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+   "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-21T09:40:55+00:00"
   },
   {
    "outlet": "BBC News",
    "headline": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
    "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
    "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-20T21:57:07+00:00"
+   "published": "2026-11-21T10:26:36+00:00"
   },
   {
    "outlet": "BBC News",
-   "headline": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
-   "summary": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks.",
-   "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-20T22:14:17+00:00"
+   "headline": "How red squirrels made island their home",
+   "summary": "Conservationists say that, with red squirrels dwindling in the UK, Jersey is an \"important refuge\".",
+   "link": "https://www.bbc.co.uk/news/articles/c61k9mwxmplxo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-21T12:18:55+00:00"
   },
   {
    "outlet": "BBC News",
-   "headline": "French police officers sentenced for beating of music producer Michel Zecler",
-   "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
-   "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-20T22:37:09+00:00"
+   "headline": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+   "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+   "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-21T13:17:38+00:00"
   },
   {
    "outlet": "BBC News",
-   "headline": "Tech stock sell-off drags markets down as Anthropic shares slide",
-   "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-   "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-20T22:42:47+00:00"
+   "headline": "Hormuz swim highlights environmental cost of war",
+   "summary": "Ocean campaigner Lewis Pugh completes Hormuz challenge and warns of lasting environmental damage.",
+   "link": "https://www.bbc.co.uk/news/articles/c95y1gr27xplo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-21T16:12:31+00:00"
   },
   {
    "outlet": "BBC News",
-   "headline": "Birds killed in blaze at one of the largest foie gras farms in the US",
-   "summary": "Hundreds of young birds were also rescued from the fire, which comes as foie gras is under renewed scrutiny over animal welfare concerns.",
-   "link": "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-20T22:57:26+00:00"
+   "headline": "Russia-bound ship attacked in Gulf of Finland",
+   "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+   "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-21T19:20:22+00:00"
   },
   {
    "outlet": "BBC News",
-   "headline": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
-   "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-   "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-20T23:08:57+00:00"
+   "headline": "Lock of former US President George Washington's hair sells for $4,000",
+   "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+   "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-21T22:01:19+00:00"
   },
   {
    "outlet": "BBC News",
-   "headline": "US declassifies more UFO footage filmed in the Middle East",
-   "summary": "The Pentagon has released an eighth tranche of UFO records, which includes three video clips recorded in 2020, 2023 and 2026.",
-   "link": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-20T23:15:20+00:00"
+   "headline": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+   "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+   "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-21T22:19:43+00:00"
   },
   {
    "outlet": "BBC News",
-   "headline": "Dead pets were meant to be cremated - then their bodies appeared on a livestream",
-   "summary": "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for.",
-   "link": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-20T23:20:33+00:00"
+   "headline": "Will COP31 end with a new global climate deal?",
+   "summary": "BBC Climate editor Justin Rowlatt reports from the COP 31 UN climate summit in Antalya, Turkey.",
+   "link": "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-21T22:44:52+00:00"
   },
   {
    "outlet": "BBC News",
-   "headline": "A new Nepal, an old neighbour - Balendra Shah's India test",
-   "summary": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
-   "link": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-20T23:28:17+00:00"
+   "headline": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+   "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+   "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-21T23:31:17+00:00"
   },
   {
    "outlet": "BBC News",
-   "headline": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
-   "summary": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
-   "link": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-21T00:01:39+00:00"
+   "headline": "How a teen gamer and his mother helped rescue a missing girl",
+   "summary": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
+   "link": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-22T00:09:58+00:00"
   },
   {
    "outlet": "BBC News",
-   "headline": "ANC fights to keep control of South Africa's key cities after election setback",
-   "summary": "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level.",
-   "link": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-21T00:34:51+00:00"
+   "headline": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+   "summary": "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?",
+   "link": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-22T00:10:37+00:00"
   },
   {
    "outlet": "BBC News",
-   "headline": "They were fined $811m for conning detained migrants, but the scams didn't stop",
-   "summary": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
-   "link": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-21T01:02:39+00:00"
-  },
-  {
-   "outlet": "BBC News",
-   "headline": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-   "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-   "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-21T02:09:46+00:00"
+   "headline": "FBI reportedly investigating apparent hack of its criminal database",
+   "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+   "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-22T00:10:44+00:00"
   },
   {
    "outlet": "BNO News",
-   "headline": "Magnitude 4.4 earthquake strikes near downtown Los Angeles",
-   "summary": "A magnitude 4.4 earthquake has struck the Los Angeles area, according to the U.S. Geological Survey (USGS). People who felt the quake described a strong but brief jolt. The earthqu",
-   "link": "https://bnonews.com/index.php/2026/11/magnitude-4-4-earthquake-strikes-near-downtown-los-angeles/",
-   "published": "2026-11-20T11:33:28+00:00"
+   "headline": "Virginia reports first measles death since 1978 after child dies",
+   "summary": "A young child who tested positive for measles has died in Virginia, marking the state’s first death associated with the disease in 2026 and its first since 1978, health officials a",
+   "link": "https://bnonews.com/index.php/2026/11/virginia-reports-first-measles-death-since-1978-after-child-dies/",
+   "published": "2026-11-21T14:12:29+00:00"
   },
   {
    "outlet": "BNO News",
-   "headline": "Florida father identified after killing wife and 3 young children before taking own life",
-   "summary": "A Florida man who killed his wife and their 3 young children before taking his own life was identified as 34-year-old Isaac Luechtefeld, a mobile mechanic from Plant City. Deputies",
-   "link": "https://bnonews.com/index.php/2026/11/florida-father-identified-after-killing-wife-and-3-young-children-before-taking-own-life/",
-   "published": "2026-11-20T23:35:23+00:00"
-  },
-  {
-   "outlet": "BNO News",
-   "headline": "Denmark says Russian plot foiled to assassinate US-Ukrainian rapper Kyivstoner",
-   "summary": "Danish authorities say they uncovered a Russian intelligence operation to assassinate a US-Ukrainian rapper ahead of a scheduled performance in the country, leading Copenhagen to e",
-   "link": "https://bnonews.com/index.php/2026/11/denmark-says-russian-plot-foiled-to-assassinate-us-ukrainian-rapper-kyivstoner/",
-   "published": "2026-11-20T23:39:06+00:00"
-  },
-  {
-   "outlet": "BNO News",
-   "headline": "Indian man sentenced to nearly 20 years in prison for plot to assassinate Sikh activist in New York",
-   "summary": "An Indian national has been sentenced to more than 19 years in prison for his role in a plot to assassinate a U.S. citizen and Sikh separatist leader in New York City, the Departme",
-   "link": "https://bnonews.com/index.php/2026/11/indian-man-sentenced-to-nearly-20-years-in-prison-for-plot-to-assassinate-sikh-activist-in-new-york/",
-   "published": "2026-11-20T23:41:15+00:00"
-  },
-  {
-   "outlet": "BNO News",
-   "headline": "Does Texas Bar Recovery Above 50 Percent Fault?",
-   "summary": "A crash on I-45 near The Woodlands often produces two competing stories about who caused it. In Texas, that fight has a hard cutoff. If a factfinder later assigns you more than hal",
-   "link": "https://bnonews.com/index.php/2026/11/does-texas-bar-recovery-above-50-percent-fault/",
-   "published": "2026-11-20T23:42:51+00:00"
-  },
-  {
-   "outlet": "BNO News",
-   "headline": "How Does Weight Change a Houston Possession Charge?",
-   "summary": "A Houston arrest for possessing a Penalty Group 1 or Group 1-B drug is not one offense with one punishment range. Texas grades the charge by the combined weight, including cutting ",
-   "link": "https://bnonews.com/index.php/2026/11/how-does-weight-change-a-houston-possession-charge/",
-   "published": "2026-11-20T23:44:01+00:00"
-  },
-  {
-   "outlet": "BNO News",
-   "headline": "California man convicted of starting deadly Palisades Fire that killed 12 people",
-   "summary": "Jonathan Rinderknecht was found guilty Friday of starting the fire that eventually became the deadly 2025 Palisades Fire in Los Angeles, ending a second federal trial after jurors ",
-   "link": "https://bnonews.com/index.php/2026/11/california-man-convicted-of-starting-deadly-palisades-fire-that-killed-12-people/",
-   "published": "2026-11-20T23:51:14+00:00"
+   "headline": "Illinois investigates apparent cyberattack on Fox River dam",
+   "summary": "Illinois authorities are investigating an attempted cyberattack targeting the Algonquin Dam on the Fox River in McHenry County, about 45 miles northwest of Chicago. The Illinois De",
+   "link": "https://bnonews.com/index.php/2026/11/illinois-investigates-apparent-cyberattack-on-fox-river-dam/",
+   "published": "2026-11-21T14:14:32+00:00"
   },
   {
    "outlet": "CBC",
-   "headline": "A Montrealer died in Istanbul. Authorities blame food poisoning but what we found suggests something else",
-   "summary": "A young Canadian woman travelled to Turkey after graduating from medical school. In her last days there, she fell ill and died within hours. Authorities there blame food poisoning,",
-   "link": "https://www.cbc.ca/news/canada/canadian-death-istanbul-9.7427069?cmp=rss",
-   "published": "2026-11-20T09:00:00+00:00"
+   "headline": "Israeli settler violence at unprecedented levels during Palestinian olive harvest",
+   "summary": "There have been more settler attacks against Palestinians and their property during this year’s olive harvest than in 20 years of record-keeping by the United Nations.",
+   "link": "https://www.cbc.ca/news/world/israeli-settler-violence-at-unprecedented-levels-during-palestinian-olive-harvest-9.7426808?cmp=rss",
+   "published": "2026-11-21T09:00:00+00:00"
   },
   {
    "outlet": "CBC",
-   "headline": "Tenants in Madrid say Toronto-based Brookfield is pricing them out of formerly public housing",
-   "summary": "Canadian investment firms, led by Toronto-based Brookfield, have become central targets in Spain's Nov. 29 election fight over housing affordability. Long-term Madrid tenants livin",
-   "link": "https://www.cbc.ca/news/world/tenants-in-madrid-say-toronto-based-brookfield-is-pricing-them-out-of-formerly-public-housing-9.7424797?cmp=rss",
-   "published": "2026-11-20T09:00:00+00:00"
+   "headline": "Elon Musk looks to break up with MAGA. To what end?",
+   "summary": "Elon Musk has certainly seemed to embrace the Make America Great Again movement. Why does that matter? Because the Tesla and Space X CEO now appears to be distancing himself.",
+   "link": "https://www.cbc.ca/news/world/elon-musk-maga-distance-9.7429741?cmp=rss",
+   "published": "2026-11-21T09:00:00+00:00"
   },
   {
    "outlet": "CBC",
-   "headline": "Migrant caravan makes its way through Mexico to U.S. after Democrats win midterms",
-   "summary": "Emboldened by the results of this month's U.S. midterm elections, giving the Democrats control of Congress in the new year, hundreds of migrants are making their way from southern ",
-   "link": "https://www.cbc.ca/news/world/mexico-u-s-caravan-migrants-9.7428712?cmp=rss",
-   "published": "2026-11-20T09:00:00+00:00"
+   "headline": "Allies are buying Canadian underwater surveillance drones. Canada is 'not there yet'",
+   "summary": "Canada has a three-ocean coastline — 243,000 kilometres — and only 20 underwater drones to help defend it. The navy's commander confirms there isn't a solution ready a year after a",
+   "link": "https://www.cbc.ca/news/politics/canada-surveillance-gap-underwater-drone-technology-9.7425421?cmp=rss",
+   "published": "2026-11-21T09:00:00+00:00"
   },
   {
    "outlet": "CBC",
-   "headline": "What an international court's historic genocide ruling could mean for future cases",
-   "summary": "Legal experts say the International Court of Justice's first finding of genocide committed by a state may also help shape how others like it are decided in the future. Victims and ",
-   "link": "https://www.cbc.ca/news/world/icj-genocide-decision-9.7429041?cmp=rss",
-   "published": "2026-11-20T11:00:00+00:00"
+   "headline": "Russian strike on Zelenskyy's hometown in central Ukraine kills 2, wounds 60",
+   "summary": "A Russian strike on the centre of Ukrainian President Volodymyr Zelenskyy's hometown, Kryvyi Rih, killed two people and wounded 60 others, local officials said Saturday.",
+   "link": "https://www.cbc.ca/news/world/russia-ukraine-zelenskyy-hometown-9.7431164?cmp=rss",
+   "published": "2026-11-21T13:26:36+00:00"
   },
   {
    "outlet": "CBC",
-   "headline": "Relax, it’s probably not a cyber attack",
-   "summary": "A string of major tech outages have had many people suspecting something coordinated and nefarious may be going on. What’s really happening?",
-   "link": "https://www.cbc.ca/radio/frontburner/relax-its-probably-not-a-cyber-attack-9.7429069?cmp=rss",
-   "published": "2026-11-20T11:00:00+00:00"
+   "headline": "Israeli strike kills 3 in vehicle distributing aid in Gaza, witnesses say",
+   "summary": "Israeli forces on Saturday hit a truck in Gaza, which witnesses said was carrying food and papers bearing the ‌logo of the World Central Kitchen charity, but the organization said ",
+   "link": "https://www.cbc.ca/news/world/israel-strike-gaza-aid-vehicle-9.7431224?cmp=rss",
+   "published": "2026-11-21T14:38:36+00:00"
   },
   {
    "outlet": "CBC",
-   "headline": "2 U.S. veterans, who both survived Pearl Harbor attack, die on same day",
-   "summary": "Two former U.S service members who were stationed at Pearl Harbor in Hawaii when Japan attacked in 1941 died on the same day last week, it has been learned.",
-   "link": "https://www.cbc.ca/news/world/pearl-harbor-deaths-galle-johnson-9.7429562?cmp=rss",
-   "published": "2026-11-20T15:24:28+00:00"
+   "headline": "Capture of cartel leader in northern Mexico sets off gunfight that leaves 11 dead",
+   "summary": "A burst of violence in Mexico's Sinaloa state after authorities captured cartel boss Fausto Isidro Meza Flores, known as El Chapo Isidro, left at least 11 people dead, authorities ",
+   "link": "https://www.cbc.ca/news/world/mexico-detains-sinaloa-cartel-boss-el-chapo-isidro-9.7431280?cmp=rss",
+   "published": "2026-11-21T16:32:44+00:00"
   },
   {
    "outlet": "CBC",
-   "headline": "Former White House press secretary Katie Zacharia investigated by California state bar",
-   "summary": "California's state bar is investigating former White House press secretary Katie Zacharia after a complaint she represented herself as a lawyer without having ever passed the bar e",
-   "link": "https://www.cbc.ca/news/world/katie-zacharia-california-state-bar-investigation-9.7430437?cmp=rss",
-   "published": "2026-11-20T21:21:40+00:00"
+   "headline": "FBI investigating apparent hack of its criminal database",
+   "summary": "The FBI is investigating a reported breach of its criminal information database, according to U.S. media reports. This is the second time the FBI has been the target of a cyberatta",
+   "link": "https://www.cbc.ca/player/play/9.7431322?cmp=rss",
+   "published": "2026-11-21T17:36:13+00:00"
   },
   {
    "outlet": "CBC",
-   "headline": "Trump threatens to penalize U.S. tech companies that build AI data centres in other countries",
-   "summary": "U.S. tech companies that build artificial intelligence data centers in other countries will face \"a tremendous tax,\" President Donald Trump said on Friday.",
-   "link": "https://www.cbc.ca/news/world/ai-data-centres-us-tech-companies-trump-9.7430426?cmp=rss",
-   "published": "2026-11-20T21:35:47+00:00"
+   "headline": "UN talks on AI in warfare end with no commitment to binding rules",
+   "summary": "UN-backed talks this week on regulating AI in warfare ended Saturday with nations agreeing to further discussion, but without a consensus on developing firm rules on how to rein in",
+   "link": "https://www.cbc.ca/news/world/ai-warfare-regulations-un-talks-9.7431398?cmp=rss",
+   "published": "2026-11-21T21:05:20+00:00"
+  },
+  {
+   "outlet": "Christian Science Monitor",
+   "headline": "In a comedian’s rape conviction, has British ‘lad culture’ been put to rest?",
+   "summary": "Russell Brand’s rape conviction and the exposé on David Walliams are the culmination of a decadeslong shift against so-called lad culture.",
+   "link": "https://www.csmonitor.com/World/Europe/2026/1121/russell-brand-david-walliams-uk-sexual-abuse-rape-lad-culture?icid=rss",
+   "published": "2026-11-21T10:00:17+00:00"
+  },
+  {
+   "outlet": "Christian Science Monitor",
+   "headline": "Taiwan warns Canada’s Carney that deeper ties with China come with risks",
+   "summary": "Mr. Chen warned on Saturday that Canada risks exposing itself to the very economic coercion Mr. Carney has cautioned against.",
+   "link": "https://www.csmonitor.com/World/2026/1121/Taiwan-warns-Canada-s-Carney-that-deeper-ties-with-China-come-with-risks?icid=rss",
+   "published": "2026-11-21T22:41:27+00:00"
   },
   {
    "outlet": "CNBC",
-   "headline": "Rejecting cheap fabrics, higher prices: Why shoppers are asking for better clothes",
-   "summary": "Retailers are charging higher prices for clothing made with cheaper materials. Shoppers are taking notice and experts say it could shift how they spend.",
-   "link": "https://www.cnbc.com/2026/11/20/clothing-prices-polyester-cotton-quality.html",
-   "published": "2026-11-20T12:00:02+00:00"
-  },
-  {
-   "outlet": "CNBC",
-   "headline": "A24 is having a great year at the box office. That could give HBO Max a streaming edge",
-   "summary": "A24 films \"Backrooms,\" \"The Drama\" and the Elizabeth Holmes documentary, \"You Can See Everything,\" are fueling a banner year at the box office.",
-   "link": "https://www.cnbc.com/2026/11/20/a24-box-office-hbo-max.html",
-   "published": "2026-11-20T12:00:02+00:00"
-  },
-  {
-   "outlet": "CNBC",
-   "headline": "Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough'",
-   "summary": "Former GM CEO Dan Akerson says whoever replaces Mary Barra will have a difficult task because they'll inherit rapid change in technology and the auto industry.",
-   "link": "https://www.cnbc.com/2026/11/20/gm-ceo-succession-mary-barra-dan-akerson.html",
-   "published": "2026-11-20T15:50:27+00:00"
-  },
-  {
-   "outlet": "CNBC",
-   "headline": "Gap names new Athleta CEO, says Old Navy turnaround is seeing signs of progress",
-   "summary": "Gap on Thursday announced Ashley Kechter as the new CEO of Athleta. The retailer also reported mixed fiscal third-quarter earnings.",
-   "link": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
-   "published": "2026-11-20T21:04:48+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "Alibaba defrauded shareholders by concealing ties to suspected spy in Nvidia scandal, lawsuit says",
-   "summary": "NEW YORK, Nov 19 (Reuters) - Alibaba was sued on Thursday in New York by shareholders who accused the Chinese e-commerce giant of defrauding them by concealing its ties to the susp",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-20-alibaba-defrauded-shareholders-by-concealing-ties-to-suspected-spy-in-nvidia-scandal-lawsuit-says/",
-   "published": "2026-11-20T05:05:57+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "Trump ousts cyber director after tech outages spark criticism",
-   "summary": "WASHINGTON, Nov 19 (Reuters) - White House national cyber director Sean Cairncross was \"fired\" from his job, a person close to the White House said on Thursday, days after technolo",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-20-trump-ousts-cyber-director-after-tech-outages-spark-criticism-friday-20th-november-2026-0338/",
-   "published": "2026-11-20T05:07:59+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "Haiti police operation kills 34 suspected gang members in capital",
-   "summary": "PORT-AU-PRINCE, Nov 19 (Reuters) - A police operation in Haiti killed at least 34 alleged gang members on Thursday, the force said after a major operation in the south of Port-au-P",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-20-haiti-police-operation-kills-34-suspected-gang-members-in-capital/",
-   "published": "2026-11-20T05:10:01+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "Motor racing-Nike to become Formula One’s official apparel and uniform partner",
-   "summary": "LAS VEGAS, Nov 19 (Reuters) - Formula One's push to turn its rapid global growth into a broader lifestyle business took another step on Thursday with the announcement of a long-ter",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-20-motor-racing-nike-to-become-formula-ones-official-apparel-and-uniform-partner/",
-   "published": "2026-11-20T05:11:31+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "WHAT WE’RE WATCHING: VisionQuest — Marvel’s latest miniseries has big ideas, but not enough human feeling",
-   "summary": "With Paul Bettany leading an impressive cast, VisionQuest on Disney+ caps the MCU series trilogy initiated by acclaimed WandaVision and Agatha All Along. However, with original sho",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-20-visionquest-marvels-latest-miniseries-has-big-ideas-but-not-enough-human-feeling/",
-   "published": "2026-11-20T05:30:00+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "FRENCH LETTER: Magic mushrooms (maybe all mushrooms are magic?)",
-   "summary": "An autumn adventure through the mushroom-rich woods and markets of the Périgord, celebrating wild fungi, foraging discoveries and culinary surprises. Real magic lies not just in fi",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-20-magic-mushrooms-maybe-all-mushrooms-are-magic/",
-   "published": "2026-11-20T09:00:00+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "OLD ROADS AGAIN: Melba-toast memories and boerie rolls served on Italian blue Spode (Part One)",
-   "summary": "Roads shape-shift into mirages and sliver out of them again as you retrace old routes. Terrain captured in watercolour morphs into newly-laid asphalt. The King’s Ginger is sipped f",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-20-melba-toast-memories-and-boerie-rolls-served-on-italian-blue-spode-part-one/",
-   "published": "2026-11-20T10:00:00+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "BHEKISISA: Saiqa Mullick is bridging the gap Between HIV research and real-world impact",
-   "summary": "Scientists created an HIV prevention jab that almost always works. Getting people to use it is a different sort of science. Meet Saiqa Mullick, one of its leading practitioners.",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-20-saiqa-mullick-is-bridging-the-gap-between-hiv-research-and-real-world-impact/",
-   "published": "2026-11-20T10:15:16+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "Anthropic’s Australian data centre overwhelmingly opposed by residents",
-   "summary": "A data centre planned in regional Australia with Anthropic ANT.O as its anchor tenant is overwhelmingly opposed by residents, a filing for the project showed, setting the scene for",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-20-anthropics-australian-data-centre-overwhelmingly-opposed-by-residents/",
-   "published": "2026-11-20T10:20:47+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "Kenya says two hippos died after eating maize, fishing nets",
-   "summary": "Two Kenyan hippopotamuses died after ingesting fishing nets and maize stalks, the Kenya Wildlife Service (KWS) said, joining a spate of deaths of wildlife after adverse contacts wi",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-20-kenya-says-two-hippos-died-after-eating-maize-fishing-nets/",
-   "published": "2026-11-20T10:20:53+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "Indonesia’s Prabowo, China’s Xi discuss future South China Sea cooperation",
-   "summary": "Indonesia's President Prabowo Subianto met with China's President Xi Jinping on Friday to discuss the economy and investment partnerships as well as developments in cooperation in ",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-20-indonesias-prabowo-chinas-xi-discuss-future-south-china-sea-cooperation/",
-   "published": "2026-11-20T10:20:59+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "Taiwan tells Meta thousands of China-linked accounts seek to influence elections",
-   "summary": "Taiwan has flagged nearly 2,700 social media accounts to Meta that it says appear to be part of a Chinese information warfare campaign seeking to influence elections on the island ",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-20-taiwan-tells-meta-thousands-of-china-linked-accounts-seek-to-influence-elections/",
-   "published": "2026-11-20T10:21:19+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "SOCIAL INVESTMENT: How South Africa’s poorest women struggle to build our country’s preschools",
-   "summary": "The government may have simplified registration and raised subsidies, but still many women running preschools in impoverished areas cannot afford the costly build repairs required ",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-20-how-south-africas-poorest-women-struggle-to-build-our-countrys-preschools/",
-   "published": "2026-11-20T11:52:28+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "STUDENT SUCCESS: UCT medical student wins top award but debt threatens graduation",
-   "summary": "Despite international recognition and UCT’s top student award, medical student Sayuran Pillay remains vulnerable to financial exclusion and may not complete his studies.",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-20-uct-medical-student-wins-top-award-but-debt-threatens-graduation/",
-   "published": "2026-11-20T12:04:07+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "CRIME BY NUMBERS: Cachalia drops apartheid truth bombs as latest stats show ‘60 killed daily in SA’",
-   "summary": "South Africa’s latest official crime statistics show that over three months, 5,590 people were murdered in the country. Referencing gang killings and violence, Acting Police Minist",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-20-cachalia-drops-apartheid-truth-bombs-as-latest-stats-show-60-killed-daily-in-sa/",
-   "published": "2026-11-20T13:12:54+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "CONSTITUTION @ 30: Quiz: How well do you know the Constitution and the court that guards it?",
-   "summary": "Test your knowledge of South Africa’s Constitution and Constitutional Court at 30, from landmark judgments to the art and people behind them.",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-20-quiz-how-well-do-you-know-the-constitution-and-the-court-that-guards-it/",
-   "published": "2026-11-20T13:34:03+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "THEATRE REVIEW: Cape Town Opera infuses ancient tragedy Roméo et Juliette with new life",
-   "summary": "Cape Town Opera’s Roméo et Juliette is a future-facing iteration of French composer Charles Gounod’s 19th-century smash-hit romantic tragedy. As immense as the vision of the show i",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-20-cape-town-opera-infuses-ancient-tragedy-romeo-et-juliette-with-new-life/",
-   "published": "2026-11-20T16:30:00+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "I have a picture for you! 14 November-20 November",
-   "summary": "The First Thing newsletter's Ever-lasting Subscriber Photo Gallery.",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-20-i-have-a-picture-for-you-14-november-20-november/",
-   "published": "2026-11-20T16:49:37+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "NEW TARIFFS : Joburg residents could face R120,000 fine for watering the lawn",
-   "summary": "When the clock strikes midnight on Friday, 20 November, Johannesburg residents might want to revise their budgets, further limit their shower time and find alternative sources to m",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-20-joburg-residents-could-face-r120000-fine-for-watering-the-lawn/",
-   "published": "2026-11-20T17:59:23+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "WATER WINGS: SA rower wins Youth Olympic gold just 15 months after picking up an oar",
-   "summary": "South African 16-year-old Callum Dreyer turned an unfamiliar discipline into Youth Olympic gold, coming first in rowing’s coastal beach sprints solo competition.",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-20-sa-rower-wins-youth-olympic-gold-just-15-months-after-picking-up-an-oar/",
-   "published": "2026-11-20T18:07:14+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "ANTI-FOREIGNER PROTEST: Two arrested in Gqeberha protest as Jacinta Ngobese-Zuma vows to fight police",
-   "summary": "Marchers protesting against illegal immigration in Gqeberha clashed with police, while organisers vowed to keep mobilising against undocumented migrants and alleged criminality.",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-20-two-arrested-in-gqeberha-protest-as-jacinta-ngobese-zuma-vows-to-fight-police/",
-   "published": "2026-11-20T19:05:24+00:00"
+   "headline": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
+   "summary": "Airlines are opting to build giant business-class cabins with ever-more luxurious suites.",
+   "link": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
+   "published": "2026-11-21T12:00:01+00:00"
   },
   {
    "outlet": "Daily Maverick",
@@ -827,144 +360,32 @@
    "published": "2026-11-21T05:30:00+00:00"
   },
   {
-   "outlet": "DW News",
-   "headline": "Have we missed our chance to stop climate change?",
-   "summary": "From record-breaking heat to devastating floods and wildfires, the warning signs are everywhere. Can rising temperatures still be brought under control?",
-   "link": "https://www.dw.com/en/have-we-missed-our-chance-to-stop-climate-change/a-79986199?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-11-20T09:08:00+00:00"
+   "outlet": "Daily Maverick",
+   "headline": "A luxurious Silicon Valley trip cannot fix what the South African government has broken at home",
+   "summary": "President Cyril Ramaphosa, nine Cabinet ministers and a delegation of 300 people travelled to Silicon Valley to court artificial intelligence investment while at home the ANC reele",
+   "link": "https://www.dailymaverick.co.za/opinionista/2026-11-21-a-luxurious-silicon-valley-trip-cannot-fix-what-the-south-african-government-has-broken-at-home/",
+   "published": "2026-11-21T07:00:00+00:00"
   },
   {
-   "outlet": "DW News",
-   "headline": "Lufthansa to cut 1,000 jobs, citing ongoing losses — reports",
-   "summary": "According to a letter obtained by the media, Lufthansa's executive board said the German company is losing €20 million every month. In addition to job cuts, operational cuts are al",
-   "link": "https://www.dw.com/en/lufthansa-to-cut-1-000-jobs-citing-ongoing-losses-reports/a-80000062?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-11-20T09:43:00+00:00"
+   "outlet": "Daily Maverick",
+   "headline": "Neville Alexander’s legacy can’t be honoured by policing who may speak in his name",
+   "summary": "There was controversy when it was announced that former finance minister Trevor Manuel would deliver the annual Neville Alexander Lecture. Manuel’s pro-market policies and race-bas",
+   "link": "https://www.dailymaverick.co.za/opinionista/2026-11-21-neville-alexanders-legacy-cant-be-honoured-by-policing-who-may-speak-in-his-name/",
+   "published": "2026-11-21T08:00:00+00:00"
   },
   {
-   "outlet": "DW News",
-   "headline": "FIFA presidential election 2027: Infantino facing Diallo and Tashima — could an alliance change everything?",
-   "summary": "Two challengers to Gianni Infantino have registered for next year's FIFA presidential election. What do Philippe Diallo and Kozo Tashima stand for – and do they stand a chance agai",
-   "link": "https://www.dw.com/en/fifa-presidential-election-2027-infantino-facing-diallo-and-tashima-could-an-alliance-change-everything/a-80002882?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-11-20T12:58:00+00:00"
+   "outlet": "Daily Maverick",
+   "headline": "THE CONVERSATION: Using honeytraps for advantage is a strategy that goes back centuries",
+   "summary": "Ancient Chinese texts tell of women being sent to rulers to make them lose sight of threats. This makes the case of Nvidia CEO and the ‘spy’ plausible at least.",
+   "link": "https://www.dailymaverick.co.za/article/2026-11-21-using-honeytraps-for-advantage-is-a-strategy-that-goes-back-centuries/",
+   "published": "2026-11-21T09:12:58+00:00"
   },
   {
-   "outlet": "DW News",
-   "headline": "Myanmar genocide ruling: Rohingya say struggle for justice not over",
-   "summary": "The ICJ has held Myanmar responsible for genocide against the Rohingya and ordered restitution and reparations. Community members have hailed the ruling, but caution that achieving",
-   "link": "https://www.dw.com/en/myanmar-genocide-ruling-rohingya-say-struggle-for-justice-not-over/a-80003365?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-11-20T13:38:00+00:00"
-  },
-  {
-   "outlet": "DW News",
-   "headline": "Africa at COP31: Will climate cash finally flow?",
-   "summary": "As the curtains draw to a close on COP31 in Antalya, one question looms large for African countries: Will climate promises finally translate into the funding African communities ne",
-   "link": "https://www.dw.com/en/africa-at-cop31-will-climate-cash-finally-flow/a-80002269?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-11-20T14:18:00+00:00"
-  },
-  {
-   "outlet": "DW News",
-   "headline": "Turkey takes control of opposition broadcaster Sozcu TV",
-   "summary": "In the latest in a series of raids and arrests, another major pro-opposition Turkish broadcaster has been brought under state control. This is the third in a year.",
-   "link": "https://www.dw.com/en/turkey-takes-control-of-opposition-broadcaster-sozcu-tv/a-80001984?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-11-20T14:21:00+00:00"
-  },
-  {
-   "outlet": "DW News",
-   "headline": "EU and UK strike 'landmark deal' to strengthen ties after Brexit",
-   "summary": "The European Union and the United Kingdom have agreed on \"landmark\" deals on youth mobility and trade. Leaders on both sides praised the agreement as they seek to rebuild ties.",
-   "link": "https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/a-80001076?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-11-20T14:30:00+00:00"
-  },
-  {
-   "outlet": "DW News",
-   "headline": "Germany face belgium in Nations League quarterfinals — Klopp plays down favorites tag",
-   "summary": "Germany coach Jürgen Klopp is looking to \"carry positive momentum forward\" as his team draw neighboring Belgium in the quarterfinals of the UEFA Nations League.",
-   "link": "https://www.dw.com/en/germany-face-belgium-in-nations-league-quarterfinals-klopp-plays-down-favorites-tag/a-80004794?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-11-20T14:53:00+00:00"
-  },
-  {
-   "outlet": "DW News",
-   "headline": "Is Pakistan backing anti-Taliban groups in Afghanistan?",
-   "summary": "The Taliban rulers in Afghanistan have accused Pakistan of aiding and sheltering armed resistance groups. The allegations come amid heightened tensions and are likely to deepen the",
-   "link": "https://www.dw.com/en/is-pakistan-backing-anti-taliban-groups-in-afghanistan/a-80004814?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-11-20T15:02:00+00:00"
-  },
-  {
-   "outlet": "DW News",
-   "headline": "Measles in America: Here's a constructive approach to beating the disease, based on Brazil's experience",
-   "summary": "The US is now officially a measles contagion zone. By mid-2026, there were more infections than in all of the previous year. But the country could beat measles again, just like Bra",
-   "link": "https://www.dw.com/en/measles-in-america-here-s-a-constructive-approach-to-beating-the-disease-based-on-brazil-s-experience/a-79990626?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-11-20T15:14:00+00:00"
-  },
-  {
-   "outlet": "DW News",
-   "headline": "Can German auto manufacturing recover after Mercedes and VW cuts?",
-   "summary": "German automakers are pulling back on investments at home, sparking fresh anxiety about the auto sector's future. Some industry watchers think there is still a narrow window to ste",
-   "link": "https://www.dw.com/en/can-german-auto-manufacturing-recover-after-mercedes-and-vw-cuts/a-79946928?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-11-20T15:36:00+00:00"
-  },
-  {
-   "outlet": "DW News",
-   "headline": "Better educated than ever — yet Germany's Gen Z is being shut out of its own future",
-   "summary": "Never before have young people faced so many challenges. Young Germans are asking: Will I be better off than my parents later in life?",
-   "link": "https://www.dw.com/en/better-educated-than-ever-yet-germany-s-gen-z-is-being-shut-out-of-its-own-future/a-80005823?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-11-20T17:09:00+00:00"
-  },
-  {
-   "outlet": "DW News",
-   "headline": "Ukraine updates: Russian attack 'one of largest,' Zelenskyy says",
-   "summary": "Ukrainian President Zelenskyy said Russia launched one of the largest aerial attacks since the invasion began. Poland accused Moscow of a \"provocation,\" saying two missiles landed ",
-   "link": "https://www.dw.com/en/ukraine-updates-russian-attack-one-of-largest-zelenskyy-says/live-79999822?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-11-20T17:12:00+00:00"
-  },
-  {
-   "outlet": "DW News",
-   "headline": "Germany news: Kids take to streets over school, climate and costs",
-   "summary": "Thousands of young people turned out across Germany demanding improvements in education, climate and affordability. Protesters say they aren't being taken seriously and will keep p",
-   "link": "https://www.dw.com/en/germany-news-kids-take-to-streets-over-school-climate-and-costs/live-79998529?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-11-20T17:43:00+00:00"
-  },
-  {
-   "outlet": "DW News",
-   "headline": "Has the 'Parthenon puzzle' been solved? The long quest to reassemble lost eastern pediment",
-   "summary": "The depiction of the birth of the goddess Athena above the Parthenon's entrance is considered a masterpiece of ancient art. Now, a German research team has pieced together all the ",
-   "link": "https://www.dw.com/en/has-the-parthenon-puzzle-been-solved-the-long-quest-to-reassemble-lost-eastern-pediment/a-79982098?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-11-20T20:03:00+00:00"
-  },
-  {
-   "outlet": "DW News",
-   "headline": "COP31: UN Climate summit enters final phase with no deal in sight",
-   "summary": "After nearly two weeks of negotiations, countries remain divided on how to fight global warming. A new draft declaration doesn't mention the phaseout of fossil fuels, the main driv",
-   "link": "https://www.dw.com/en/cop31-un-climate-summit-enters-final-phase-with-no-deal-in-sight/live-79999516?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-11-20T20:31:00+00:00"
-  },
-  {
-   "outlet": "DW News",
-   "headline": "At COP31, conflict over climate science slows action on global warming",
-   "summary": "Attacks on climate science and disinformation risk delaying key measures at COP31 in Antalya. As the UN climate talks draw to a close, how will that affect efforts to come to an ag",
-   "link": "https://www.dw.com/en/at-cop31-conflict-over-climate-science-slows-action-on-global-warming/a-80004894?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-11-20T20:34:00+00:00"
-  },
-  {
-   "outlet": "DW News",
-   "headline": "Repression against Iranian lawyers increases",
-   "summary": "At least 135 lawyers in Iran have been subjected to repressive measures over the past year. UN experts warn that this seriously jeopardizes the right of those accused to trial in a",
-   "link": "https://www.dw.com/en/repression-against-iranian-lawyers-increases/a-80006742?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-11-20T20:36:00+00:00"
-  },
-  {
-   "outlet": "DW News",
-   "headline": "Russian ornithologist jailed over small donations to Navalny's foundation",
-   "summary": "Sofia Rosenfeld has devoted her life to studying Arctic birds. A Russian court sentenced her to 3.5 years in a penal colony over donations to Navalny's foundation. Friends and fami",
-   "link": "https://www.dw.com/en/russian-ornithologist-jailed-over-small-donations-to-navalny-s-foundation/a-80005505?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-11-20T20:45:00+00:00"
-  },
-  {
-   "outlet": "DW News",
-   "headline": "US judge approves Bayer's $7.25 billion cancer settlement",
-   "summary": "Bayer could end years of costly lawsuits in the US over claims that its Roundup weedkiller causes cancer. Tens of thousands of people could now receive compensation, although some ",
-   "link": "https://www.dw.com/en/us-judge-approves-bayer-s-7-25-billion-cancer-settlement/a-80007474?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-11-21T00:03:00+00:00"
+   "outlet": "Daily Maverick",
+   "headline": "BEATEN AGAIN: Ireland inflict fourth defeat of the season on one-dimensional Springboks",
+   "summary": "Despite defeat, the Boks are into the Nations Championship final by virtue of the one log point they earned for losing by fewer than seven points. Ireland beat the Springboks 20-17",
+   "link": "https://www.dailymaverick.co.za/article/2026-11-21-ireland-inflict-fourth-defeat-of-the-season-on-one-dimensional-springboks/",
+   "published": "2026-11-21T21:57:21+00:00"
   },
   {
    "outlet": "DW News",
@@ -975,10 +396,633 @@
   },
   {
    "outlet": "DW News",
-   "headline": "Brazil ex-president Jair Bolsonaro taken to hospital over abdominal pain",
+   "headline": "Brazil ex-President Jair Bolsonaro taken to hospital over abdominal pain",
    "summary": "Jair Bolsonaro has been hospitalized in Brasilia with intestinal obstruction. The former far-right Brazilian leader is receiving pain medications, his son Carlos said.",
    "link": "https://www.dw.com/en/brazil-ex-president-jair-bolsonaro-taken-to-hospital-over-abdominal-pain/a-80007648?maca=en-rss-en-all-1573-rdf",
    "published": "2026-11-21T03:16:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "Three El Salvador soldiers die in explosives accident in Haiti",
+   "summary": "The soldiers were part of a Salvadoran military contingent deployed to the violence-ridden Caribbean nation last month to rescue four missing airmen. The deployment has widened int",
+   "link": "https://www.dw.com/en/three-el-salvador-soldiers-die-in-explosives-accident-in-haiti/a-80008005?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-21T06:58:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "Man convicted of arson over deadly 2025 Palisades fire in Los Angeles",
+   "summary": "A 30-year-old man has been convicted of causing one of the most destructive wildfires in the history of Los Angeles. The verdict came after the case was retried.",
+   "link": "https://www.dw.com/en/man-convicted-of-arson-over-deadly-2025-palisades-fire-in-los-angeles/a-80007933?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-21T07:10:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "US judge jails Indian national in foiled Sikh separatist murder plot",
+   "summary": "New Delhi has denied any role in the plot to kill Sikh separatist Gurpatwant Singh Pannun in New York. Meanwhile, over 200 people have been hospitalized after consuming spurious li",
+   "link": "https://www.dw.com/en/us-judge-jails-indian-national-in-foiled-sikh-separatist-murder-plot/live-80008104?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-21T07:53:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "'Killer robots' talks at UN end with no legally binding ban",
+   "summary": "Countries have agreed to extend discussions over controls on lethal autonomous weapons systems for two years.",
+   "link": "https://www.dw.com/en/killer-robots-talks-at-un-end-with-no-legally-binding-ban/a-80008584?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-21T09:18:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "Germany news: Support for Ukraine military aid waning, survey shows",
+   "summary": "Nearly half of Germany's population wants to reduce military aid to Ukraine, a survey has found. Meanwhile, German consumers are set to pay more in energy bills next year due in pa",
+   "link": "https://www.dw.com/en/germany-news-support-for-ukraine-military-aid-waning-survey-shows/live-80008430?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-21T10:10:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "Anthropic researcher uses AI to solve math's greatest riddle",
+   "summary": "The proposed breakthrough could reshape mathematical research, but still needs independent verification. It's the latest in a string of cases where AI has outpaced humans in solvin",
+   "link": "https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-21T10:29:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "Germany's religious freedom report: Authoritarian regimes, holy wars, and spies abroad",
+   "summary": "Harassment, persecution, surveillance: Across much of the world, people of faith are facing growing pressure. A new German government report is unusually direct in criticizing Chin",
+   "link": "https://www.dw.com/en/germany-s-religious-freedom-report-authoritarian-regimes-holy-wars-and-spies-abroad/a-79995216?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-21T12:31:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "Russia strikes Zelenskyy's hometown, killing 2",
+   "summary": "The attacks follow Russian President Vladimir Putin's vow of a \"painful\" response to Ukraine's attacks this week on the Kerch Bridge, linking Russian-occupied Crimea.",
+   "link": "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-21T14:44:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "New EU budget proposal aims at tax gobal tech giants",
+   "summary": "European Council President Antonio Costa has proposed a smaller EU budget for 2028-2034, including a 3% tax on major digital firms to ease member states' contributions. France has ",
+   "link": "https://www.dw.com/en/new-eu-budget-proposal-aims-at-tax-gobal-tech-giants/a-80009255?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-21T14:58:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "EU and Indonesia sign trade deal",
+   "summary": "A deal covering 730 million people promises lower tariffs and new investment opportunities as the European Union seeks to diversify trade ties amid growing global economic tensions",
+   "link": "https://www.dw.com/en/eu-and-indonesia-sign-trade-deal/a-80010099?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-21T15:21:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "Russian helicopter suspected of violating Finnish airspace",
+   "summary": "Finland's Defense Ministry thinks the incursion is linked to a drone strike earlier Saturday on a Russian cargo ship, which is on a US sanctions list.",
+   "link": "https://www.dw.com/en/russian-helicopter-suspected-of-violating-finnish-airspace/a-80010133?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-21T17:08:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "Mexican special forces arrest drug kingpin 'Chapo Isidro'",
+   "summary": "The alleged leader of the Beltran Leyva gang and one of the FBI's most wanted fugitives, known as 'Chapo Isidro,' was captured by the Mexican military following a raid and a shooto",
+   "link": "https://www.dw.com/en/mexican-special-forces-arrest-drug-kingpin-chapo-isidro/a-80010745?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-21T18:30:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "Getting rid of antibiotic resistance: Challenges and possible solutions",
+   "summary": "If antibiotics stop working, even the smallest infection can be fatal. The WHO expects millions of deaths over the next 25 years. Can the \"One Health\" approach help combat antibiot",
+   "link": "https://www.dw.com/en/getting-rid-of-antibiotic-resistance-challenges-and-possible-solutions/a-80010693?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-21T18:39:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "Nigeria: At least 24 dead after boat capsizes",
+   "summary": "The boat carrying mourners for a funeral overturned in southern Nigeria. It was the latest in a series of deadly boat accidents in the country.",
+   "link": "https://www.dw.com/en/nigeria-at-least-24-dead-after-boat-capsizes/a-80011248?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-21T23:52:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "COP31: UN Climate summit runs into second day of overtime",
+   "summary": "After weeks of negotiations, countries remain divided on how to fight global warming. Nations are now eyeing a third and final draft text. DW has more.",
+   "link": "https://www.dw.com/en/cop31-un-climate-summit-runs-into-second-day-of-overtime/live-79999516?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-22T01:12:00+00:00"
+  },
+  {
+   "outlet": "Fortune",
+   "headline": "Data centers full of U.S. chips are serving Chinese AI models–undermining Trump’s tech ambitions",
+   "summary": "The same infrastructure that secures America’s advantage in chips and cloud services gives Chinese AI models a platform to spread.",
+   "link": "https://fortune.com/2026/11/21/data-centers-us-chips-serve-chinese-models/",
+   "published": "2026-11-21T10:00:00+00:00"
+  },
+  {
+   "outlet": "Fortune",
+   "headline": "Tech investor Bill Gurley says workers who went through the ‘college conveyor belt’ and chased safe jobs are at high risk of AI automation",
+   "summary": "Prolific tech investor Bill Gurley says college has turned into a “pressure cooker.” The workers most likely to weather AI disruption are not just tech-savvy—but passionate.",
+   "link": "https://fortune.com/article/tech-investor-bill-gurley-says-college-grads-at-high-risk-of-ai-automation/",
+   "published": "2026-11-21T14:24:02+00:00"
+  },
+  {
+   "outlet": "Fortune",
+   "headline": "Goodwill CEO says hiring managers are going behind their bosses’ backs and looking for workers with college degrees, not skills",
+   "summary": "Millions of Gen Z workers without degrees are being shut out of jobs, as Goodwill’s CEO warns hiring managers are quietly ignoring skills-first hiring.",
+   "link": "https://fortune.com/article/goodwill-ceo-hiring-managers-going-behind-bosses-backs-looking-for-workers-with-college-degrees/",
+   "published": "2026-11-21T14:26:21+00:00"
+  },
+  {
+   "outlet": "Fortune",
+   "headline": "Goldman Sachs admits the ‘AI unwind’ has spiraled into something more dangerous — and it’s watching for 3 signs of bottom",
+   "summary": "Hedge funds have trimmed AI bets, but Goldman says mutual funds, ETFs and futures traders remain heavily invested, even with indexes in a correction.",
+   "link": "https://fortune.com/2026/11/21/goldman-sachs-sp-500-correction-ai-unwind-bottom-three-conditions-hedge-funds-positioning/",
+   "published": "2026-11-21T14:47:44+00:00"
+  },
+  {
+   "outlet": "Fortune",
+   "headline": "Only 18% of Gen Z workers want to build AI skills. A Wharton professor says using AI is riskier for them",
+   "summary": "A Seramount survey of more than 1,800 U.S. white-collar workers finds Gen Z far less eager than older colleagues to build AI skills. Research suggests their fear of an AI stigma is",
+   "link": "https://fortune.com/2026/11/21/gen-z-workers-ai-skills-seramount-survey/",
+   "published": "2026-11-21T15:11:17+00:00"
+  },
+  {
+   "outlet": "Fortune",
+   "headline": "‘An extraordinary and extreme backstop’: Earthjustice warns Army off bypassing paused Iowa permit",
+   "summary": "The 8th Circuit paused the EPA permit for the Army's Monday detonation of nearly five tons of lead azide. The Justice Department says EPA rules may let the Army act anyway.",
+   "link": "https://fortune.com/2026/11/21/court-pauses-army-iowa-lead-azide-detonation-permit/",
+   "published": "2026-11-21T15:16:49+00:00"
+  },
+  {
+   "outlet": "Fortune",
+   "headline": "The $120,500 cost of being ‘Sister’: SNL sketch puts a face on America’s caregiving crisis",
+   "summary": "University of Michigan researchers say women can expect to care for older relatives for seven years, up from six in 2011. Men's total held at four.",
+   "link": "https://fortune.com/2026/11/21/snl-sister-sketch-caregiving-gender-gap-women/",
+   "published": "2026-11-21T15:27:27+00:00"
+  },
+  {
+   "outlet": "Fortune",
+   "headline": "‘This seems like an extreme privacy violation.’ Surprising messages from the Muse AI agent are unnerving Meta’s own employees, report says",
+   "summary": "In one example, a Meta staffer reported that Muse sent her a reminder on her personal phone to respond to a message from her sister on the encrypted messaging service Signal.",
+   "link": "https://fortune.com/2026/11/21/meta-employees-muse-ai-agent-extreme-privacy-violation-encrypted-signal-messages/",
+   "published": "2026-11-21T17:28:35+00:00"
+  },
+  {
+   "outlet": "Fortune",
+   "headline": "Even FEMA officials are worried about the string of outages and withdrew extra cash — ‘This is scary, and there is no leadership’",
+   "summary": "\"There is nothing on this scale that has happened before in this many sectors this close together.\"",
+   "link": "https://fortune.com/2026/11/21/fema-network-outages-extra-cash-emergency-supplies-cyberattacks/",
+   "published": "2026-11-21T18:50:35+00:00"
+  },
+  {
+   "outlet": "Fortune",
+   "headline": "The AI bust is a growing threat to China’s economy and a ‘moment of real danger’ for President Xi Jinping, analyst warns",
+   "summary": "\"To keep AI funding flowing, Xi needs a buoyant stock market.\"",
+   "link": "https://fortune.com/2026/11/21/ai-bust-china-economy-xi-jinping-property-crash-stock-market/",
+   "published": "2026-11-21T21:45:12+00:00"
+  },
+  {
+   "outlet": "Good Good Good",
+   "headline": "PFAS levels decline in waterways — and more good news from this week: November 21, 2026",
+   "summary": "Your weekly roundup of the best good news worth celebrating...",
+   "link": "https://www.goodgoodgood.co/articles/good-news-this-week-november-21-2026",
+   "published": "2026-11-21T13:00:00+00:00"
+  },
+  {
+   "outlet": "Good Good Good",
+   "headline": "‘GTA 6’ is introducing a new kind of mission: being a good partner",
+   "summary": "A video game that has often been the center of controversy over its content is challenging the franchise’s hypermasculine traditions around gender and relationships.",
+   "link": "https://www.goodgoodgood.co/articles/gta-be-a-good-partner",
+   "published": "2026-11-21T20:54:00+00:00"
+  },
+  {
+   "outlet": "Good Good Good",
+   "headline": "House Ethics changes how it handles sexual misconduct allegations, with more transparency and speed",
+   "summary": "The changes include codifying the committee’s policy of publicly disclosing when members have been found to have engaged in sexual harassment or sexual misconduct.",
+   "link": "https://www.goodgoodgood.co/articles/house-ethics-sexual-misconduct",
+   "published": "2026-11-21T20:59:00+00:00"
+  },
+  {
+   "outlet": "Good News Network",
+   "headline": "Good News in History, November 21",
+   "summary": "This daily column features all the good news, anniversaries and birthdays from this day in history—November 21. The post Good News in History, November 21 appeared first on Good Ne",
+   "link": "https://www.goodnewsnetwork.org/events061121/",
+   "published": "2026-11-21T08:00:00+00:00"
+  },
+  {
+   "outlet": "Good News Network",
+   "headline": "Your Positive Weekly Horoscope: ‘Free Will Astrology’ by Rob Brezsny",
+   "summary": "Our partner Rob Brezsny, whose latest book is Enlightenment for Rebels: Celebrating Our Wild and Sacred Earthly Selves, provides his weekly wisdom to enlighten our thinking and mot",
+   "link": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-11-21-2026/",
+   "published": "2026-11-21T11:00:55+00:00"
+  },
+  {
+   "outlet": "Good News Network",
+   "headline": "First Human Trial to Slash Bad Cholesterol by 50% With One Injection of CRISPR Gene-Editing Therapy",
+   "summary": "A one-time infusion of CRISPR gene editing therapy slashed dangerous cholesterol by 52%, with the patients still experiencing the benefit 12 months after initial treatment, and wit",
+   "link": "https://www.goodnewsnetwork.org/first-human-trial-to-slash-bad-cholesterol-by-50pt-with-one-crispr-injection/",
+   "published": "2026-11-21T14:24:30+00:00"
+  },
+  {
+   "outlet": "Good News Network",
+   "headline": "Pub Owner Spends Thousands on Stunning Holiday Display–All to Cheer Up Depressed Locals",
+   "summary": "A pub owner took advantage of the Christmas season, spending thousands on a festive light display to cheer up his town’s locals. Christian Ogley says this year has been particularl",
+   "link": "https://www.goodnewsnetwork.org/pub-owner-spends-thousands-on-stunning-holiday-display-all-to-cheer-up-depressed-locals/",
+   "published": "2026-11-21T15:53:53+00:00"
+  },
+  {
+   "outlet": "Good News Network",
+   "headline": "Breath of a Whale Captured by Drone Allows Full Genome Sequencing Without Intrusion",
+   "summary": "The exhale from a whale’s blowhole has been captured by drones, and used to complete the genome sequencing of one of the ocean giants for the first time. Researchers from the Unive",
+   "link": "https://www.goodnewsnetwork.org/breath-of-whale-captured-via-drone-to-complete-genome-sequence/",
+   "published": "2026-11-21T17:30:30+00:00"
+  },
+  {
+   "outlet": "Inside Climate News",
+   "headline": "What Democrats Can Learn About Environmental Voters From the Midterms",
+   "summary": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by producer Aynsley O’Neill with Nathaniel Stinnett of the Environmental Vo",
+   "link": "https://insideclimatenews.org/news/21112026/midterms-environmental-voters/",
+   "published": "2026-11-21T09:55:00+00:00"
+  },
+  {
+   "outlet": "Inside Climate News",
+   "headline": "He Sacrificed Everything to Stop Industrial Water Pollution. Authorities in Texas Don’t Care.",
+   "summary": "The Resistance, Part 3: A key ally to environmentalist Diane Wilson opposes a move by Texas regulators to issue Formosa Plastics Corp. a new permit without requiring the petrochemi",
+   "link": "https://insideclimatenews.org/news/21112026/texas-wont-enforce-plastic-discharge-ban/",
+   "published": "2026-11-21T10:00:00+00:00"
+  },
+  {
+   "outlet": "KFF Health News",
+   "headline": "Reporters Talk Measles, Pediatric Care, and Democrats’ Post-Election Healthcare Agenda",
+   "summary": "KFF Health News journalists made the rounds on national or local media recently to discuss topical stories. Here’s a collection of their appearances.",
+   "link": "https://kffhealthnews.org/on-air/november-21-2026-measles-pediatric-care-democrats-healthcare-agenda/",
+   "published": "2026-11-21T10:00:00+00:00"
+  },
+  {
+   "outlet": "National Review",
+   "headline": "Giving Howard Lutnick His Due: China Is a Hard Problem",
+   "summary": "Why was Xi blocking the exported chips the Trump administration was willing to give him?",
+   "link": "https://www.nationalreview.com/article/giving-howard-lutnick-his-due-china-is-a-hard-problem",
+   "published": "2026-11-21T11:00:00+00:00"
+  },
+  {
+   "outlet": "National Review",
+   "headline": "A Swing Through Montana’s Art Treasures",
+   "summary": "Life on the range, Native spirits, Vienna, and Little Big Horn are pretty good raw material.",
+   "link": "https://www.nationalreview.com/article/a-swing-through-montana-s-art-treasures",
+   "published": "2026-11-21T11:00:00+00:00"
+  },
+  {
+   "outlet": "National Review",
+   "headline": "Deregulation Is Bringing Us Our First Nuclear Reactors of the Century",
+   "summary": "The Trump administration’s approach to cutting red tape is starting to pay off.",
+   "link": "https://www.nationalreview.com/article/deregulation-is-bringing-us-our-first-nuclear-reactors-of-the-century",
+   "published": "2026-11-21T11:00:00+00:00"
+  },
+  {
+   "outlet": "National Review",
+   "headline": "JD Vance Should Not Be Finger-Pointing in the Midst of War",
+   "summary": "The vice president ought to recognize the important role that diplomacy plays in a U.S. commitment to victory.",
+   "link": "https://www.nationalreview.com/article/jd-vance-should-not-be-finger-pointing-in-the-midst-of-war",
+   "published": "2026-11-21T11:00:00+00:00"
+  },
+  {
+   "outlet": "NPR",
+   "headline": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
+   "summary": "Efforts to establish rules for AI-powered killer robots and drones have run aground. U.N.-backed talks in Geneva ended Saturday with an agreement to extend discussions for two more",
+   "link": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
+   "published": "2026-11-21T08:08:01+00:00"
+  },
+  {
+   "outlet": "NPR",
+   "headline": "The AI boom had a really bad week — and it's raising loud alarms",
+   "summary": "AI stocks — and the broader markets — got pummeled this week, raising major concerns about the financial system and the wider economy. Here's what to know.",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
+   "published": "2026-11-21T10:00:00+00:00"
+  },
+  {
+   "outlet": "NPR",
+   "headline": "Anthropic says it will put humanity first. Will its IPO change that?",
+   "summary": "Critics say now that the AI giant is a public company, its commitment to put safety ahead of commercial success will be tested.",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
+   "published": "2026-11-21T10:00:00+00:00"
+  },
+  {
+   "outlet": "NPR",
+   "headline": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
+   "summary": "A mathematician who works for artificial intelligence giant Anthropic claims he has solved a Holy Grail of math problems with the help of the company's AI tool Claude. It marks the",
+   "link": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
+   "published": "2026-11-21T12:30:16+00:00"
+  },
+  {
+   "outlet": "NPR",
+   "headline": "Scientists sequenced a whale's entire genome using drones and whale snot",
+   "summary": "Scientists were able to sequence the entire genome of a whale using samples of its snot. They used sharp flying skills and commercial drones affixed with petri dishes to collect th",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6044816/scientists-sequenced-a-whales-entire-genome-using-drones-and-whale-snot",
+   "published": "2026-11-21T12:40:15+00:00"
+  },
+  {
+   "outlet": "NPR",
+   "headline": "Military analyst Phillips O'Brien on Ukraine and Europe being left out of Trump's talks",
+   "summary": "As President Trump met with Russian and Chinese counterparts, Ukraine and its European allies were left out of the talks. NPR's Scott Simon talks with Phillips O'Brien of St. Andre",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6047379/military-analyst-phillips-obrien-on-ukraine-and-europe-being-left-out-of-trumps-talks",
+   "published": "2026-11-21T12:40:18+00:00"
+  },
+  {
+   "outlet": "NPR",
+   "headline": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+   "summary": "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy.",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+   "published": "2026-11-21T14:18:17+00:00"
+  },
+  {
+   "outlet": "NPR",
+   "headline": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
+   "summary": "Fausto Isidro Meza Flores, better known as \"El Chapo Isidro,\" was one of the FBI's most wanted fugitives. His arrest in northwest Mexico on Saturday has sparked violence in the reg",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
+   "published": "2026-11-21T18:08:55+00:00"
+  },
+  {
+   "outlet": "NPR",
+   "headline": "A grieving family in Lebanon returns to their village",
+   "summary": "In Southern Lebanon, the Army is taking over after Israeli forces withdraw. One grieving family returns to their village to find almost everything in their house destroyed.",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6012085/a-grieving-family-in-lebanon-returns-to-their-village",
+   "published": "2026-11-21T22:01:32+00:00"
+  },
+  {
+   "outlet": "NPR",
+   "headline": "Highlights and challenges from covering an historic month in South America",
+   "summary": "NPR's South America Correspondent discusses her work covering an historic election upset and a papal visit.",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
+   "published": "2026-11-21T22:01:35+00:00"
+  },
+  {
+   "outlet": "NPR",
+   "headline": "What did Xi Jinping get from the bear hug with Trump at the Shenzhen summit?",
+   "summary": "NPR's Rob Schmitz speaks with Robert Daly, director of the program on US China relations at University of Maryland's School of Public Policy, about President Trump's trip to China ",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6048741/what-did-xi-jinping-get-from-the-bear-hug-with-trump-at-the-shenzhen-summit",
+   "published": "2026-11-21T22:01:42+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "Bessent says no further restrictions are needed for Nvidia chip exports to China",
+   "summary": "\"The proper chip restrictions are in place,\" Bessent said in an interview with CNBC after returning from a trip to Asia with President Donald Trump. \"And the remote access has been",
+   "link": "https://www.pbs.org/newshour/politics/bessent-says-no-further-restrictions-are-needed-for-nvidia-chip-exports-to-china",
+   "published": "2026-11-21T16:28:20+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "Texas says an execution went as planned. A witness says screams showed 'tremendous distress'",
+   "summary": "Executions across the U.S. have garnered more attention since Christa Pike survived two doses of pentobarbital in Tennessee in September. The drug didn't enter her bloodstream corr",
+   "link": "https://www.pbs.org/newshour/nation/texas-says-an-execution-went-as-planned-a-witness-says-screams-showed-tremendous-distress",
+   "published": "2026-11-21T16:46:44+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "Climate talks in overtime as nations wrestle with response to worsening global warming",
+   "summary": "The added day of talks came as the two-week annual summit, or COP31, drew strong condemnation for failing to mention fossil fuels in a draft of the final agreement.",
+   "link": "https://www.pbs.org/newshour/world/climate-talks-in-overtime-as-nations-wrestle-with-response-to-worsening-global-warming",
+   "published": "2026-11-21T17:03:39+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "Trump auditions potential successors as Rubio and Vance join him for White House briefing",
+   "summary": "It was the latest episode in the public audition that the president and former reality television star has appeared to delight in arranging for his potential successors as he nears",
+   "link": "https://www.pbs.org/newshour/politics/trump-auditions-potential-successors-as-rubio-and-vance-join-him-for-white-house-briefing",
+   "published": "2026-11-21T17:32:04+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off a burst of violence in Sinaloa",
+   "summary": "Fausto Isidro Meza Flores was one of the FBI's 10 most wanted fugitives. He climbed the cartel ranks to lead the Beltrán Leyva cartel and later became the leader of his own group, ",
+   "link": "https://www.pbs.org/newshour/world/mexico-detains-top-cartel-boss-el-chapo-isidro-setting-off-a-burst-of-violence-in-sinaloa",
+   "published": "2026-11-21T19:13:16+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "Trump orders federal contractors to check with White House before responding to Congress",
+   "summary": "The order is the Republican administration's latest effort to resist what are expected to be wide-ranging and aggressive oversight efforts from Democrats when they take over Congre",
+   "link": "https://www.pbs.org/newshour/politics/trump-orders-federal-contractors-to-check-with-white-house-before-responding-to-congress",
+   "published": "2026-11-21T19:29:23+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "A doctor's guide to surviving — and enjoying — holiday feasting while on GLP‑1 medication",
+   "summary": "Changes in appetite, smaller portion tolerance, limits on alcohol consumption, medication side effects and the desire to maintain progress can make navigating holiday traditions fe",
+   "link": "https://www.pbs.org/newshour/health/a-doctors-guide-to-surviving-and-enjoying-holiday-feasting-while-on-glp%e2%80%911-medication",
+   "published": "2026-11-21T19:46:19+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "AP source: FBI investigating apparent hack of its key national criminal justice database",
+   "summary": "The National Crime Information Center, known as the NCIC, is a computerized database of criminal justice information that is available to local, state and federal law enforcement a",
+   "link": "https://www.pbs.org/newshour/politics/ap-source-fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database",
+   "published": "2026-11-21T20:55:22+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "Trump vows to work with Democrats to cap credit card interest rates at 10%",
+   "summary": "The standard proposal would substantially reduce what credit card companies can charge customers. The median credit card interest rate is roughly 22.2%, according to an August surv",
+   "link": "https://www.pbs.org/newshour/politics/trump-vows-to-work-with-democrats-to-cap-credit-card-interest-rates-at-10",
+   "published": "2026-11-21T21:20:34+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "For families of the fallen, Trump's proposed arch casts a shadow over Arlington National Cemetery",
+   "summary": "Trump's proposed 250-foot-tall arch could cast a long shadow on Arlington National Cemetery, with the potential to literally shade gravesites, disrupt solemn visits with the noise ",
+   "link": "https://www.pbs.org/newshour/politics/for-families-of-the-fallen-trumps-proposed-arch-casts-a-shadow-over-arlington-national-cemetery",
+   "published": "2026-11-21T22:52:03+00:00"
+  },
+  {
+   "outlet": "PBS NewsHour",
+   "headline": "Why do people believe recent tech failures must be connected?",
+   "summary": "Even without clear evidence, people drew connections between recent tech failures and outages. The way our brains and social media platforms work helps explain why.",
+   "link": "https://www.pbs.org/newshour/nation/why-do-people-believe-recent-tech-failures-must-be-connected",
+   "published": "2026-11-21T23:14:57+00:00"
+  },
+  {
+   "outlet": "Politico",
+   "headline": "‘Grandfather’ or ‘godfather’? Republicans know they’re stuck with Trump",
+   "summary": "Some grassroots GOP leaders want Trump to stay out of 2028 — even though they know he won’t.",
+   "link": "https://www.politico.com/news/2026/11/21/republican-chairs-know-stuck-with-trump-2028-01179393",
+   "published": "2026-11-21T12:00:00+00:00"
+  },
+  {
+   "outlet": "Politico Europe",
+   "headline": "Costa cuts proposed EU budget by €44B",
+   "summary": "Brussels plans a tax on Big Tech to raise billions for the next budget cycle.",
+   "link": "https://www.politico.eu/article/costa-cuts-proposed-eu-budget-by-44billion-euros/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "published": "2026-11-21T10:44:05+00:00"
+  },
+  {
+   "outlet": "Politico Europe",
+   "headline": "Russian threats ‘less and less hybrid,’ Von der Leyen says after assassination plot in Denmark",
+   "summary": "Danish authorities said they thwarted a Russian plan to kill a Ukrainian rapper in September.",
+   "link": "https://www.politico.eu/article/russian-threats-less-hybrid-von-der-leyen-says-assassination-plot-ukrainian-rapper-kyivstoner-denmark/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "published": "2026-11-21T11:43:12+00:00"
+  },
+  {
+   "outlet": "Politico Europe",
+   "headline": "Russian ship damaged by drone attack in Gulf of Finland, Helsinki and Moscow say",
+   "summary": "The Finnish coast guard said the ship was known to have ties with Russian armed forces.",
+   "link": "https://www.politico.eu/article/russian-ship-damaged-drone-attack-gulf-finland-helsinki-moscow-say/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "published": "2026-11-21T12:36:56+00:00"
+  },
+  {
+   "outlet": "Politico Europe",
+   "headline": "Effort to regulate ‘killer robots’ delayed to 2028",
+   "summary": "Russia blocked the talks, but other countries were also opposed.",
+   "link": "https://www.politico.eu/article/effort-regulate-killer-robots-delayed-until-2028-ai-un/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "published": "2026-11-21T16:43:51+00:00"
+  },
+  {
+   "outlet": "ProPublica",
+   "headline": "Why Is the World Still Counting on Unproven Carbon Capture Technology?",
+   "summary": "The post Why Is the World Still Counting on Unproven Carbon Capture Technology? appeared first on ProPublica .",
+   "link": "https://www.propublica.org/article/carbon-capture-and-storage-climate-models",
+   "published": "2026-11-21T10:00:00+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "En Banc Fifth Circuit Declares House COVID Proxy Voting Rule Unconstitutional",
+   "summary": "While purporting to offer narrow relief confined to a limited portion of the bill in Texas, the court places a bullseye on broad legislation.",
+   "link": "https://reason.com/volokh/2026/11/20/en-banc-fifth-circuit-declares-house-covid-proxy-voting-rule-unconstitutional/",
+   "published": "2026-11-21T01:17:46+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "Open Thread",
+   "summary": "What’s on your mind?",
+   "link": "https://reason.com/volokh/2026/11/21/open-thread-395/",
+   "published": "2026-11-21T08:00:00+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "The Absurd Overreach of Britain's New Porn Law",
+   "summary": "In a darkened room, a laptop screen showing blurred thumbnails lights up a man's hands on the keyboard.",
+   "link": "https://reason.com/2026/11/21/the-absurd-overreach-of-britains-new-porn-law/",
+   "published": "2026-11-21T11:00:55+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "Milei's Push To Privatize Companies Is Running Up Against Congressional Pushback",
+   "summary": "An aerial photo of an industrial plan",
+   "link": "https://reason.com/2026/11/21/how-much-can-milei-privatize/",
+   "published": "2026-11-21T11:30:52+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "D.C. May Abolish the Tip Credit—Again. This Time, the Minimum Wage Would Be $25.",
+   "summary": "A protester with One Fair Wage",
+   "link": "https://reason.com/2026/11/21/d-c-may-abolish-the-tip-credit-again-this-time-the-minimum-wage-would-be-25/",
+   "published": "2026-11-21T12:00:26+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "Today in Supreme Court History: November 21, 1926",
+   "summary": "11/21/1926: Justice Joseph McKenna died. The post Today in Supreme Court History: November 21, 1926 appeared first on Reason Magazine.",
+   "link": "https://reason.com/volokh/2026/11/21/today-in-supreme-court-history-november-21-1926-8/",
+   "published": "2026-11-21T12:00:32+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "Court Concludes Allegation Against Rep. Max Miller Is \"Substantially True\" and Dismisses Defamation Claim",
+   "summary": "Rep. Max Miller (R-OH) lost more than his bid for re-election.",
+   "link": "https://reason.com/volokh/2026/11/21/court-concludes-allegation-against-rep-max-miller-is-substantially-true-and-dismisses-defamation-claim/",
+   "published": "2026-11-21T15:18:53+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "The First Amendment, University Investigations, and Anti-Israel Lawprof's Case Against Univ. of Kentucky",
+   "summary": "Some excerpts from the longish decision Friday by Judge Benjamin Beaton (E.D. Ky.) in Woodcock v. Capilouto: This opinion addresses… The post The First Amendment, University Invest",
+   "link": "https://reason.com/volokh/2026/11/21/the-first-amendment-university-investigations-and-anti-israel-lawprofs-case-against-univ-of-kentucky/",
+   "published": "2026-11-21T18:17:34+00:00"
+  },
+  {
+   "outlet": "Science News",
+   "headline": "Astronomer Isabel Angelo hunts for odd signals in telescope data",
+   "summary": "At the SETI Institute, she uses machine learning to look for signs of cosmic phenomena astronomers have never seen before.",
+   "link": "https://www.sciencenews.org/article/telescope-data-isabel-angelo-sn-10",
+   "published": "2026-11-21T12:00:00+00:00"
+  },
+  {
+   "outlet": "Science News",
+   "headline": "This scientist proves which problems computers can’t solve quickly",
+   "summary": "Dor Minzer studies how fast computers can tell whether nearly all of a game’s rules can be satisfied or almost none can.",
+   "link": "https://www.sciencenews.org/article/game-computer-sn-10-dor-minzer-problem",
+   "published": "2026-11-21T12:00:00+00:00"
+  },
+  {
+   "outlet": "Science News",
+   "headline": "What helps land recover after fire? This ecologist looks to the past",
+   "summary": "Ecologist Jennifer Grenz draws on Indigenous oral histories and ecological records to learn how landscapes recover after wildfires.",
+   "link": "https://www.sciencenews.org/article/land-fire-jennifer-grenz-history-sn10",
+   "published": "2026-11-21T12:00:00+00:00"
+  },
+  {
+   "outlet": "Science News",
+   "headline": "How do scientists learn from failure? This researcher has clues",
+   "summary": "Yian Yin found that scientists who revised rejected proposals using feedback found success faster than those who switched ideas.",
+   "link": "https://www.sciencenews.org/article/scientists-learn-failure-sn-10-yian-yin",
+   "published": "2026-11-21T12:00:00+00:00"
+  },
+  {
+   "outlet": "Science News",
+   "headline": "How do tumors talk to nerves? This scientist is finding out",
+   "summary": "After finding proteins linked to memory in prostate cancer cells, Sebnem Ece Eksi hopes to map nerve fibers in tumors.",
+   "link": "https://www.sciencenews.org/article/tumors-talk-nerve-sn-10-sebnem-ece-eksi",
+   "published": "2026-11-21T12:00:00+00:00"
+  },
+  {
+   "outlet": "STAT",
+   "headline": "Opinion: How Kennedy and MAHA could help stop measles",
+   "summary": "Kennedy and MAHA say they aren’t anti-vaccine. They can prove it by promoting the MMR vaccine, writes Brinda Adhikari.",
+   "link": "https://www.statnews.com/2026/11/21/rfk-jr-maha-measles-outbreak-elimination-status-promote-mmr-vaccine/?utm_campaign=rss",
+   "published": "2026-11-21T09:30:00+00:00"
+  },
+  {
+   "outlet": "STAT",
+   "headline": "Opinion: When should medical school start?",
+   "summary": "STAT readers weigh in on shortening medical school, fixing pediatric emergency care, and more.",
+   "link": "https://www.statnews.com/2026/11/21/stat-letters-to-editor-medical-school-pediatric-emergency-care/?utm_campaign=rss",
+   "published": "2026-11-21T12:00:00+00:00"
+  },
+  {
+   "outlet": "The Conversation",
+   "headline": "Army’s plan to blow up aging explosives will spread lead over part of Iowa – what you need to know about the risks",
+   "summary": "An environmental health expert whose University of Iowa team will be testing the air downwind of the detonation site explains the risks people, pets and farms face.",
+   "link": "https://theconversation.com/armys-plan-to-blow-up-aging-explosives-will-spread-lead-over-part-of-iowa-what-you-need-to-know-about-the-risks-297225",
+   "published": "2026-11-21T13:14:31+00:00"
+  },
+  {
+   "outlet": "The Dispatch",
+   "headline": "The Little Wheat Town of Kingfisher, Oklahoma",
+   "summary": "The familiar, it turns out, can be pretty beautiful.",
+   "link": "https://thedispatch.com/article/kingfisher-oklahoma-wheat-light/",
+   "published": "2026-11-21T06:00:00+00:00"
+  },
+  {
+   "outlet": "The Dispatch",
+   "headline": "The Point of Humans in a Jobless World",
+   "summary": "Two new books attempt, with varying success, to sketch out a future where AI takes over the economy.",
+   "link": "https://thedispatch.com/article/artificial-intelligence-jobs-careers-humans/",
+   "published": "2026-11-21T06:00:00+00:00"
+  },
+  {
+   "outlet": "The Dispatch",
+   "headline": "It’s About Arguments | Ruminant",
+   "summary": "Jonah doesn’t care about your feelings",
+   "link": "https://thedispatch.com/podcast/remnant/its-about-arguments-ruminant/",
+   "published": "2026-11-21T08:00:00+00:00"
+  },
+  {
+   "outlet": "The Dispatch",
+   "headline": "The (Dead) City Planner With a Cult Following",
+   "summary": "Why did people gather to read a book about infrastructure over 66 hours?",
+   "link": "https://thedispatch.com/newsletter/dispatch-culture/robert-moses-power-broker-reading/",
+   "published": "2026-11-21T11:50:00+00:00"
+  },
+  {
+   "outlet": "The Dispatch",
+   "headline": "Our Best Stuff on the Spate of Tech Outages",
+   "summary": "Companies and government agencies are experiencing a host of IT problems.",
+   "link": "https://thedispatch.com/newsletter/weekly/tech-outages-microsoft-air-traffic-cyberattack/",
+   "published": "2026-11-21T13:00:00+00:00"
   }
  ]
 }
