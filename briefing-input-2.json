@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23T01:40:07.498880+00:00",
+ "built": "2026-11-23T03:43:22.887762+00:00",
  "window_hours": 24,
  "part": "briefing-input-2.json",
  "all_parts": [
@@ -7,11 +7,13 @@
   "briefing-input-2.json"
  ],
  "outlets_here": [
+  "Semafor",
+  "The Dispatch",
   "The Guardian",
   "The Jerusalem Post",
   "The Moscow Times"
  ],
- "story_count": 51,
+ "story_count": 63,
  "feeds_with_problems": [
   "https://san.com/feed/: no items (page began: <!doctype html> <html lang=\"en\"> <head> \t<meta charset=\"utf-8\"> \t<meta name=\"vie)",
   "https://www.positive.news/feed/: HTTP 403",
@@ -21,6 +23,90 @@
   "https://www.haaretz.com/cmlink/1.4605090: no items (page began: <!DOCTYPE html><html lang=\"he\" dir=\"rtl\"><head><meta charSet=\"utf-8\"/><link rel=)"
  ],
  "stories": [
+  {
+   "outlet": "Semafor",
+   "headline": "COP’s fossil fuel consensus falls apart",
+   "summary": "Negotiations collapsed at the last minute over deep disagreements on their most basic provision.",
+   "link": "https://www.semafor.com/article/11/22/2026/cops-fossil-fuel-consensus-falls-apart",
+   "published": "2026-11-22T15:33:10+00:00"
+  },
+  {
+   "outlet": "Semafor",
+   "headline": "US, China eye ‘joint guardrails’ on AI",
+   "summary": "Trump’s comments reflect the accommodations that even the most bullish AI proponents are making amid a global anti-AI backlash.",
+   "link": "https://www.semafor.com/article/11/22/2026/us-china-eye-joint-guardrails-on-ai",
+   "published": "2026-11-22T22:19:22+00:00"
+  },
+  {
+   "outlet": "Semafor",
+   "headline": "US spy chief calls Nvidia chips 'jewels'",
+   "summary": "Jay Clayton said Washington was probing the alleged Chinese spy linked to ex-Nvidia CEO Jensen Huang.",
+   "link": "https://www.semafor.com/article/11/22/2026/us-spy-chief-calls-nvidia-chips-jewels",
+   "published": "2026-11-22T22:22:29+00:00"
+  },
+  {
+   "outlet": "Semafor",
+   "headline": "Claude helps topple Riemann problem",
+   "summary": "Two independent groups said they verified an Anthropic mathematician’s Claude-assisted proof of the nearly 170-year-old Riemann Hypothesis, as AI appeared to bulldoze yet another l",
+   "link": "https://www.semafor.com/article/11/22/2026/claude-helps-topple-riemann-problem",
+   "published": "2026-11-22T22:23:08+00:00"
+  },
+  {
+   "outlet": "Semafor",
+   "headline": "COP31 collapse highlights Africa's climate finance woes",
+   "summary": "Nine of the 10 most climate-vulnerable countries are in Africa, according to one study.",
+   "link": "https://www.semafor.com/article/11/22/2026/cop31-collapse-highlights-africas-climate-finance-woes",
+   "published": "2026-11-22T22:23:27+00:00"
+  },
+  {
+   "outlet": "Semafor",
+   "headline": "Ukraine war gets harder to contain amid escalating hybrid attacks",
+   "summary": "A Russian cargo ship was struck near Finland and Russian missiles landed in Poland.",
+   "link": "https://www.semafor.com/article/11/22/2026/ukraine-war-gets-harder-to-contain-amid-escalating-hybrid-attacks",
+   "published": "2026-11-22T22:24:55+00:00"
+  },
+  {
+   "outlet": "Semafor",
+   "headline": "Bessent warns on Fed hike as AI bubble fears mount",
+   "summary": "Traders have pared back expectations of a half-point hike on Dec. 9, after Anthropic’s record-setting IPO and a strong run of tech earnings failed to boost sentiment.",
+   "link": "https://www.semafor.com/article/11/22/2026/bessent-warns-on-fed-hike-as-ai-bubble-fears-mount",
+   "published": "2026-11-22T22:26:12+00:00"
+  },
+  {
+   "outlet": "Semafor",
+   "headline": "‘Grand Theft Auto VI’ marks a turning point for the series",
+   "summary": "The record-setting release represents the cultural acceptance of a franchise that was once the center of a backlash to violent video games.",
+   "link": "https://www.semafor.com/article/11/22/2026/grand-theft-auto-vi-marks-a-turning-point-for-the-series",
+   "published": "2026-11-23T01:41:36+00:00"
+  },
+  {
+   "outlet": "Semafor",
+   "headline": "Poll shows media ripples of midterm blue wave — and Rogan’s lasting appeal",
+   "summary": "Two years out from the “manosphere election,” Joe Rogan remains American men’s most trusted voice in media.",
+   "link": "https://www.semafor.com/article/11/22/2026/poll-shows-media-ripples-of-midterm-blue-wave-and-rogans-lasting-appeal",
+   "published": "2026-11-23T01:42:35+00:00"
+  },
+  {
+   "outlet": "Semafor",
+   "headline": "Directors push back on ‘You Can See Everything’ reporting",
+   "summary": "Lance Oppenheim and Nathan Fielder said that the framing and wording of a Hollywood Reporter story about their film was inaccurate.",
+   "link": "https://www.semafor.com/article/11/22/2026/directors-push-back-on-you-can-see-everything-reporting",
+   "published": "2026-11-23T01:52:56+00:00"
+  },
+  {
+   "outlet": "Semafor",
+   "headline": "High-profile events businesses can strain media companies’ trust and credibility",
+   "summary": "Semafor is facing scrutiny for hiring high-profile Washington consultants to assist with event bookings.",
+   "link": "https://www.semafor.com/article/11/22/2026/high-profile-events-businesses-can-strain-media-companies-trust-and-credibility",
+   "published": "2026-11-23T02:02:22+00:00"
+  },
+  {
+   "outlet": "The Dispatch",
+   "headline": "The Rising Religious Left May Buoy Conservative Christians Too",
+   "summary": "Relegating faith to one party never ends well for believers.",
+   "link": "https://thedispatch.com/newsletter/dispatch-faith/religious-left-conservative-christians/",
+   "published": "2026-11-22T12:00:00+00:00"
+  },
   {
    "outlet": "The Guardian",
    "headline": "Europe is entering a ‘supercycle’ of national elections. Their outcomes could shake the EU’s foundations",
@@ -149,24 +235,10 @@
   },
   {
    "outlet": "The Guardian",
-   "headline": "Cop31 left Chris Bowen stuck between petrostates and climate reality. But the f-word failure is not his alone",
-   "summary": "Australia’s climate change minister will face a torrent of criticism over his role, but disagreement over fossil fuels proved an unbridgeable sticking point After delivering a majo",
-   "link": "https://www.theguardian.com/environment/2026/nov/23/cop31-left-chris-bowen-stuck-between-petrostates-and-climate-reality-but-the-failure-to-say-the-f-word-is-not-his-alone",
-   "published": "2026-11-22T21:46:40+00:00"
-  },
-  {
-   "outlet": "The Guardian",
    "headline": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
    "summary": "Conservatives may instinctively want to push back against closer EU ties, but they have to train their focus elsewhere Anyone who accidentally switched to BBC One at about 9.45am o",
    "link": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
    "published": "2026-11-22T22:00:58+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Abdul El-Sayed doubles down on ‘TrumpCare’ health plan, urging president to ‘get it done’",
-   "summary": "Democratic senator-elect reiterates suggestion to rename Medicare for All after Trump if president allows bill to pass Michigan US senator-elect Abdul El-Sayed on Sunday doubled do",
-   "link": "https://www.theguardian.com/us-news/2026/nov/22/abdul-el-sayed-trump-care-health-proposal-name",
-   "published": "2026-11-22T22:01:17+00:00"
   },
   {
    "outlet": "The Guardian",
@@ -198,13 +270,6 @@
   },
   {
    "outlet": "The Guardian",
-   "headline": "Beau Lamarre-Condon ‘executed’ Jesse Baird and Luke Davies then lied about it, prosecution argues",
-   "summary": "Crown urges jury to reject accused’s claim of self-defence and find him guilty of murdering Sydney couple Follow our Australia politics live blog for latest updates Get our breakin",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/23/beau-lamarre-condon-trail-executed-jesse-baird-prosecution-argues-ntwnfb",
-   "published": "2026-11-23T00:54:02+00:00"
-  },
-  {
-   "outlet": "The Guardian",
    "headline": "Tributes flow for Molly Meldrum: Anthony Albanese, Jason Donovan and others remember music industry great",
    "summary": "Peter Andre, Richard Wilkins and Kate Ceberano share memories of ‘a truly unique character’ and ‘the fan all artists wish to have’ Molly Meldrum, Countdown host and promoter of Aus",
    "link": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-music-industry-tributes",
@@ -212,10 +277,31 @@
   },
   {
    "outlet": "The Guardian",
-   "headline": "Australian politics live: Hanson calls Coalition and Labor a ‘uni’ party; Minns ends presser after heckling from Greens candidate",
+   "headline": "Video of ICE detaining father and daughter while boarding flight sparks protests in Seattle",
+   "summary": "Footage of Saturday incident, filmed by fellow passengers, quickly went viral on social media as mayor calls tactics ‘un-American’ Protesters marched through the Seattle-Tacoma int",
+   "link": "https://www.theguardian.com/us-news/2026/nov/23/father-daughter-ice-arrests-video-sparks-protests-seattle-airport",
+   "published": "2026-11-23T02:38:16+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Former Bachelor star Sam Wood seeking mediation amid DV charges for allegedly strangling wife",
+   "summary": "Lawyer Brad Hill seeks two-week adjournment on Monday for mediation, which can only occur if alleged victim consents Get our breaking news email , free app or daily news podcast Fo",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/23/bachelor-sam-wood-domestic-violence-charges-mediation-ntwnfb",
+   "published": "2026-11-23T02:40:33+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Beau Lamarre-Condon acted like a ‘poorly behaved boyfriend’ before alleged double murders, defence argues",
+   "summary": "Crown says accused developed ‘jealous obsession’ but defence says ‘love makes fools of us’ Follow our Australia politics live blog for latest updates Get our breaking news email , ",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/23/beau-lamarre-condon-trail-executed-jesse-baird-prosecution-argues-ntwnfb",
+   "published": "2026-11-23T03:07:31+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Australian politics live: Crossbenchers urge protection for political cartoons from AI; Singapore PM flying in via Western Sydney airport",
    "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to br",
    "link": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-   "published": "2026-11-23T01:24:34+00:00"
+   "published": "2026-11-23T03:24:48+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
@@ -261,31 +347,10 @@
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Mr. Speaker, members of the Knesset: Lead by example - opinion",
-   "summary": "Do not let the urge to stand out, the pursuit of clicks, your base’s reaction, or tomorrow’s headlines dictate how you behave. Let a different compass guide you.",
-   "link": "https://www.jpost.com/opinion/article-915709",
-   "published": "2026-11-22T20:00:00+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
    "headline": "Bennett warns: Government brought to power by Arab parties could ignite mass protests",
    "summary": "“Swearing in a government with Arab parties’ votes would, for the other side, be like Levin’s speech on steroids. You don’t understand the consequences for the country,” Bennett wa",
    "link": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915748",
    "published": "2026-11-22T20:22:22+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
-   "headline": "From Kristallnacht to the midterms: Why this November is not the November of yesteryear - opinion",
-   "summary": "For our brothers and sisters living in the Diaspora, they know that the doors of Israel remain ever open – because this is November 2026, and not the November of yesteryear.",
-   "link": "https://www.jpost.com/opinion/article-915423",
-   "published": "2026-11-22T20:36:20+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
-   "headline": "Palestinians favor Eisenkot over Netanyahu. That does not mean they trust Israel - opinion",
-   "summary": "Does the preference for Eisenkot reflect Palestinian confidence in his ability to change Israeli policies, or does it express a desire to see different leadership from Netanyahu?",
-   "link": "https://www.jpost.com/opinion/article-915715",
-   "published": "2026-11-22T21:00:00+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
@@ -356,6 +421,27 @@
    "summary": "Ruffalo, who in 2025 anchored an entertainment industry petition to boycott Israeli film institutions, threw his support behind Sen. Chris Van Hollen.",
    "link": "https://www.jpost.com/diaspora/antisemitism/article-915762",
    "published": "2026-11-23T03:20:00+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Tel Aviv teams suffer frustrating Euroleague losses as Hapoel falls late, Maccabi blows lead",
+   "summary": "Hapoel Tel Aviv fell 97-96 to Paris in Round 13, while Maccabi Tel Aviv suffered another defeat, losing 80-74 to Dubai.",
+   "link": "https://www.jpost.com/israel-news/sports/article-915763",
+   "published": "2026-11-23T03:37:51+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "California sues OpenAI over model security, public safety",
+   "summary": "California Attorney General Rob Bonta sued OpenAI, alleging the company endangered public safety by developing and testing powerful AI models without adequate safeguards.",
+   "link": "https://www.jpost.com/international/article-915765",
+   "published": "2026-11-23T04:08:41+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Alice Huang in touch with Chinese spy agency during affair with Nvidia CEO - report",
+   "summary": "Alice Huang reportedly communicated with a Chinese intelligence officer from spring 2025 through fall 2026, as US authorities investigated her alleged ties to Beijing, the NYT repo",
+   "link": "https://www.jpost.com/international/article-915766",
+   "published": "2026-11-23T04:27:15+00:00"
   },
   {
    "outlet": "The Moscow Times",
