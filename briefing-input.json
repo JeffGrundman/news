@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T05:18:28.893235+00:00",
+ "built": "2026-11-24T06:57:09.030479+00:00",
  "window_hours": 24,
  "part": "briefing-input.json",
  "all_parts": [
@@ -18,7 +18,7 @@
   "CNBC",
   "Daily Maverick"
  ],
- "story_count": 115,
+ "story_count": 121,
  "feeds_with_problems": [
   "https://san.com/feed/: no items (page began: <!doctype html> <html lang=\"en\"> <head> \t<meta charset=\"utf-8\"> \t<meta name=\"vie)",
   "https://www.positive.news/feed/: HTTP 403",
@@ -233,24 +233,10 @@
   },
   {
    "outlet": "Associated Press, via ABC News",
-   "headline": "South Korea says several Russian aircraft flew into its air defense zone",
-   "summary": "South Korea’s military says several Russian aircraft flew inside the country’s air defense identification zone over waters between the Korean Peninsula and Japan",
-   "link": "https://abcnews.com/International/wireStory/south-korea-russian-aircraft-flew-air-defense-zone-138393128",
-   "published": "2026-11-24T01:04:11+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
    "headline": "Batmobile stalls at auction by failing to meet the seller's minimum price",
    "summary": "The Batmobile hit a roadblock at auction when a $3.25 million bid wasn’t enough to buy it",
    "link": "https://abcnews.com/Business/wireStory/buying-batmans-ride-bruce-wayne-budget-1992-batmobile-138369029",
    "published": "2026-11-24T01:30:19+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "Pentagon sharply rebukes Canada over defense spending and the F-35 fighter jet review",
-   "summary": "The Pentagon has accused Canada of falling short as a credible partner in defending North America, delivering a sharp rebuke to its longtime ally over military spending and its rec",
-   "link": "https://abcnews.com/International/wireStory/pentagon-sharply-rebukes-canada-defense-spending-35-fighter-138393777",
-   "published": "2026-11-24T02:10:25+00:00"
   },
   {
    "outlet": "Associated Press, via ABC News",
@@ -275,17 +261,52 @@
   },
   {
    "outlet": "Associated Press, via ABC News",
-   "headline": "A spokesperson says ousted Bangladeshi Prime Minister Sheikh Hasina plans to return home from exile in India on Dec. 16",
-   "summary": "A spokesperson says ousted Bangladeshi Prime Minister Sheikh Hasina plans to return home from exile in India on Dec. 16",
-   "link": "https://abcnews.com/International/wireStory/spokesperson-ousted-bangladeshi-prime-minister-sheikh-hasina-plans-138398785",
-   "published": "2026-11-24T03:50:32+00:00"
+   "headline": "South Korea says several Russian aircraft flew into its air defense zone",
+   "summary": "South Korea’s military says it scrambled fighter jets when several Russian aircraft flew inside the country’s air defense identification zone over waters between the Korean Peninsu",
+   "link": "https://abcnews.com/International/wireStory/south-korea-russian-aircraft-flew-air-defense-zone-138393128",
+   "published": "2026-11-24T03:54:21+00:00"
   },
   {
-   "outlet": "BBC News",
-   "headline": "Five takeaways from the failed climate talks COP31",
-   "summary": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
-   "link": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-23T06:33:50+00:00"
+   "outlet": "Associated Press, via ABC News",
+   "headline": "Pentagon sharply rebukes Canada over defense spending and the F-35 fighter jet review",
+   "summary": "The Pentagon has accused Canada of falling short as a credible partner in defending North America, delivering a sharp rebuke to its longtime ally over military spending and its rec",
+   "link": "https://abcnews.com/International/wireStory/pentagon-sharply-rebukes-canada-defense-spending-35-fighter-138393777",
+   "published": "2026-11-24T04:58:14+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
+   "headline": "Ousted leader Hasina plans to return to Bangladesh from exile on Dec. 16, spokesperson says",
+   "summary": "Ousted Bangladeshi Prime Minister Sheikh Hasina plans to return home from exile in India on Dec. 16, the day the country celebrates as Victory Day when it won independence after a ",
+   "link": "https://abcnews.com/International/wireStory/spokesperson-ousted-bangladeshi-prime-minister-sheikh-hasina-plans-138398785",
+   "published": "2026-11-24T06:10:14+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
+   "headline": "It's a race to find Cyprus' disappeared, hindered by a construction boom and fading memories",
+   "summary": "A group of dedicated Greek Cypriot and Turkish Cypriot experts have for two decades worked hard to unearth and identify the remains of ethnically split Cyprus' missing persons",
+   "link": "https://abcnews.com/International/wireStory/race-find-cyprus-disappeared-hindered-construction-boom-fading-138400956",
+   "published": "2026-11-24T06:20:17+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
+   "headline": "Meet the major players in Spain's general election",
+   "summary": "Spaniards will vote in a general election Sunday, when Prime Minister Pedro Sánchez will try to defy the polls that point to a combined victory for conservative and far-right chall",
+   "link": "https://abcnews.com/International/wireStory/meet-major-players-spains-general-election-138400692",
+   "published": "2026-11-24T06:20:52+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
+   "headline": "US flew drone over Mexican territory to help capture drug lord in Sinaloa",
+   "summary": "Mexican security officials say the United States flew a surveillance drone over Mexican territory to help the government track down and capture a top drug lord over the weekend in ",
+   "link": "https://abcnews.com/International/wireStory/us-flew-drone-mexican-territory-capture-drug-lord-138385870",
+   "published": "2026-11-24T06:21:58+00:00"
+  },
+  {
+   "outlet": "Associated Press, via ABC News",
+   "headline": "Pope Francis' diary details profound spiritual crisis and encounters with the devil",
+   "summary": "The Vatican is releasing excerpts of Pope Francis' private diary",
+   "link": "https://abcnews.com/International/wireStory/pope-francis-private-diary-details-profound-spiritual-crisis-138401988",
+   "published": "2026-11-24T06:26:22+00:00"
   },
   {
    "outlet": "BBC News",
@@ -300,13 +321,6 @@
    "summary": "The BBC meets the far-left protesters French President Emmanuel Macron says are trying to bring down the Republic.",
    "link": "https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss",
    "published": "2026-11-23T13:09:52+00:00"
-  },
-  {
-   "outlet": "BBC News",
-   "headline": "Prominent Zimbabwean preacher arrested on sexual assault allegations",
-   "summary": "Uebert Angel, a British-Zimbabwean national, leads a charismatic church with branches in several countries.",
-   "link": "https://www.bbc.co.uk/news/articles/cxyvdmjr893zo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-23T14:55:14+00:00"
   },
   {
    "outlet": "BBC News",
@@ -426,6 +440,34 @@
    "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
    "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
    "published": "2026-11-24T04:36:31+00:00"
+  },
+  {
+   "outlet": "BBC News",
+   "headline": "India's 'cockroach' party leader says he was stopped from flying to UK",
+   "summary": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\".",
+   "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-24T05:33:07+00:00"
+  },
+  {
+   "outlet": "BBC News",
+   "headline": "Goats drafted in to tame Greenwich Park slope",
+   "summary": "Bagot goats are used to keep vegetation in check and help preserve the view from the Royal Observatory.",
+   "link": "https://www.bbc.co.uk/news/articles/cq4gn2vde8m8o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-24T06:16:51+00:00"
+  },
+  {
+   "outlet": "BBC News",
+   "headline": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
+   "summary": "Hasina has spoken several times of her desire to return, but this is the first time she has set a date.",
+   "link": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-24T06:23:01+00:00"
+  },
+  {
+   "outlet": "BBC News",
+   "headline": "Delia Smith joins opponents of £1.2bn data centre",
+   "summary": "The TV cook and author is worried about the proposed Keswick facility's environmental impact.",
+   "link": "https://www.bbc.co.uk/news/articles/c678200xklgzo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-24T06:36:26+00:00"
   },
   {
    "outlet": "BNO News",
