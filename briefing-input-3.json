@@ -1,5 +1,5 @@
 {
- "built": "2026-11-26T03:32:38.701164+00:00",
+ "built": "2026-11-26T05:00:22.331016+00:00",
  "window_hours": 24,
  "part": "briefing-input-3.json",
  "all_parts": [
@@ -21,23 +21,16 @@
   "The Intercept",
   "The Jerusalem Post"
  ],
- "story_count": 146,
+ "story_count": 145,
  "feeds_with_problems": [
   "https://san.com/feed/: no items (page began: <!doctype html> <html lang=\"en\"> <head> \t<meta charset=\"utf-8\"> \t<meta name=\"vie)",
   "https://www.positive.news/feed/: HTTP 403",
   "https://www.thestar.com.my/rss/News/World: HTTP 404",
   "https://kyivindependent.com/feed/: HTTP 404",
   "https://www.timesofisrael.com/feed/: HTTP 403",
-  "https://www.haaretz.com/cmlink/1.4605090: HTTP 403"
+  "https://www.haaretz.com/cmlink/1.4605090: no items (page began: <!DOCTYPE html><html lang=\"he\" dir=\"rtl\"><head><meta charSet=\"utf-8\"/><link rel=)"
  ],
  "stories": [
-  {
-   "outlet": "Reason",
-   "headline": "Second Amendment Roundup II: The Semiauto AR-15 is fundamentally different than the full-auto M-16",
-   "summary": "At issue in Viramontes (now Khaya) v. Cook County in the Supreme Court is the difference between fully automatic firearms… The post Second Amendment Roundup II: The Semiauto AR-15 ",
-   "link": "https://reason.com/volokh/2026/11/24/second-amendment-roundup-ii-the-semiauto-ar-15-is-fundamentally-different-than-the-full-auto-m-16/",
-   "published": "2026-11-25T04:20:25+00:00"
-  },
   {
    "outlet": "Reason",
    "headline": "Elon Musk Discovers That 'American Elections Are Not Just About Money'",
@@ -649,20 +642,6 @@
   },
   {
    "outlet": "The Guardian",
-   "headline": "Colombia’s president arrives at scene of supermarket hostage siege in tourist city",
-   "summary": "Abelardo de la Espriella to take control of operation trying to free at least 20 hostages Colombia’s president has arrived at the scene of an hours-long standoff between security s",
-   "link": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
-   "published": "2026-11-25T03:57:11+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "‘They don’t believe in freedom’: Yemenis plan their escape as Houthis advance on Aden",
-   "summary": "With Iran’s proxy fighters encircling the temporary capital, residents and NGOs prepare to evacuate Hussein fled his home six years ago after it fell under Houthi control, moving a",
-   "link": "https://www.theguardian.com/world/2026/nov/25/yemen-houthis-advance-aden",
-   "published": "2026-11-25T05:00:06+00:00"
-  },
-  {
-   "outlet": "The Guardian",
    "headline": "Dolphins with active social lives and big friendship groups live longer, Australian researchers discover",
    "summary": "Decades of data collected at WA’s Shark Bay shows level of socialising may affect longevity for Indo-Pacific bottlenose dolphins Dolphins who spend time socialising in large and co",
    "link": "https://www.theguardian.com/environment/2026/nov/25/dolphins-with-active-social-lives-and-big-friendship-groups-live-longer",
@@ -845,6 +824,13 @@
   },
   {
    "outlet": "The Guardian",
+   "headline": "Social media making it harder for UK parents to raise families, survey finds",
+   "summary": "Poll of parents of young children finds three-quarters think pressure from influencers has increased their anxiety Parents of children aged five and under say pressure from social ",
+   "link": "https://www.theguardian.com/media/2026/nov/26/social-media-making-it-harder-for-uk-parents-to-raise-families-survey-finds",
+   "published": "2026-11-26T00:01:40+00:00"
+  },
+  {
+   "outlet": "The Guardian",
    "headline": "UN sacked Palestinian staff on back of unproven Israeli allegations, tribunal rules",
    "summary": "Judgment casts doubt on evidence linking aid workers to Hamas and says humanitarian efforts in Gaza were damaged A UN tribunal has cast doubt on the evidence used to justify the sa",
    "link": "https://www.theguardian.com/world/2026/nov/25/un-sacked-palestinian-staff-on-back-of-unproven-israel-allegations",
@@ -859,31 +845,10 @@
   },
   {
    "outlet": "The Guardian",
-   "headline": "‘Turncoat’: Liberal senator Leah Blyth announces defection to One Nation, blindsiding Coalition",
-   "summary": "South Australian senator labels One Nation the ‘only party with the bold ideas needed to turn this country around’ Follow our Australia politics live blog for latest updates Get ou",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb",
-   "published": "2026-11-26T00:58:49+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Out-of-control bushfire with flames 10-metres high destroys at least six homes on Flinders Island",
-   "summary": "Fire making a ‘significant run’ towards the south-west of Flinders Island on Thursday, Tasmania Fire Service says Get our breaking news email , free app or daily news podcast Resid",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/25/large-bushfire-threatens-homes-and-properties-on-remote-island-off-tasmania",
-   "published": "2026-11-26T01:59:30+00:00"
-  },
-  {
-   "outlet": "The Guardian",
    "headline": "Australia projected to completely miss 2035 emissions target without new climate policies",
    "summary": "New official projections show country nearly on track for 2030 goal but Chris Bowen warns of ‘undeniable headwinds’ Sign up for climate and environment editor Adam Morton’s free Cl",
    "link": "https://www.theguardian.com/australia-news/2026/nov/26/australia-projected-to-miss-2035-emissions-targets-climate-policies",
    "published": "2026-11-26T02:26:10+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Coalition would privatise Melbourne’s sewage treatment while selling state-owned land and renewables to fund Victorian election promises",
-   "summary": "Liberal and Nationals’ pre-election policy costings also reveal that ‘air rights’ between Richmond train station and the MCG would be sold Follow our Australia politics live blog f",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy",
-   "published": "2026-11-26T02:35:09+00:00"
   },
   {
    "outlet": "The Guardian",
@@ -894,10 +859,38 @@
   },
   {
    "outlet": "The Guardian",
-   "headline": "Australian politics live: Liberals ‘tossing up whether to leave or remain’, Albanese says; Coalition warns energy prices to cause Christmas ‘pain’",
+   "headline": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
+   "summary": "Brazil indignant about proposed tariffs on sugar and aircraft, while Beijing says new levies amount to ‘political manipulation’ Trump proposing new tariffs on 14 partners including",
+   "link": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+   "published": "2026-11-26T03:54:24+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Teen’s homicidal thoughts dismissed as ‘crap’ days before she killed 10-year-old, inquest hears",
+   "summary": "Circumstances surrounding Bridgette ‘Biddy’ Porter’s death on rural NSW property being examined by coroner’s court Get our breaking news email , free app or daily news podcast Two ",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/26/teens-homicidal-thoughts-dismissed-as-crap-before-killed-10-year-old-inquest-ntwnfb",
+   "published": "2026-11-26T04:11:34+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Coalition would privatise Melbourne’s sewage treatment while selling state land and renewables to fund Victorian election promises and cut debt",
+   "summary": "Liberal and Nationals’ pre-election policy costings also reveal that ‘air rights’ between Richmond train station and the MCG would be sold Follow our Australia politics live blog f",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy",
+   "published": "2026-11-26T04:34:12+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Flinders Island bushfire: Out-of-control fire with flames 10-metres high destroys at least six homes in Tasmania",
+   "summary": "Fire making a ‘significant run’ towards the south-west of Flinders Island on Thursday, Tasmania Fire Service says Get our breaking news email , free app or daily news podcast Resid",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/25/large-bushfire-threatens-homes-and-properties-on-remote-island-off-tasmania",
+   "published": "2026-11-26T04:47:36+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Australian politics live: Chalmers says unemployment rise a ‘very bad development’; Liberals ‘tossing up whether to leave or remain’, PM says",
    "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party . Blyth",
    "link": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
-   "published": "2026-11-26T03:19:57+00:00"
+   "published": "2026-11-26T04:48:07+00:00"
   },
   {
    "outlet": "The Intercept",
@@ -943,7 +936,7 @@
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Danon: Israel opposes French troop deployment in south Lebanon after UNIFIL exit - interview",
+   "headline": "Israel opposes French troops in Lebanon after UN peacekeepers leave, envoy says - interview",
    "summary": "“The French are genuinely very active on this issue right now, putting forward various initiatives, most of which are unacceptable to us,” Danon told the Post.",
    "link": "https://www.jpost.com/middle-east/article-916142",
    "published": "2026-11-25T19:26:16+00:00"
@@ -968,13 +961,6 @@
    "summary": "Known for his interfaith work, Chalghoumi led a delegation of European Muslim religious leaders to Israel in July 2025, organized in partnership with ELNET.",
    "link": "https://www.jpost.com/diaspora/article-916149",
    "published": "2026-11-25T20:30:44+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
-   "headline": "Kushner urges Netanyahu to advance Gaza aid, multinational force deployment, sources tell 'Post'",
-   "summary": "Netanyahu and Kushner held a substantive discussion on humanitarian assistance to Gaza and preparations for the winter, an Israeli official told The Jerusalem Post.",
-   "link": "https://www.jpost.com/israel-news/article-916151",
-   "published": "2026-11-25T20:53:03+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
@@ -1052,6 +1038,13 @@
    "summary": "The law does not allow the president to make personnel changes at a private company, but a Trump administration official told the Washington Post it could be used to force Nvidia t",
    "link": "https://www.jpost.com/international/article-916168",
    "published": "2026-11-26T04:59:55+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Israel must confront its child abuse crisis, protect its youngest citizens - editorial",
+   "summary": "In a country where security dominates public discourse, Israel must do more to ensure the safety of its youngest and most vulnerable citizens.",
+   "link": "https://www.jpost.com/opinion/article-916155",
+   "published": "2026-11-26T06:00:10+00:00"
   }
  ]
 }

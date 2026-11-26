@@ -1,5 +1,5 @@
 {
- "built": "2026-11-26T03:32:38.701164+00:00",
+ "built": "2026-11-26T05:00:22.331016+00:00",
  "window_hours": 24,
  "part": "briefing-input.json",
  "all_parts": [
@@ -19,14 +19,14 @@
   "CNBC",
   "Daily Maverick"
  ],
- "story_count": 135,
+ "story_count": 131,
  "feeds_with_problems": [
   "https://san.com/feed/: no items (page began: <!doctype html> <html lang=\"en\"> <head> \t<meta charset=\"utf-8\"> \t<meta name=\"vie)",
   "https://www.positive.news/feed/: HTTP 403",
   "https://www.thestar.com.my/rss/News/World: HTTP 404",
   "https://kyivindependent.com/feed/: HTTP 404",
   "https://www.timesofisrael.com/feed/: HTTP 403",
-  "https://www.haaretz.com/cmlink/1.4605090: HTTP 403"
+  "https://www.haaretz.com/cmlink/1.4605090: no items (page began: <!DOCTYPE html><html lang=\"he\" dir=\"rtl\"><head><meta charSet=\"utf-8\"/><link rel=)"
  ],
  "stories": [
   {
@@ -318,13 +318,6 @@
   },
   {
    "outlet": "BBC News",
-   "headline": "China's Shenzhou-24 carries Pakistan's first astronaut into space",
-   "summary": "Muhammad Zeeshan Ali, a former fighter pilot, is the first foreigner to join a Chinese crewed space mission.",
-   "link": "https://www.bbc.co.uk/news/articles/c6x2e0j3kx28o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-25T04:46:23+00:00"
-  },
-  {
-   "outlet": "BBC News",
    "headline": "Huge fly-tip grew undetected over several months",
    "summary": "The council says the 20-tonne pile of rubbish was dumped over garden fences.",
    "link": "https://www.bbc.co.uk/news/articles/cqzjr4m9ljzxo?at_medium=RSS&at_campaign=rss",
@@ -343,13 +336,6 @@
    "summary": "Pakistan's Muhammad Zeeshan Ali has become the first foreign national to board China's Tiangong space station.",
    "link": "https://www.bbc.co.uk/news/videos/cj5y1p067kxno?at_medium=RSS&at_campaign=rss",
    "published": "2026-11-25T10:26:50+00:00"
-  },
-  {
-   "outlet": "BBC News",
-   "headline": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
-   "summary": "The verdict follows a months-long trial in New York.",
-   "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-25T10:52:09+00:00"
   },
   {
    "outlet": "BBC News",
@@ -431,7 +417,7 @@
   {
    "outlet": "BBC News",
    "headline": "Moment Nasa spacecraft hit asteroid - and what happened next",
-   "summary": "The crash was 'like something out of a disaster movie,' the BBC's science editor Rebecca Morelle says.",
+   "summary": "The crash was \"like something out of a disaster movie\", the BBC's science editor Rebecca Morelle says.",
    "link": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss",
    "published": "2026-11-25T20:11:46+00:00"
   },
@@ -469,13 +455,6 @@
    "summary": "The crash was 'like something out of a disaster movie,' the BBC's science editor Rebecca Morelle says.",
    "link": "https://www.bbc.co.uk/news/videos/cmjwjnxp2jgno?at_medium=RSS&at_campaign=rss",
    "published": "2026-11-25T23:20:43+00:00"
-  },
-  {
-   "outlet": "BBC News",
-   "headline": "Macy's postpones Thanksgiving parade due to weather",
-   "summary": "The was the first time ever that the iconic celebration - known for its massive balloons floating past the city's skyscrapers - was delayed because of storms.",
-   "link": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-25T23:57:03+00:00"
   },
   {
    "outlet": "BBC News",
@@ -549,10 +528,38 @@
   },
   {
    "outlet": "BBC News",
+   "headline": "FedEx plane overshoots Miami runway, with flights briefly suspended at airport",
+   "summary": "The brief ground stop comes on the day before the US Thanksgiving holiday, one of the busiest travel days of the year.",
+   "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-26T03:27:33+00:00"
+  },
+  {
+   "outlet": "BBC News",
+   "headline": "Macy's postpones Thanksgiving parade due to severe weather",
+   "summary": "The was the first time ever that the iconic celebration was delayed because of storms. New York expects damaging winds and heavy rainfall over the Thanksgiving holiday.",
+   "link": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-26T04:04:14+00:00"
+  },
+  {
+   "outlet": "BBC News",
    "headline": "US announces new tariffs on host of countries including China",
    "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
    "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-26T03:01:40+00:00"
+   "published": "2026-11-26T04:10:58+00:00"
+  },
+  {
+   "outlet": "BNO News",
+   "headline": "Macy’s Thanksgiving Day Parade postponed to Saturday due to severe weather",
+   "summary": "Macy’s has postponed its Thanksgiving Day Parade in New York City for the first time, citing a storm expected to bring strong winds and heavy rain. The 100th parade will take place",
+   "link": "https://bnonews.com/index.php/2026/11/macys-thanksgiving-day-parade-postponed-to-saturday-due-to-severe-weather/",
+   "published": "2026-11-25T23:38:38+00:00"
+  },
+  {
+   "outlet": "BNO News",
+   "headline": "17 pulled from water after fishing boat sinks off Iceland; conditions unknown",
+   "summary": "At least 17 crew members of a fishing boat that sank off eastern Iceland have been pulled from the water, according to officials and local media. A Coast Guard helicopter hoisted t",
+   "link": "https://bnonews.com/index.php/2026/11/17-pulled-from-water-after-fishing-boat-sinks-off-iceland-conditions-unknown/",
+   "published": "2026-11-25T23:55:45+00:00"
   },
   {
    "outlet": "BNO News",
@@ -584,45 +591,10 @@
   },
   {
    "outlet": "BNO News",
-   "headline": "Beyond the Letters: How to Choose Between a DBA and an MBA for Your Career",
-   "summary": "Choosing a graduate business degree is about more than adding another qualification to your résumé. It is a decision that can influence the responsibilities you take on, the proble",
-   "link": "https://bnonews.com/index.php/2026/11/beyond-the-letters-how-to-choose-between-a-dba-and-an-mba-for-your-career/",
-   "published": "2026-11-26T02:28:47+00:00"
-  },
-  {
-   "outlet": "BNO News",
-   "headline": "Your Gut at Work: What It Does All Day and How to Support It Better",
-   "summary": "You probably notice your digestive system only when something feels off: bloating after lunch, an uneasy stomach before school or work, or that sluggish feeling that lingers for ho",
-   "link": "https://bnonews.com/index.php/2026/11/your-gut-at-work-what-it-does-all-day-and-how-to-support-it-better/",
-   "published": "2026-11-26T02:30:50+00:00"
-  },
-  {
-   "outlet": "BNO News",
-   "headline": "Why Your Staff Values Employee of the Year Awards",
-   "summary": "Retaining top performers requires more than market salaries and standard statutory benefits. Skilled staff seek genuine appreciation that reflects their consistency across the full",
-   "link": "https://bnonews.com/index.php/2026/11/why-your-staff-values-employee-of-the-year-awards/",
-   "published": "2026-11-26T02:33:25+00:00"
-  },
-  {
-   "outlet": "BNO News",
-   "headline": "Moving Day: How to Relocate Without Losing Your Week",
-   "summary": "Moving can consume far more time than the journey between two homes. In Memphis, older neighborhoods, narrow streets, busy suburban areas, humid summers, and changing rental condit",
-   "link": "https://bnonews.com/index.php/2026/11/moving-day-how-to-relocate-without-losing-your-week/",
-   "published": "2026-11-26T02:34:59+00:00"
-  },
-  {
-   "outlet": "BNO News",
-   "headline": "Hurt on the Job in North Myrtle Beach: Benefits, Deadlines, and the 90-Day Rule",
-   "summary": "Workplace injuries can turn your life upside down in North Myrtle Beach. You may be facing chronic pain, limited mobility, time out of work, extensive medical bills, and mental hea",
-   "link": "https://bnonews.com/index.php/2026/11/hurt-on-the-job-in-north-myrtle-beach-benefits-deadlines-and-the-90-day-rule/",
-   "published": "2026-11-26T02:46:12+00:00"
-  },
-  {
-   "outlet": "BNO News",
-   "headline": "How To Solve The Healthcare Worker Retention Crisis",
-   "summary": "Healthcare businesses and facilities all face similar recruitment problems. The actual act of recruiting employees is sometimes difficult enough, though the bigger issue occurs fur",
-   "link": "https://bnonews.com/index.php/2026/11/how-to-solve-the-healthcare-worker-retention-crisis/",
-   "published": "2026-11-26T03:09:04+00:00"
+   "headline": "Waves tear off end of Pacifica pier in California",
+   "summary": "Part of a pier in Pacifica, California, collapsed into the ocean as powerful waves struck the coast during a king tide, according to city officials. The city’s seawall was also dam",
+   "link": "https://bnonews.com/index.php/2026/11/waves-tear-off-end-of-pacifica-pier-in-california/",
+   "published": "2026-11-26T04:06:02+00:00"
   },
   {
    "outlet": "Carbon Brief",
@@ -801,13 +773,6 @@
   },
   {
    "outlet": "Daily Maverick",
-   "headline": "Israeli strike kills Hamas official, his wife and children",
-   "summary": "CAIRO, Nov 25 (Reuters) - Israel’s military killed a senior Hamas security official as well as his wife and two children with an airstrike on their Gaza Strip apartment early on We",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-25-israeli-strike-kills-hamas-official-his-wife-and-children/",
-   "published": "2026-11-25T11:32:29+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
    "headline": "Australia passes law forcing internet platforms to take down harmful content",
    "summary": "SYDNEY, Nov 25 (Reuters) - Australia passed a law requiring internet companies to proactively stamp out harmful content and features or face fines of up to 5% of global revenue, a ",
    "link": "https://www.dailymaverick.co.za/article/2026-11-25-australia-passes-law-forcing-internet-platforms-to-take-down-harmful-content/",
@@ -906,16 +871,16 @@
   },
   {
    "outlet": "Daily Maverick",
-   "headline": "IMPEACHMENT REPORT: Ramaphosa wins in court, but the Phala Phala saga is by no means over",
-   "summary": "Wednesday’s ruling overturning the Section 89 Phala Phala report brings legal clarity and dissolves Parliament’s impeachment committee, yet political fallout and opposition appeals",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-25-ramaphosa-wins-in-court-but-the-phala-phala-saga-is-by-no-means-over/",
+   "headline": "ANALYISIS: Mashaba’s racial rhetoric overshadows Joburg’s challenges, risks alienating voters",
+   "summary": "Gauteng’s coalition negotiations have become increasingly dominated by racial rhetoric and political rivalries, particularly Herman Mashaba’s attacks on the DA and Helen Zille, des",
+   "link": "https://www.dailymaverick.co.za/article/2026-11-25-mashabas-racial-rhetoric-overshadows-joburgs-challenges-risks-alienating-voters/",
    "published": "2026-11-25T22:00:00+00:00"
   },
   {
    "outlet": "Daily Maverick",
-   "headline": "ANALYISIS: Mashaba’s racial rhetoric overshadows Joburg’s challenges, risks alienating voters",
-   "summary": "Gauteng’s coalition negotiations have become increasingly dominated by racial rhetoric and political rivalries, particularly Herman Mashaba’s attacks on the DA and Helen Zille, des",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-25-mashabas-racial-rhetoric-overshadows-joburgs-challenges-risks-alienating-voters/",
+   "headline": "IMPEACHMENT REPORT: Ramaphosa wins in court, but the Phala Phala saga is by no means over",
+   "summary": "Wednesday’s ruling overturning the Section 89 Phala Phala report brings legal clarity and dissolves Parliament’s impeachment committee, yet political fallout and opposition appeals",
+   "link": "https://www.dailymaverick.co.za/article/2026-11-25-ramaphosa-wins-in-court-but-the-phala-phala-saga-is-by-no-means-over/",
    "published": "2026-11-25T22:00:00+00:00"
   },
   {
@@ -973,6 +938,13 @@
    "summary": "SEOUL, Nov 26 (Reuters) - North Korean leader Kim Jong Un said his country should focus on deploying tactical nuclear weapons across multiple domains and that its nuclear material ",
    "link": "https://www.dailymaverick.co.za/article/2026-11-26-north-koreas-kim-urges-wider-tactical-nuclear-weapons-deployment-on-facility-tour-kcna-says/",
    "published": "2026-11-26T05:01:05+00:00"
+  },
+  {
+   "outlet": "Daily Maverick",
+   "headline": "BOOK EXCERPT: Stoep stories in Victoria West — Where the Karoo’s quiet streets keep history alive",
+   "summary": "Victoria West’s Karoo history is packed with wool-boom wealth, wartime heroics, devastating floods and an aerodrome that once linked the remote town to the world.",
+   "link": "https://www.dailymaverick.co.za/article/2026-11-26-stoep-stories-in-victoria-west-where-the-karoos-quiet-streets-keep-history-alive/",
+   "published": "2026-11-26T05:30:00+00:00"
   }
  ]
 }

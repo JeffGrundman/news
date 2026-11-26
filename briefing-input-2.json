@@ -1,5 +1,5 @@
 {
- "built": "2026-11-26T03:32:38.701164+00:00",
+ "built": "2026-11-26T05:00:22.331016+00:00",
  "window_hours": 24,
  "part": "briefing-input-2.json",
  "all_parts": [
@@ -31,7 +31,7 @@
   "https://www.thestar.com.my/rss/News/World: HTTP 404",
   "https://kyivindependent.com/feed/: HTTP 404",
   "https://www.timesofisrael.com/feed/: HTTP 403",
-  "https://www.haaretz.com/cmlink/1.4605090: HTTP 403"
+  "https://www.haaretz.com/cmlink/1.4605090: no items (page began: <!DOCTYPE html><html lang=\"he\" dir=\"rtl\"><head><meta charSet=\"utf-8\"/><link rel=)"
  ],
  "stories": [
   {
@@ -61,20 +61,6 @@
    "summary": "Climate-vulnerable countries fought for years to create a loss and damage fund. Four years on, demand far outstrips funding, pledges are scarce, and disaster-hit nations are still ",
    "link": "https://www.dw.com/en/climate-loss-and-damage-fund-exists-but-the-money-doesn-t/a-80035620?maca=en-rss-en-all-1573-rdf",
    "published": "2026-11-25T09:49:00+00:00"
-  },
-  {
-   "outlet": "DW News",
-   "headline": "Australia, Solomon Islands sign sweeping pact seen as countering China",
-   "summary": "Australia will become the Solomon Islands' primary security partner, while the archipelago will reject any foreign power trying to \"interfere\" on its \"sensitive\" infrastructure.",
-   "link": "https://www.dw.com/en/australia-solomon-islands-sign-sweeping-pact-seen-as-countering-china/a-80043646?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-11-25T10:51:00+00:00"
-  },
-  {
-   "outlet": "DW News",
-   "headline": "North Korea expels Swiss envoy over sanctions on camp accused of indoctrinating Ukrainian children",
-   "summary": "North Korea has ordered Switzerland to close its newly reopened diplomatic office. The dispute centers on Swiss sanctions against a camp accused of indoctrinating Ukrainian childre",
-   "link": "https://www.dw.com/en/north-korea-expels-swiss-envoy-over-sanctions-on-camp-accused-of-indoctrinating-ukrainian-children/a-80043648?maca=en-rss-en-all-1573-rdf",
-   "published": "2026-11-25T11:12:00+00:00"
   },
   {
    "outlet": "DW News",
@@ -201,6 +187,20 @@
    "summary": "A major storm is forecast to move up the US East Coast and is likely to cause travel delays. Weather warnings were enough to postpone Macy's Thanksgiving Day Parade for the first t",
    "link": "https://www.dw.com/en/extreme-weather-threatens-thanksgiving-festivities-in-us/a-80055880?maca=en-rss-en-all-1573-rdf",
    "published": "2026-11-26T02:47:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "Kim Jong Un tours nuclear material sites, urges wider use of tactical nuclear weapons",
+   "summary": "North Korea's Kim Jong Un visited sites that produce nuclear material and told his military to focus on tactical weapons, saying his country's nuclear status is irreversible.",
+   "link": "https://www.dw.com/en/kim-jong-un-tours-nuclear-material-sites-urges-wider-use-of-tactical-nuclear-weapons/a-80055887?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-26T04:12:00+00:00"
+  },
+  {
+   "outlet": "DW News",
+   "headline": "US court blocks regulator's early review of ABC's broadcast licenses",
+   "summary": "The FCC chairman had ordered an early review of ABC's licenses a day after President Donald Trump called for the broadcaster to fire Jimmy Kimmel earlier this year. The licenses we",
+   "link": "https://www.dw.com/en/us-court-blocks-regulator-s-early-review-of-abc-s-broadcast-licenses/a-80056181?maca=en-rss-en-all-1573-rdf",
+   "published": "2026-11-26T04:36:00+00:00"
   },
   {
    "outlet": "FactCheck.org",
@@ -799,13 +799,6 @@
   },
   {
    "outlet": "Politico Europe",
-   "headline": "Macron threatens to stop negotiating EU budget after December",
-   "summary": "The French president's ultimatum ramps up pressure on negotiators ahead of a budget-focused European Council meeting.",
-   "link": "https://www.politico.eu/article/emmanuel-macron-threatens-stop-negotiating-eu-budget-after-december/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "published": "2026-11-25T16:40:20+00:00"
-  },
-  {
-   "outlet": "Politico Europe",
    "headline": "Les centristes en quête d’un candidat",
    "summary": "François Bayrou, Jean Louis Borloo, Marc Fesneau, Hervé Marseille… Les figures du centrisme cherchent un candidat. Pas convaincus par ceux qui sont en course, et remontés contre l’",
    "link": "https://www.politico.eu/podcast/playbook-paris-podcast/les-centristes-en-quete-dun-candidat/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -866,6 +859,13 @@
    "summary": "The right-wing challenger wants sweeping spending cuts, looser business rules and tougher immigration controls.",
    "link": "https://www.politico.eu/article/lisnard-riviera-mayor-wants-milei-chainsaw-politics-france-presidential-candidate/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
    "published": "2026-11-26T03:00:00+00:00"
+  },
+  {
+   "outlet": "Politico Europe",
+   "headline": "Prostitution in Deutschland vor dem Aus?",
+   "summary": "Präsentiert von YouTube.",
+   "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/prostitution-in-deutschland-vor-dem-aus/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "published": "2026-11-26T04:01:00+00:00"
   },
   {
    "outlet": "ProPublica",
