@@ -1,13 +1,17 @@
 {
- "built": "2026-11-25T05:26:13.150889+00:00",
+ "built": "2026-11-26T03:32:38.701164+00:00",
  "window_hours": 24,
  "part": "briefing-input-3.json",
  "all_parts": [
   "briefing-input.json",
   "briefing-input-2.json",
-  "briefing-input-3.json"
+  "briefing-input-3.json",
+  "briefing-input-4.json"
  ],
  "outlets_here": [
+  "Reason",
+  "Rest of World",
+  "Science News",
   "Semafor",
   "STAT",
   "The Conversation",
@@ -15,704 +19,640 @@
   "The Dispatch",
   "The Guardian",
   "The Intercept",
-  "The Jerusalem Post",
-  "The Moscow Times"
+  "The Jerusalem Post"
  ],
- "story_count": 133,
+ "story_count": 146,
  "feeds_with_problems": [
   "https://san.com/feed/: no items (page began: <!doctype html> <html lang=\"en\"> <head> \t<meta charset=\"utf-8\"> \t<meta name=\"vie)",
   "https://www.positive.news/feed/: HTTP 403",
   "https://www.thestar.com.my/rss/News/World: HTTP 404",
   "https://kyivindependent.com/feed/: HTTP 404",
   "https://www.timesofisrael.com/feed/: HTTP 403",
-  "https://www.haaretz.com/cmlink/1.4605090: no items (page began: <!DOCTYPE html><html lang=\"he\" dir=\"rtl\"><head><meta charSet=\"utf-8\"/><link rel=)"
+  "https://www.haaretz.com/cmlink/1.4605090: HTTP 403"
  ],
  "stories": [
   {
-   "outlet": "Semafor",
-   "headline": "Thune prepares to navigate the minority — and an unpredictable Trump",
-   "summary": "The Senate GOP leader will have a front row seat as the Republican Party transitions to a new leader.",
-   "link": "https://www.semafor.com/article/11/24/2026/thune-prepares-to-navigate-the-minority-and-an-unpredictable-trump",
-   "published": "2026-11-24T10:03:37+00:00"
+   "outlet": "Reason",
+   "headline": "Second Amendment Roundup II: The Semiauto AR-15 is fundamentally different than the full-auto M-16",
+   "summary": "At issue in Viramontes (now Khaya) v. Cook County in the Supreme Court is the difference between fully automatic firearms… The post Second Amendment Roundup II: The Semiauto AR-15 ",
+   "link": "https://reason.com/volokh/2026/11/24/second-amendment-roundup-ii-the-semiauto-ar-15-is-fundamentally-different-than-the-full-auto-m-16/",
+   "published": "2026-11-25T04:20:25+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "Elon Musk Discovers That 'American Elections Are Not Just About Money'",
+   "summary": "Elon Musk against a backdrop of a blackboard",
+   "link": "https://reason.com/2026/11/25/elon-musk-discovers-that-american-elections-are-not-just-about-money/",
+   "published": "2026-11-25T05:01:55+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "Open Thread",
+   "summary": "What’s on your mind?",
+   "link": "https://reason.com/volokh/2026/11/25/open-thread-399/",
+   "published": "2026-11-25T08:00:00+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "Brickbat: Ride Along",
+   "summary": "Former Buckeye, Arizona, Fire Captain Joe Frazier and Engineer Ryan Clark",
+   "link": "https://reason.com/2026/11/25/brickbat-ride-along/",
+   "published": "2026-11-25T09:00:25+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "Today in Supreme Court History: November 25, 1757",
+   "summary": "11/25/1757: Henry Brockholst Livingston's birthday. He dissented in the property law classic, Pierson v. Post (NY 1805). The post Today in Supreme Court History: November 25, 1757 ",
+   "link": "https://reason.com/volokh/2026/11/25/today-in-supreme-court-history-november-25-1757-8/",
+   "published": "2026-11-25T12:00:46+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "Trump Promised To Undo Biden's Energy Agenda. Instead, He Changed Who Benefits.",
+   "summary": "Joe Biden and Donald Trump",
+   "link": "https://reason.com/2026/11/25/trump-promised-to-undo-bidens-energy-agenda-instead-he-changed-who-benefits/",
+   "published": "2026-11-25T13:00:39+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "Fifth Circuit Dismisses Lawsuit Over Facebook Removal, Supposedly Connected to Stanford Internet Observatory, of COVID-Related Post",
+   "summary": "From Hines v. Stamos, decided yesterday by Judges W. Eugene Davis, Leslie Southwick, and Stuart Kyle Duncan: Jill Hines sued… The post Fifth Circuit Dismisses Lawsuit Over Facebook",
+   "link": "https://reason.com/volokh/2026/11/25/fifth-circuit-dismisses-lawsuit-over-facebook-removal-supposedly-connected-to-stanford-internet-observatory-of-covid-related-post/",
+   "published": "2026-11-25T13:01:37+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "Run, Paul, Run",
+   "summary": "Kentucky Senator Rand Paul",
+   "link": "https://reason.com/2026/11/25/run-paul-run/",
+   "published": "2026-11-25T14:30:06+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "New York Launches Special Unit To Police AI",
+   "summary": "\"Law & Order\" tv show logo with AI Victims Unit text",
+   "link": "https://reason.com/2026/11/25/new-york-launches-special-unit-to-police-ai/",
+   "published": "2026-11-25T14:58:10+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "New in Civitas Outlook: \"Justice Kagan Cries Wolf\"",
+   "summary": "\"If Justice Kagan is truly worried about the Court’s declining legitimacy, then she would not accelerate that decline through questioning the legitimacy of her own institution.\"",
+   "link": "https://reason.com/volokh/2026/11/25/new-in-civitas-outlook-justice-kagan-cries-wolf/",
+   "published": "2026-11-25T15:15:09+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "How Many 'Ghost Apartments' Are There in New York City?",
+   "summary": "New York City skyling",
+   "link": "https://reason.com/2026/11/25/how-many-ghost-apartments-are-there-in-new-york-city/",
+   "published": "2026-11-25T15:45:42+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "Why Both Parties Are Turning Against Free Markets",
+   "summary": "Allison Schrager appears on the left. Nick Gillespie appears on the right. An image of two coin stacks with an arrow pointing downward appears in the center. Bold text across the t",
+   "link": "https://reason.com/podcast/2026/11/25/why-both-parties-are-turning-against-free-markets/",
+   "published": "2026-11-25T16:00:37+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "Trump's Latest Tariffs Underscore the Urgency of Congressional Reforms",
+   "summary": "President Trump standing at a podium with a shipping container in the background",
+   "link": "https://reason.com/2026/11/25/trumps-latest-tariffs-underscore-the-urgency-of-congressional-reforms/",
+   "published": "2026-11-25T16:15:46+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "The Pilgrims Tried Socialism. It Nearly Starved Them.",
+   "summary": "John Stossel is seen in front of a painting of the Mayflower",
+   "link": "https://reason.com/2026/11/25/the-pilgrims-tried-socialism-it-nearly-starved-them/",
+   "published": "2026-11-25T17:05:11+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "Some Miscellaneous SCOTUS Scoops From Woodward's \"Secret\"",
+   "summary": "There is not much new information revealed beyond what is in The Brethren, but we learn how Woodward obtained the information.",
+   "link": "https://reason.com/volokh/2026/11/25/some-miscellaneous-scotus-scoops-from-woodwards-secret/",
+   "published": "2026-11-25T18:06:52+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "Young New Yorkers Are Losing Money on Prediction Markets. That's Not a Reason To Ban Them.",
+   "summary": "New York Attorney General Letitia James",
+   "link": "https://reason.com/2026/11/25/young-new-yorkers-are-losing-money-on-prediction-markets-thats-not-a-reason-to-ban-them/",
+   "published": "2026-11-25T18:24:21+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "More and More Cities Consider Rent Control for Dogs",
+   "summary": "A dog looking out the window",
+   "link": "https://reason.com/2026/11/25/more-and-more-cities-consider-rent-control-for-dogs/",
+   "published": "2026-11-25T18:45:36+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "What So Many People Got Wrong about the Kilmar Abrego Garcia Case",
+   "summary": "Kilmar Abrego Garcia",
+   "link": "https://reason.com/2026/11/25/what-so-many-people-got-wrong-about-the-kilmar-abrego-garcia-case/",
+   "published": "2026-11-25T20:45:15+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "Bernie Sanders Wants To Mandate Pensions. Who Will Pay for Them?",
+   "summary": "Bernie Sanders",
+   "link": "https://reason.com/2026/11/25/bernie-sanders-wants-to-mandate-pensions-who-will-pay-for-them/",
+   "published": "2026-11-25T21:00:13+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "Quorums in Times of Crisis",
+   "summary": "There was no precedent for the proxy-quorum policy during the pandemic.",
+   "link": "https://reason.com/volokh/2026/11/25/quorums-in-times-of-crisis/",
+   "published": "2026-11-25T21:14:30+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "How Montgomery County Uses Its Alcohol Monopoly to Squeeze Small Businesses",
+   "summary": "Montgomery County, Maryland liquor store",
+   "link": "https://reason.com/2026/11/25/how-montgomery-county-uses-its-alcohol-monopoly-to-squeeze-small-businesses/",
+   "published": "2026-11-25T21:15:10+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "Why Prisoners Keep Serving Sentences That Congress Has Deemed Unjust",
+   "summary": "Supreme Court Justice Ketanji Brown Jackson",
+   "link": "https://reason.com/2026/11/25/why-prisoners-continue-to-serve-sentences-that-congress-has-deemed-unjust/",
+   "published": "2026-11-25T21:30:48+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "DNC Unveils 2028 Primary Plans: 12 Debates, Influencers, and No Dark Money",
+   "summary": "Democratic primary candidates",
+   "link": "https://reason.com/2026/11/25/dnc-unveils-2028-primary-plans-12-debates-influencers-and-no-dark-money/",
+   "published": "2026-11-25T21:45:52+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "Virginia S. Ct.: Felons Who Served Their Sentences Regain Second Amendment Rights Unless …",
+   "summary": "the government shows the felon \"poses a credible physical threat to the safety of another.\"",
+   "link": "https://reason.com/volokh/2026/11/25/virginia-s-ct-felons-who-served-their-sentences-regain-second-amendment-rights-unless/",
+   "published": "2026-11-25T22:38:13+00:00"
+  },
+  {
+   "outlet": "Reason",
+   "headline": "Court Blocks FCC from Early Review of ABC Broadcast Licenses",
+   "summary": "From today's decision by Judge Loren Alikhan (D.D.C.) in ABC, Inc. v. FCC: Plaintiffs assert that Defendants violated their First… The post Court Blocks FCC from Early Review of AB",
+   "link": "https://reason.com/volokh/2026/11/25/court-blocks-fcc-from-early-review-of-abc-broadcast-licenses/",
+   "published": "2026-11-26T00:55:08+00:00"
+  },
+  {
+   "outlet": "Rest of World",
+   "headline": "How foreign AI romance apps are reshaping youth intimacy in Africa",
+   "summary": "With no local safeguards in place, addictive chatbots are testing communal values and hooking children on synthetic love.",
+   "link": "https://restofworld.org/2026/ai-companion-apps-africa-character-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+   "published": "2026-11-25T11:00:00+00:00"
+  },
+  {
+   "outlet": "Science News",
+   "headline": "Australia’s legless geckos evolved like snakes did",
+   "summary": "Pygopods — Australia’s limbless geckos — have taken an evolutionary path more like that of snakes than of other legless lizards.",
+   "link": "https://www.sciencenews.org/article/legless-geckos-evolved-like-snakes",
+   "published": "2026-11-25T15:00:00+00:00"
+  },
+  {
+   "outlet": "Science News",
+   "headline": "A cosmically close supernova may spill the stellar explosion’s secrets",
+   "summary": "In early November, astronomers caught a nearby supernova. They soon realized it was something special and started scrambling to study it.",
+   "link": "https://www.sciencenews.org/article/close-supernova-secrets-white-dwarf",
+   "published": "2026-11-25T17:00:00+00:00"
   },
   {
    "outlet": "Semafor",
-   "headline": "More Americans back childhood vaccinations",
-   "summary": "Forty-seven percent of US adults say childhood shots are extremely important, according to new Gallup polling, up seven points from 2024.",
-   "link": "https://www.semafor.com/article/11/24/2026/more-americans-back-childhood-vaccinations",
-   "published": "2026-11-24T10:05:00+00:00"
+   "headline": "UN warns AIDS is on the rise following Western aid cuts",
+   "summary": "UNAIDS has already dismissed half its staff and stopped work in 30 countries.",
+   "link": "https://www.semafor.com/article/11/25/2026/un-warns-aids-is-on-the-rise-following-western-aid-cuts",
+   "published": "2026-11-25T12:04:40+00:00"
   },
   {
    "outlet": "Semafor",
-   "headline": "Huang’s return shows Vance’s influence as Rubio stays mum",
-   "summary": "The vice president used his Silicon Valley connections to help reinstate Huang, while Rubio has maintained a notable silence.",
-   "link": "https://www.semafor.com/article/11/24/2026/huangs-return-shows-vances-influence-as-rubio-stays-mum",
-   "published": "2026-11-24T10:33:27+00:00"
+   "headline": "Solomon Islands drops China pact, turns to Australia",
+   "summary": "The reversal dealt a major blow to Beijing’s efforts to expand its influence in the Pacific.",
+   "link": "https://www.semafor.com/article/11/25/2026/solomon-islands-drops-china-pact-turns-to-australia",
+   "published": "2026-11-25T12:05:47+00:00"
   },
   {
    "outlet": "Semafor",
-   "headline": "DR Congo sets deadline for local mine ownership decree",
-   "summary": "Major miners including Glencore, Ivanhoe, and China’s CMOC will have to give up stakes in the Congolese operations to locals.",
-   "link": "https://www.semafor.com/article/11/24/2026/dr-congo-sets-deadline-for-local-mine-ownership-decree",
-   "published": "2026-11-24T10:49:36+00:00"
+   "headline": "Saudi Arabia can fund a ‘prolonged’ war, Finance Minister says",
+   "summary": "Kingdom will not be ‘blackmailed’ by attacks on infrastructure and has ‘no cap’ on military spending.",
+   "link": "https://www.semafor.com/article/11/25/2026/saudi-arabia-can-fund-a-prolonged-war-finance-minister-says",
+   "published": "2026-11-25T12:13:08+00:00"
   },
   {
    "outlet": "Semafor",
-   "headline": "We’re entering a Chinese world",
-   "summary": "The collapse of COP31 talks and Jensen Huang’s political rescue are both signs of a global system increasingly shaped by Chinese values, models, and interests.",
-   "link": "https://www.semafor.com/article/11/24/2026/were-entering-a-chinese-world",
-   "published": "2026-11-24T11:22:51+00:00"
+   "headline": "Africa’s cashless revolution faces AI challenge",
+   "summary": "AI is making it easier for criminals to trick people into authorizing payments",
+   "link": "https://www.semafor.com/article/11/25/2026/africas-cashless-revolution-faces-ai-challenge",
+   "published": "2026-11-25T12:38:55+00:00"
   },
   {
    "outlet": "Semafor",
-   "headline": "Oil prices near three-month low",
-   "summary": "A leading expert forecast that the market will be inundated with crude in the coming months.",
-   "link": "https://www.semafor.com/article/11/24/2026/oil-prices-near-three-month-low",
-   "published": "2026-11-24T11:57:54+00:00"
+   "headline": "Nigeria holds interest rate before January elections",
+   "summary": "The bank’s rate-setting committee pointed to slowing inflation but noted that continued tensions in the Middle East “could sustain pressure on energy prices.”",
+   "link": "https://www.semafor.com/article/11/25/2026/nigeria-holds-benchmark-interest-rate-before-elections-in-january",
+   "published": "2026-11-25T13:13:45+00:00"
   },
   {
    "outlet": "Semafor",
-   "headline": "Chinese authorities look to halt stock market sell-off",
-   "summary": "Officials plan to lower fees and margin requirements on China’s main exchanges.",
-   "link": "https://www.semafor.com/article/11/24/2026/chinese-authorities-took-steps-to-stop-stock-market-sell-off",
-   "published": "2026-11-24T11:59:06+00:00"
+   "headline": "MTN and Telkom talks draw South Africa union fire",
+   "summary": "The proposed transaction could reshape one of Africa’s largest mobile markets.",
+   "link": "https://www.semafor.com/article/11/25/2026/telecoms-giant-mtn-and-telkom-talks-draw-union-fire",
+   "published": "2026-11-25T13:19:28+00:00"
   },
   {
    "outlet": "Semafor",
-   "headline": "The DRC reimposes cobalt export ban as prices drop",
-   "summary": "It is a bid to boost the price of the metal, of which it holds the world’s largest reserves.",
-   "link": "https://www.semafor.com/article/11/24/2026/democratic-republic-of-congo-reimposes-cobalt-export-ban",
-   "published": "2026-11-24T12:00:08+00:00"
+   "headline": "Senegal restored as AFCON champions",
+   "summary": "A court in Switzerland overturned a decision by football’s continental governing body that had declared Morocco the champions.",
+   "link": "https://www.semafor.com/article/11/25/2026/senegal-restored-as-champions-of-africas-top-football-competition",
+   "published": "2026-11-25T13:21:25+00:00"
   },
   {
    "outlet": "Semafor",
-   "headline": "Russia reportedly to launch a nuclear weapon into space",
-   "summary": "The assessment comes after Russia’s president last week committed to dialogue on nuclear nonproliferation.",
-   "link": "https://www.semafor.com/article/11/24/2026/reports-say-russia-is-prepping-to-launch-a-nuclear-weapon-into-space",
-   "published": "2026-11-24T12:01:13+00:00"
+   "headline": "South Africa baobab trees replanted after smuggling attempt",
+   "summary": "A landscaping company sold the two-century-old trees to a customer in the Caucasus country of Georgia without permission from the authorities.",
+   "link": "https://www.semafor.com/article/11/25/2026/five-baobab-trees-replanted-in-a-south-african-nature-reserve-after-attempted-illegal-export",
+   "published": "2026-11-25T13:26:59+00:00"
   },
   {
    "outlet": "Semafor",
-   "headline": "Jensen Huang’s Nvidia return shakes Washington",
-   "summary": "Vice President JD Vance’s role in Huang’s comeback marked a contrast to Secretary of State Marco Rubio’s more hawkish outlook.",
-   "link": "https://www.semafor.com/article/11/24/2026/jensen-huangs-comeback-as-nvidia-ceo-shakes-washington",
-   "published": "2026-11-24T12:04:43+00:00"
+   "headline": "Anthropic stock tumble shows IPO gamesmanship",
+   "summary": "Anthropic shares fell below their $83-a-share IPO price on Tuesday, careening toward the original target of $78 a share.",
+   "link": "https://www.semafor.com/article/11/25/2026/anthropic-stock-tumble-shows-ipo-gamesmanship",
+   "published": "2026-11-25T13:27:03+00:00"
   },
   {
    "outlet": "Semafor",
-   "headline": "Asian stocks soar after Jensen Huang’s return as Nvidia CEO",
-   "summary": "Shares in Asian chipmakers SK Hynix and TSMC jumped by double digits, building on huge US gains yesterday.",
-   "link": "https://www.semafor.com/article/11/24/2026/asian-stocks-soar-after-jensen-huangs-return-as-nvidia-ceo",
-   "published": "2026-11-24T12:05:25+00:00"
+   "headline": "The dopamine hit in markets from Jensen Huang's comeback has already faded",
+   "summary": "The laws of financial gravity are catching up to AI and its frontman at speeds that are hard to outrun.",
+   "link": "https://www.semafor.com/article/11/25/2026/the-dopamine-hit-in-markets-from-jensen-huangs-comeback-has-already-faded",
+   "published": "2026-11-25T13:35:49+00:00"
   },
   {
    "outlet": "Semafor",
-   "headline": "Saudi Arabia asks allies from America to Asia for help restocking missile defenses",
-   "summary": "The kingdom is seeking to restock military equipment amid expectations of a prolonged conflict with Yemen’s Houthis.",
-   "link": "https://www.semafor.com/article/11/24/2026/saudi-arabia-asks-allies-from-america-to-asia-for-help-restocking-missile-defenses",
-   "published": "2026-11-24T12:20:01+00:00"
+   "headline": "Gaza group to air defund Israel ad during SNL",
+   "summary": "Poll suggests that Israel support and Iran war hurt GOP in midterms",
+   "link": "https://www.semafor.com/article/11/24/2026/gaza-group-to-air-defund-israel-ad-during-snl",
+   "published": "2026-11-25T13:36:33+00:00"
   },
   {
    "outlet": "Semafor",
-   "headline": "UAE launches AI assistant to track children’s learning",
-   "summary": "The tool will use existing school records to flag learning gaps early.",
-   "link": "https://www.semafor.com/article/11/24/2026/uae-launches-ai-assistant-to-track-childrens-learning",
-   "published": "2026-11-24T12:41:34+00:00"
+   "headline": "US proposes sweeping new tariffs on China, others",
+   "summary": "The so-called excess capacity tariffs, which conclude investigations begun in March, comply with existing trade deals and vary by country.",
+   "link": "https://www.semafor.com/article/11/25/2026/us-proposes-sweeping-new-tariffs-on-china-others",
+   "published": "2026-11-25T13:48:58+00:00"
   },
   {
    "outlet": "Semafor",
-   "headline": "Small traders reap the reward from buying Nvidia dip",
-   "summary": "Nvidia was the most-traded name across all of Robinhood on Nov. 12, when Huang resigned, and the retail broker’s customers remained net buyers in the days that followed.",
-   "link": "https://www.semafor.com/article/11/24/2026/small-traders-reap-the-reward-from-buying-nvidia-dip",
-   "published": "2026-11-24T13:39:45+00:00"
+   "headline": "Patent expiration cliffs spur drugmaker M&A",
+   "summary": "The looming expiration of a blockbuster drug patent pushed Sanofi into the biggest M&A deal in its history this week, and more are expected to come.",
+   "link": "https://www.semafor.com/article/11/25/2026/patent-expiration-cliffs-spur-drugmaker-ma",
+   "published": "2026-11-25T16:08:06+00:00"
   },
   {
    "outlet": "Semafor",
-   "headline": "Jensen Huang's Nvidia comeback leaves him unfireable and indebted to Trump",
-   "summary": "Huang’s comeback will not protect the AI industry from the laws of gravity starting to assert themselves.",
-   "link": "https://www.semafor.com/article/11/24/2026/jensen-huangs-nvidia-comeback-leaves-him-unfireable-and-indebted-to-trump",
-   "published": "2026-11-24T13:46:57+00:00"
+   "headline": "Biden’s enduring win",
+   "summary": "How Medicare drug price negotiations survived a Republican White House.",
+   "link": "https://www.semafor.com/article/11/25/2026/bidens-enduring-win",
+   "published": "2026-11-25T16:11:07+00:00"
   },
   {
    "outlet": "Semafor",
-   "headline": "A 'properly indignant' history of US elitism",
-   "summary": "Historian Nancy Isenberg explores how the US has upheld its own iteration of aristocracy, albeit not in name.",
-   "link": "https://www.semafor.com/article/11/24/2026/an-excoriating-and-often-exhilarating-history-of-class-in-the-us",
-   "published": "2026-11-24T15:32:23+00:00"
+   "headline": "Democrats’ long 2016 primary is finally over — and Sanders won",
+   "summary": "Democrats’ 2016 presidential primary finally ended this week. Bernie Sanders won.",
+   "link": "https://www.semafor.com/article/11/25/2026/democrats-long-2016-primary-is-finally-over-and-sanders-won",
+   "published": "2026-11-25T16:53:54+00:00"
   },
   {
    "outlet": "Semafor",
-   "headline": "Climate action doesn't need consensus",
-   "summary": "The breakdown of COP31 reveals a process in need of an overhaul, but the solution shouldn’t be hard to find.",
-   "link": "https://www.semafor.com/article/11/24/2026/climate-action-doesnt-need-consensus",
-   "published": "2026-11-24T16:33:56+00:00"
+   "headline": "Huang's return to Nvidia complicates open-source model race",
+   "summary": "CEO Jensen Huang’s return to Nvidia could also spur Beijing to speed up its own push to build homegrown chips.",
+   "link": "https://www.semafor.com/article/11/25/2026/huangs-return-to-nvidia-complicates-open-source-model-race",
+   "published": "2026-11-25T17:30:51+00:00"
   },
   {
    "outlet": "Semafor",
-   "headline": "The outlook for the bipartisan reform bill darkens",
-   "summary": "After passing the Senate last week, permitting reform legislation is now under review in the House of Representatives.",
-   "link": "https://www.semafor.com/article/11/24/2026/the-outlook-for-the-bipartisan-reform-bill-darkens",
-   "published": "2026-11-24T16:41:31+00:00"
+   "headline": "Powerful but unpredictable AI is a product no one will buy",
+   "summary": "The failure to build anything remotely like the powerful, job-replacing AI some Silicon Valley figures hoped to build is good news for the rest of society.",
+   "link": "https://www.semafor.com/article/11/25/2026/powerful-but-unpredictable-ai-is-a-product-no-one-will-buy",
+   "published": "2026-11-25T17:31:33+00:00"
   },
   {
    "outlet": "Semafor",
-   "headline": "The UK and EU link their carbon markets",
-   "summary": "Since Brexit, Brussels and London have operated similar, but separate, emissions-trading systems.",
-   "link": "https://www.semafor.com/article/11/24/2026/the-uk-and-eu-link-their-carbon-markets",
-   "published": "2026-11-24T16:42:49+00:00"
+   "headline": "Jensen Huang to face questioning on Capitol Hill",
+   "summary": "The Nvidia CEO will appear before Congress on Tuesday, the same day he was scheduled to give a keynote at its annual tech showcase for developers, industry partners, and government",
+   "link": "https://www.semafor.com/article/11/25/2026/jensen-huang-to-face-questioning-on-capitol-hill",
+   "published": "2026-11-25T17:35:40+00:00"
   },
   {
    "outlet": "Semafor",
-   "headline": "USDA has no plans to probe death of hippo Fiona",
-   "summary": "The department indicated it has no concerns about the celebrity hippo’s enclosure or medical care.",
-   "link": "https://www.semafor.com/article/11/24/2026/usda-has-no-plans-to-probe-death-of-hippo-fiona",
-   "published": "2026-11-24T17:08:27+00:00"
+   "headline": "ASML's CEO makes the case for selling chips to China",
+   "summary": "“You need [export controls] to protect very advanced technology, but you also have to use export control in such a way that you don't completely frustrate a country and invite that",
+   "link": "https://www.semafor.com/article/11/25/2026/asml-makes-the-case-for-selling-chips-to-china",
+   "published": "2026-11-25T17:48:26+00:00"
   },
   {
    "outlet": "Semafor",
-   "headline": "Trump to double down on tariffs after midterms defeat",
-   "summary": "Midterm exit polling that found most voters viewed tariffs negatively.",
-   "link": "https://www.semafor.com/article/11/24/2026/trump-to-double-down-on-tariffs-after-midterms-defeat",
-   "published": "2026-11-24T20:44:58+00:00"
+   "headline": "House Democrats chart path on trading bans",
+   "summary": "Democrats may ban members from using prediction markets as part of a measure governing the House — then vote on standalone legislation that would prevent elected officials from tra",
+   "link": "https://www.semafor.com/article/11/25/2026/house-democrats-chart-path-on-trading-bans",
+   "published": "2026-11-25T19:27:44+00:00"
   },
   {
    "outlet": "Semafor",
-   "headline": "Anthropic shares plunge as AI trade wobbles",
-   "summary": "Investors’ anxiety over AI reasserted itself Tuesday as the burst of optimism surrounding Jensen Huang’s return as Nvidia CEO waned.",
-   "link": "https://www.semafor.com/article/11/24/2026/anthropic-shares-plunge-as-ai-trade-wobbles",
-   "published": "2026-11-24T22:17:36+00:00"
+   "headline": "US intelligence suggests Jensen affair was actually amorous",
+   "summary": "Evidence collected by US intelligence suggests that Beijing did not orchestrate Alice Huang’s affair with Jensen Huang as ploy to access Nvidia chips.",
+   "link": "https://www.semafor.com/article/11/25/2026/us-intelligence-suggests-jensen-affair-was-actually-amorous",
+   "published": "2026-11-25T22:21:34+00:00"
   },
   {
    "outlet": "Semafor",
-   "headline": "China investigates Politburo member as corruption purge deepens",
-   "summary": "China is investigating a member of the country’s Politburo over “serious violations of discipline and law,” state media reported Tuesday, intensifying the deepest purge of Beijing’",
-   "link": "https://www.semafor.com/article/11/24/2026/china-investigates-politburo-member-amid-anti-corruption-purge",
-   "published": "2026-11-24T22:23:03+00:00"
+   "headline": "New US export rules threaten Asian AI buildout",
+   "summary": "Lenders paused billions in funding linked to Chinese hyperscalers, Bloomberg reported, imperiling the data center buildout across Asia.",
+   "link": "https://www.semafor.com/article/11/25/2026/new-us-export-rules-threaten-asian-ai-buildout",
+   "published": "2026-11-25T22:23:15+00:00"
   },
   {
    "outlet": "Semafor",
-   "headline": "Saudi crown prince will come to US for G20 summit",
-   "summary": "It would be Mohammed bin Salman’s first trip to the US since the outbreak of the Iran war.",
-   "link": "https://www.semafor.com/article/11/24/2026/saudi-crown-prince-will-come-to-us-for-g20-summit",
-   "published": "2026-11-25T01:23:49+00:00"
+   "headline": "Tech selloff extends on AI, neocloud jitters",
+   "summary": "Swaps on CoreWeave’s debt priced in a more than 70% chance of default within the next five years, as worries intensified around highly leveraged neoclouds.",
+   "link": "https://www.semafor.com/article/11/25/2026/tech-selloff-extends-on-ai-neocloud-jitters",
+   "published": "2026-11-25T22:27:13+00:00"
   },
   {
    "outlet": "Semafor",
-   "headline": "Pentagon eyes GM for drone production: WSJ",
-   "summary": "Facing munitions shortages, the US aims to increase domestic production of cheaper weapons systems.",
-   "link": "https://www.semafor.com/article/11/24/2026/pentagon-eyes-gm-for-drone-production-wsj",
-   "published": "2026-11-25T02:16:53+00:00"
+   "headline": "US economy expands at a rapid 4.3% in third quarter",
+   "summary": "The latest figures bolstered the case for the Federal Reserve to raise interest rates despite the downturn in tech markets.",
+   "link": "https://www.semafor.com/article/11/25/2026/us-economy-expands-at-a-rapid-43-in-third-quarter",
+   "published": "2026-11-25T22:30:52+00:00"
+  },
+  {
+   "outlet": "Semafor",
+   "headline": "Netanyahu gets boost in long-running corruption trial",
+   "summary": "Judges overseeing the case against the Israeli prime minister recommended that prosecutors drop the most serious charge.",
+   "link": "https://www.semafor.com/article/11/25/2026/netanyahu-gets-boost-in-long-running-corruption-trial",
+   "published": "2026-11-25T22:35:24+00:00"
   },
   {
    "outlet": "STAT",
-   "headline": "STAT+: Sanofi to buy Insmed for $41B, picking up two lung disease medicines",
-   "summary": "Sanofi is buying U.S. biotech Insmed for $41 billion, a megadeal that will give the French pharma company two new approved medicines.",
-   "link": "https://www.statnews.com/2026/11/24/sanofi-insmed-acquisition-dupixent-rare-disease-inflammation/?utm_campaign=rss",
-   "published": "2026-11-24T07:54:44+00:00"
+   "headline": "Opinion: Washington and Beijing are building walls around biotechnology. That’s the wrong approach",
+   "summary": "“Data show that the U.S.-China contest in biotechnology is not one race but several,” writes Michael S. Kinch.",
+   "link": "https://www.statnews.com/2026/11/25/us-china-biotech-race-policy-data/?utm_campaign=rss",
+   "published": "2026-11-25T09:30:00+00:00"
   },
   {
    "outlet": "STAT",
-   "headline": "Opinion: Why medical students should keep going to class",
-   "summary": "“Attending lectures in person has become … the most powerful way I take care of my mental health,” medical student Brian Zhang writes.",
-   "link": "https://www.statnews.com/2026/11/24/medical-school-class-attendance-why-i-keep-going/?utm_campaign=rss",
-   "published": "2026-11-24T09:30:00+00:00"
+   "headline": "Despite stalling in court, Trump restrictions on foreign students have had a chilling effect on enrollment",
+   "summary": "New data show a clear drop in the enrollment of international graduate students, a key piece of the U.S. biomedical workforce.",
+   "link": "https://www.statnews.com/2026/11/25/foreign-students-us-biomedical-science-enrollment-drop-trump/?utm_campaign=rss",
+   "published": "2026-11-25T09:30:00+00:00"
   },
   {
    "outlet": "STAT",
-   "headline": "Opinion: Genomic testing is too fragmented. Instead, we should test once and evaluate often",
-   "summary": "“It’s time to consolidate testing by sequencing genomes once and reevaluating them when needed,” a genetic counselor writes.",
-   "link": "https://www.statnews.com/2026/11/24/genomic-testing-sequenced-once-tested-often/?utm_campaign=rss",
-   "published": "2026-11-24T09:30:00+00:00"
+   "headline": "RFK Jr. weighs in on plan to detonate toxic material in Iowa",
+   "summary": "This morning, the Army plans to detonate a cache of “dangerously degraded” toxic material in Iowa, with experts warning of dangerous health consequences:",
+   "link": "https://www.statnews.com/2026/11/25/health-news-rfk-jr-weighs-in-on-plan-to-detonate-toxic-material-in-iowa/?utm_campaign=rss",
+   "published": "2026-11-25T13:03:56+00:00"
   },
   {
    "outlet": "STAT",
-   "headline": "STAT+: AI can analyze X-rays and CT scans to draft radiology reports. Will it make care better, safer?",
-   "summary": "As the Radiological Society of North America meets in Chicago, industry insiders are expected to debate if AI draft reporting will improve care.",
-   "link": "https://www.statnews.com/2026/11/24/does-radiology-ai-draft-reports-make-care-better-safer-rsna/?utm_campaign=rss",
-   "published": "2026-11-24T09:30:00+00:00"
+   "headline": "STAT+: We’re reading about BioNTech founders’ oncology startup, a long-acting GSK drug, and more",
+   "summary": "The cofounders of BioNTech are in talks to raise about $1 billion for a new oncology company",
+   "link": "https://www.statnews.com/pharmalot/2026/11/25/biontech-founders-oncology-startup-gsk-egpa-drug-exdensur/?utm_campaign=rss",
+   "published": "2026-11-25T13:55:58+00:00"
   },
   {
    "outlet": "STAT",
-   "headline": "How artificial intelligence is offering new hope for stroke patients in the Last Frontier",
-   "summary": "In Alaska, a small network of hospitals is betting on AI tools to triage stroke patients and get them to the right care, faster.",
-   "link": "https://www.statnews.com/2026/11/24/alaskan-hospitals-artificial-intelligence-bet-improve-stroke-care/?utm_campaign=rss",
-   "published": "2026-11-24T09:30:00+00:00"
+   "headline": "STAT+: FDA approves Cogent’s drug for rare stomach cancer",
+   "summary": "Cogent Biosciences won FDA clearance for its stomach cancer treatment, in combination with a much older drug from Pfizer called Sutent.",
+   "link": "https://www.statnews.com/2026/11/25/biotech-news-fda-approves-cogents-drug-for-rare-stomach-cancer/?utm_campaign=rss",
+   "published": "2026-11-25T20:44:15+00:00"
   },
   {
    "outlet": "STAT",
-   "headline": "STAT+: In a rare move, the FDA cites two drugmakers for failing to report clinical trial results to a database",
-   "summary": "For the first time in more than a year, the FDA sent notices to companies for failing to report required clinical trial information.",
-   "link": "https://www.statnews.com/pharmalot/2026/11/24/fda-cites-two-drugmakers-for-failing-to-report-clinical-trial-results/?utm_campaign=rss",
-   "published": "2026-11-24T13:39:31+00:00"
-  },
-  {
-   "outlet": "STAT",
-   "headline": "Menopause hormone therapy med popularity increases 141% compared to previous years",
-   "summary": "In June 2026, 4.9M menopause hormone therapy medications were dispensed to cisgender women in the U.S. between the ages of 40 and 74.",
-   "link": "https://www.statnews.com/2026/11/24/health-news-menopause-hormone-therapy-med-popularity-increases-141-percent/?utm_campaign=rss",
-   "published": "2026-11-24T14:15:03+00:00"
-  },
-  {
-   "outlet": "STAT",
-   "headline": "STAT+: Alaskan hospitals use AI to improve stroke care, peptides go mainstream, and RSNA 2026",
-   "summary": "In this edition of STAT Health Tech: Alaskan hospitals using AI to improve stroke care, a look ahead at RSNA 2026, and peptides go mainstream.",
-   "link": "https://www.statnews.com/2026/11/24/alaskan-hospitals-using-ai-rsna-2026-peptides-health-tech/?utm_campaign=rss",
-   "published": "2026-11-24T14:19:30+00:00"
-  },
-  {
-   "outlet": "STAT",
-   "headline": "STAT+: Roche’s potential breast cancer blockbuster drug wins second FDA nod",
-   "summary": "Roche's breast cancer pill has picked up its second FDA clearance in a week, this time in early-stage breast cancer for use after surgery.",
-   "link": "https://www.statnews.com/2026/11/24/biotech-news-roche-potential-breast-cancer-blockbluster-drug-wins-second-fda-nod/?utm_campaign=rss",
-   "published": "2026-11-24T14:26:07+00:00"
-  },
-  {
-   "outlet": "STAT",
-   "headline": "STAT+: Pharmalittle: We’re reading about Sanofi buying Insmed, Roche touting its breast cancer pill, and more",
-   "summary": "Sanofi is buying the biotech Insmed for $41 billion, the largest biopharma acquisition in years and one that will give the French firm two new approved drugs",
-   "link": "https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/?utm_campaign=rss",
-   "published": "2026-11-24T14:27:36+00:00"
-  },
-  {
-   "outlet": "STAT",
-   "headline": "STAT+: RFK Jr. spills his calendar into public, but leaves much to the imagination",
-   "summary": "A partially redacted calendar showing health secretary Robert F. Kennedy Jr.’s activities was made public on Tuesday.",
-   "link": "https://www.statnews.com/2026/11/24/rfk-jr-calendar-hhs-records-rollout/?utm_campaign=rss",
-   "published": "2026-11-24T19:30:29+00:00"
+   "headline": "Why Medicare’s 2027 physician pay changes worry some specialists",
+   "summary": "Cuts to Medicare physician payment rates for certain same-day services could impact some specialists more than others.",
+   "link": "https://www.statnews.com/2026/11/25/medicare-physician-fee-schedule-change-worry-some-specialists/?utm_campaign=rss",
+   "published": "2026-11-25T21:28:53+00:00"
   },
   {
    "outlet": "The Conversation",
-   "headline": "From solving to ‘digesting’: How mathematicians can adapt to the dramatic changes AI has brought to their field",
-   "summary": "As new proof for the Riemann hypothesis demonstrates, AI will change how mathematics is practiced and taught to future generations.",
-   "link": "https://theconversation.com/from-solving-to-digesting-how-mathematicians-can-adapt-to-the-dramatic-changes-ai-has-brought-to-their-field-295539",
-   "published": "2026-11-24T13:11:24+00:00"
+   "headline": "Why American consumers are still spending and powering the US economy – and why this could soon fizzle",
+   "summary": "The American consumer has kept hanging on despite inflation, tariffs and high interest rates.",
+   "link": "https://theconversation.com/why-american-consumers-are-still-spending-and-powering-the-us-economy-and-why-this-could-soon-fizzle-295810",
+   "published": "2026-11-25T13:37:40+00:00"
   },
   {
    "outlet": "The Conversation",
-   "headline": "Backlash against data centers helped Democrats win the midterms",
-   "summary": "Survey data suggests that Republicans’ connections with an unpopular AI industry contributed to their poor showing at the polls.",
-   "link": "https://theconversation.com/backlash-against-data-centers-helped-democrats-win-the-midterms-297020",
-   "published": "2026-11-24T13:11:51+00:00"
+   "headline": "Why expect holiday traditions to stay the same, even as life continually changes?",
+   "summary": "Throughout life, people adjust routines, responsibilities and expectations to accommodate new circumstances – while being reluctant to make those same adjustments to holiday tradit",
+   "link": "https://theconversation.com/why-expect-holiday-traditions-to-stay-the-same-even-as-life-continually-changes-297450",
+   "published": "2026-11-25T13:37:58+00:00"
   },
   {
    "outlet": "The Conversation",
-   "headline": "The surge of women elected in the 2026 midterms, particularly women of color, will shape political engagement for a generation of young people",
-   "summary": "A record number of women and women of color was just elected to serve in state and national offices. When young people see politicians who look like them, it shifts who they imagin",
-   "link": "https://theconversation.com/the-surge-of-women-elected-in-the-2026-midterms-particularly-women-of-color-will-shape-political-engagement-for-a-generation-of-young-people-297233",
-   "published": "2026-11-24T13:12:25+00:00"
+   "headline": "Immersive shopping has survived the demise of the metaverse – but its appeal depends on how it’s designed and who is using it",
+   "summary": "The kind of shopper you are – weigh-your-options or grab-what-you-want – could determine whether immersive shopping tech such as virtual fitting rooms will work for you.",
+   "link": "https://theconversation.com/immersive-shopping-has-survived-the-demise-of-the-metaverse-but-its-appeal-depends-on-how-its-designed-and-who-is-using-it-297364",
+   "published": "2026-11-25T13:38:19+00:00"
   },
   {
    "outlet": "The Conversation",
-   "headline": "Bloody, brutal and growing: More states are adopting the firing squad as an execution method",
-   "summary": "In early December, Americans will consider whether they can stomach an execution by firing squad and whether the US should be carrying out executions at all.",
-   "link": "https://theconversation.com/bloody-brutal-and-growing-more-states-are-adopting-the-firing-squad-as-an-execution-method-294307",
-   "published": "2026-11-24T13:12:44+00:00"
+   "headline": "Columbia is keeping its gates closed, raising the question of what universities owe their neighborhoods",
+   "summary": "Conflicts between universities and their surrounding neighborhoods are far from new.",
+   "link": "https://theconversation.com/columbia-is-keeping-its-gates-closed-raising-the-question-of-what-universities-owe-their-neighborhoods-297102",
+   "published": "2026-11-25T13:38:35+00:00"
   },
   {
    "outlet": "The Conversation",
-   "headline": "The DRC’s Ebola crisis revives an old ethical question: What do health workers owe patients?",
-   "summary": "Protecting healthcare workers on the front lines is vital to fighting disease outbreaks.",
-   "link": "https://theconversation.com/the-drcs-ebola-crisis-revives-an-old-ethical-question-what-do-health-workers-owe-patients-296998",
-   "published": "2026-11-24T13:13:05+00:00"
+   "headline": "Georgians mark 2 years of pro-EU demonstrations – defying campaign to wear protesters down",
+   "summary": "So far, the government has not crushed the protest movement. But in critics’ eyes, it has used psychological weapons to help create opposition burnout.",
+   "link": "https://theconversation.com/georgians-mark-2-years-of-pro-eu-demonstrations-defying-campaign-to-wear-protesters-down-296546",
+   "published": "2026-11-25T13:38:58+00:00"
   },
   {
    "outlet": "The Conversation",
-   "headline": "Cosmetic surgery is on the rise globally, with social media and celebrities reducing taboos and influencing beauty ideals",
-   "summary": "‘Instagram face’ is still a thing, but most countries have their own cultural beauty preferences.",
-   "link": "https://theconversation.com/cosmetic-surgery-is-on-the-rise-globally-with-social-media-and-celebrities-reducing-taboos-and-influencing-beauty-ideals-295431",
-   "published": "2026-11-24T13:13:23+00:00"
+   "headline": "Sewing an infinity of phalluses – how Japanese artist Yayoi Kusama confronted the male-dominated art world by mocking it",
+   "summary": "Critics have attributed the repetitive, labor-intensive nature of Kusama’s work to be a product of mental illness. But a closer look reveals deliberate choices and gender dynamics ",
+   "link": "https://theconversation.com/sewing-an-infinity-of-phalluses-how-japanese-artist-yayoi-kusama-confronted-the-male-dominated-art-world-by-mocking-it-290804",
+   "published": "2026-11-25T13:39:13+00:00"
   },
   {
    "outlet": "The Conversation",
-   "headline": "Doctors in Congress used to lean Republican – the 120th Congress marks a historic shift",
-   "summary": "Members of Congress who are physicians are more effective in enacting health policy, and many newly elected physicians placed health policy at the center of their campaigns.",
-   "link": "https://theconversation.com/doctors-in-congress-used-to-lean-republican-the-120th-congress-marks-a-historic-shift-296633",
-   "published": "2026-11-24T13:13:40+00:00"
-  },
-  {
-   "outlet": "The Conversation",
-   "headline": "California raised minimum wages for fast-food workers – here’s how it played out 2 years later",
-   "summary": "Larger chains were mostly unaffected by the new law, while smaller ones shed workers and locations.",
-   "link": "https://theconversation.com/california-raised-minimum-wages-for-fast-food-workers-heres-how-it-played-out-2-years-later-294552",
-   "published": "2026-11-24T13:14:22+00:00"
-  },
-  {
-   "outlet": "The Conversation",
-   "headline": "Prepaid electricity can make bills more predictable, but not necessarily more affordable",
-   "summary": "Helping households manage their electricity bills is different from making sure they can afford to use enough energy in their home to keep themselves safe.",
-   "link": "https://theconversation.com/prepaid-electricity-can-make-bills-more-predictable-but-not-necessarily-more-affordable-296551",
-   "published": "2026-11-24T13:14:36+00:00"
-  },
-  {
-   "outlet": "The Conversation",
-   "headline": "Companies are getting less accurate data on extreme weather just when they need it the most",
-   "summary": "The Trump administration has retired several key websites that scientists and businesses alike have used to track weather events.",
-   "link": "https://theconversation.com/companies-are-getting-less-accurate-data-on-extreme-weather-just-when-they-need-it-the-most-295737",
-   "published": "2026-11-24T19:03:28+00:00"
-  },
-  {
-   "outlet": "The Conversation",
-   "headline": "What are AI chips, and what’s so special about Nvidia’s?",
-   "summary": "Nvidia found itself in the right place at the right time. It was the dominant seller of graphics chips by the early 2000s, and those chips later turned out to be well suited for ru",
-   "link": "https://theconversation.com/what-are-ai-chips-and-whats-so-special-about-nvidias-297128",
-   "published": "2026-11-24T20:08:14+00:00"
-  },
-  {
-   "outlet": "The Conversation",
-   "headline": "Mpox cases are on the rise again in Brazil – just as an antiviral drug fails in trials",
-   "summary": "The mpox curve has started to rise again, with cases concentrated in Rio and São Paulo. There is no available treatment for this virus strain, which is different from the one in th",
-   "link": "https://theconversation.com/mpox-cases-are-on-the-rise-again-in-brazil-just-as-an-antiviral-drug-fails-in-trials-297434",
-   "published": "2026-11-24T21:09:17+00:00"
-  },
-  {
-   "outlet": "The Conversation",
-   "headline": "How the construction, desecration and destruction of Jerusalem’s ancient temples shaped Judaism – and Hanukkah",
-   "summary": "Hanukkah highlights the history of the First and Second Temples in Jerusalem, which deeply shaped Judaism – even after their destruction.",
-   "link": "https://theconversation.com/how-the-construction-desecration-and-destruction-of-jerusalems-ancient-temples-shaped-judaism-and-hanukkah-297050",
-   "published": "2026-11-25T01:27:08+00:00"
+   "headline": "Ancient Cahokia was transformed amid droughts and flooding – climate change is reshaping modern communities in similar ways",
+   "summary": "It’s not always like you see in the movies. Sometimes it’s slow and gradual – but inexorable.",
+   "link": "https://theconversation.com/ancient-cahokia-was-transformed-amid-droughts-and-flooding-climate-change-is-reshaping-modern-communities-in-similar-ways-294435",
+   "published": "2026-11-25T13:39:48+00:00"
   },
   {
    "outlet": "The Diplomat",
-   "headline": "Rare Visit by Pakistani Minister to India Fuels Speculation of Bilateral Thaw",
-   "summary": "Analysts say the invitation to the Pakistani minister for a multilateral event is positive. But a change in the status of bilateral ties seems doubtful.",
-   "link": "https://thediplomat.com/2026/11/rare-visit-by-pakistani-minister-to-india-fuels-speculation-of-bilateral-thaw/",
-   "published": "2026-11-24T06:39:00+00:00"
+   "headline": "Bangladesh’s Government Battles Unrest on Multiple Fronts",
+   "summary": "In addition to Awami League activists protesting the government’s refusal to issue Sheikh Hasina a passport, garment factory workers are on strike.",
+   "link": "https://thediplomat.com/2026/11/bangladeshs-government-battles-unrest-on-multiple-fronts/",
+   "published": "2026-11-25T05:37:00+00:00"
   },
   {
    "outlet": "The Diplomat",
-   "headline": "What Did the 49th ASEAN Summit Accomplish?",
-   "summary": "This year's conclave delivered a familiar blend of diplomatic gestures and tentative announcements, but left a lot of pressing issues on the sidelines.",
-   "link": "https://thediplomat.com/2026/11/what-did-the-49th-asean-summit-accomplish/",
-   "published": "2026-11-24T07:53:00+00:00"
+   "headline": "Growing Hurdles Haunt India’s Interfaith Couples",
+   "summary": "Laws and loopholes expose interfaith couples to threats from family and vigilantes in a society traditionally intolerant of marriage outside one’s religion or caste",
+   "link": "https://thediplomat.com/2026/11/growing-hurdles-haunt-indias-interfaith-couples/",
+   "published": "2026-11-25T06:02:00+00:00"
   },
   {
    "outlet": "The Diplomat",
-   "headline": "First Pakistani Astronaut Is About to Head to Space, on a Chinese Spacecraft",
-   "summary": "For Pakistan, this development arrives at a moment when it is seeking to reassert technological relevance after years of relative quiet in the space domain.",
-   "link": "https://thediplomat.com/2026/11/first-pakistani-astronaut-is-about-to-head-to-space-on-a-chinese-spacecraft/",
-   "published": "2026-11-24T08:28:00+00:00"
+   "headline": "Why Pakistani Dramas Are Winning Indian Hearts",
+   "summary": "Indian audiences are increasingly finding ways to look beyond the stereotypes fed to them.",
+   "link": "https://thediplomat.com/2026/11/why-pakistani-dramas-are-winning-indian-hearts/",
+   "published": "2026-11-25T07:04:00+00:00"
   },
   {
    "outlet": "The Diplomat",
-   "headline": "Japan, South Korea, US Are Taking Their Trilateral to the Arctic",
-   "summary": "With all that’s going on in the world, why focus on the Arctic?",
-   "link": "https://thediplomat.com/2026/11/japan-south-korea-us-are-taking-their-trilateral-to-the-arctic/",
-   "published": "2026-11-24T13:26:00+00:00"
+   "headline": "Why Nepali Prime Minister Balendra Shah’s India Visit Was a Success",
+   "summary": "Shah secured India’s support for post-disaster rebuilding and an air-entry route via Bhairahawa in Western Nepal.",
+   "link": "https://thediplomat.com/2026/11/why-nepali-prime-minister-balendra-shahs-india-visit-was-a-success/",
+   "published": "2026-11-25T13:03:00+00:00"
   },
   {
    "outlet": "The Diplomat",
-   "headline": "In Tajikistan, the US Pitches While Russia Garrisons",
-   "summary": "Back-to-back visits by a senior U.S. diplomat and Vladimir Putin showed what each power offers Tajikistan.",
-   "link": "https://thediplomat.com/2026/11/in-tajikistan-the-us-pitches-while-russia-garrisons/",
-   "published": "2026-11-24T13:31:00+00:00"
+   "headline": "China’s Abuse of Interpol Puts Us All in Danger",
+   "summary": "China has spent a decade abusing Interpol’s Red Notices to hunt down critics abroad.",
+   "link": "https://thediplomat.com/2026/11/chinas-abuse-of-interpol-puts-us-all-in-danger/",
+   "published": "2026-11-25T13:05:00+00:00"
   },
   {
    "outlet": "The Diplomat",
-   "headline": "With Qianfan, China Has Its Answer to Starlink",
-   "summary": "The United States’ long-standing satellite advantage is eroding.",
-   "link": "https://thediplomat.com/2026/11/with-qianfan-china-has-its-answer-to-starlink/",
-   "published": "2026-11-24T13:57:00+00:00"
+   "headline": "What Does a Progressive Foreign Policy Look Like for Asia?",
+   "summary": "Every vision of American foreign policy, including a progressive vision, involves placing China in some kind of box.",
+   "link": "https://thediplomat.com/2026/11/what-does-a-progressive-foreign-policy-look-like-for-asia/",
+   "published": "2026-11-25T13:13:00+00:00"
   },
   {
    "outlet": "The Diplomat",
-   "headline": "Amid Political Crisis, High Stakes for Mongolia’s 2027 Presidential Election",
-   "summary": "While the election will undoubtedly be driven by the domestic political crisis, it will have important implications for Mongolia's foreign policy as well.",
-   "link": "https://thediplomat.com/2026/11/amid-political-crisis-high-stakes-for-mongolias-2027-presidential-election/",
-   "published": "2026-11-24T14:36:00+00:00"
+   "headline": "What Happened to the China-US AI Talks?",
+   "summary": "Scott Bessent and He Lifeng were expected to meet again in Shenzhen to advance the U.S.-China AI dialogue. That didn't happen.",
+   "link": "https://thediplomat.com/2026/11/what-happened-to-the-china-us-ai-talks/",
+   "published": "2026-11-25T13:41:00+00:00"
   },
   {
    "outlet": "The Diplomat",
-   "headline": "Fiji Declares Nationwide Disaster Amid El Nino Drought",
-   "summary": "The declaration exposes Fiji’s climate resilience challenges beyond the threat of rising sea levels.",
-   "link": "https://thediplomat.com/2026/11/fiji-declares-nationwide-disaster-amid-el-nino-drought/",
-   "published": "2026-11-24T15:07:00+00:00"
+   "headline": "How Can Australia Secure Its Future?",
+   "summary": "Rejecting fatalism and nostalgia, Australia’s foreign minister laid out a vision for how the country can navigate a rapidly changing world.",
+   "link": "https://thediplomat.com/2026/11/how-can-australia-secure-its-future/",
+   "published": "2026-11-25T13:58:00+00:00"
   },
   {
    "outlet": "The Diplomat",
-   "headline": "Kidnapping Emerges as a Growing Tool of Militant Pressure in Pakistan",
-   "summary": "While it doesn’t get the same attention as suicide bombings or gunfights, kidnapping is also a rising concern in Balochistan.",
-   "link": "https://thediplomat.com/2026/11/kidnapping-emerges-as-a-growing-tool-of-militant-pressure-in-pakistan/",
-   "published": "2026-11-24T15:53:00+00:00"
+   "headline": "Is the North Korean Economy Really ‘Booming’?",
+   "summary": "The narrative of a booming North Korean economy has some degree of truth to it, but the full picture is more complex.",
+   "link": "https://thediplomat.com/2026/11/is-the-north-korean-economy-really-booming/",
+   "published": "2026-11-25T14:50:00+00:00"
   },
   {
    "outlet": "The Diplomat",
-   "headline": "Making the Most of South Korea’s Semiconductor Boom",
-   "summary": "The stronger South Korea’s leading industry becomes, the more dependent the economy is on a single global technology cycle.",
-   "link": "https://thediplomat.com/2026/11/making-the-most-of-south-koreas-semiconductor-boom/",
-   "published": "2026-11-24T16:21:00+00:00"
+   "headline": "Nepal’s Prime Minister Is Back From India. Now Comes the Hard Part.",
+   "summary": "Balendra Shah got plenty of commitments from New Delhi, but will implementation follow?",
+   "link": "https://thediplomat.com/2026/11/nepals-prime-minister-is-back-from-india-now-comes-the-hard-part/",
+   "published": "2026-11-25T14:53:00+00:00"
   },
   {
    "outlet": "The Diplomat",
-   "headline": "Why Nvidia Couldn’t Quit Jensen Huang",
-   "summary": "In China, the coordination and planning needed to develop AI is led by the government. In the U.S., it has been driven largely by one entrepreneur: Huang.",
-   "link": "https://thediplomat.com/2026/11/why-nvidia-couldnt-quit-jensen-huang/",
-   "published": "2026-11-24T21:11:00+00:00"
+   "headline": "Koizumi Shinjiro Is the Defense Whisperer That Japan Needs",
+   "summary": "Koizumi’s podcast avoids the jargon and over-formality often found in political commentary, inviting listeners to contemplate the future of Japan’s security rather than be lectured",
+   "link": "https://thediplomat.com/2026/11/koizumi-shinjiro-is-the-defense-whisperer-that-japan-needs/",
+   "published": "2026-11-25T15:38:00+00:00"
+  },
+  {
+   "outlet": "The Diplomat",
+   "headline": "When Will Trump Meet Kim Jong Un Again?",
+   "summary": "Despite speculation that the two would meet in Shenzhen, a Kim-Trump summit did not come to fruition.",
+   "link": "https://thediplomat.com/2026/11/when-will-trump-meet-kim-jong-un-again/",
+   "published": "2026-11-25T16:10:00+00:00"
+  },
+  {
+   "outlet": "The Diplomat",
+   "headline": "18 Years After 26/11, Is India Finally Winning the War Against Terror?",
+   "summary": "India's counterterrorism strategy has seen marked successes in recent years, but it's too early to declare victory.",
+   "link": "https://thediplomat.com/2026/11/18-years-after-26-11-is-india-finally-winning-the-war-against-terror/",
+   "published": "2026-11-25T17:04:00+00:00"
+  },
+  {
+   "outlet": "The Diplomat",
+   "headline": "China’s Soft Espionage: The Technology Transfers That Don’t Make Headlines",
+   "summary": "The Nvidia scandal has exploded into public view, but most of China’s foreign technology acquisitions are far more mundane – and even legal.",
+   "link": "https://thediplomat.com/2026/11/chinas-soft-espionage-the-technology-transfers-that-dont-make-headlines/",
+   "published": "2026-11-25T17:31:00+00:00"
   },
   {
    "outlet": "The Dispatch",
-   "headline": "How Ukrainian Forces Are Dealing With Starlink Uncertainty",
-   "summary": "Soldiers vow they would carry on without the vital internet service, but losing it would bring steep costs.",
-   "link": "https://thedispatch.com/article/ukrainian-troops-starlink-starshield-adapting/",
-   "published": "2026-11-24T06:01:00+00:00"
+   "headline": "After the Midterms, a Challenge Awaits Us",
+   "summary": "Newly elected Democrats have something to say about tolerance.",
+   "link": "https://thedispatch.com/article/midterms-trump-democrats-tolerance-tension/",
+   "published": "2026-11-25T06:00:00+00:00"
   },
   {
    "outlet": "The Dispatch",
-   "headline": "Jensen Huang’s Return Will Cost Nvidia",
-   "summary": "Reinstating the CEO is bad for national security. What if it’s also bad for business?",
-   "link": "https://thedispatch.com/article/jensen-huang-nvidia-reinstatement-business/",
-   "published": "2026-11-24T06:02:00+00:00"
+   "headline": "The Many, Many Problems With Jensen Huang’s Return to Nvidia",
+   "summary": "The president’s obsession with the stock market and penchant for corruption have resulted in a dumpster fire.",
+   "link": "https://thedispatch.com/article/jensen-huang-donald-trump-nvidia-corruption/",
+   "published": "2026-11-25T06:00:00+00:00"
   },
   {
    "outlet": "The Dispatch",
-   "headline": "Why We Can’t Have Nice Things",
-   "summary": "Do your job, Congress, but do it well this time.",
-   "link": "https://thedispatch.com/podcast/advisoryopinions/why-we-cant-have-nice-things-2/",
-   "published": "2026-11-24T08:00:00+00:00"
+   "headline": "Is Alice Huang a Chinese Spy?",
+   "summary": "There is not enough evidence to say whether Huang is a professional spy, an unwitting source for Chinese intelligence, or something in between.",
+   "link": "https://thedispatch.com/article/alice-huang-nvidia-chinese-spy/",
+   "published": "2026-11-25T06:01:00+00:00"
   },
   {
    "outlet": "The Dispatch",
-   "headline": "The Trump Administration’s Lame-Duck Foreign Policy",
-   "summary": "Plus: The question Trump’s nominees won’t answer.",
-   "link": "https://thedispatch.com/podcast/dispatch-podcast/the-trump-administrations-lame-duck-foreign-policy/",
-   "published": "2026-11-24T08:00:00+00:00"
+   "headline": "Welcome to the Anti-Libertarian Moment",
+   "summary": "Plenty of libertarian policies are popular. But the libertarian sensibility is increasingly missing in American public life.",
+   "link": "https://thedispatch.com/article/midterms-libertarianism-economics-culture-populism/",
+   "published": "2026-11-25T06:01:00+00:00"
   },
   {
    "outlet": "The Dispatch",
-   "headline": "Why Did Nvidia Reinstate Jensen Huang?",
-   "summary": "Plus: States sue SpaceX over graphic content, and Israeli leaders clash over Iran.",
-   "link": "https://thedispatch.com/newsletter/morning/why-did-nvidia-reinstate-jensen-huang/",
-   "published": "2026-11-24T11:52:09+00:00"
+   "headline": "Woodward and Bernstein Syndrome | Interview: Chris Stirewalt",
+   "summary": "A Thanksgiving special.",
+   "link": "https://thedispatch.com/podcast/remnant/woodward-and-bernstein-syndrome-interview-chris-stirewalt/",
+   "published": "2026-11-25T08:00:00+00:00"
   },
   {
    "outlet": "The Dispatch",
-   "headline": "The Devil’s Bargain",
-   "summary": "The Nvidia travesty will force Americans to reconsider the trade-off they made in 2024.",
-   "link": "https://thedispatch.com/newsletter/boilingfrogs/vance-huang-2028-nvidia-tech/",
-   "published": "2026-11-24T23:16:36+00:00"
+   "headline": "Happy Thanksgiving!",
+   "summary": "Plus: Jensen Huang apologizes, hostages freed in Colombia, and Rudy Giuliani gets a Medal of Freedom.",
+   "link": "https://thedispatch.com/newsletter/morning/happy-thanksgiving-4/",
+   "published": "2026-11-25T11:45:25+00:00"
   },
   {
-   "outlet": "The Guardian",
-   "headline": "Malaysia to send thousands of migrants back to Myanmar as PM acknowledges junta’s ‘atrocities’",
-   "summary": "Prime minister Anwar Ibrahim’s announcement comes days after the ICJ found Myanmar had committed genocide against the Rohingya minority Malaysia says it will send thousands of migr",
-   "link": "https://www.theguardian.com/world/2026/nov/24/malaysia-to-send-thousands-of-migrants-back-to-myanmar",
-   "published": "2026-11-24T05:54:14+00:00"
+   "outlet": "The Dispatch",
+   "headline": "Vance to GOP: Don’t Get Any Ideas About Amnesty",
+   "summary": "An online exchange between the vice president and Oklahoma’s governor shows how Vance is trying to police his own side.",
+   "link": "https://thedispatch.com/newsletter/next-right/vance-kevin-stitt-immigration-amnesty/",
+   "published": "2026-11-25T15:50:28+00:00"
   },
   {
-   "outlet": "The Guardian",
-   "headline": "A year of deadly floods and fires – and yet Cop31 still collapsed. When will our leaders grasp the scale of this crisis? | Bill McGuire",
-   "summary": "Fossil fuel producers are choking off progress while we reap the whirlwind of our inaction. This is what sleepwalking to disaster looks like It’s sometimes said that we are sleepwa",
-   "link": "https://www.theguardian.com/commentisfree/2026/nov/24/deadly-floods-fires-cop31-collapsed-climate-crisis",
-   "published": "2026-11-24T06:00:08+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "After 80 years in Oxford, Naga ancestors are finally going home",
-   "summary": "A campaign securing the landmark return to India of ancestral remains taken during British colonial rule has opened a wider conversation about restitution • Don’t get This is India",
-   "link": "https://www.theguardian.com/world/2026/nov/23/this-is-india-pitt-rivers-museum-oxford-human-remains-repatriation",
-   "published": "2026-11-24T07:30:10+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Campaigners urge Albanese government to reject ‘climate bomb’ coalmine expansion after Cop31",
-   "summary": "Hunter Valley Operations expansion in New South Wales would allow additional 430m tonnes of coal to be extracted and burned Sign up for climate and environment editor Adam Morton’s",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/24/campaigners-urge-albanese-government-to-reject-climate-bomb-coalmine-expansion-after-cop31",
-   "published": "2026-11-24T07:42:57+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Leader of India’s Cockroach movement says he was stopped from boarding flight to UK",
-   "summary": "Saurav Das was due to give talks at UK universities on protest movement but says ‘coward government’ prevented him flying A leader of India’s youth-led Cockroach movement has said ",
-   "link": "https://www.theguardian.com/world/2026/nov/24/leader-india-coackroach-movement-says-stopped-from-boarding-flight-to-uk",
-   "published": "2026-11-24T08:24:26+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Their loss changed Appalachian forests for ever. Now the American chestnut is back",
-   "summary": "The trees have been functionally extinct in the US for nearly a century. But new techniques are creating plants resistant to the parasitic blight that almost wiped them out Jeff Wh",
-   "link": "https://www.theguardian.com/environment/2026/nov/24/american-chestnut-tree-restored-science-persistence-aoe",
-   "published": "2026-11-24T12:00:44+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
-   "summary": "Exclusive: Ada Colau hopes public anger over housing will transfer into support for her Broad Front coalition in Sunday’s vote The leader of Spain’s leftwing Broad Front coalition ",
-   "link": "https://www.theguardian.com/world/2026/nov/24/spain-election-ada-colau-broad-front-far-right",
-   "published": "2026-11-24T12:22:04+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Summer heat deaths in 2026 reached record high of 5,258 in England",
-   "summary": "Figure for May to September is far higher than previous peak of 2,985 since records began a decade ago More than 5,200 deaths in England in 2026 were linked to summer heat, the hig",
-   "link": "https://www.theguardian.com/environment/2026/nov/24/summer-heat-deaths-record-high-england",
-   "published": "2026-11-24T12:39:50+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Outcry grows over Labour plan to exempt most brownfield sites from nature protection rules",
-   "summary": "Chancellor’s decision to exempt plots up to 1.5 hectares allows developers to dodge rules aiming to reverse wildlife declines An outcry is growing over the UK chancellor’s removal ",
-   "link": "https://www.theguardian.com/politics/2026/nov/24/outcry-uk-plans-to-exempt-brownfield-sites-nature-protection-rules",
-   "published": "2026-11-24T14:00:47+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "The Nvidia case is just the latest episode of Trump disregarding intelligence",
-   "summary": "Trump’s reaction to sensitive information that contradicts his worldview mirrors his conduct towards war with Iran Donald Trump’s unwillingness to heed warnings of suspected Chines",
-   "link": "https://www.theguardian.com/technology/2026/nov/24/nvidia-trump-huang-intelligence",
-   "published": "2026-11-24T14:00:48+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Gaza issues meningitis epidemic alert after steep rise in cases",
-   "summary": "Health ministry records 272 new infections in October, more than eight times the normal monthly rate Gaza’s health ministry has issued an epidemic alert after a sharp rise in menin",
-   "link": "https://www.theguardian.com/world/2026/nov/24/gaza-meningitis-epidemic-alert",
-   "published": "2026-11-24T14:51:18+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
-   "summary": "Exclusive: Records list 349 deaths in three years in Mali and also shed light on Russia’s military activity elsewhere in Africa When the attack on Kidal began before dawn on 25 Apr",
-   "link": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data",
-   "published": "2026-11-24T16:00:50+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Irish plan offers Burnham breakthrough on Made in Europe",
-   "summary": "Irish presidency of EU proposes giving UK ‘partner’ status on assembly of cars in possible boost to reset of relations The UK would not have to follow the EU and apply tariffs on C",
-   "link": "https://www.theguardian.com/business/2026/nov/24/uk-eu-made-in-europe-trade-cars-tariffs",
-   "published": "2026-11-24T16:09:12+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Italy expresses concern to Ukraine over Libya ship attacks – as it happened",
-   "summary": "Ukraine earlier confirmed that it deployed naval drones in strikes on Russian vessels off the coast of Libya The leader of Spain’s leftwing Broad Front coalition has called for a d",
-   "link": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
-   "published": "2026-11-24T16:24:49+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Israel attempts to jail Palestinian student at Hebrew University without trial",
-   "summary": "Mahdi Tounsi appeared to have suffered maltreatment at hearing where he was not allowed to hear prosecution case against him Palestinian student Mahdi Tounsi appeared in a closed-d",
-   "link": "https://www.theguardian.com/world/2026/nov/24/israel-jail-palestinian-student-mahdi-tounsi-hebrew-university-without-trial",
-   "published": "2026-11-24T18:02:53+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Life expectancy in Cuba falls for first time since 1950 amid economic crisis",
-   "summary": "WHO chief says life expectancy has fallen from 78.8 years in 2020 to 74.4 in 2025, figures that predate US fuel blockade Life expectancy has fallen for the first time in Cuba since",
-   "link": "https://www.theguardian.com/world/2026/nov/24/cuba-life-expectancy-decline",
-   "published": "2026-11-24T19:07:26+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "World Chess Championship 2026 Game 1: Gukesh Dommaraju and Javokhir Sindarov play to 38-move draw – as it happened",
-   "summary": "Sindarov and Gukesh play to 38-move draw in Game 1 Explainer: all your pre-match questions, answered Sindarov interview: ‘I can’t play games just for fun’ Play through 22 famous wo",
-   "link": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
-   "published": "2026-11-24T20:04:50+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Iowa braces for controlled bomb blast: ‘We had only five days of warning’",
-   "summary": "Detonation of 68 barrels of lead azide scheduled for Wednesday after several delays amid public outcry Residents of Iowa, Illinois and Missouri who are preparing for Thanksgiving a",
-   "link": "https://www.theguardian.com/us-news/2026/nov/24/iowa-illinois-missouri-hazardous-bomb-explosion-blast-prep-thanksgiving",
-   "published": "2026-11-24T21:49:07+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Climate scientists urge US lawmakers to vote no on sweeping permitting bill",
-   "summary": "Open letter warns Baaja, intended to expedite energy and infrastructure projects, will cause irreversible climate harm A group of more than 120 climate scientists have urged US law",
-   "link": "https://www.theguardian.com/us-news/2026/nov/24/climate-scientists-lawmakers-baaja",
-   "published": "2026-11-24T22:09:57+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "California ‘king tides’ stress test San Francisco as low-lying areas flood",
-   "summary": "Monthly tide records were set across the city, with some expected to hit even higher tomorrow Explainer: What to know about flooding in California over Thanksgiving California is g",
-   "link": "https://www.theguardian.com/weather/2026/nov/24/california-coast-flooding-thanksgiving-travel",
-   "published": "2026-11-24T23:20:24+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Kilmar Ábrego García, man at center of Trump deportation battle, leaves US",
-   "summary": "Salvadorian man, who was deported in March 2025 and returned to US after supreme court ruling, leaving of own volition for Spain Kilmar Ábrego García has left the United States of ",
-   "link": "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us",
-   "published": "2026-11-24T23:50:31+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Coastal areas in England at risk of erosion to receive £11m in new funding",
-   "summary": "Exclusive: Laser-equipped drone surveys and road relocations among schemes to get government support Laser-equipped drone surveys, sand dune restoration and moving roads inland are",
-   "link": "https://www.theguardian.com/environment/2026/nov/25/coastal-areas-england-at-risk-erosion-11m-funding-drones-ea",
-   "published": "2026-11-25T00:01:01+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Latest review of Met police culture finds little has changed since last one",
-   "summary": "Failure to implement previous reports means institutional racism, misogyny and homophobia still present in force Metropolitan police still institutionally racist and misogynist, sa",
-   "link": "https://www.theguardian.com/uk-news/2026/nov/25/latest-review-of-met-police-culture-finds-little-has-changed-since-last-one",
-   "published": "2026-11-25T00:01:02+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Middle-aged women in England least likely to successfully quit smoking, study finds",
-   "summary": "Of nearly 8,000 women who tried to stop, only 18% of those aged 45 to 60 managed to give up Middle-aged women in England are the least likely to successfully give up smoking, accor",
-   "link": "https://www.theguardian.com/society/2026/nov/25/middle-aged-women-quit-smoking-england-study",
-   "published": "2026-11-25T01:00:01+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "China investigates politburo star in Xi Jinping’s latest purge",
-   "summary": "Chen Jining, regarded as a contender for higher office, becomes the fourth member of China’s elite politburo to be investigated since 2025 China has launched an investigation into ",
-   "link": "https://www.theguardian.com/world/2026/nov/25/china-investigates-politburo-chen-jining-xi-jinping-purge",
-   "published": "2026-11-25T01:31:46+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Australia’s security pact with Solomon Islands a blow to China’s influence in the Pacific",
-   "summary": "Anthony Albanese and Matthew Wale sign new treaty as Solomon Islands PM states his country no longer ‘a source of uncertainty and doubt in the region’ The Solomon Islands prime min",
-   "link": "https://www.theguardian.com/world/2026/nov/25/australia-solomon-islands-treaty-blow-to-china-pacific-influence",
-   "published": "2026-11-25T01:51:02+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "The Russian army’s secret death toll – podcast",
-   "summary": "Vladimir Putin has always kept the number of soldiers killed in Ukraine a secret, but at one point 720 were dying in 24 hours. Pjotr Sauer reports. Send your comments and questions",
-   "link": "https://www.theguardian.com/news/audio/2026/nov/25/the-russian-armys-secret-death-toll-podcast",
-   "published": "2026-11-25T03:00:03+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Beau Lamarre-Condon found guilty of murdering Jesse Baird and Luke Davies",
-   "summary": "Jury finds former police officer guilty of killing couple in Baird’s Sydney home in 2024 Get our breaking news email , free app or daily news podcast Former police officer Beau Lam",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/25/beau-lamarre-condon-trial-verdict-former-police-officer-jesse-baird-luke-davies-ntwnfb",
-   "published": "2026-11-25T03:05:42+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Australia’s inflation rate jumping to 4.9% a ‘very serious moment’ for economy, Chalmers declares",
-   "summary": "Figure up from 4.3% annual rate in September and nearly double Reserve Bank’s official target of 2.5% as Australia’s cost-of-living crisis intensifies Follow our Australia politics",
-   "link": "https://www.theguardian.com/business/2026/nov/25/inflation-rate-australia-october-figures",
-   "published": "2026-11-25T03:55:50+00:00"
+   "outlet": "The Dispatch",
+   "headline": "USMCA, Trade, and the Character Issue",
+   "summary": "Do you know what lowers transaction costs? Honor.",
+   "link": "https://thedispatch.com/newsletter/dispatch-markets/trade-agreements-usmca/",
+   "published": "2026-11-25T19:28:55+00:00"
   },
   {
    "outlet": "The Guardian",
    "headline": "Colombia’s president arrives at scene of supermarket hostage siege in tourist city",
-   "summary": "Abelardo de la Espriella to take control of an operation involving scores of security personnel trying to free at least 20 hostages Colombia’s president has arrived at the scene of",
+   "summary": "Abelardo de la Espriella to take control of operation trying to free at least 20 hostages Colombia’s president has arrived at the scene of an hours-long standoff between security s",
    "link": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
    "published": "2026-11-25T03:57:11+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "Breakaway group of 110 clubs deliberately misses Football Queensland registration as revolt over $5 gate fees builds",
-   "summary": "Clubs fail to sign up for 2027 season as disquiet over governing body’s executive grips football community Get our breaking news email , free app or daily news podcast About 100 fo",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/25/breakaway-clubs-miss-football-queensland-registration-gate-fee-dispute",
-   "published": "2026-11-25T04:29:29+00:00"
-  },
-  {
-   "outlet": "The Guardian",
-   "headline": "In charts: how power could shift in Europe’s big year of elections",
-   "summary": "More than half of EU voters will go to the polls in the next 12 months, with the far right targeting significant gains. We set out the political landscape and trends Over the comin",
-   "link": "https://www.theguardian.com/world/2026/nov/25/charts-europe-big-year-of-elections-eu-far-right",
-   "published": "2026-11-25T05:00:06+00:00"
   },
   {
    "outlet": "The Guardian",
@@ -723,241 +663,395 @@
   },
   {
    "outlet": "The Guardian",
-   "headline": "Australian politics live: ‘A tragedy in the life of our nation’: prime minister apologises to LGBTQ+ veterans",
-   "summary": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI ",
-   "link": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
-   "published": "2026-11-25T05:02:07+00:00"
+   "headline": "Dolphins with active social lives and big friendship groups live longer, Australian researchers discover",
+   "summary": "Decades of data collected at WA’s Shark Bay shows level of socialising may affect longevity for Indo-Pacific bottlenose dolphins Dolphins who spend time socialising in large and co",
+   "link": "https://www.theguardian.com/environment/2026/nov/25/dolphins-with-active-social-lives-and-big-friendship-groups-live-longer",
+   "published": "2026-11-25T06:02:05+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "What’s the most sustainable way to eat fish? Forget it. There isn’t one | George Monbiot",
+   "summary": "Don’t take the bait offered up by ‘conservation’ charities. Fishing is about as good for our ecosystems as tobacco is for our health Drumroll please. I am about to unveil the speci",
+   "link": "https://www.theguardian.com/commentisfree/2026/nov/25/sustainable-fishing-conservation-charities-ecosystems-health",
+   "published": "2026-11-25T07:00:09+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Moment dog and owner get swept up by king tide on Oregon beach – video",
+   "summary": "Cannon Beach police department in Oregon posted footage of a man narrowly escaping being swept away by the tide as he walked his dog on the beach on Tuesday. Both made it back to d",
+   "link": "https://www.theguardian.com/us-news/video/2026/nov/25/moment-dog-and-owner-get-swept-up-by-king-tide-on-oregon-beach-video",
+   "published": "2026-11-25T08:57:04+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Bill McKibben: 2027 may be the year Americans turn on fossil fuels – Stateside with Kai and Carter",
+   "summary": "It’s been another year in which the climate emergency has encroached on the lives of Americans across the country. From gigantic waves battering the California coastline to heat do",
+   "link": "https://www.theguardian.com/us-news/video/2026/nov/25/bill-mckibben-americans-fossil-fuels-climate-emergency-stateside-podcast",
+   "published": "2026-11-25T11:00:45+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "China misusing Interpol to target dissidents, says leading UK lawyer",
+   "summary": "Concerns over Beijing’s use of ‘red notices’ as Hong Kong prepares to host police organisation’s general assembly China is misusing Interpol to target and silence dissidents, a lea",
+   "link": "https://www.theguardian.com/world/2026/nov/25/china-misusing-interpol-target-dissidents-uk-lawyer",
+   "published": "2026-11-25T11:00:46+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Pro-Palestine activist sought by US in extradition case: ‘I still have a right to my beliefs’",
+   "summary": "James ‘Fergie’ Chambers, at center of legal fight, says he ‘should not be unjustly accused’ because of leftwing views James “Fergie” Chambers, the wealthy leftwing activist and don",
+   "link": "https://www.theguardian.com/us-news/2026/nov/25/fergie-chambers-us-extradition-interview",
+   "published": "2026-11-25T11:00:46+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Indian Cockroach movement leader asks court for permission to fly to UK",
+   "summary": "Officials at Delhi airport stopped Saurav Das from boarding flight to Britain, where students have invited him to speak A leader of India’s youth-led Cockroach movement has asked t",
+   "link": "https://www.theguardian.com/world/2026/nov/25/indian-cockroach-movement-leader-asks-court-for-permission-to-fly-to-uk",
+   "published": "2026-11-25T11:15:35+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Sri Lankan asylum seeker killed himself after being sent by UK to Eswatini",
+   "summary": "Kishanth Peramalya was denied entry due to sexual assault convictions and sent to Africa where he had no connections The UK sent a Sri Lankan asylum seeker who had been convicted o",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/25/sri-lanka-asylum-seeker-convicted-sexual-assault-uk-kills-himself-eswatini",
+   "published": "2026-11-25T11:28:05+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "UK embassy in Japan warns of rise in drink spiking and credit card fraud at Tokyo bars",
+   "summary": "Social media campaign fronted by British rapper Shao Dow advises tourists not to let their guard down The British embassy in Tokyo has launched a social media campaign warning visi",
+   "link": "https://www.theguardian.com/world/2026/nov/25/british-embassy-tokyo-warning-tourists-drink-spiking-credit-card-fraud",
+   "published": "2026-11-25T11:59:22+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Swiss tourist killed and British and Americans injured by elephants in Cameroon",
+   "summary": "Alain Throo, insurance executive based in London, reportedly gored and later died on hike near Mount Cameroon national park A Swiss tourist has been killed and British and American",
+   "link": "https://www.theguardian.com/environment/2026/nov/25/swiss-tourist-killed-british-americans-injured-elephants-cameroon",
+   "published": "2026-11-25T14:03:18+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "China sends first foreign astronaut to ISS rival as it globalises space operations",
+   "summary": "Muhammad Zeeshan Ali – the first Pakistani to reach orbit – greeted with Chinese ‘space handshake’ at Tiangong station China has flown the first foreign astronaut to its Tiangong s",
+   "link": "https://www.theguardian.com/science/2026/nov/25/china-sends-first-pakistani-astronaut-into-space",
+   "published": "2026-11-25T14:18:29+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "World has six consecutive days 2C above preindustrial levels for first time",
+   "summary": "Daily global surface temperature hit record 2.24C above baseline levels on Monday and streak is forecast to continue For the first time, the world has experienced six consecutive d",
+   "link": "https://www.theguardian.com/environment/2026/nov/25/world-six-consecutive-days-2c-above-preindustrial-levels-first-time",
+   "published": "2026-11-25T14:52:30+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Brussels on split-screen: where it flexes – and where it bends",
+   "summary": "From a choreographed summit that dominated Westminster but barely registered in Brussels to a climate showdown in Turkey, last week revealed the EU’s priorities – and the limits of",
+   "link": "https://www.theguardian.com/world/2026/nov/25/this-is-europe-brussels-eu-uk-summit",
+   "published": "2026-11-25T15:39:54+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "‘Russia wants more than Ukraine,’ Germany’s Merz warns – as it happened",
+   "summary": "German chancellor, in wide-ranging speech, says Moscow is ‘escalating on a massive scale’ If you want to hear more about the new death toll, listen to today’s Today in Focus podcas",
+   "link": "https://www.theguardian.com/world/live/2026/nov/25/ukraine-russia-energy-strikes-mark-rutte-donald-trump-friedrich-merz-germany-latest-news-updates",
+   "published": "2026-11-25T16:20:53+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "US Army calls Iowa lead detonation a ‘huge success’ and says threat of spontaneous explosions has been ‘eliminated’ – as it happened",
+   "summary": "This live blog is now closed. For the latest news on this detonation in Iowa, read our full story: Smoke seen from a mile away as army detonates bomb-making chemicals The United St",
+   "link": "https://www.theguardian.com/us-news/live/2026/nov/25/iowa-lead-azide-detonation-army-explosion-bomb-live-updates",
+   "published": "2026-11-25T17:20:49+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "EU nationals will pay higher tuition fees than UK students, Burnham indicates",
+   "summary": "Asked by Kemi Badenoch to rule out equal rate for UK and EU students, PM says proposal ‘will not be put on the table’ European students will have to pay higher fees than their dome",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/25/eu-nationals-will-pay-higher-tuition-fees-than-uk-students-burnham-indicates",
+   "published": "2026-11-25T18:19:19+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Smoke seen from a mile away as army detonates US stockpile of bomb-making chemicals in Iowa",
+   "summary": "Controlled blast to dispose of lead azide risks releasing plumes of toxic chemicals in 100-mile radius The US army detonated the nation’s entire stockpile of the the bomb-making ma",
+   "link": "https://www.theguardian.com/us-news/2026/nov/25/iowa-controlled-blast-lead-azide",
+   "published": "2026-11-25T18:24:48+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Cloud of smoke seen after US army detonates bomb-making chemicals in Iowa – video",
+   "summary": "A large cloud of smoke was seen in Middleton, Iowa, after the army detonated the nation’s entire stockpile of lead azide used for making bombs on Wednesday morning, despite an outp",
+   "link": "https://www.theguardian.com/us-news/video/2026/nov/25/cloud-of-smoke-seen-after-us-army-detonates-bomb-making-chemicals-in-iowa-video",
+   "published": "2026-11-25T18:30:56+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Kilmar Ábrego García, target of Trump’s immigration crackdown, lands in Spain after ‘leaving happy’",
+   "summary": "Ábrego García chooses to depart from US after previously being deported to El Salvador due to ‘administrative error’ Kilmar Ábrego García, the Salvadorian national whose mistaken d",
+   "link": "https://www.theguardian.com/us-news/2026/nov/25/kilmar-abrego-garcia-spain",
+   "published": "2026-11-25T19:36:24+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Lululemon founder stuns Canadian women’s leadership conference with sexist comments",
+   "summary": "Chip Wilson said men importing brides from Thailand was due to women waiting too long to have children The controversial founder of Lululemon suggested women in Canada are having t",
+   "link": "https://www.theguardian.com/world/2026/nov/25/lululemon-founder-comments-canada-womens-leadership-conference",
+   "published": "2026-11-25T19:57:49+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "High levels of salmonella found in some products from nation’s biggest turkey producer",
+   "summary": "Two years of inspections at four Butterball plants show rates far exceeding US averages in ground or chopped meat Inspectors found salmonella bacteria in more than a third of groun",
+   "link": "https://www.theguardian.com/environment/2026/nov/25/turkey-salmonella-butterball",
+   "published": "2026-11-25T20:00:34+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "All hostages rescued after Colombian security forces storm supermarket, police say",
+   "summary": "Unclear if ‘hostage-taker’ who was killed may have been a hostage as daylong siege in Cartagena shopping centre ends Colombian police have stormed a supermarket in one of the count",
+   "link": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
+   "published": "2026-11-25T20:20:23+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "It’s time for Australia to tax our gas industry. It is a public policy no-brainer | Rod Simms",
+   "summary": "Fossil fuel companies are effectively not paying for the natural resource on which their businesses depend Raising more tax revenue from our gas industry is the closest thing you w",
+   "link": "https://www.theguardian.com/commentisfree/2026/nov/26/its-time-for-australia-to-tax-our-gas-industry-it-is-a-public-policy-no-brainer",
+   "published": "2026-11-25T22:00:37+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Record-breaking California tides cause major flooding of roads and businesses",
+   "summary": "Beaches close as Los Angeles and La Jolla see all-time high tides and big waves batter landmark pier in Pacifica Super El Niño weather brought record-breaking high tides up and dow",
+   "link": "https://www.theguardian.com/us-news/2026/nov/25/california-flooding-high-tides",
+   "published": "2026-11-25T22:56:36+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Palestinian journalist killed by Israel in Gaza wins Rory Peck prize",
+   "summary": "Mariam Dagga shares award with two of her colleagues from AP for ‘powerful coverage’ of human cost of war Mariam Dagga, the Palestinian war correspondent who was killed at the age ",
+   "link": "https://www.theguardian.com/media/2026/nov/25/palestinian-journalist-killed-by-israel-in-gaza-wins-rory-peck-prize",
+   "published": "2026-11-25T23:06:06+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Ministers to create new stalking offence and scrap need for proof of fear or distress",
+   "summary": "Victims’ commissioner welcomes strengthening of law in England and Wales but calls for measures to tackle convicted stalkers Ministers will create a new stalking offence so that vi",
+   "link": "https://www.theguardian.com/world/2026/nov/26/ministers-create-new-stalking-offence-scrap-need-for-proof-victims-fear-distress",
+   "published": "2026-11-26T00:01:40+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "UN sacked Palestinian staff on back of unproven Israeli allegations, tribunal rules",
+   "summary": "Judgment casts doubt on evidence linking aid workers to Hamas and says humanitarian efforts in Gaza were damaged A UN tribunal has cast doubt on the evidence used to justify the sa",
+   "link": "https://www.theguardian.com/world/2026/nov/25/un-sacked-palestinian-staff-on-back-of-unproven-israel-allegations",
+   "published": "2026-11-26T00:05:50+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
+   "summary": "Blaze on ring road surrounding Egyptian capital injures at least 21 people and leaves cars and motorcycles charred A crash involving a fuel tanker ignited a huge fire on a highway ",
+   "link": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+   "published": "2026-11-26T00:39:10+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "‘Turncoat’: Liberal senator Leah Blyth announces defection to One Nation, blindsiding Coalition",
+   "summary": "South Australian senator labels One Nation the ‘only party with the bold ideas needed to turn this country around’ Follow our Australia politics live blog for latest updates Get ou",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb",
+   "published": "2026-11-26T00:58:49+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Out-of-control bushfire with flames 10-metres high destroys at least six homes on Flinders Island",
+   "summary": "Fire making a ‘significant run’ towards the south-west of Flinders Island on Thursday, Tasmania Fire Service says Get our breaking news email , free app or daily news podcast Resid",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/25/large-bushfire-threatens-homes-and-properties-on-remote-island-off-tasmania",
+   "published": "2026-11-26T01:59:30+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Australia projected to completely miss 2035 emissions target without new climate policies",
+   "summary": "New official projections show country nearly on track for 2030 goal but Chris Bowen warns of ‘undeniable headwinds’ Sign up for climate and environment editor Adam Morton’s free Cl",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/26/australia-projected-to-miss-2035-emissions-targets-climate-policies",
+   "published": "2026-11-26T02:26:10+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Coalition would privatise Melbourne’s sewage treatment while selling state-owned land and renewables to fund Victorian election promises",
+   "summary": "Liberal and Nationals’ pre-election policy costings also reveal that ‘air rights’ between Richmond train station and the MCG would be sold Follow our Australia politics live blog f",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy",
+   "published": "2026-11-26T02:35:09+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Spain’s election: the end of a leftwing icon? - podcast",
+   "summary": "Madrid correspondent Sam Jones and European community affairs correspondent Ashifa Kassam report on a pivotal election in Spain this weekend, which could see longtime PM Pedro Sánc",
+   "link": "https://www.theguardian.com/news/audio/2026/nov/26/spains-election-the-end-of-a-leftwing-icon-podcast",
+   "published": "2026-11-26T03:00:43+00:00"
+  },
+  {
+   "outlet": "The Guardian",
+   "headline": "Australian politics live: Liberals ‘tossing up whether to leave or remain’, Albanese says; Coalition warns energy prices to cause Christmas ‘pain’",
+   "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party . Blyth",
+   "link": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
+   "published": "2026-11-26T03:19:57+00:00"
   },
   {
    "outlet": "The Intercept",
-   "headline": "Hakeem Jeffries Can Live With “Medicare for More”",
-   "summary": "As progressives push for Medicare for All, the likely next House speaker has signed off on a first step. The post Hakeem Jeffries Can Live With “Medicare for More” appeared first o",
-   "link": "https://theintercept.com/2026/11/24/hakeem-jeffries-democrats-medicare-for-all/",
-   "published": "2026-11-24T11:00:00+00:00"
+   "headline": "Trump’s Imperialist Fantasy for Latin America Is Already Failing",
+   "summary": "Despite Hegseth’s victory lap, Trump’s “Donroe Doctrine” may already be on life support. The post Trump’s Imperialist Fantasy for Latin America Is Already Failing appeared first on",
+   "link": "https://theintercept.com/2026/11/25/trump-latin-america-intervention-influence/",
+   "published": "2026-11-25T11:00:00+00:00"
   },
   {
    "outlet": "The Intercept",
-   "headline": "Why a Case Against ICC Sanctions Is a Major Victory for Palestine Human Rights Work",
-   "summary": "A judge extended First Amendment protections to all Americans helping the ICC. Previous rulings only protected the plaintiffs. The post Why a Case Against ICC Sanctions Is a Major ",
-   "link": "https://theintercept.com/2026/11/24/icc-sanctions-palestine-israel-human-rights/",
-   "published": "2026-11-24T21:04:06+00:00"
-  },
-  {
-   "outlet": "The Intercept",
-   "headline": "Court Orders Trump Media to Hand Over Truth Social Records in The Intercept Lawsuit",
-   "summary": "A federal judge opened the discovery phase in The Intercept’s lawsuit over the president’s scheme to enrich himself by selling early access to his posts. The post Court Orders Trum",
-   "link": "https://theintercept.com/2026/11/24/trump-truth-social-api-lawsuit-discovery/",
-   "published": "2026-11-24T22:26:37+00:00"
+   "headline": "It’s Time to Ditch Kirsten Gillibrand",
+   "summary": "The New York senator wants to lead the Democratic Senatorial Campaign Committee into 2028. She’s the wrong person to meet the moment. The post It’s Time to Ditch Kirsten Gillibrand",
+   "link": "https://theintercept.com/2026/11/25/senate-democrats-kirsten-gillibrand-dscc/",
+   "published": "2026-11-25T12:13:00+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "From fighting cancer to targeting aging: The science driving Dr. Sharon Shacham",
-   "summary": "WATCH: Dr. Sharon Shacham, CEO and co-founder of Regenimo Biosciences, in conversation with Jake Laznik, Senior Breaking News Desk Manager, The Jerusalem Post.",
-   "link": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-915953",
-   "published": "2026-11-24T13:19:15+00:00"
+   "headline": "US lawmakers press for answers on Israel's suspected nuclear weapons arsenal",
+   "summary": "US researchers say Israel’s suspected nuclear arsenal remains stable amid questions over Dimona construction and growing pressure in Washington to end nuclear ambiguity.",
+   "link": "https://www.jpost.com/israel-news/defense-news/article-916044",
+   "published": "2026-11-25T07:34:43+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Mystery surrounds Israeli man's death on French Riviera as autopsy contradicts ZAKA claims",
-   "summary": "The body of the wealthy Israeli, reported as Georgian in French media, was found on the night of November 17–18, 2026, in a luxury villa in Roquebrune-Cap-Martin.",
-   "link": "https://www.jpost.com/diaspora/article-915964",
-   "published": "2026-11-24T15:03:43+00:00"
+   "headline": "Netanyahu trial judges suggest dropping Case 4000, reconsider Case 2000 as A-G attends hearing",
+   "summary": "In dramatic hearing with the attorney-general, judges cited difficulties in Cases 4000 and 2000 and proposed dropping the Bezeq charges and reviewing the Case 2000 allegations.",
+   "link": "https://www.jpost.com/israel-news/crime-in-israel/article-916054",
+   "published": "2026-11-25T08:54:49+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Jerusalem bagels considered by UNESCO for recognition as Palestinian cultural heritage staple",
-   "summary": "The bread belongs to a much wider historical tradition of Middle Eastern baking. Medieval Arabic cookbooks included recipes for ka’ak, a broad category of baked goods that included",
-   "link": "https://www.jpost.com/middle-east/article-915968",
-   "published": "2026-11-24T15:44:41+00:00"
+   "headline": "Eisenkot, UTJ move toward government as Yashar, Likud team meet for unity talks",
+   "summary": "Likud and Yashar resumed unity government talks on Wednesday as Bennett, Liberman, and Golan remain divided over how to form Israel's next government.",
+   "link": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-916120",
+   "published": "2026-11-25T17:46:40+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Eisenkot weighs minority government as UTJ receives rabbinical approval to advance talks",
-   "summary": "Over the past 24 hours, UTJ MK Yakov Asher updated senior rabbis on the progress of the negotiations and received authorization to continue the discussions.",
-   "link": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915989",
-   "published": "2026-11-24T17:23:41+00:00"
+   "headline": "UK university kept a 1,465-page file on a pro-Israel student, records show",
+   "summary": "The day after the confrontation, Mitchell said the university gave him under 48 hours to vacate his accommodation and suspended him from his studies and campus for nine weeks",
+   "link": "https://www.jpost.com/israel-news/article-916137",
+   "published": "2026-11-25T18:37:36+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "IDF must block Iran before it can hit Israel with chemical weapons, Katz says",
-   "summary": "Defense Minister Israel Katz wants Israel to prevent Tehran from achieving chemical weapons capability.",
-   "link": "https://www.jpost.com/israel-news/defense-news/article-915994",
-   "published": "2026-11-24T19:00:08+00:00"
+   "headline": "Danon: Israel opposes French troop deployment in south Lebanon after UNIFIL exit - interview",
+   "summary": "“The French are genuinely very active on this issue right now, putting forward various initiatives, most of which are unacceptable to us,” Danon told the Post.",
+   "link": "https://www.jpost.com/middle-east/article-916142",
+   "published": "2026-11-25T19:26:16+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Liberman, Katz attempt to block KAN broadcast of IDF 'Mosquito Protocol' investigation",
-   "summary": "The broadcast is set to cover an investigation of the so-called \"Mosquito Protocol,\" a term used to describe the alleged use of Palestinians as human shields by the IDF.",
-   "link": "https://www.jpost.com/israel-news/defense-news/article-915996",
-   "published": "2026-11-24T19:52:19+00:00"
+   "headline": "Archaeologists find tombs that may have belonged to ancient Jerusalemite aristocracy near Jericho",
+   "summary": "The tombs themselves consisted of a central chamber and burial niches, known as loculi, where the dead were laid. Fragments of an embellished façade were recovered from some of the",
+   "link": "https://www.jpost.com/archaeology/article-916099",
+   "published": "2026-11-25T20:16:17+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Former Hamas hostage Amit Soussana to be nominated for 2027 Nobel Peace Prize",
-   "summary": "Soussana, the first released female hostage to publicly disclose the sexual violence she endured in Hamas captivity, is being recognized for her advocacy against sexual violence in",
-   "link": "https://www.jpost.com/israel-news/article-916013",
-   "published": "2026-11-24T21:08:34+00:00"
+   "headline": "Judges’ stunning intervention raises questions about decade-long Netanyahu prosecution - analysis",
+   "summary": "For one side, Netanyahu became proof that no one, not even a powerful PM, is above the law. For the other, he became proof that unelected institutions could use the law to nullify ",
+   "link": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-916147",
+   "published": "2026-11-25T20:16:32+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Berlin Left expels lawmaker accused of antisemitism, clearing hurdle in coalition talks",
-   "summary": "Out of 44 representatives of the Left's Berlin state parliamentary group, 33 voted to oust Vanessa Emde, overcoming the two-thirds requirement, said the group's co-chair, Tobias Sc",
-   "link": "https://www.jpost.com/diaspora/antisemitism/article-916014",
-   "published": "2026-11-24T21:25:43+00:00"
+   "headline": "Defend your Jewish brothers': Imam calls on Muslims to stand against antisemitism - interview",
+   "summary": "Known for his interfaith work, Chalghoumi led a delegation of European Muslim religious leaders to Israel in July 2025, organized in partnership with ELNET.",
+   "link": "https://www.jpost.com/diaspora/article-916149",
+   "published": "2026-11-25T20:30:44+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Democrats halt coalition talks with Yashar due to Likud unity gov't progress",
-   "summary": "This comes as Gadi Eisenkot's Yashar and Prime Minister Benjamin Netanyahu's Likud are due to hold their fourth day of unity talks on Wednesday.",
-   "link": "https://www.jpost.com/israel-news/article-916020",
-   "published": "2026-11-24T22:23:49+00:00"
+   "headline": "Kushner urges Netanyahu to advance Gaza aid, multinational force deployment, sources tell 'Post'",
+   "summary": "Netanyahu and Kushner held a substantive discussion on humanitarian assistance to Gaza and preparations for the winter, an Israeli official told The Jerusalem Post.",
+   "link": "https://www.jpost.com/israel-news/article-916151",
+   "published": "2026-11-25T20:53:03+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "TikTok leads online abuse against women in Israel, 1,542 incidents reported in 2026",
-   "summary": "The findings were released ahead of the International Day for the Elimination of Violence Against Women, which will be marked on Wednesday, November 25.",
-   "link": "https://www.jpost.com/israel-news/article-916027",
-   "published": "2026-11-25T00:12:44+00:00"
+   "headline": "Germany begins rebuilding Hitler’s 'Eagle's Nest' retreat after fire",
+   "summary": "The site, which previously attracted about 300,000 visitors a year, has been closed since late October, when a fire destroyed the roof and the remaining original furniture.",
+   "link": "https://www.jpost.com/international/article-916152",
+   "published": "2026-11-25T20:54:49+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Police open murder investigation following incident between east Jerusalem residents, Palestinians",
-   "summary": "According to a police statement, the incident involved a confrontation between residents of east Jerusalem and Palestinians.",
-   "link": "https://www.jpost.com/israel-news/article-916029",
-   "published": "2026-11-25T01:39:11+00:00"
+   "headline": "Jewish Paralympian makes history as first amputee to win 'Dancing with the Stars'",
+   "summary": "With the help of his professional dancing partner Daniella Karagach, also Jewish, he became the show’s youngest male winner at 21, and its first amputee winner.",
+   "link": "https://www.jpost.com/diaspora/article-916156",
+   "published": "2026-11-25T22:17:49+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Likud attacks October 7 inquiry bill over proposed investigation of IDF conduct",
-   "summary": "The bill's sponsor, MK Orit Farkash-Hacohen, rejected Likud's characterization, saying the commission was not intended to investigate IDF soldiers.",
-   "link": "https://www.jpost.com/israel-news/article-916030",
-   "published": "2026-11-25T02:40:10+00:00"
+   "headline": "Satellite imagery reveals fast construction of new underground facility in Iran, purpose unclear",
+   "summary": "The purpose of the Behjatabad underground facility remains unclear, though researchers have not ruled out a possible connection to Iran’s nuclear program.",
+   "link": "https://www.jpost.com/middle-east/iran-news/article-916159",
+   "published": "2026-11-26T00:01:07+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Two documentaries critical of Israel win at 2026 International Emmys",
-   "summary": "Two documentaries critical of Israel, 'Louis Theroux: The Settlers' and 'Breaking Ranks,' won International Emmys as 'NAZA' qualified for the 2027 Oscars.",
-   "link": "https://www.jpost.com/israel-news/culture/article-916031",
-   "published": "2026-11-25T02:40:38+00:00"
+   "headline": "What are the criminal cases against Netanyahu now coming into question? - explainer",
+   "summary": "What are the allegations involved in the three criminal cases against Prime Minister Benjamin Netanyahu, and what have the judges recommended?",
+   "link": "https://www.jpost.com/israel-news/article-916160",
+   "published": "2026-11-26T00:28:50+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Thomas Markle charged in US on second count of possessing child sexual abuse material",
-   "summary": "Thomas Markle, father of Britain's Duchess of Sussex, Meghan Markle, has denied the allegations, calling them untrue and describing them as \"sick lies.\"",
-   "link": "https://www.jpost.com/international/article-916033",
-   "published": "2026-11-25T03:01:57+00:00"
+   "headline": "Woman discovers stolen necklace for sale online, police arrest seller, search home",
+   "summary": "The suspect was arrested after a woman discovered her stolen gold necklace listed for sale online, leading police to uncover additional items suspected of being stolen.",
+   "link": "https://www.jpost.com/israel-news/article-916161",
+   "published": "2026-11-26T00:42:29+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Israel Police ramps up enforcement against intersection blocking in Tel Aviv",
-   "summary": "Drivers identified by enforcement cameras automatically receive a NIS 500 fine, which is sent to the registered vehicle owner.",
-   "link": "https://www.jpost.com/israel-news/article-916034",
-   "published": "2026-11-25T03:17:35+00:00"
+   "headline": "Knesset advances repeal of Communications Minister Karhi's Broadcasting Law in 51-32 vote",
+   "summary": "The bill will return to a special Knesset committee for further deliberations, as Karhi criticized the expedited legislative process.",
+   "link": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-916162",
+   "published": "2026-11-26T01:04:23+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Trump says toppling Iran's regime is 'probably doable,' but not his war goal",
-   "summary": "In an Oval Office interview with the New York Post, Trump said the US war effort was funded until roughly the end of January and acknowledged that the new Congress could limit his ",
-   "link": "https://www.jpost.com/middle-east/iran-news/article-916036",
-   "published": "2026-11-25T04:05:13+00:00"
+   "headline": "North Korea's Kim calls for wider deployment of tactical nuclear weapons",
+   "summary": "Kim, who spoke during an inspection of nuclear material production and weapons research facilities, also said North Korea's status as a nuclear weapons state was \"absolutely inviol",
+   "link": "https://www.jpost.com/international/article-916163",
+   "published": "2026-11-26T01:17:09+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Nidal Hasan asks US judge for stay of execution for Fort Hood murders",
-   "summary": "US President Donald Trump approved n October the execution of former US Army major Nidal Hasan, who murdered 13 people in 2009 at a Fort Hood military base.",
-   "link": "https://www.jpost.com/international/article-916038",
-   "published": "2026-11-25T05:59:21+00:00"
+   "headline": "Syrian toddler travels to Israel for second life-saving procedure with Save a Child's Heart",
+   "summary": "Heba and her mother Carmela had to keep their destination secret, even from Heba's older siblings, as they and a relative from inside Syria traveled through several checkpoints.",
+   "link": "https://www.jpost.com/health-and-wellness/article-916165",
+   "published": "2026-11-26T02:26:39+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Israel cannot afford to waste the Trump presidency by stalling on Gaza - editorial",
-   "summary": "Kushner said he spent months urging Prime Minister Benjamin Netanyahu to let the plan proceed and blamed his resistance for the current standstill.",
-   "link": "https://www.jpost.com/opinion/article-915990",
-   "published": "2026-11-25T05:59:51+00:00"
+   "headline": "Israel officially recognizes victims of Buenos Aires bombings as victims of antisemitic terror",
+   "summary": "In Buenos Aires, leaders of the Jewish Agency and the World Zionist Organization presented certificates of recognition to the families of the victims.",
+   "link": "https://www.jpost.com/diaspora/antisemitism/article-916164",
+   "published": "2026-11-26T02:57:19+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Wave of critically ill Gaza children arrive in UK for NHS treatment",
-   "summary": "Health and Social Care Secretary Yvette Cooper said the children had \"endured unimaginable hardship\" and were in \"desperate need of medical treatment.\"",
-   "link": "https://www.jpost.com/israel-news/article-916039",
-   "published": "2026-11-25T06:30:15+00:00"
+   "headline": "Israel, Hungary strengthen water, energy cooperation at Budapest innovation forum",
+   "summary": "Led by KKL-JNF and the Israeli Embassy in Hungary, the two-day forum aimed to advance joint projects in water management, energy storage, and renewable energy.",
+   "link": "https://www.jpost.com/environment-and-climate-change/article-916166",
+   "published": "2026-11-26T04:20:39+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "US authors, artists launch PEN America offshoot that supports Israel boycotts",
-   "summary": "PEN America, a literary group also founded on principles of free expression and human rights, has faced criticism from activists who say the organization has not adequately condemn",
-   "link": "https://www.jpost.com/israel-news/article-916040",
-   "published": "2026-11-25T06:52:17+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
-   "headline": "Shin Bet accused of whitewashing alleged torture of Palestinians, watchdog defends oversight record",
-   "summary": "The Post has learned and can reveal exclusively for the first time that the MAVTAN has either demanded changes to Shin Bet procedures or reprimanded interrogators in dozens of case",
-   "link": "https://www.jpost.com/israel-news/article-916015",
-   "published": "2026-11-25T06:59:33+00:00"
-  },
-  {
-   "outlet": "The Moscow Times",
-   "headline": "Gas Explosion in Altai Region Kills At Least One",
-   "summary": "A gas explosion ripped through an apartment building in the Siberian region, killing one and injuring more than a dozen others.",
-   "link": "https://www.themoscowtimes.com/2026/11/24/gas-explosion-in-altai-region-kills-at-least-one-a94357",
-   "published": "2026-11-24T09:50:07+00:00"
-  },
-  {
-   "outlet": "The Moscow Times",
-   "headline": "South Korea Says Russian Military Planes Entered Its Air Defense Zone",
-   "summary": "The Russian aircraft left the defense zone after South Korean forces took \"military measures,\" including deploying fighter jets, according to South Korea's ministry of national def",
-   "link": "https://www.themoscowtimes.com/2026/11/24/south-korea-says-russian-military-planes-entered-its-air-defense-zone-a94358",
-   "published": "2026-11-24T10:44:41+00:00"
-  },
-  {
-   "outlet": "The Moscow Times",
-   "headline": "Latvia Mulls Possible Border Closure With Russia",
-   "summary": "The government discussions come as neighboring Estonia prepares to shutter its checkpoints along the Russian border in response to an alleged Russian sabotage plot against a local ",
-   "link": "https://www.themoscowtimes.com/2026/11/24/latvia-mulls-possible-border-closure-with-russia-a94359",
-   "published": "2026-11-24T11:35:24+00:00"
-  },
-  {
-   "outlet": "The Moscow Times",
-   "headline": "State Duma Approves 2027-29 Budget With Record Military Spending",
-   "summary": "Russia plans to raise defense spending to a post-Soviet high next year while cutting civilian programs and increasing taxes.",
-   "link": "https://www.themoscowtimes.com/2026/11/24/state-duma-approves-2027-29-budget-with-record-military-spending-a94361",
-   "published": "2026-11-24T13:42:25+00:00"
-  },
-  {
-   "outlet": "The Moscow Times",
-   "headline": "St. Petersburg Offers to Help Build Hanoi Metro as Projects at Home Lag",
-   "summary": "Hanoi opened 20 stations from 2021 to 2025, compared with three in St. Petersburg.",
-   "link": "https://www.themoscowtimes.com/2026/11/24/st-petersburg-offers-to-help-build-hanoi-metro-as-projects-at-home-lag-a94365",
-   "published": "2026-11-24T14:42:09+00:00"
-  },
-  {
-   "outlet": "The Moscow Times",
-   "headline": "Zelensky Confirms Ukraine Was Behind Drone Attack on Russian Cargo Ship in Gulf of Finland",
-   "summary": "Volodymyr Zelensky said the cargo ship Sparta II and \"every vessel with a Russian flag\" are legitimate targets for Ukrainian strikes.",
-   "link": "https://www.themoscowtimes.com/2026/11/24/zelensky-confirms-ukraine-was-behind-drone-attack-on-russian-cargo-ship-in-gulf-of-finland-a94364",
-   "published": "2026-11-24T14:47:26+00:00"
-  },
-  {
-   "outlet": "The Moscow Times",
-   "headline": "Kadyrov’s Son Granted Serbian Citizenship Under an Alias – FBK",
-   "summary": "Ali Kadyrov, using the alias Ali Ramzanovich Musayev, was naturalized per a decree signed by Serbia’s prime minister and published on July 10, 2025, in the country’s official gazet",
-   "link": "https://www.themoscowtimes.com/2026/11/24/kadyrovs-son-granted-serbian-citizenship-under-an-alias-fbk-a94363",
-   "published": "2026-11-24T16:07:12+00:00"
-  },
-  {
-   "outlet": "The Moscow Times",
-   "headline": "Putin Removes Filmmaker Alexander Sokurov From Presidential Human Rights Council",
-   "summary": "The acclaimed director had been among the few remaining members of the Kremlin’s Council for Civil Society and Human Rights to openly challenge government policy during the ongoing",
-   "link": "https://www.themoscowtimes.com/2026/11/24/putin-removes-filmmaker-alexander-sokurov-from-presidential-human-rights-council-a94366",
-   "published": "2026-11-24T17:57:48+00:00"
-  },
-  {
-   "outlet": "The Moscow Times",
-   "headline": "Putin Says Ukraine Hits Russian Oil Plants Despite Trump's Requests, Promises Retaliation",
-   "summary": "Several Russian regions have introduced restrictions on retail sales of gasoline and diesel following a renewed spate of Ukrainian attacks on oil refineries.",
-   "link": "https://www.themoscowtimes.com/2026/11/24/putin-says-ukraine-hits-russian-oil-plants-despite-trumps-requests-promises-retaliation-a94367",
-   "published": "2026-11-24T18:13:16+00:00"
+   "headline": "Hegseth, defense officials weighed using emergency law to reinstate Nvidia's Huang - report",
+   "summary": "The law does not allow the president to make personnel changes at a private company, but a Trump administration official told the Washington Post it could be used to force Nvidia t",
+   "link": "https://www.jpost.com/international/article-916168",
+   "published": "2026-11-26T04:59:55+00:00"
   }
  ]
 }
