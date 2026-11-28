@@ -1,5 +1,5 @@
 {
- "built": "2026-11-28T03:17:24.513959+00:00",
+ "built": "2026-11-28T04:43:45.828514+00:00",
  "window_hours": 24,
  "part": "briefing-input-2.json",
  "all_parts": [
@@ -7,7 +7,6 @@
   "briefing-input-2.json"
  ],
  "outlets_here": [
-  "National Review",
   "NPR",
   "PBS NewsHour",
   "Politico",
@@ -22,7 +21,7 @@
   "The Jerusalem Post",
   "The Moscow Times"
  ],
- "story_count": 134,
+ "story_count": 130,
  "feeds_with_problems": [
   "https://san.com/feed/: no items (page began: <!doctype html> <html lang=\"en\"> <head> \t<meta charset=\"utf-8\"> \t<meta name=\"vie)",
   "https://www.positive.news/feed/: HTTP 403",
@@ -32,34 +31,6 @@
   "https://www.haaretz.com/cmlink/1.4605090: HTTP 403"
  ],
  "stories": [
-  {
-   "outlet": "National Review",
-   "headline": "Iran’s Overland Scramble Is a Turning Point",
-   "summary": "A new U.S. strategic focus could mark the end of Tehran’s evasion architecture.",
-   "link": "https://www.nationalreview.com/article/iran-overland-scramble-is-a-turning-point",
-   "published": "2026-11-27T11:00:00+00:00"
-  },
-  {
-   "outlet": "National Review",
-   "headline": "An Anticommunist’s Long Road to U.S. Citizenship",
-   "summary": "It’s unlikely that a former Soviet spy sitting atop a powerful immigration committee helped Freda Utley’s case.",
-   "link": "https://www.nationalreview.com/article/an-anticommunist-s-long-road-to-u-s-citizenship",
-   "published": "2026-11-27T11:00:00+00:00"
-  },
-  {
-   "outlet": "National Review",
-   "headline": "What Elizabeth Holmes Got Right",
-   "summary": "At the same time as the investigation, trial, and conviction of one rogue revolutionary, a genuine revolution, in diabetes management, was taking place.",
-   "link": "https://www.nationalreview.com/article/what-elizabeth-holmes-got-right",
-   "published": "2026-11-27T15:33:51+00:00"
-  },
-  {
-   "outlet": "National Review",
-   "headline": "PETA’s Ridiculous Protest During the Rockettes’ Christmas Spectacular",
-   "summary": "The animals in the production aren’t exploited. I know because I was a cast member.",
-   "link": "https://www.nationalreview.com/article/peta-s-ridiculous-protest-during-the-rockettes-christmas-spectacular",
-   "published": "2026-11-27T19:23:46+00:00"
-  },
   {
    "outlet": "NPR",
    "headline": "Strobe Talbott, former Time magazine reporter and deputy secretary of state, has died",
@@ -251,20 +222,6 @@
   },
   {
    "outlet": "Politico Europe",
-   "headline": "How Costa’s budget talks sparked a new crisis",
-   "summary": "Presented by Fusion for Energy.",
-   "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/how-costas-budget-talks-sparked-a-new-crisis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "published": "2026-11-27T03:45:00+00:00"
-  },
-  {
-   "outlet": "Politico Europe",
-   "headline": "Wie der Rentenstreit die Koalition spaltet",
-   "summary": "Präsentiert von YouTube.",
-   "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/wie-der-rentenstreit-die-koalition-spaltet/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "published": "2026-11-27T04:30:00+00:00"
-  },
-  {
-   "outlet": "Politico Europe",
    "headline": "‘Islam is Sharia’: Germany’s far-right leader attacks Le Pen on Muslims and Europe",
    "summary": "AfD’s Alice Weidel talks mass deportations, the right to Israel’s existence and peace with Russia.",
    "link": "https://www.politico.eu/article/islam-sharia-germany-far-right-leader-alice-weidel-attacks-marine-le-pen-muslims-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -318,6 +275,13 @@
    "summary": "From understanding the key players to watching Sunday’s results like a pro, here’s everything you need to know.",
    "link": "https://www.politico.eu/article/nine-things-you-need-to-read-spanish-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
    "published": "2026-11-28T03:00:00+00:00"
+  },
+  {
+   "outlet": "Politico Europe",
+   "headline": "Ein Spaziergang mit Markus Frohnmaier",
+   "summary": "Präsentiert von YouTube.",
+   "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/ein-spaziergang-mit-markus-frohnmaier/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "published": "2026-11-28T04:00:00+00:00"
   },
   {
    "outlet": "Reason",
@@ -758,7 +722,7 @@
    "headline": "Victorian election 2026 live: voters head to the polls as Coalition seeks to topple Labor – latest news",
    "summary": "Follow live updates today and results tonight as Labor’s Ben Carroll and Liberal leader Jess Wilson seek victory in Victoria’s state election Victorian election 2026 guide: what yo",
    "link": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
-   "published": "2026-11-28T03:04:08+00:00"
+   "published": "2026-11-28T04:31:18+00:00"
   },
   {
    "outlet": "The Intercept",
@@ -790,13 +754,6 @@
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Netanyahu feels vindicated by trial fallout - but could it derail Eisenkot's bid to lead Israel?",
-   "summary": "POLITICAL AFFAIRS: Netanyahu’s legal reprieve has strengthened his political position, making a unity government easier to justify - but harder to negotiate.",
-   "link": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-916257",
-   "published": "2026-11-27T12:10:22+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
    "headline": "Netanyahu considers being second in rotation with Eisenkot to form unity gov't, sources tell 'Post'",
    "summary": "Netanyahu has been pushing to form a unity government with Yashar's chairman, Gadi Eisenkot, and both parties are negotiating over how it would be formed.",
    "link": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-916326",
@@ -818,27 +775,6 @@
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Over 200 US lawmakers to back sanctions bill over West Bank settler violence, sources say",
-   "summary": "Over 200 US lawmakers reportedly support legislation that could impose personal sanctions on Israeli ministers and officials over West Bank settler violence.",
-   "link": "https://www.jpost.com/american-politics/article-916343",
-   "published": "2026-11-27T22:08:14+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
-   "headline": "IDF kills 10 Hamas, PIJ terrorists in Gaza, including four who participated in October 7 massacre",
-   "summary": "The IDF and Shin Bet struck and dismantled four Hamas weapons storage facilities in the Gaza Strip on Thursday, according to a Friday statement from the IDF spokesperson.",
-   "link": "https://www.jpost.com/israel-news/defense-news/article-916345",
-   "published": "2026-11-27T22:10:56+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
-   "headline": "Yarden Bibas urges Nir Oz to preserve family home as testament to October 7 massacre",
-   "summary": "Yarden Bibas urged Kibbutz Nir Oz to reconsider demolishing his family home, describing it as the last physical testament to the life he once shared.",
-   "link": "https://www.jpost.com/israel-news/article-916346",
-   "published": "2026-11-27T22:34:22+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
    "headline": "Punk rock rebel Henry Rollins takes aim at BDS - and challenges artists weighing in on Israel",
    "summary": "The hardcore rocker, author, and so much more opens up about his exceptional life, fierce beliefs, and visits to Israel.",
    "link": "https://www.jpost.com/israel-news/culture/article-916235",
@@ -850,13 +786,6 @@
    "summary": "The officers were further warned to refrain from dressing immodestly when performing their duties amongst Muslims, as well as to consider having a male officer speak to Muslim men ",
    "link": "https://www.jpost.com/international/article-916348",
    "published": "2026-11-28T00:49:43+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
-   "headline": "IDF interrogations reveal Hezbollah terrorists using civilian fishing boats to spy on naval forces",
-   "summary": "IDF interrogations revealed that Hezbollah terrorists use civilian fishing boats to approach Israeli naval forces off southern Lebanon, photographing troops and monitoring military",
-   "link": "https://www.jpost.com/israel-news/defense-news/article-916349",
-   "published": "2026-11-28T00:54:23+00:00"
   },
   {
    "outlet": "The Jerusalem Post",
@@ -874,13 +803,6 @@
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "Trump admin. officials move into military housing amid Iranian threats to their lives - report",
-   "summary": "Democratic lawmakers have scrutinized the move, declaring that the the Pentagon must justify the new living arrangements by Spring 2027.",
-   "link": "https://www.jpost.com/international/article-916351",
-   "published": "2026-11-28T02:04:35+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
    "headline": "Mark Ruffalo clipped Chuck Schumer's quote, and kept the old antisemitic trope - opinion",
    "summary": "Either Ruffalo never read past the sentence he posted, or he read the whole thing and kept only the line he could pass off as theocracy.",
    "link": "https://www.jpost.com/opinion/article-916184",
@@ -895,17 +817,66 @@
   },
   {
    "outlet": "The Jerusalem Post",
-   "headline": "US base in Bahrain remains low-staffed months after Iranian drone, missile strikes - report",
-   "summary": "Despite negotiations between Washington and Tehran, Iranian attacks on Bahrain have not stopped, with the most recent attack targeting an undisclosed US military base in the countr",
-   "link": "https://www.jpost.com/middle-east/article-916352",
-   "published": "2026-11-28T03:30:51+00:00"
-  },
-  {
-   "outlet": "The Jerusalem Post",
    "headline": "IDF thwarts weapons smuggling attempt along eastern border, seizes six pistols",
    "summary": "The incident follows separate police investigations earlier this month into illegal weapons possession in the West Bank, including an operation in which four protected gazelles wer",
    "link": "https://www.jpost.com/israel-news/crime-in-israel/article-916353",
    "published": "2026-11-28T03:52:47+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "International music executives increasingly shun Israel’s talent showcase at Jaffa Port festival",
+   "summary": "“We’re here to make art, and art has a role that isn’t political,” the festival’s artistic director, Hadas Vanunu, said.",
+   "link": "https://www.jpost.com/israel-news/culture/article-916354",
+   "published": "2026-11-28T04:44:58+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Netanyahu's coalition trap, Eisenkot's resolve, and the future of Israel’s rule of law - opinion",
+   "summary": "Developments in Netanyahu's corruption trial could complicate Eisenkot's coalition negotiations, while raising broader questions about the future of Israel's judiciary and the rule",
+   "link": "https://www.jpost.com/opinion/article-916356",
+   "published": "2026-11-28T04:57:08+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Tel Aviv man indicted for blackmailing women with AI-generated sexual images",
+   "summary": "The State Attorney's Office has requested that 44-year-old Liran Tadmor remain in custody until the conclusion of the criminal proceedings against him.",
+   "link": "https://www.jpost.com/israel-news/crime-in-israel/article-916357",
+   "published": "2026-11-28T05:11:50+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "US pushed Venezuela, Iraq to consider leaving OPEC, sources say",
+   "summary": "The US controls Venezuela's access to state funds following the January ouster of Nicolas Maduro, while Iraq's oil revenues continue to pass through an account at the New York Fede",
+   "link": "https://www.jpost.com/international/article-916358",
+   "published": "2026-11-28T05:27:10+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Nesher mayor calls for Haifa Bay metro, questions Nvidia campus infrastructure",
+   "summary": "Nesher Mayor Roy Levi linked what he described as a lack of parliamentary representation to difficulties advancing Haifa Bay's interests within government ministries and through le",
+   "link": "https://www.jpost.com/israel-news/article-916359",
+   "published": "2026-11-28T05:41:09+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Israel Fire and Rescue Authority seeks ban on electric scooters on trains amid saftey concerns",
+   "summary": "The proposed restrictions reflect a growing international trend toward limiting the use of electric scooters on public transit due to public safety concerns about lithium-ion batte",
+   "link": "https://www.jpost.com/israel-news/article-916360",
+   "published": "2026-11-28T05:43:27+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Rabid dog found in Modi'in, days after Israeli woman dies of rabies",
+   "summary": "Modi'in authorities also prepared to launch an overnight operation between Wednesday and Thursday to capture a hyena roaming through residential neighborhoods after it killed a dog",
+   "link": "https://www.jpost.com/israel-news/article-916361",
+   "published": "2026-11-28T05:54:29+00:00"
+  },
+  {
+   "outlet": "The Jerusalem Post",
+   "headline": "Herzliya student suspended after allegedly placing dead cat in school soap dispenser",
+   "summary": "The school has implemented additional educational measures following the incident, with lessons focusing on animal welfare, empathy, and personal responsibility expected in the com",
+   "link": "https://www.jpost.com/israel-news/article-916362",
+   "published": "2026-11-28T06:04:21+00:00"
   },
   {
    "outlet": "The Moscow Times",

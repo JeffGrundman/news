@@ -1,5 +1,5 @@
 {
- "built": "2026-11-28T03:17:24.513959+00:00",
+ "built": "2026-11-28T04:43:45.828514+00:00",
  "window_hours": 24,
  "part": "briefing-input.json",
  "all_parts": [
@@ -19,9 +19,10 @@
   "DW News",
   "Foreign Policy",
   "Fortune",
-  "Inside Climate News"
+  "Inside Climate News",
+  "National Review"
  ],
- "story_count": 133,
+ "story_count": 134,
  "feeds_with_problems": [
   "https://san.com/feed/: no items (page began: <!doctype html> <html lang=\"en\"> <head> \t<meta charset=\"utf-8\"> \t<meta name=\"vie)",
   "https://www.positive.news/feed/: HTTP 403",
@@ -61,24 +62,10 @@
   },
   {
    "outlet": "Associated Press, via ABC News",
-   "headline": "Meet the rising mayoral candidate in Taiwan who's also sanctioned by China",
-   "summary": "Puma Shen is gaining unexpected popularity as an opposition candidate in Taiwan's capital",
-   "link": "https://abcnews.com/International/wireStory/meet-rising-mayoral-candidate-taiwan-sanctioned-china-138473812",
-   "published": "2026-11-27T04:07:06+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
    "headline": "As Google threatens to cut schools' search access, Los Angeles blocks AI features",
    "summary": "Los Angeles school officials have disabled AI-generated summaries in Google searches on school-issued devices",
    "link": "https://abcnews.com/Business/wireStory/google-threatens-cut-schools-search-access-los-angeles-138476434",
    "published": "2026-11-27T05:10:25+00:00"
-  },
-  {
-   "outlet": "Associated Press, via ABC News",
-   "headline": "Here are the main issues driving Spain's national election and why they matter for Europe",
-   "summary": "Spain is to elect a new government on Sunday in a snap election that could unseat Prime Minister Pedro Sánchez",
-   "link": "https://abcnews.com/International/wireStory/main-issues-driving-spains-national-election-matter-europe-138476510",
-   "published": "2026-11-27T05:10:38+00:00"
   },
   {
    "outlet": "Associated Press, via ABC News",
@@ -243,13 +230,6 @@
   },
   {
    "outlet": "BBC News",
-   "headline": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
-   "summary": "Despite the strikes, markets and restaurants in Riyadh remain busy as residents express trust in the government to protect them.",
-   "link": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-27T06:04:51+00:00"
-  },
-  {
-   "outlet": "BBC News",
    "headline": "'It's impossible': Spain's young people on housing ahead of Sunday's election",
    "summary": "Europe correspondent Nick Beake speaks to one couple kept apart by high rents in Valencia.",
    "link": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
@@ -296,13 +276,6 @@
    "summary": "Macy's postpones its 100th annual Thanksgiving Day Parade in New York because of severe weather.",
    "link": "https://www.bbc.co.uk/news/videos/cmx29qd8ew4xo?at_medium=RSS&at_campaign=rss",
    "published": "2026-11-27T15:27:00+00:00"
-  },
-  {
-   "outlet": "BBC News",
-   "headline": "Brazil pushes back on Macron calling its meat 'doped'",
-   "summary": "France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and poultry products.",
-   "link": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-27T15:54:15+00:00"
   },
   {
    "outlet": "BBC News",
@@ -410,6 +383,20 @@
    "published": "2026-11-28T01:55:33+00:00"
   },
   {
+   "outlet": "BBC News",
+   "headline": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+   "summary": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
+   "link": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-28T04:13:45+00:00"
+  },
+  {
+   "outlet": "BBC News",
+   "headline": "Eight killed in Peruvian military helicopter crash",
+   "summary": "The pilot was the sole survivor of the crash during a rescue mission in a remote area known for drug trafficking.",
+   "link": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-28T04:19:16+00:00"
+  },
+  {
    "outlet": "BNO News",
    "headline": "How to Prepare for Sudden Weather Changes on a Winter Hiking Trail",
    "summary": "Four hours. That’s about how often a winter forecast flips on you in the mountains, and I’ve been on the wrong side of that flip more than once. A bluebird morning turns into sidew",
@@ -512,13 +499,6 @@
    "headline": "TONGUE-LASHINGS: Kunene vs Malema: ‘Mazzotti’ and ‘cocaine’ defamation claims go to trial",
    "summary": "While Julius Malema waits until 15 March 2027 to learn whether the appeal against his five-year prison sentence for discharging a firearm in public will succeed, the Economic Freed",
    "link": "https://www.dailymaverick.co.za/article/2026-11-27-kunene-vs-malema-mazzotti-and-cocaine-defamation-claims-go-to-trial/",
-   "published": "2026-11-27T05:30:00+00:00"
-  },
-  {
-   "outlet": "Daily Maverick",
-   "headline": "MATTERS OF THE ART: Holywild — an exhibition where Joburg blooms between beauty and broken edges",
-   "summary": "Melissa Haiden’s first solo exhibition, Holywild, finds beauty, memory and freedom blooming through Johannesburg’s steel, cracks and neglected edges.",
-   "link": "https://www.dailymaverick.co.za/article/2026-11-27-holywild-an-exhibition-where-joburg-blooms-between-beauty-and-broken-edges/",
    "published": "2026-11-27T05:30:00+00:00"
   },
   {
@@ -674,6 +654,13 @@
    "summary": "ActionSA leader Herman Mashaba has emerged as a central figure in the coalition negotiations that have placed the ANC and ActionSA in control of Johannesburg, Ekurhuleni and Tshwan",
    "link": "https://www.dailymaverick.co.za/article/2026-11-27-mashabas-manoeuvres-win-the-day-as-anc-actionsa-claim-gauteng-leaving-da-in-the-cold/",
    "published": "2026-11-27T23:07:11+00:00"
+  },
+  {
+   "outlet": "Daily Maverick",
+   "headline": "PUBLIC ACCOUNTABILITY OP-ED: Cape Town’s baboons — the rising cost of deciding without independent ethical review",
+   "summary": "Two weeks after the capture of the Waterfall troop, the authorities face a legal notice, two resignations from their own advisory group, and a public dispute that no further scient",
+   "link": "https://www.dailymaverick.co.za/article/2026-11-28-cape-towns-baboons-the-rising-cost-of-deciding-without-independent-ethical-review/",
+   "published": "2026-11-28T05:30:00+00:00"
   },
   {
    "outlet": "DW News",
@@ -943,13 +930,6 @@
   },
   {
    "outlet": "Inside Climate News",
-   "headline": "Southern California Endures Historic Coastal Flooding and Devastating Waves Over Thanksgiving",
-   "summary": "SUNSET BEACH, Calif.—Lara Mitry was prepared to host her first Thanksgiving in the beachside home she recently purchased. Then the combo of historically-high king tides, and a surg",
-   "link": "https://insideclimatenews.org/news/26112026/california-endures-historic-coastal-flooding-waves-thanksgiving/",
-   "published": "2026-11-27T03:25:43+00:00"
-  },
-  {
-   "outlet": "Inside Climate News",
    "headline": "How the EPA Let a Key Chemical-Detection Program Unravel",
    "summary": "This story is from Floodlight, a nonprofit newsroom that investigates the powers stalling climate action. Sign up for Floodlight’s newsletter here. When an ammonia leak outside a h",
    "link": "https://insideclimatenews.org/news/27112026/how-the-epa-let-a-key-chemical-detection-program-unravel/",
@@ -961,6 +941,34 @@
    "summary": "Almost 20 years ago, a Penn State University geoscientist named Terry Engelder published an eye-popping estimate of the volume of gas sitting beneath Pennsylvania. That calculation",
    "link": "https://insideclimatenews.org/news/27112026/marcellus-shale-geoscientist-pennsylvania-fracking-boom/",
    "published": "2026-11-27T10:00:00+00:00"
+  },
+  {
+   "outlet": "National Review",
+   "headline": "Iran’s Overland Scramble Is a Turning Point",
+   "summary": "A new U.S. strategic focus could mark the end of Tehran’s evasion architecture.",
+   "link": "https://www.nationalreview.com/article/iran-overland-scramble-is-a-turning-point",
+   "published": "2026-11-27T11:00:00+00:00"
+  },
+  {
+   "outlet": "National Review",
+   "headline": "An Anticommunist’s Long Road to U.S. Citizenship",
+   "summary": "It’s unlikely that a former Soviet spy sitting atop a powerful immigration committee helped Freda Utley’s case.",
+   "link": "https://www.nationalreview.com/article/an-anticommunist-s-long-road-to-u-s-citizenship",
+   "published": "2026-11-27T11:00:00+00:00"
+  },
+  {
+   "outlet": "National Review",
+   "headline": "What Elizabeth Holmes Got Right",
+   "summary": "At the same time as the investigation, trial, and conviction of one rogue revolutionary, a genuine revolution, in diabetes management, was taking place.",
+   "link": "https://www.nationalreview.com/article/what-elizabeth-holmes-got-right",
+   "published": "2026-11-27T15:33:51+00:00"
+  },
+  {
+   "outlet": "National Review",
+   "headline": "PETA’s Ridiculous Protest During the Rockettes’ Christmas Spectacular",
+   "summary": "The animals in the production aren’t exploited. I know because I was a cast member.",
+   "link": "https://www.nationalreview.com/article/peta-s-ridiculous-protest-during-the-rockettes-christmas-spectacular",
+   "published": "2026-11-27T19:23:46+00:00"
   }
  ]
 }
